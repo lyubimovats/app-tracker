@@ -1,0 +1,23 @@
+name: Daily App Tracker
+
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Run parser
+        run: python3 step1_apple_rss.py
+
+      - name: Save snapshot
+        run: |
+          git config user.email "bot@app-tracker.com"
+          git config user.name "App Tracker Bot"
+          git add data/
+          git diff --staged --quiet || git commit -m "snapshot $(date +%Y-%m-%d)"
+          git push
