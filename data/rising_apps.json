@@ -1,0 +1,44 @@
+{
+  "rising": [
+    {
+      "country": "US",
+      "name": "Ageroom - AI Photo Generator",
+      "developer": "Ageroom Inc",
+      "prev_rank": 45,
+      "curr_rank": 12,
+      "delta": 33
+    },
+    {
+      "country": "GB",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons",
+      "prev_rank": 87,
+      "curr_rank": 63,
+      "delta": 24
+    },
+    {
+      "country": "DE",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs",
+      "prev_rank": 62,
+      "curr_rank": 42,
+      "delta": 20
+    },
+    {
+      "country": "BR",
+      "name": "MePic - Editor de Foto",
+      "developer": "MePic Studio",
+      "prev_rank": 71,
+      "curr_rank": 49,
+      "delta": 22
+    },
+    {
+      "country": "JP",
+      "name": "BeautyPlus - AI Photo Editor",
+      "developer": "Meitu",
+      "prev_rank": 31,
+      "curr_rank": 7,
+      "delta": 24
+    }
+  ]
+}
