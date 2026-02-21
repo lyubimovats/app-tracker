@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>App Tracker — Rising Apps</title>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --surface: #13131a;
+    --border: #1e1e2e;
+    --accent: #7c6aff;
+    --accent2: #ff6a9b;
+    --green: #3dffa0;
+    --text: #e8e8f0;
+    --muted: #5a5a7a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Syne', sans-serif;
+    min-height: 100vh;
+  }
+
+  /* Background grid */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image:
+      linear-gradient(var(--border) 1px, transparent 1px),
+      linear-gradient(90deg, var(--border) 1px, transparent 1px);
+    background-size: 40px 40px;
+    opacity: 0.4;
+    pointer-events: none;
+  }
+
+  header {
+    padding: 2rem 3rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+  }
+
+  .logo {
+    font-size: 1.1rem;
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+  }
+
+  .logo span { color: var(--accent); }
+
+  .updated {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--muted);
+  }
+
+  .dot {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background: var(--green);
+    border-radius: 50%;
+    margin-right: 6px;
+    animation: pulse 2s infinite;
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.5; transform: scale(0.8); }
+  }
+
+  main { padding: 3rem; max-width: 1400px; margin: 0 auto; }
+
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin-bottom: 3rem;
+  }
+
+  .stat {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 1.5rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .stat::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--accent), var(--accent2));
+  }
+
+  .stat-value {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: var(--accent);
+    line-height: 1;
+    margin-bottom: 0.5rem;
+  }
+
+  .stat-label {
+    font-size: 0.75rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  h2 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--muted);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .apps-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .app-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    overflow: hidden;
+    transition: border-color 0.2s, transform 0.2s;
+    animation: fadeIn 0.4s ease both;
+  }
+
+  .app-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .app-header {
+    padding: 1.25rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+
+  .app-name {
+    font-size: 0.95rem;
+    font-weight: 700;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .app-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .badge {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.7rem;
+    padding: 0.2rem 0.5rem;
+    border: 1px solid;
+  }
+
+  .badge-country {
+    color: var(--muted);
+    border-color: var(--border);
+  }
+
+  .badge-delta {
+    color: var(--green);
+    border-color: var(--green);
+  }
+
+  .rank-info {
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    gap: 1.5rem;
+    border-bottom: 1px solid var(--border);
+    background: rgba(124, 106, 255, 0.05);
+  }
+
+  .rank-item {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.72rem;
+    color: var(--muted);
+  }
+
+  .rank-item strong { color: var(--text); }
+
+  .ads-section { padding: 1rem 1.5rem; }
+
+  .ads-title {
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--muted);
+    margin-bottom: 0.75rem;
+  }
+
+  .ad-item {
+    border-left: 2px solid var(--accent);
+    padding: 0.6rem 0.75rem;
+    margin-bottom: 0.5rem;
+    background: rgba(124, 106, 255, 0.05);
+  }
+
+  .ad-text {
+    font-size: 0.8rem;
+    line-height: 1.5;
+    color: #c0c0d8;
+    font-family: 'DM Mono', monospace;
+  }
+
+  .ad-date {
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 0.3rem;
+  }
+
+  .ad-link {
+    font-size: 0.65rem;
+    color: var(--accent);
+    text-decoration: none;
+    margin-top: 0.2rem;
+    display: inline-block;
+  }
+
+  .ad-link:hover { text-decoration: underline; }
+
+  .no-ads {
+    font-size: 0.8rem;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    padding: 0.5rem 0;
+  }
+
+  .fb-link {
+    display: block;
+    padding: 0.75rem 1.5rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.72rem;
+    color: var(--accent);
+    text-decoration: none;
+    font-family: 'DM Mono', monospace;
+    transition: background 0.2s;
+  }
+
+  .fb-link:hover { background: rgba(124, 106, 255, 0.1); }
+
+  .empty {
+    text-align: center;
+    padding: 4rem;
+    color: var(--muted);
+  }
+
+  .empty h3 { font-size: 1.2rem; margin-bottom: 0.5rem; }
+  .empty p { font-size: 0.85rem; font-family: 'DM Mono', monospace; }
+
+  #loading {
+    text-align: center;
+    padding: 4rem;
+    color: var(--muted);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.85rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">App<span>Tracker</span></div>
+  <div class="updated"><span class="dot"></span><span id="updated-at">Loading...</span></div>
+</header>
+
+<main>
+  <div class="stats-row" id="stats"></div>
+  <h2>Rising Apps — Photo & Video</h2>
+  <div id="loading">Loading data...</div>
+  <div class="apps-grid" id="apps-grid"></div>
+</main>
+
+<script>
+async function loadData() {
+  try {
+    const [risingRes, adsRes] = await Promise.all([
+      fetch('data/rising_apps.json'),
+      fetch('data/fb_ads.json').catch(() => ({ ok: false }))
+    ]);
+
+    const rising = await risingRes.json();
+    const ads = adsRes.ok ? await adsRes.json() : {};
+
+    return { rising: rising.rising || [], ads };
+  } catch (e) {
+    return { rising: [], ads: {} };
+  }
+}
+
+function formatDate(str) {
+  if (!str) return '';
+  return str.split('T')[0];
+}
+
+function buildFbUrl(name) {
+  const q = encodeURIComponent(name);
+  return `https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=${q}&search_type=keyword_unordered`;
+}
+
+function renderStats(rising, ads) {
+  const countries = [...new Set(rising.map(a => a.country))];
+  const totalAds = Object.values(ads).reduce((s, a) => s + (a.ads?.length || 0), 0);
+  const maxDelta = rising.length ? Math.max(...rising.map(a => a.delta)) : 0;
+
+  document.getElementById('stats').innerHTML = `
+    <div class="stat"><div class="stat-value">${rising.length}</div><div class="stat-label">Rising Apps</div></div>
+    <div class="stat"><div class="stat-value">${countries.length}</div><div class="stat-label">Markets</div></div>
+    <div class="stat"><div class="stat-value">${totalAds}</div><div class="stat-label">FB Ads Found</div></div>
+    <div class="stat"><div class="stat-value">+${maxDelta}</div><div class="stat-label">Max Position Jump</div></div>
+  `;
+}
+
+function renderApps(rising, ads) {
+  const grid = document.getElementById('apps-grid');
+  document.getElementById('loading').remove();
+
+  if (!rising.length) {
+    grid.innerHTML = `<div class="empty"><h3>No rising apps yet</h3><p>Come back tomorrow when more snapshots are collected</p></div>`;
+    return;
+  }
+
+  // Убираем дубликаты по имени
+  const seen = new Set();
+  const unique = rising.filter(a => {
+    if (seen.has(a.name)) return false;
+    seen.add(a.name);
+    return true;
+  });
+
+  grid.innerHTML = unique.map((app, i) => {
+    const appAds = ads[app.name]?.ads || [];
+    const adsHtml = appAds.length
+      ? appAds.slice(0, 3).map(ad => `
+          <div class="ad-item">
+            <div class="ad-text">${ad.body || '—'}</div>
+            <div class="ad-date">Started: ${formatDate(ad.started)}</div>
+            ${ad.url ? `<a class="ad-link" href="${ad.url}" target="_blank">↗ Landing page</a>` : ''}
+          </div>
+        `).join('')
+      : '<div class="no-ads">No ads data — check FB Ad Library →</div>';
+
+    return `
+      <div class="app-card" style="animation-delay: ${i * 0.05}s">
+        <div class="app-header">
+          <div class="app-name">${app.name}</div>
+          <div class="app-meta">
+            <span class="badge badge-country">${app.country}</span>
+            <span class="badge badge-delta">+${app.delta}</span>
+          </div>
+        </div>
+        <div class="rank-info">
+          <div class="rank-item">Was <strong>#${app.prev_rank}</strong></div>
+          <div class="rank-item">Now <strong>#${app.curr_rank}</strong></div>
+          <div class="rank-item">Developer <strong>${app.developer || '—'}</strong></div>
+        </div>
+        <div class="ads-section">
+          <div class="ads-title">FB Ads (last 30 days)</div>
+          ${adsHtml}
+        </div>
+        <a class="fb-link" href="${buildFbUrl(app.name)}" target="_blank">
+          → View all ads in Facebook Ad Library
+        </a>
+      </div>
+    `;
+  }).join('');
+}
+
+async function init() {
+  const { rising, ads } = await loadData();
+  document.getElementById('updated-at').textContent = `Updated ${new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}`;
+  renderStats(rising, ads);
+  renderApps(rising, ads);
+}
+
+init();
+</script>
+</body>
+</html>
