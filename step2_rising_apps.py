@@ -100,7 +100,14 @@ def main():
         print()
 
     Path("data/rising_apps.json").write_text(
-        json.dumps({"rising": rising, "by_country": by_country}, ensure_ascii=False, indent=2)
+        json.dumps({
+            "rising": rising,
+            "by_country": by_country,
+            "meta": {
+                "prev_date": files[-2].stem,
+                "curr_date": files[-1].stem
+            }
+        }, ensure_ascii=False, indent=2)
     )
     print("💾 Сохранено: data/rising_apps.json")
 
