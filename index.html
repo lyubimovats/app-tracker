@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AppTracker — Rising AI Apps</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Bebas+Neue&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0c0c0c;
+  --surface: #141414;
+  --border: #1e1e1e;
+  --accent: #e8ff4a;
+  --text: #f0f0f0;
+  --muted: #555;
+  --green: #4affa0;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: var(--bg); color: var(--text); font-family: 'DM Sans', sans-serif; min-height: 100vh; }
+
+header {
+  padding: 1.5rem 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--border);
+}
+.logo { font-family: 'Bebas Neue', sans-serif; font-size: 2rem; letter-spacing: 0.05em; color: var(--accent); }
+.logo span { color: var(--text); }
+.status { font-family: 'Space Mono', monospace; font-size: 0.7rem; color: var(--muted); display: flex; align-items: center; gap: 0.5rem; }
+.pulse { width: 6px; height: 6px; background: var(--green); border-radius: 50%; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+.stats-bar { display: flex; border-bottom: 1px solid var(--border); }
+.stat-item { padding: 1rem 2rem; border-right: 1px solid var(--border); }
+.stat-num { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; color: var(--accent); line-height: 1; }
+.stat-label { font-size: 0.65rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; margin-top: 0.2rem; }
+
+.tabs-wrapper {
+  padding: 0 2.5rem;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  gap: 0;
+  overflow-x: auto;
+}
+.tab {
+  padding: 0.8rem 1.2rem;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--muted);
+  cursor: pointer;
+  border: none;
+  border-bottom: 2px solid transparent;
+  background: none;
+  white-space: nowrap;
+  transition: all 0.15s;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-count { background: var(--border); padding: 0.1rem 0.35rem; border-radius: 2px; font-size: 0.62rem; }
+.tab.active .tab-count { background: var(--accent); color: #000; }
+
+main { padding: 2rem 2.5rem; }
+
+.apps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+}
+
+.app-card {
+  background: var(--bg);
+  padding: 1rem 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  transition: background 0.15s;
+  animation: fadeIn 0.3s ease both;
+  text-decoration: none;
+  color: inherit;
+}
+.app-card:hover { background: var(--surface); }
+
+@keyframes fadeIn { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:translateY(0)} }
+
+.app-icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  background: var(--surface);
+  flex-shrink: 0;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+}
+.app-icon img { width: 100%; height: 100%; object-fit: cover; }
+
+.app-info { flex: 1; min-width: 0; }
+.app-name { font-size: 0.85rem; font-weight: 500; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.app-dev { font-size: 0.72rem; color: var(--muted); margin-top: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.app-ranks { font-family: 'Space Mono', monospace; font-size: 0.65rem; color: var(--muted); margin-top: 4px; }
+
+.app-delta {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 1.6rem;
+  color: var(--green);
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.empty { padding: 4rem; text-align: center; color: var(--muted); font-family: 'Space Mono', monospace; font-size: 0.8rem; }
+#loading { padding: 3rem 2.5rem; font-family: 'Space Mono', monospace; font-size: 0.8rem; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">App<span>Tracker</span></div>
+  <div class="status"><span class="pulse"></span><span id="updated-at">—</span></div>
+</header>
+
+<div class="stats-bar" id="stats-bar"></div>
+<div class="tabs-wrapper" id="tabs"></div>
+
+<main>
+  <div id="loading">Loading...</div>
+  <div id="apps-grid" class="apps-grid" style="display:none"></div>
+</main>
+
+<script>
+const COUNTRY_FLAGS = {US:'🇺🇸',GB:'🇬🇧',DE:'🇩🇪',FR:'🇫🇷',BR:'🇧🇷',JP:'🇯🇵',KR:'🇰🇷',IN:'🇮🇳',ID:'🇮🇩',AU:'🇦🇺'};
+
+let allApps = [];
+let iconCache = {};
+let activeCountry = 'ALL';
+
+async function loadData() {
+  try {
+    const res = await fetch('data/rising_apps.json');
+    const data = await res.json();
+    return data.rising || [];
+  } catch(e) { return []; }
+}
+
+async function fetchIcon(appId) {
+  if (iconCache[appId]) return iconCache[appId];
+  try {
+    const res = await fetch(`https://itunes.apple.com/lookup?id=${appId}`);
+    const data = await res.json();
+    const icon = data.results?.[0]?.artworkUrl100 || '';
+    iconCache[appId] = icon;
+    return icon;
+  } catch(e) { return ''; }
+}
+
+function buildFbUrl(name) {
+  return `https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=${encodeURIComponent(name)}&search_type=keyword_unordered`;
+}
+
+function renderStats(apps) {
+  const countries = [...new Set(apps.map(a => a.country))];
+  const maxDelta = apps.length ? Math.max(...apps.map(a => a.delta)) : 0;
+  document.getElementById('stats-bar').innerHTML = `
+    <div class="stat-item"><div class="stat-num">${apps.length}</div><div class="stat-label">Rising Apps</div></div>
+    <div class="stat-item"><div class="stat-num">${countries.length}</div><div class="stat-label">Markets</div></div>
+    <div class="stat-item"><div class="stat-num">+${maxDelta}</div><div class="stat-label">Max Jump</div></div>
+  `;
+}
+
+function renderTabs(apps) {
+  const countries = [...new Set(apps.map(a => a.country))];
+  const counts = {};
+  apps.forEach(a => counts[a.country] = (counts[a.country]||0)+1);
+  document.getElementById('tabs').innerHTML =
+    `<button class="tab ${activeCountry==='ALL'?'active':''}" onclick="setCountry('ALL')">All <span class="tab-count">${apps.length}</span></button>` +
+    countries.map(c =>
+      `<button class="tab ${activeCountry===c?'active':''}" onclick="setCountry('${c}')">
+        ${COUNTRY_FLAGS[c]||''} ${c} <span class="tab-count">${counts[c]}</span>
+      </button>`
+    ).join('');
+}
+
+async function renderApps(apps) {
+  const filtered = activeCountry === 'ALL' ? apps : apps.filter(a => a.country === activeCountry);
+  const grid = document.getElementById('apps-grid');
+
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="empty">No apps found</div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.map((app, i) => `
+    <a class="app-card" href="${buildFbUrl(app.name)}" target="_blank" style="animation-delay:${i*0.02}s">
+      <div class="app-icon" id="icon-${app.id}">📱</div>
+      <div class="app-info">
+        <div class="app-name">${app.name}</div>
+        <div class="app-dev">${app.developer || ''}</div>
+        <div class="app-ranks">${COUNTRY_FLAGS[app.country]||app.country} #${app.prev_rank} → #${app.curr_rank}</div>
+      </div>
+      <div class="app-delta">+${app.delta}</div>
+    </a>
+  `).join('');
+
+  for (const app of filtered) {
+    if (!app.id) continue;
+    fetchIcon(app.id).then(url => {
+      const el = document.getElementById(`icon-${app.id}`);
+      if (el && url) el.innerHTML = `<img src="${url}" alt="${app.name}" loading="lazy">`;
+    });
+  }
+}
+
+function setCountry(country) {
+  activeCountry = country;
+  renderTabs(allApps);
+  renderApps(allApps);
+}
+
+async function init() {
+  allApps = await loadData();
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('apps-grid').style.display = 'grid';
+  document.getElementById('updated-at').textContent = `Updated ${new Date().toLocaleDateString('en-US', {month:'short',day:'numeric',year:'numeric'})}`;
+  renderStats(allApps);
+  renderTabs(allApps);
+  renderApps(allApps);
+}
+
+init();
+</script>
+</body>
+</html>
