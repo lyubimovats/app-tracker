@@ -227,7 +227,8 @@ async function init() {
   allApps = await loadData();
   document.getElementById('loading').style.display = 'none';
   document.getElementById('apps-grid').style.display = 'grid';
-  document.getElementById('updated-at').textContent = `Updated ${new Date().toLocaleDateString('en-US', {month:'short',day:'numeric',year:'numeric'})}`;
+  const meta = allApps.length ? (await fetch('data/rising_apps.json').then(r=>r.json()).then(d=>d.meta||{})) : {};
+  document.getElementById('updated-at').textContent = meta.prev_date && meta.curr_date ? meta.prev_date + ' → ' + meta.curr_date : 'Updated today';
   renderStats(allApps);
   renderTabs(allApps);
   renderApps(allApps);
