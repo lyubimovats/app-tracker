@@ -11,13 +11,16 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Run parser
+      - name: Step 1 — Apple RSS snapshot
         run: python3 step1_apple_rss.py
 
-      - name: Save snapshot
+      - name: Step 2 — Find rising apps
+        run: python3 step2_rising_apps.py
+
+      - name: Save results
         run: |
           git config user.email "bot@app-tracker.com"
           git config user.name "App Tracker Bot"
           git add data/
-          git diff --staged --quiet || git commit -m "snapshot $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "update $(date +%Y-%m-%d)"
           git push
