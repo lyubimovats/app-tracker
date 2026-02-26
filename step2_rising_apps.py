@@ -111,6 +111,47 @@ def main():
 
     print(f"\n✅ Найдено {len(rising)} AI приложений растущих на {MIN_DELTA}+ позиций (за {window_label})\n")
 
+    # Generate insights
+    insights = []
+
+    # Top performer insight
+    if rising:
+        top_app = rising[0]
+        insights.append({
+            "type": "trending",
+            "icon": "🔥",
+            "text": f"{top_app['name']} leads with +{top_app['delta']} jump in {top_app['country']}"
+        })
+
+    # Market analysis
+    country_counts = {}
+    for app in rising:
+        country_counts[app["country"]] = country_counts.get(app["country"], 0) + 1
+    if country_counts:
+        top_market = max(country_counts.items(), key=lambda x: x[1])
+        insights.append({
+            "type": "market",
+            "icon": "🌍",
+            "text": f"{top_market[0]} has {top_market[1]} rising apps - highest activity today"
+        })
+
+    # App family/developer trending
+    app_families = {}
+    for app in rising:
+        for brand in ['Cosmo', 'FaceLab', 'Dance AI', 'AI Catch', 'Airbrush', 'Vids AI']:
+            if brand.lower() in app['name'].lower():
+                app_families[brand] = app_families.get(brand, 0) + 1
+                break
+    if app_families:
+        top_brand = max(app_families.items(), key=lambda x: x[1])
+        if top_brand[1] > 1:
+            insights.append({
+                "type": "app-note",
+                "icon": "📱",
+                "text": f"{top_brand[0]} apps trending with {top_brand[1]} variants rising"
+            })
+
+    # Multi-market apps
     app_markets = {}
     for app in rising:
         n = app["name"]
@@ -125,11 +166,20 @@ def main():
             print(f"  • {name[:40]} → {', '.join(markets)}")
         print()
 
+        # Add multi-market insight
+        top_multi = max(multi_market.items(), key=lambda x: len(x[1]))
+        insights.append({
+            "type": "trending",
+            "icon": "🚀",
+            "text": f"{top_multi[0]} rising in {len(top_multi[1])} markets: {', '.join(top_multi[1])}"
+        })
+
     output_file = "data/rising_apps.json" if args.days == 1 else f"data/rising_apps_{args.days}d.json"
     Path(output_file).write_text(
         json.dumps({
             "rising": rising,
             "by_country": by_country,
+            "insights": insights,
             "meta": {
                 "prev_date": prev_file.stem,
                 "curr_date": curr_file.stem,

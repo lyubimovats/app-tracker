@@ -343,6 +343,28 @@
       }
     ]
   },
+  "insights": [
+    {
+      "type": "trending",
+      "icon": "🔥",
+      "text": "Cosmo: AI Haare, Frisur Filter leads with +34 jump in DE"
+    },
+    {
+      "type": "market",
+      "icon": "🌍",
+      "text": "DE has 5 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "Cosmo apps trending with 4 variants rising"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "AI Catch: AI Video Generator rising in 2 markets: GB, ID"
+    }
+  ],
   "meta": {
     "prev_date": "2026-02-25",
     "curr_date": "2026-02-26",

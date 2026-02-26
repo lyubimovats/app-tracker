@@ -117,6 +117,44 @@ main { padding: 2rem 2.5rem; }
 
 .empty { padding: 4rem; text-align: center; color: var(--muted); font-family: 'Space Mono', monospace; font-size: 0.8rem; }
 #loading { padding: 3rem 2.5rem; font-family: 'Space Mono', monospace; font-size: 0.8rem; color: var(--muted); }
+
+.insights {
+  padding: 1.5rem 2.5rem;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: none;
+}
+.insights.visible { display: block; }
+.insights-title {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.65rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.8rem;
+}
+.insights-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+.insight-item {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  animation: slideIn 0.4s ease both;
+}
+.insight-item.trending { border-color: #ff4a4a44; background: #ff4a4a08; }
+.insight-item.market { border-color: #4aafff44; background: #4aafff08; }
+.insight-item.app-note { border-color: var(--accent)44; background: var(--accent)08; }
+.insight-icon { font-size: 1.1rem; flex-shrink: 0; }
+.insight-text { color: var(--text); line-height: 1.4; }
+@keyframes slideIn { from{opacity:0;transform:translateY(-8px)} to{opacity:1;transform:translateY(0)} }
 </style>
 </head>
 <body>
@@ -127,6 +165,12 @@ main { padding: 2rem 2.5rem; }
 </header>
 
 <div class="stats-bar" id="stats-bar"></div>
+
+<div class="insights" id="insights">
+  <div class="insights-title">📊 Quick Summary</div>
+  <div class="insights-list" id="insights-list"></div>
+</div>
+
 <div class="tabs-wrapper" id="tabs"></div>
 
 <main>
@@ -145,8 +189,8 @@ async function loadData() {
   try {
     const res = await fetch('data/rising_apps.json');
     const data = await res.json();
-    return data.rising || [];
-  } catch(e) { return []; }
+    return data;
+  } catch(e) { return { rising: [], insights: [] }; }
 }
 
 async function fetchIcon(appId) {
@@ -162,6 +206,21 @@ async function fetchIcon(appId) {
 
 function buildFbUrl(name) {
   return `https://www.facebook.com/ads/library/?active_status=active&ad_type=all&country=US&q=${encodeURIComponent(name)}&search_type=keyword_unordered`;
+}
+
+function renderInsights(insights) {
+  if (!insights || insights.length === 0) {
+    document.getElementById('insights').style.display = 'none';
+    return;
+  }
+
+  document.getElementById('insights').classList.add('visible');
+  document.getElementById('insights-list').innerHTML = insights.map((insight, i) => `
+    <div class="insight-item ${insight.type}" style="animation-delay:${i*0.1}s">
+      <span class="insight-icon">${insight.icon}</span>
+      <span class="insight-text">${insight.text}</span>
+    </div>
+  `).join('');
 }
 
 function renderStats(apps) {
@@ -224,11 +283,13 @@ function setCountry(country) {
 }
 
 async function init() {
-  allApps = await loadData();
+  const data = await loadData();
+  allApps = data.rising || [];
   document.getElementById('loading').style.display = 'none';
   document.getElementById('apps-grid').style.display = 'grid';
-  const meta = allApps.length ? (await fetch('data/rising_apps.json').then(r=>r.json()).then(d=>d.meta||{})) : {};
+  const meta = data.meta || {};
   document.getElementById('updated-at').textContent = meta.prev_date && meta.curr_date ? meta.prev_date + ' → ' + meta.curr_date : 'Updated today';
+  renderInsights(data.insights || []);
   renderStats(allApps);
   renderTabs(allApps);
   renderApps(allApps);
