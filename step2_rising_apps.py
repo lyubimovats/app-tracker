@@ -1,19 +1,15 @@
 import json
+import argparse
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 
 MIN_DELTA = 10
 
 AI_KEYWORDS = [
-    # явный AI
     'ai', 'a.i.',
-    # генерация
     'generator', 'generate', 'generative',
-    # трансформация
     'face swap', 'reface', 'avatar',
-    # категории
     'photo editor', 'video editor',
-    # бренды
     'aura', 'glam', 'remini', 'toonapp', 'retake', 'pose',
     'photoroom', 'faceapp', 'facelab', 'prettyup', 'visio',
     'ageroom', 'reface', 'facetune', 'lensa', 'meitu',
@@ -32,7 +28,30 @@ def is_ai_app(name):
         return False
     return any(kw in name_lower for kw in AI_KEYWORDS)
 
+def find_snapshot(files, days_ago):
+    target_date = datetime.today().date() - timedelta(days=days_ago)
+    candidates = []
+    for f in files:
+        try:
+            d = datetime.strptime(f.stem, "%Y-%m-%d").date()
+            if d <= target_date:
+                candidates.append((d, f))
+        except ValueError:
+            continue
+    if candidates:
+        return max(candidates, key=lambda x: x[0])[1]
+    return None
+
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--days",
+        type=int,
+        default=1,
+        help="Сравнить с N дней назад (по умолчанию 1)"
+    )
+    args = parser.parse_args()
+
     snapshots_dir = Path("data/snapshots")
     files = sorted(snapshots_dir.glob("*.json"))
 
@@ -40,12 +59,21 @@ def main():
         print("❌ Нужно минимум 2 снапшота")
         return
 
-    prev_raw = json.loads(files[-2].read_text())
-    curr_raw = json.loads(files[-1].read_text())
+    curr_file = files[-1]
+    prev_file = find_snapshot(files[:-1], days_ago=args.days)
+
+    if not prev_file:
+        print(f"❌ Нет снапшота за {args.days} дней назад, используем ближайший")
+        prev_file = files[-2]
+
+    window_label = f"{args.days} {'день' if args.days == 1 else 'дней'}"
+
+    prev_raw = json.loads(prev_file.read_text())
+    curr_raw = json.loads(curr_file.read_text())
     prev = {k.upper(): v for k, v in prev_raw.get("countries", prev_raw).items()}
     curr = {k.upper(): v for k, v in curr_raw.get("countries", curr_raw).items()}
 
-    print(f"🚀 Сравниваем {files[-2].stem} → {files[-1].stem}\n")
+    print(f"🚀 Сравниваем {prev_file.stem} → {curr_file.stem} (окно: {window_label})\n")
 
     rising = []
     for country in curr:
@@ -69,7 +97,6 @@ def main():
 
     rising.sort(key=lambda x: x["delta"], reverse=True)
 
-    # Группируем по стране для отчёта
     by_country = {}
     for app in rising:
         c = app["country"]
@@ -82,9 +109,8 @@ def main():
     for app in rising:
         print(f"{app['country']:<6} {app['name'][:34]:<35} {app['prev_rank']:>5} → #{app['curr_rank']:<5} +{app['delta']}")
 
-    print(f"\n✅ Найдено {len(rising)} AI приложений растущих на {MIN_DELTA}+ позиций\n")
+    print(f"\n✅ Найдено {len(rising)} AI приложений растущих на {MIN_DELTA}+ позиций (за {window_label})\n")
 
-    # Показываем по каким рынкам растёт каждое приложение
     app_markets = {}
     for app in rising:
         n = app["name"]
@@ -99,17 +125,19 @@ def main():
             print(f"  • {name[:40]} → {', '.join(markets)}")
         print()
 
-    Path("data/rising_apps.json").write_text(
+    output_file = "data/rising_apps.json" if args.days == 1 else f"data/rising_apps_{args.days}d.json"
+    Path(output_file).write_text(
         json.dumps({
             "rising": rising,
             "by_country": by_country,
             "meta": {
-                "prev_date": files[-2].stem,
-                "curr_date": files[-1].stem
+                "prev_date": prev_file.stem,
+                "curr_date": curr_file.stem,
+                "days": args.days
             }
         }, ensure_ascii=False, indent=2)
     )
-    print("💾 Сохранено: data/rising_apps.json")
+    print(f"💾 Сохранено: {output_file}")
 
 if __name__ == "__main__":
     main()
