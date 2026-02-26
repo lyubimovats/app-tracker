@@ -31,6 +31,29 @@ header {
 .pulse { width: 6px; height: 6px; background: var(--green); border-radius: 50%; animation: pulse 2s infinite; }
 @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
 
+.period-switcher {
+  display: flex;
+  gap: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+.period-btn {
+  padding: 0.4rem 0.8rem;
+  font-family: 'Space Mono', monospace;
+  font-size: 0.7rem;
+  color: var(--muted);
+  background: transparent;
+  border: none;
+  border-right: 1px solid var(--border);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.period-btn:last-child { border-right: none; }
+.period-btn:hover { color: var(--text); background: var(--bg); }
+.period-btn.active { color: #000; background: var(--accent); font-weight: 500; }
+
 .stats-bar { display: flex; border-bottom: 1px solid var(--border); }
 .stat-item { padding: 1rem 2rem; border-right: 1px solid var(--border); }
 .stat-num { font-family: 'Bebas Neue', sans-serif; font-size: 1.8rem; color: var(--accent); line-height: 1; }
@@ -161,7 +184,14 @@ main { padding: 2rem 2.5rem; }
 
 <header>
   <div class="logo">App<span>Tracker</span></div>
-  <div class="status"><span class="pulse"></span><span id="updated-at">—</span></div>
+  <div style="display: flex; align-items: center; gap: 1.5rem;">
+    <div class="period-switcher">
+      <button class="period-btn active" onclick="setPeriod('day')">1 Day</button>
+      <button class="period-btn" onclick="setPeriod('5d')">5 Days</button>
+      <button class="period-btn" onclick="setPeriod('week')">Week</button>
+    </div>
+    <div class="status"><span class="pulse"></span><span id="updated-at">—</span></div>
+  </div>
 </header>
 
 <div class="stats-bar" id="stats-bar"></div>
@@ -184,10 +214,12 @@ const COUNTRY_FLAGS = {US:'🇺🇸',GB:'🇬🇧',DE:'🇩🇪',FR:'🇫🇷',B
 let allApps = [];
 let iconCache = {};
 let activeCountry = 'ALL';
+let activePeriod = 'day';
 
-async function loadData() {
+async function loadData(period = 'day') {
   try {
-    const res = await fetch('data/rising_apps.json');
+    const filename = period === 'day' ? 'rising_apps.json' : `rising_apps_${period}.json`;
+    const res = await fetch(`data/${filename}`);
     const data = await res.json();
     return data;
   } catch(e) { return { rising: [], insights: [] }; }
@@ -278,6 +310,34 @@ async function renderApps(apps) {
 
 function setCountry(country) {
   activeCountry = country;
+  renderTabs(allApps);
+  renderApps(allApps);
+}
+
+async function setPeriod(period) {
+  activePeriod = period;
+
+  // Update button states
+  document.querySelectorAll('.period-btn').forEach(btn => {
+    btn.classList.remove('active');
+  });
+  event.target.classList.add('active');
+
+  // Load new data
+  document.getElementById('loading').style.display = 'block';
+  document.getElementById('apps-grid').style.display = 'none';
+
+  const data = await loadData(period);
+  allApps = data.rising || [];
+
+  document.getElementById('loading').style.display = 'none';
+  document.getElementById('apps-grid').style.display = 'grid';
+
+  const meta = data.meta || {};
+  document.getElementById('updated-at').textContent = meta.prev_date && meta.curr_date ? meta.prev_date + ' → ' + meta.curr_date : 'Updated today';
+
+  renderInsights(data.insights || []);
+  renderStats(allApps);
   renderTabs(allApps);
   renderApps(allApps);
 }
