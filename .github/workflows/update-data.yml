@@ -1,0 +1,61 @@
+name: Update App Tracker Data
+
+on:
+  schedule:
+    # Run daily at 12:00 UTC (adjust to your preferred time)
+    - cron: '0 12 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch latest App Store data
+        run: python3 step1_apple_rss.py
+
+      - name: Generate daily rising apps data
+        run: python3 step2_rising_apps.py
+
+      - name: Generate 5-day comparison
+        run: python3 step2_rising_apps.py --days 5
+
+      - name: Generate weekly comparison
+        run: |
+          python3 step2_rising_apps.py --days 7
+          if [ -f data/rising_apps_7d.json ]; then
+            mv data/rising_apps_7d.json data/rising_apps_week.json
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          # Get today's date for commit message
+          TODAY=$(date +%Y-%m-%d)
+
+          git commit -m "Auto-update data for ${TODAY}
+
+          - Fetched latest App Store rankings
+          - Generated daily, 5-day, and weekly comparisons
+          - Updated insights and statistics
+
+          🤖 Automated update via GitHub Actions"
+
+          git push
