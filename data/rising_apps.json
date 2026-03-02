@@ -1,28 +1,44 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Pose AI | KI Bilder erstellen",
-      "developer": "Spark Dynamic",
-      "prev_rank": 53,
-      "curr_rank": 28,
-      "delta": 25
-    },
-    {
-      "country": "US",
-      "name": "AI Video, Pic Generator・Filter",
-      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
-      "prev_rank": 56,
-      "curr_rank": 33,
-      "delta": 23
+      "country": "AU",
+      "name": "Ageroom - AI Photo Generator",
+      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+      "prev_rank": 82,
+      "curr_rank": 51,
+      "delta": 31
     },
     {
       "country": "IN",
       "name": "AI Mirror: AI Photo Editor",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 58,
-      "curr_rank": 35,
-      "delta": 23
+      "curr_rank": 30,
+      "delta": 28
+    },
+    {
+      "country": "US",
+      "name": "AI Video, Pic Generator・Filter",
+      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "prev_rank": 56,
+      "curr_rank": 31,
+      "delta": 25
+    },
+    {
+      "country": "GB",
+      "name": "Ageroom - AI Photo Generator",
+      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+      "prev_rank": 98,
+      "curr_rank": 76,
+      "delta": 22
+    },
+    {
+      "country": "ID",
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 76,
+      "curr_rank": 55,
+      "delta": 21
     },
     {
       "country": "AU",
@@ -33,44 +49,28 @@
       "delta": 20
     },
     {
-      "country": "ID",
-      "name": "Chatlulu:Video&Photo Editor",
-      "developer": "Hong Kong Endless Flow Technology Limited",
-      "prev_rank": 76,
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 77,
       "curr_rank": 58,
-      "delta": 18
+      "delta": 19
     },
     {
-      "country": "GB",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 98,
-      "curr_rank": 83,
-      "delta": 15
+      "country": "DE",
+      "name": "Pose AI | KI Bilder erstellen",
+      "developer": "Spark Dynamic",
+      "prev_rank": 53,
+      "curr_rank": 37,
+      "delta": 16
     },
     {
-      "country": "IN",
-      "name": "Vmake: AI Talking Video Editor",
-      "developer": "Starii Tech Pty Ltd",
-      "prev_rank": 97,
-      "curr_rank": 82,
-      "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 82,
-      "curr_rank": 67,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Uplens: Photo & Video Editor",
-      "developer": "MPGames",
-      "prev_rank": 86,
-      "curr_rank": 72,
-      "delta": 14
+      "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 58,
+      "curr_rank": 42,
+      "delta": 16
     },
     {
       "country": "BR",
@@ -81,89 +81,63 @@
       "delta": 14
     },
     {
+      "country": "ID",
+      "name": "AI Baby Generator・Future Face",
+      "developer": "Great Development",
+      "prev_rank": 36,
+      "curr_rank": 22,
+      "delta": 14
+    },
+    {
       "country": "DE",
       "name": "Facelab・Gesicht, Körper, Haare",
       "developer": "IRONTECH LIMITED",
       "prev_rank": 76,
-      "curr_rank": 64,
-      "delta": 12
+      "curr_rank": 63,
+      "delta": 13
     },
     {
-      "country": "FR",
-      "name": "Generator Photo Video IA: Aura",
-      "developer": "Superapp Labs",
-      "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 58,
-      "curr_rank": 47,
-      "delta": 11
-    },
-    {
-      "country": "AU",
-      "name": "invideo AI: AI Video Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 84,
-      "curr_rank": 73,
+      "country": "GB",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 94,
+      "curr_rank": 83,
       "delta": 11
     },
     {
       "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 72,
-      "curr_rank": 62,
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 97,
+      "curr_rank": 87,
       "delta": 10
     },
     {
-      "country": "FR",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 96,
-      "curr_rank": 86,
+      "country": "GB",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 46,
+      "curr_rank": 36,
       "delta": 10
     }
   ],
   "by_country": {
-    "DE": [
+    "AU": [
       {
-        "country": "DE",
-        "name": "Pose AI | KI Bilder erstellen",
-        "developer": "Spark Dynamic",
-        "prev_rank": 53,
-        "curr_rank": 28,
-        "delta": 25
+        "country": "AU",
+        "name": "Ageroom - AI Photo Generator",
+        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+        "prev_rank": 82,
+        "curr_rank": 51,
+        "delta": 31
       },
       {
-        "country": "DE",
-        "name": "Facelab・Gesicht, Körper, Haare",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 76,
-        "curr_rank": 64,
-        "delta": 12
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "AI Video, Pic Generator・Filter",
-        "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "prev_rank": 56,
-        "curr_rank": 33,
-        "delta": 23
-      },
-      {
-        "country": "US",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 72,
-        "curr_rank": 62,
-        "delta": 10
+        "country": "AU",
+        "name": "Passport Photo App - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 99,
+        "curr_rank": 79,
+        "delta": 20
       }
     ],
     "IN": [
@@ -172,52 +146,26 @@
         "name": "AI Mirror: AI Photo Editor",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 58,
-        "curr_rank": 35,
-        "delta": 23
+        "curr_rank": 30,
+        "delta": 28
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Video, Pic Generator・Filter",
+        "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "prev_rank": 56,
+        "curr_rank": 31,
+        "delta": 25
       },
       {
-        "country": "IN",
-        "name": "Vmake: AI Talking Video Editor",
-        "developer": "Starii Tech Pty Ltd",
+        "country": "US",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
         "prev_rank": 97,
-        "curr_rank": 82,
-        "delta": 15
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Passport Photo App - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 99,
-        "curr_rank": 79,
-        "delta": 20
-      },
-      {
-        "country": "AU",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 82,
-        "curr_rank": 67,
-        "delta": 15
-      },
-      {
-        "country": "AU",
-        "name": "invideo AI: AI Video Generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 84,
-        "curr_rank": 73,
-        "delta": 11
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Chatlulu:Video&Photo Editor",
-        "developer": "Hong Kong Endless Flow Technology Limited",
-        "prev_rank": 76,
-        "curr_rank": 58,
-        "delta": 18
+        "curr_rank": 87,
+        "delta": 10
       }
     ],
     "GB": [
@@ -226,16 +174,78 @@
         "name": "Ageroom - AI Photo Generator",
         "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
         "prev_rank": 98,
-        "curr_rank": 83,
-        "delta": 15
+        "curr_rank": 76,
+        "delta": 22
       },
       {
         "country": "GB",
-        "name": "Uplens: Photo & Video Editor",
-        "developer": "MPGames",
-        "prev_rank": 86,
-        "curr_rank": 72,
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 94,
+        "curr_rank": 83,
+        "delta": 11
+      },
+      {
+        "country": "GB",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 46,
+        "curr_rank": 36,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Chatlulu:Video&Photo Editor",
+        "developer": "Hong Kong Endless Flow Technology Limited",
+        "prev_rank": 76,
+        "curr_rank": 55,
+        "delta": 21
+      },
+      {
+        "country": "ID",
+        "name": "AI Baby Generator・Future Face",
+        "developer": "Great Development",
+        "prev_rank": 36,
+        "curr_rank": 22,
         "delta": 14
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 77,
+        "curr_rank": 58,
+        "delta": 19
+      },
+      {
+        "country": "DE",
+        "name": "Pose AI | KI Bilder erstellen",
+        "developer": "Spark Dynamic",
+        "prev_rank": 53,
+        "curr_rank": 37,
+        "delta": 16
+      },
+      {
+        "country": "DE",
+        "name": "Facelab・Gesicht, Körper, Haare",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 76,
+        "curr_rank": 63,
+        "delta": 13
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+        "developer": "PICME",
+        "prev_rank": 58,
+        "curr_rank": 42,
+        "delta": 16
       }
     ],
     "BR": [
@@ -247,51 +257,23 @@
         "curr_rank": 34,
         "delta": 14
       }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Generator Photo Video IA: Aura",
-        "developer": "Superapp Labs",
-        "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
-      },
-      {
-        "country": "FR",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 96,
-        "curr_rank": 86,
-        "delta": 10
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME",
-        "prev_rank": 58,
-        "curr_rank": 47,
-        "delta": 11
-      }
     ]
   },
   "insights": [
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Pose AI | KI Bilder erstellen leads with +25 jump in DE"
+      "text": "Ageroom - AI Photo Generator leads with +31 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 3 rising apps - highest activity today"
+      "text": "GB has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Ageroom - AI Photo Generator rising in 2 markets: GB, AU"
+      "text": "Ageroom - AI Photo Generator rising in 2 markets: AU, GB"
     }
   ],
   "meta": {
