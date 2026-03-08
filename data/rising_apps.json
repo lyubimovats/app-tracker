@@ -1,503 +1,535 @@
 {
   "rising": [
     {
-      "country": "KR",
-      "name": "Pollo AI - AI 비디오 생성기",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 96,
-      "curr_rank": 42,
-      "delta": 54
-    },
-    {
-      "country": "GB",
-      "name": "CarMod - Car modification AI",
-      "developer": "Netbu",
-      "prev_rank": 55,
-      "curr_rank": 16,
-      "delta": 39
-    },
-    {
-      "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 89,
-      "curr_rank": 51,
-      "delta": 38
-    },
-    {
-      "country": "KR",
-      "name": "B612 Camera&Photo/Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 88,
-      "curr_rank": 58,
-      "delta": 30
-    },
-    {
-      "country": "IN",
-      "name": "Hair Color Lab & Editor",
-      "developer": "Elite Wealth Co., Ltd.",
-      "prev_rank": 74,
-      "curr_rank": 44,
-      "delta": 30
-    },
-    {
-      "country": "AU",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 37,
-      "curr_rank": 11,
-      "delta": 26
-    },
-    {
       "country": "DE",
-      "name": "Dance AI: KI-Tanzvideo Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 59,
-      "curr_rank": 35,
-      "delta": 24
-    },
-    {
-      "country": "AU",
-      "name": "Pollo AI - AI Video Generator",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 91,
-      "curr_rank": 68,
-      "delta": 23
-    },
-    {
-      "country": "AU",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 41,
-      "curr_rank": 21,
-      "delta": 20
+      "name": "Glam KI, AI Bilder Bearbeiten",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 66,
+      "curr_rank": 22,
+      "delta": 44
     },
     {
       "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
+      "name": "Como vai ser meu Filho?",
+      "developer": "Great Development",
+      "prev_rank": 94,
+      "curr_rank": 54,
+      "delta": 40
+    },
+    {
+      "country": "GB",
+      "name": "Pro Photo Mosaic Creator",
+      "developer": "Picture Mosaics LLC",
+      "prev_rank": 87,
+      "curr_rank": 61,
+      "delta": 26
+    },
+    {
+      "country": "AU",
+      "name": "CarMod - Car modification AI",
+      "developer": "Netbu",
+      "prev_rank": 78,
+      "curr_rank": 53,
+      "delta": 25
+    },
+    {
+      "country": "KR",
+      "name": "nana AI (나나 AI)",
+      "developer": "Tae jun Kim",
+      "prev_rank": 38,
+      "curr_rank": 15,
+      "delta": 23
+    },
+    {
+      "country": "BR",
+      "name": "Dance AI: Vídeos de Dança IA",
+      "developer": "DeePix AI",
+      "prev_rank": 48,
+      "curr_rank": 28,
+      "delta": 20
+    },
+    {
+      "country": "DE",
+      "name": "Pose AI | KI Bilder erstellen",
+      "developer": "Spark Dynamic",
+      "prev_rank": 90,
+      "curr_rank": 71,
+      "delta": 19
+    },
+    {
+      "country": "FR",
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 91,
+      "curr_rank": 72,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "Glam AI: Video & Photo Editor",
+      "developer": "Glam Labs, Inc.",
       "prev_rank": 95,
       "curr_rank": 77,
       "delta": 18
     },
     {
       "country": "US",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 84,
-      "curr_rank": 67,
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 30,
+      "curr_rank": 13,
       "delta": 17
     },
     {
-      "country": "IN",
-      "name": "Posely: AI Car Editor & Photos",
-      "developer": "Soldd",
+      "country": "KR",
+      "name": "AIReel：AI 영상&사진 편집",
+      "developer": "Zhao Yali",
       "prev_rank": 88,
       "curr_rank": 71,
       "delta": 17
     },
     {
       "country": "US",
-      "name": "Mysticat-AI Photo Studio",
-      "developer": "WUHE Technology Limited",
-      "prev_rank": 63,
-      "curr_rank": 49,
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "prev_rank": 57,
+      "curr_rank": 41,
+      "delta": 16
+    },
+    {
+      "country": "DE",
+      "name": "Facetune: KI Foto Video Editor",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 36,
+      "curr_rank": 20,
+      "delta": 16
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 59,
+      "curr_rank": 43,
+      "delta": 16
+    },
+    {
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
+      "developer": "DeePix AI",
+      "prev_rank": 57,
+      "curr_rank": 42,
+      "delta": 15
+    },
+    {
+      "country": "BR",
+      "name": "Airbrush - Editor de cabelo",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 38,
+      "curr_rank": 23,
+      "delta": 15
+    },
+    {
+      "country": "ID",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 77,
+      "curr_rank": 62,
+      "delta": 15
+    },
+    {
+      "country": "GB",
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 51,
+      "curr_rank": 37,
       "delta": 14
     },
     {
       "country": "US",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 70,
-      "curr_rank": 56,
-      "delta": 14
-    },
-    {
-      "country": "FR",
-      "name": "PutArty- AI Image Generator",
-      "developer": "Benda Trading Limited",
-      "prev_rank": 42,
-      "curr_rank": 28,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Bloom: AI photo editor",
-      "developer": "Tomas Erben",
-      "prev_rank": 47,
-      "curr_rank": 34,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "Remini - Einfach Bessere Fotos",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 55,
-      "curr_rank": 42,
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 67,
+      "curr_rank": 54,
       "delta": 13
     },
     {
       "country": "DE",
       "name": "AI Catch: KI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 100,
-      "curr_rank": 87,
+      "prev_rank": 87,
+      "curr_rank": 74,
       "delta": 13
     },
     {
-      "country": "FR",
-      "name": "Glam IA: Retouche, Effet Photo",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 80,
-      "curr_rank": 67,
+      "country": "KR",
+      "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 49,
+      "curr_rank": 36,
       "delta": 13
     },
     {
-      "country": "GB",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 35,
-      "curr_rank": 23,
-      "delta": 12
+      "country": "IN",
+      "name": "VSCO: Photo Editor",
+      "developer": "Visual Supply Company",
+      "prev_rank": 84,
+      "curr_rank": 71,
+      "delta": 13
     },
     {
-      "country": "DE",
-      "name": "Glam KI, AI Bilder Bearbeiten",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 78,
-      "curr_rank": 66,
+      "country": "US",
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 93,
+      "curr_rank": 81,
       "delta": 12
-    },
-    {
-      "country": "JP",
-      "name": "PrettyUp - 人気のAI髪描き、動画と写真加工アプリ",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 94,
-      "curr_rank": 82,
-      "delta": 12
-    },
-    {
-      "country": "AU",
-      "name": "Mysticat-AI Photo Studio",
-      "developer": "WUHE Technology Limited",
-      "prev_rank": 51,
-      "curr_rank": 39,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 70,
-      "curr_rank": 59,
-      "delta": 11
     },
     {
       "country": "BR",
-      "name": "PrettyUp - Video Body Editor",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 89,
-      "curr_rank": 78,
-      "delta": 11
+      "name": "AI Video Generator, Art: Videa",
+      "developer": "Pure Apps",
+      "prev_rank": 97,
+      "curr_rank": 85,
+      "delta": 12
     },
     {
-      "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
+      "country": "KR",
+      "name": "AI Catch: AI 영상 생성기",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 20,
+      "curr_rank": 8,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "Wink - 동영상 AI 강화 & 인물보정",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 66,
       "curr_rank": 55,
       "delta": 11
     },
     {
-      "country": "GB",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 41,
-      "curr_rank": 31,
+      "country": "IN",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 92,
+      "curr_rank": 81,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "AI Viral Video Dance・Filter",
+      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "prev_rank": 71,
+      "curr_rank": 60,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Bloom: AI photo editor",
+      "developer": "Tomas Erben",
+      "prev_rank": 34,
+      "curr_rank": 24,
       "delta": 10
     },
     {
-      "country": "FR",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 50,
-      "curr_rank": 40,
+      "country": "BR",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 76,
+      "curr_rank": 66,
       "delta": 10
     },
     {
-      "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 47,
-      "curr_rank": 37,
+      "country": "BR",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 77,
+      "curr_rank": 67,
       "delta": 10
     },
     {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 74,
-      "curr_rank": 64,
+      "country": "BR",
+      "name": "Facelab - Editor de Fotos IA",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 90,
+      "curr_rank": 80,
       "delta": 10
     }
   ],
   "by_country": {
-    "KR": [
+    "DE": [
       {
-        "country": "KR",
-        "name": "Pollo AI - AI 비디오 생성기",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 96,
-        "curr_rank": 42,
-        "delta": 54
+        "country": "DE",
+        "name": "Glam KI, AI Bilder Bearbeiten",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 66,
+        "curr_rank": 22,
+        "delta": 44
       },
       {
-        "country": "KR",
-        "name": "B612 Camera&Photo/Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 88,
-        "curr_rank": 58,
-        "delta": 30
+        "country": "DE",
+        "name": "Pose AI | KI Bilder erstellen",
+        "developer": "Spark Dynamic",
+        "prev_rank": 90,
+        "curr_rank": 71,
+        "delta": 19
       },
       {
-        "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 47,
-        "curr_rank": 37,
+        "country": "DE",
+        "name": "Facetune: KI Foto Video Editor",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 36,
+        "curr_rank": 20,
+        "delta": 16
+      },
+      {
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 59,
+        "curr_rank": 43,
+        "delta": 16
+      },
+      {
+        "country": "DE",
+        "name": "AI Catch: KI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 87,
+        "curr_rank": 74,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Bloom: AI photo editor",
+        "developer": "Tomas Erben",
+        "prev_rank": 34,
+        "curr_rank": 24,
+        "delta": 10
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Como vai ser meu Filho?",
+        "developer": "Great Development",
+        "prev_rank": 94,
+        "curr_rank": 54,
+        "delta": 40
+      },
+      {
+        "country": "BR",
+        "name": "Dance AI: Vídeos de Dança IA",
+        "developer": "DeePix AI",
+        "prev_rank": 48,
+        "curr_rank": 28,
+        "delta": 20
+      },
+      {
+        "country": "BR",
+        "name": "Airbrush - Editor de cabelo",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 38,
+        "curr_rank": 23,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "AI Video Generator, Art: Videa",
+        "developer": "Pure Apps",
+        "prev_rank": 97,
+        "curr_rank": 85,
+        "delta": 12
+      },
+      {
+        "country": "BR",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 76,
+        "curr_rank": 66,
         "delta": 10
       },
       {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 74,
-        "curr_rank": 64,
+        "country": "BR",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 77,
+        "curr_rank": 67,
+        "delta": 10
+      },
+      {
+        "country": "BR",
+        "name": "Facelab - Editor de Fotos IA",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 90,
+        "curr_rank": 80,
         "delta": 10
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "CarMod - Car modification AI",
-        "developer": "Netbu",
-        "prev_rank": 55,
-        "curr_rank": 16,
-        "delta": 39
-      },
-      {
-        "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 89,
-        "curr_rank": 51,
-        "delta": 38
-      },
-      {
-        "country": "GB",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 35,
-        "curr_rank": 23,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 41,
-        "curr_rank": 31,
-        "delta": 10
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Hair Color Lab & Editor",
-        "developer": "Elite Wealth Co., Ltd.",
-        "prev_rank": 74,
-        "curr_rank": 44,
-        "delta": 30
-      },
-      {
-        "country": "IN",
-        "name": "Posely: AI Car Editor & Photos",
-        "developer": "Soldd",
-        "prev_rank": 88,
-        "curr_rank": 71,
-        "delta": 17
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 37,
-        "curr_rank": 11,
+        "name": "Pro Photo Mosaic Creator",
+        "developer": "Picture Mosaics LLC",
+        "prev_rank": 87,
+        "curr_rank": 61,
         "delta": 26
       },
       {
-        "country": "AU",
-        "name": "Pollo AI - AI Video Generator",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 91,
-        "curr_rank": 68,
-        "delta": 23
-      },
-      {
-        "country": "AU",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 41,
-        "curr_rank": 21,
-        "delta": 20
-      },
-      {
-        "country": "AU",
-        "name": "Mysticat-AI Photo Studio",
-        "developer": "WUHE Technology Limited",
-        "prev_rank": 51,
-        "curr_rank": 39,
-        "delta": 12
-      },
-      {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 66,
-        "curr_rank": 55,
-        "delta": 11
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Dance AI: KI-Tanzvideo Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 59,
-        "curr_rank": 35,
-        "delta": 24
-      },
-      {
-        "country": "DE",
-        "name": "Bloom: AI photo editor",
-        "developer": "Tomas Erben",
-        "prev_rank": 47,
-        "curr_rank": 34,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "Remini - Einfach Bessere Fotos",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 55,
-        "curr_rank": 42,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "AI Catch: KI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 100,
-        "curr_rank": 87,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "Glam KI, AI Bilder Bearbeiten",
+        "country": "GB",
+        "name": "Glam AI: Video & Photo Editor",
         "developer": "Glam Labs, Inc.",
-        "prev_rank": 78,
-        "curr_rank": 66,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 70,
-        "curr_rank": 59,
-        "delta": 11
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
         "prev_rank": 95,
         "curr_rank": 77,
         "delta": 18
       },
       {
-        "country": "BR",
-        "name": "PrettyUp - Video Body Editor",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 89,
-        "curr_rank": 78,
+        "country": "GB",
+        "name": "Citrus 1 Tap Photo Enhancer AI",
+        "developer": "Wemagine.ai LLP",
+        "prev_rank": 51,
+        "curr_rank": 37,
+        "delta": 14
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "CarMod - Car modification AI",
+        "developer": "Netbu",
+        "prev_rank": 78,
+        "curr_rank": 53,
+        "delta": 25
+      },
+      {
+        "country": "AU",
+        "name": "AI Viral Video Dance・Filter",
+        "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "prev_rank": 71,
+        "curr_rank": 60,
         "delta": 11
       }
     ],
-    "US": [
+    "KR": [
       {
-        "country": "US",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 84,
-        "curr_rank": 67,
+        "country": "KR",
+        "name": "nana AI (나나 AI)",
+        "developer": "Tae jun Kim",
+        "prev_rank": 38,
+        "curr_rank": 15,
+        "delta": 23
+      },
+      {
+        "country": "KR",
+        "name": "AIReel：AI 영상&사진 편집",
+        "developer": "Zhao Yali",
+        "prev_rank": 88,
+        "curr_rank": 71,
         "delta": 17
       },
       {
-        "country": "US",
-        "name": "Mysticat-AI Photo Studio",
-        "developer": "WUHE Technology Limited",
-        "prev_rank": 63,
-        "curr_rank": 49,
-        "delta": 14
+        "country": "KR",
+        "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 49,
+        "curr_rank": 36,
+        "delta": 13
       },
       {
-        "country": "US",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 70,
-        "curr_rank": 56,
-        "delta": 14
+        "country": "KR",
+        "name": "AI Catch: AI 영상 생성기",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 20,
+        "curr_rank": 8,
+        "delta": 12
+      },
+      {
+        "country": "KR",
+        "name": "Wink - 동영상 AI 강화 & 인물보정",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "PutArty- AI Image Generator",
-        "developer": "Benda Trading Limited",
-        "prev_rank": 42,
-        "curr_rank": 28,
-        "delta": 14
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 91,
+        "curr_rank": 72,
+        "delta": 19
       },
       {
         "country": "FR",
-        "name": "Glam IA: Retouche, Effet Photo",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 80,
-        "curr_rank": 67,
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 57,
+        "curr_rank": 42,
+        "delta": 15
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 30,
+        "curr_rank": 13,
+        "delta": 17
+      },
+      {
+        "country": "US",
+        "name": "Aura Frames",
+        "developer": "Aura Home, Inc.",
+        "prev_rank": 57,
+        "curr_rank": 41,
+        "delta": 16
+      },
+      {
+        "country": "US",
+        "name": "Citrus 1 Tap Photo Enhancer AI",
+        "developer": "Wemagine.ai LLP",
+        "prev_rank": 67,
+        "curr_rank": 54,
         "delta": 13
       },
       {
-        "country": "FR",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 50,
-        "curr_rank": 40,
-        "delta": 10
+        "country": "US",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 93,
+        "curr_rank": 81,
+        "delta": 12
       }
     ],
-    "JP": [
+    "ID": [
       {
-        "country": "JP",
-        "name": "PrettyUp - 人気のAI髪描き、動画と写真加工アプリ",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 94,
-        "curr_rank": 82,
-        "delta": 12
+        "country": "ID",
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 77,
+        "curr_rank": 62,
+        "delta": 15
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "VSCO: Photo Editor",
+        "developer": "Visual Supply Company",
+        "prev_rank": 84,
+        "curr_rank": 71,
+        "delta": 13
+      },
+      {
+        "country": "IN",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 92,
+        "curr_rank": 81,
+        "delta": 11
       }
     ]
   },
@@ -505,12 +537,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Pollo AI - AI 비디오 생성기 leads with +54 jump in KR"
+      "text": "Glam KI, AI Bilder Bearbeiten leads with +44 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 6 rising apps - highest activity today"
+      "text": "BR has 7 rising apps - highest activity today"
     },
     {
       "type": "app-note",
@@ -520,12 +552,12 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Citrus 1 Tap Photo Enhancer AI rising in 2 markets: GB, US"
+      "text": "AirPlay Cast rising in 2 markets: FR, US"
     }
   ],
   "meta": {
-    "prev_date": "2026-03-06",
-    "curr_date": "2026-03-07",
+    "prev_date": "2026-03-07",
+    "curr_date": "2026-03-08",
     "days": 1
   }
 }
