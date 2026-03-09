@@ -5,31 +5,55 @@
       "name": "AI Viral Video, Photo: Filter",
       "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
       "prev_rank": 96,
-      "curr_rank": 66,
-      "delta": 30
+      "curr_rank": 64,
+      "delta": 32
     },
     {
       "country": "GB",
       "name": "Pro Photo Mosaic Creator",
       "developer": "Picture Mosaics LLC",
       "prev_rank": 54,
-      "curr_rank": 31,
-      "delta": 23
+      "curr_rank": 33,
+      "delta": 21
     },
     {
-      "country": "FR",
-      "name": "Facelab: Retouche Visage・Corps",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 91,
-      "curr_rank": 71,
-      "delta": 20
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 81,
+      "curr_rank": 60,
+      "delta": 21
     },
     {
       "country": "GB",
+      "name": "Mysticat-AI Photo Studio",
+      "developer": "WUHE Technology Limited",
+      "prev_rank": 56,
+      "curr_rank": 40,
+      "delta": 16
+    },
+    {
+      "country": "KR",
+      "name": "Evoto – AI 사진 편집 및 리터칭",
+      "developer": "TRUESIGHT PTE. LTD.",
+      "prev_rank": 70,
+      "curr_rank": 54,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 80,
+      "curr_rank": 67,
+      "delta": 13
+    },
+    {
+      "country": "AU",
       "name": "MePic－AI Photo Video Generator",
       "developer": "Ocean Float Mobile",
-      "prev_rank": 92,
-      "curr_rank": 79,
+      "prev_rank": 86,
+      "curr_rank": 73,
       "delta": 13
     },
     {
@@ -41,27 +65,43 @@
       "delta": 13
     },
     {
-      "country": "DE",
-      "name": "AI Catch: KI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 57,
-      "curr_rank": 45,
+      "country": "GB",
+      "name": "MePic－AI Photo Video Generator",
+      "developer": "Ocean Float Mobile",
+      "prev_rank": 92,
+      "curr_rank": 80,
       "delta": 12
     },
     {
-      "country": "GB",
+      "country": "AU",
       "name": "Mysticat-AI Photo Studio",
       "developer": "WUHE Technology Limited",
-      "prev_rank": 56,
-      "curr_rank": 46,
+      "prev_rank": 47,
+      "curr_rank": 35,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Facelab: Retouche Visage・Corps",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 91,
+      "curr_rank": 80,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 95,
+      "curr_rank": 85,
       "delta": 10
     },
     {
-      "country": "DE",
-      "name": "Pose AI | KI Bilder erstellen",
-      "developer": "Spark Dynamic",
-      "prev_rank": 71,
-      "curr_rank": 61,
+      "country": "IN",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 84,
+      "curr_rank": 74,
       "delta": 10
     },
     {
@@ -70,14 +110,6 @@
       "developer": "Shanghai Zongchong Information Technology Co., Ltd",
       "prev_rank": 41,
       "curr_rank": 31,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "Mysticat-AI Photo Studio",
-      "developer": "WUHE Technology Limited",
-      "prev_rank": 47,
-      "curr_rank": 37,
       "delta": 10
     }
   ],
@@ -88,45 +120,71 @@
         "name": "AI Viral Video, Photo: Filter",
         "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
         "prev_rank": 96,
-        "curr_rank": 66,
-        "delta": 30
+        "curr_rank": 64,
+        "delta": 32
       },
       {
         "country": "GB",
         "name": "Pro Photo Mosaic Creator",
         "developer": "Picture Mosaics LLC",
         "prev_rank": 54,
-        "curr_rank": 31,
-        "delta": 23
-      },
-      {
-        "country": "GB",
-        "name": "MePic－AI Photo Video Generator",
-        "developer": "Ocean Float Mobile",
-        "prev_rank": 92,
-        "curr_rank": 79,
-        "delta": 13
+        "curr_rank": 33,
+        "delta": 21
       },
       {
         "country": "GB",
         "name": "Mysticat-AI Photo Studio",
         "developer": "WUHE Technology Limited",
         "prev_rank": 56,
-        "curr_rank": 46,
-        "delta": 10
+        "curr_rank": 40,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 80,
+        "curr_rank": 67,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "MePic－AI Photo Video Generator",
+        "developer": "Ocean Float Mobile",
+        "prev_rank": 92,
+        "curr_rank": 80,
+        "delta": 12
       }
     ],
-    "FR": [
+    "DE": [
       {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 91,
-        "curr_rank": 71,
-        "delta": 20
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 81,
+        "curr_rank": 60,
+        "delta": 21
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Evoto – AI 사진 편집 및 리터칭",
+        "developer": "TRUESIGHT PTE. LTD.",
+        "prev_rank": 70,
+        "curr_rank": 54,
+        "delta": 16
       }
     ],
     "AU": [
+      {
+        "country": "AU",
+        "name": "MePic－AI Photo Video Generator",
+        "developer": "Ocean Float Mobile",
+        "prev_rank": 86,
+        "curr_rank": 73,
+        "delta": 13
+      },
       {
         "country": "AU",
         "name": "Shots - AI Photo & Video Maker",
@@ -140,25 +198,37 @@
         "name": "Mysticat-AI Photo Studio",
         "developer": "WUHE Technology Limited",
         "prev_rank": 47,
-        "curr_rank": 37,
+        "curr_rank": 35,
+        "delta": 12
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Facelab: Retouche Visage・Corps",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 91,
+        "curr_rank": 80,
+        "delta": 11
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 95,
+        "curr_rank": 85,
         "delta": 10
       }
     ],
-    "DE": [
+    "IN": [
       {
-        "country": "DE",
-        "name": "AI Catch: KI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 57,
-        "curr_rank": 45,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Pose AI | KI Bilder erstellen",
-        "developer": "Spark Dynamic",
-        "prev_rank": 71,
-        "curr_rank": 61,
+        "country": "IN",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 84,
+        "curr_rank": 74,
         "delta": 10
       }
     ],
@@ -177,12 +247,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Viral Video, Photo: Filter leads with +30 jump in GB"
+      "text": "AI Viral Video, Photo: Filter leads with +32 jump in GB"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 4 rising apps - highest activity today"
+      "text": "GB has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
