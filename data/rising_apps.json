@@ -5,24 +5,32 @@
       "name": "MePic－AI Photo Video Generator",
       "developer": "Ocean Float Mobile",
       "prev_rank": 80,
-      "curr_rank": 50,
-      "delta": 30
+      "curr_rank": 52,
+      "delta": 28
     },
     {
-      "country": "GB",
-      "name": "Uplens: Photo & Video Editor",
-      "developer": "MPGames",
-      "prev_rank": 81,
-      "curr_rank": 56,
-      "delta": 25
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 60,
+      "curr_rank": 41,
+      "delta": 19
     },
     {
       "country": "AU",
       "name": "MePic－AI Photo Video Generator",
       "developer": "Ocean Float Mobile",
       "prev_rank": 73,
-      "curr_rank": 56,
-      "delta": 17
+      "curr_rank": 54,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "Uplens: Photo & Video Editor",
+      "developer": "MPGames",
+      "prev_rank": 81,
+      "curr_rank": 65,
+      "delta": 16
     },
     {
       "country": "US",
@@ -33,27 +41,43 @@
       "delta": 15
     },
     {
-      "country": "US",
-      "name": "Truepic Vision",
-      "developer": "TRUEPIC Inc",
-      "prev_rank": 96,
-      "curr_rank": 82,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 60,
-      "curr_rank": 46,
-      "delta": 14
+      "country": "GB",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 71,
+      "curr_rank": 56,
+      "delta": 15
     },
     {
       "country": "DE",
       "name": "Vids AI - Reels Video Editor",
       "developer": "Viral Vision Ltd.",
       "prev_rank": 75,
-      "curr_rank": 62,
+      "curr_rank": 61,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 95,
+      "curr_rank": 81,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 67,
+      "curr_rank": 54,
+      "delta": 13
+    },
+    {
+      "country": "BR",
+      "name": "AI Mirror: Fotos anime IA",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 20,
+      "curr_rank": 7,
       "delta": 13
     },
     {
@@ -73,19 +97,35 @@
       "delta": 11
     },
     {
-      "country": "KR",
-      "name": "Facetune 페이스튠, 셀피사진 비디오편집 셀카어플",
-      "developer": "Lightricks Ltd.",
-      "prev_rank": 99,
-      "curr_rank": 88,
+      "country": "FR",
+      "name": "Blow Up AI: Deviens Viral",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 47,
+      "curr_rank": 36,
       "delta": 11
     },
     {
-      "country": "DE",
-      "name": "AI Foto - Editor, Verbesserer",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 88,
-      "curr_rank": 78,
+      "country": "AU",
+      "name": "Shots - AI Photo & Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 84,
+      "curr_rank": 73,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "invideo AI: AI video generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 80,
+      "curr_rank": 70,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Cosmo: Hair Editor, AI Filters",
+      "developer": "Spark Dynamic",
+      "prev_rank": 50,
+      "curr_rank": 40,
       "delta": 10
     }
   ],
@@ -96,16 +136,50 @@
         "name": "MePic－AI Photo Video Generator",
         "developer": "Ocean Float Mobile",
         "prev_rank": 80,
-        "curr_rank": 50,
-        "delta": 30
+        "curr_rank": 52,
+        "delta": 28
       },
       {
         "country": "GB",
         "name": "Uplens: Photo & Video Editor",
         "developer": "MPGames",
         "prev_rank": 81,
+        "curr_rank": 65,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 71,
         "curr_rank": 56,
-        "delta": 25
+        "delta": 15
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 67,
+        "curr_rank": 54,
+        "delta": 13
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 60,
+        "curr_rank": 41,
+        "delta": 19
+      },
+      {
+        "country": "DE",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 75,
+        "curr_rank": 61,
+        "delta": 14
       }
     ],
     "AU": [
@@ -114,8 +188,8 @@
         "name": "MePic－AI Photo Video Generator",
         "developer": "Ocean Float Mobile",
         "prev_rank": 73,
-        "curr_rank": 56,
-        "delta": 17
+        "curr_rank": 54,
+        "delta": 19
       },
       {
         "country": "AU",
@@ -124,6 +198,14 @@
         "prev_rank": 87,
         "curr_rank": 75,
         "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Shots - AI Photo & Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 84,
+        "curr_rank": 73,
+        "delta": 11
       }
     ],
     "US": [
@@ -137,14 +219,6 @@
       },
       {
         "country": "US",
-        "name": "Truepic Vision",
-        "developer": "TRUEPIC Inc",
-        "prev_rank": 96,
-        "curr_rank": 82,
-        "delta": 14
-      },
-      {
-        "country": "US",
         "name": "Vids AI - Reels Video Editor",
         "developer": "Viral Vision Ltd.",
         "prev_rank": 84,
@@ -152,40 +226,52 @@
         "delta": 11
       }
     ],
-    "DE": [
+    "IN": [
       {
-        "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 60,
-        "curr_rank": 46,
+        "country": "IN",
+        "name": "Chatlulu:Video&Photo Editor",
+        "developer": "Hong Kong Endless Flow Technology Limited",
+        "prev_rank": 95,
+        "curr_rank": 81,
         "delta": 14
-      },
+      }
+    ],
+    "BR": [
       {
-        "country": "DE",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 75,
-        "curr_rank": 62,
+        "country": "BR",
+        "name": "AI Mirror: Fotos anime IA",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 20,
+        "curr_rank": 7,
         "delta": 13
       },
       {
-        "country": "DE",
-        "name": "AI Foto - Editor, Verbesserer",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 88,
-        "curr_rank": 78,
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 80,
+        "curr_rank": 70,
         "delta": 10
       }
     ],
-    "KR": [
+    "FR": [
       {
-        "country": "KR",
-        "name": "Facetune 페이스튠, 셀피사진 비디오편집 셀카어플",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 99,
-        "curr_rank": 88,
+        "country": "FR",
+        "name": "Blow Up AI: Deviens Viral",
+        "developer": "Mountains Studio LLC",
+        "prev_rank": 47,
+        "curr_rank": 36,
         "delta": 11
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Cosmo: Hair Editor, AI Filters",
+        "developer": "Spark Dynamic",
+        "prev_rank": 50,
+        "curr_rank": 40,
+        "delta": 10
       }
     ]
   },
@@ -193,12 +279,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "MePic－AI Photo Video Generator leads with +30 jump in GB"
+      "text": "MePic－AI Photo Video Generator leads with +28 jump in GB"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 3 rising apps - highest activity today"
+      "text": "GB has 4 rising apps - highest activity today"
     },
     {
       "type": "app-note",
