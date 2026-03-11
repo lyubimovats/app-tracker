@@ -9,84 +9,76 @@
       "delta": 51
     },
     {
-      "country": "IN",
-      "name": "Animator - AI photo dance",
-      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-      "prev_rank": 92,
-      "curr_rank": 52,
-      "delta": 40
-    },
-    {
       "country": "US",
       "name": "Pro Photo Mosaic Creator",
       "developer": "Picture Mosaics LLC",
       "prev_rank": 82,
-      "curr_rank": 43,
-      "delta": 39
+      "curr_rank": 44,
+      "delta": 38
     },
     {
       "country": "FR",
       "name": "Mysticat-AI Photo Studio",
       "developer": "WUHE Technology Limited",
       "prev_rank": 90,
-      "curr_rank": 58,
-      "delta": 32
+      "curr_rank": 55,
+      "delta": 35
     },
     {
       "country": "IN",
       "name": "Posely: AI Car Editor & Photos",
       "developer": "Soldd",
       "prev_rank": 85,
-      "curr_rank": 57,
-      "delta": 28
+      "curr_rank": 60,
+      "delta": 25
+    },
+    {
+      "country": "IN",
+      "name": "Animator - AI photo dance",
+      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+      "prev_rank": 92,
+      "curr_rank": 68,
+      "delta": 24
     },
     {
       "country": "DE",
       "name": "CarMod - Car modification AI",
       "developer": "Netbu",
       "prev_rank": 35,
-      "curr_rank": 20,
-      "delta": 15
-    },
-    {
-      "country": "IN",
-      "name": "Vmake: AI Talking Video Editor",
-      "developer": "Starii Tech Pty Ltd",
-      "prev_rank": 99,
-      "curr_rank": 84,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Blur Photo & Mosaic",
-      "developer": "Yu Abe",
-      "prev_rank": 98,
-      "curr_rank": 87,
-      "delta": 11
+      "curr_rank": 13,
+      "delta": 22
     },
     {
       "country": "ID",
-      "name": "DaVinci - Image Generator AI",
-      "developer": "HUBX",
-      "prev_rank": 100,
-      "curr_rank": 89,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "Glowify - AI Hairstyle Try On",
-      "developer": "Flarial Interactive",
-      "prev_rank": 77,
-      "curr_rank": 67,
-      "delta": 10
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 57,
+      "curr_rank": 44,
+      "delta": 13
     },
     {
       "country": "US",
       "name": "Photoshop Express Photo Editor",
       "developer": "Adobe Inc.",
       "prev_rank": 98,
+      "curr_rank": 87,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "Sora by OpenAI",
+      "developer": "OpenAI OpCo, LLC",
+      "prev_rank": 40,
+      "curr_rank": 29,
+      "delta": 11
+    },
+    {
+      "country": "IN",
+      "name": "Vmake: AI Talking Video Editor",
+      "developer": "Starii Tech Pty Ltd",
+      "prev_rank": 99,
       "curr_rank": 88,
-      "delta": 10
+      "delta": 11
     },
     {
       "country": "GB",
@@ -98,10 +90,10 @@
     },
     {
       "country": "GB",
-      "name": "invideo AI: AI Video Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 59,
-      "curr_rank": 49,
+      "name": "Muse: Reels Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 82,
+      "curr_rank": 72,
       "delta": 10
     },
     {
@@ -124,56 +116,22 @@
         "delta": 51
       }
     ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Animator - AI photo dance",
-        "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-        "prev_rank": 92,
-        "curr_rank": 52,
-        "delta": 40
-      },
-      {
-        "country": "IN",
-        "name": "Posely: AI Car Editor & Photos",
-        "developer": "Soldd",
-        "prev_rank": 85,
-        "curr_rank": 57,
-        "delta": 28
-      },
-      {
-        "country": "IN",
-        "name": "Vmake: AI Talking Video Editor",
-        "developer": "Starii Tech Pty Ltd",
-        "prev_rank": 99,
-        "curr_rank": 84,
-        "delta": 15
-      }
-    ],
     "US": [
       {
         "country": "US",
         "name": "Pro Photo Mosaic Creator",
         "developer": "Picture Mosaics LLC",
         "prev_rank": 82,
-        "curr_rank": 43,
-        "delta": 39
-      },
-      {
-        "country": "US",
-        "name": "Glowify - AI Hairstyle Try On",
-        "developer": "Flarial Interactive",
-        "prev_rank": 77,
-        "curr_rank": 67,
-        "delta": 10
+        "curr_rank": 44,
+        "delta": 38
       },
       {
         "country": "US",
         "name": "Photoshop Express Photo Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 98,
-        "curr_rank": 88,
-        "delta": 10
+        "curr_rank": 87,
+        "delta": 11
       }
     ],
     "FR": [
@@ -182,8 +140,8 @@
         "name": "Mysticat-AI Photo Studio",
         "developer": "WUHE Technology Limited",
         "prev_rank": 90,
-        "curr_rank": 58,
-        "delta": 32
+        "curr_rank": 55,
+        "delta": 35
       },
       {
         "country": "FR",
@@ -194,25 +152,63 @@
         "delta": 10
       }
     ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Posely: AI Car Editor & Photos",
+        "developer": "Soldd",
+        "prev_rank": 85,
+        "curr_rank": 60,
+        "delta": 25
+      },
+      {
+        "country": "IN",
+        "name": "Animator - AI photo dance",
+        "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+        "prev_rank": 92,
+        "curr_rank": 68,
+        "delta": 24
+      },
+      {
+        "country": "IN",
+        "name": "Vmake: AI Talking Video Editor",
+        "developer": "Starii Tech Pty Ltd",
+        "prev_rank": 99,
+        "curr_rank": 88,
+        "delta": 11
+      }
+    ],
     "DE": [
       {
         "country": "DE",
         "name": "CarMod - Car modification AI",
         "developer": "Netbu",
         "prev_rank": 35,
-        "curr_rank": 20,
-        "delta": 15
+        "curr_rank": 13,
+        "delta": 22
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 57,
+        "curr_rank": 44,
+        "delta": 13
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Sora by OpenAI",
+        "developer": "OpenAI OpCo, LLC",
+        "prev_rank": 40,
+        "curr_rank": 29,
+        "delta": 11
       }
     ],
     "GB": [
-      {
-        "country": "GB",
-        "name": "Blur Photo & Mosaic",
-        "developer": "Yu Abe",
-        "prev_rank": 98,
-        "curr_rank": 87,
-        "delta": 11
-      },
       {
         "country": "GB",
         "name": "BeautyPlus-Selfie Photo Editor",
@@ -223,21 +219,11 @@
       },
       {
         "country": "GB",
-        "name": "invideo AI: AI Video Generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 59,
-        "curr_rank": 49,
+        "name": "Muse: Reels Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 82,
+        "curr_rank": 72,
         "delta": 10
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "DaVinci - Image Generator AI",
-        "developer": "HUBX",
-        "prev_rank": 100,
-        "curr_rank": 89,
-        "delta": 11
       }
     ]
   },
@@ -251,6 +237,11 @@
       "type": "market",
       "icon": "🌍",
       "text": "IN has 3 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "AI Catch apps trending with 2 variants rising"
     }
   ],
   "meta": {
