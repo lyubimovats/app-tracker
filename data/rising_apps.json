@@ -1,233 +1,263 @@
 {
   "rising": [
     {
-      "country": "KR",
-      "name": "Shardee 샤디 | Daily vlog camera",
-      "developer": "DIARO",
-      "prev_rank": 47,
-      "curr_rank": 5,
+      "country": "BR",
+      "name": "ToonApp: Gerador de Imagem IA",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 95,
+      "curr_rank": 53,
       "delta": 42
     },
     {
-      "country": "AU",
+      "country": "FR",
       "name": "CarMod - Car modification AI",
       "developer": "Netbu",
-      "prev_rank": 79,
-      "curr_rank": 52,
-      "delta": 27
+      "prev_rank": 97,
+      "curr_rank": 58,
+      "delta": 39
+    },
+    {
+      "country": "FR",
+      "name": "PicsRoom - AI Photo Generator",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 54,
+      "curr_rank": 22,
+      "delta": 32
+    },
+    {
+      "country": "BR",
+      "name": "GoPhoto:AI Photo/Video Creator",
+      "developer": "AIX Studio",
+      "prev_rank": 97,
+      "curr_rank": 69,
+      "delta": 28
+    },
+    {
+      "country": "KR",
+      "name": "AIReel：AI 영상&사진 편집",
+      "developer": "Zhao Yali",
+      "prev_rank": 98,
+      "curr_rank": 74,
+      "delta": 24
+    },
+    {
+      "country": "GB",
+      "name": "Pollo AI - AI Video Generator",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 99,
+      "curr_rank": 77,
+      "delta": 22
+    },
+    {
+      "country": "IN",
+      "name": "Luminar Photo Editor&Enhancer",
+      "developer": "Skylum",
+      "prev_rank": 90,
+      "curr_rank": 68,
+      "delta": 22
+    },
+    {
+      "country": "GB",
+      "name": "AI Viral Video, Photo: Filter",
+      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "prev_rank": 83,
+      "curr_rank": 62,
+      "delta": 21
     },
     {
       "country": "DE",
       "name": "Pose AI | KI Bilder erstellen",
       "developer": "Spark Dynamic",
-      "prev_rank": 99,
-      "curr_rank": 74,
-      "delta": 25
-    },
-    {
-      "country": "ID",
-      "name": "DaVinci - Image Generator AI",
-      "developer": "HUBX",
-      "prev_rank": 92,
-      "curr_rank": 68,
-      "delta": 24
-    },
-    {
-      "country": "GB",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 87,
-      "curr_rank": 64,
-      "delta": 23
-    },
-    {
-      "country": "AU",
-      "name": "Pollo AI - AI Video Generator",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 100,
-      "curr_rank": 77,
-      "delta": 23
-    },
-    {
-      "country": "AU",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 63,
-      "curr_rank": 43,
-      "delta": 20
-    },
-    {
-      "country": "ID",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 44,
-      "curr_rank": 27,
-      "delta": 17
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 67,
-      "curr_rank": 50,
-      "delta": 17
-    },
-    {
-      "country": "DE",
-      "name": "KI Bild, Video Generator: Aura",
-      "developer": "Superapp Labs",
-      "prev_rank": 95,
-      "curr_rank": 80,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 53,
-      "curr_rank": 39,
-      "delta": 14
+      "prev_rank": 74,
+      "curr_rank": 56,
+      "delta": 18
     },
     {
       "country": "BR",
-      "name": "FaceAI Troca de Rosto IA Foto",
-      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
-      "prev_rank": 27,
+      "name": "Dance AI: Vídeos de Dança IA",
+      "developer": "DeePix AI",
+      "prev_rank": 77,
+      "curr_rank": 60,
+      "delta": 17
+    },
+    {
+      "country": "GB",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 29,
       "curr_rank": 13,
-      "delta": 14
+      "delta": 16
     },
     {
       "country": "FR",
       "name": "Dance AI: Vidéos de Danse IA",
       "developer": "DeePix AI",
-      "prev_rank": 61,
-      "curr_rank": 48,
+      "prev_rank": 48,
+      "curr_rank": 32,
+      "delta": 16
+    },
+    {
+      "country": "ID",
+      "name": "Pollo AI - AI Video Generator",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 87,
+      "curr_rank": 72,
+      "delta": 15
+    },
+    {
+      "country": "DE",
+      "name": "Dance AI: KI-Tanzvideo Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 35,
+      "curr_rank": 21,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 91,
+      "curr_rank": 78,
       "delta": 13
     },
     {
-      "country": "FR",
-      "name": "Éditeur photo AI, Renforceur",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 84,
-      "curr_rank": 71,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Halo AI: Photo & Video Editor",
-      "developer": "Product Studio Inc.",
-      "prev_rank": 96,
-      "curr_rank": 84,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 72,
-      "curr_rank": 60,
-      "delta": 12
-    },
-    {
-      "country": "JP",
-      "name": "PrettyUp - 人気のAI髪描き、動画と写真加工アプリ",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 97,
-      "curr_rank": 86,
+      "country": "DE",
+      "name": "Photo Lab: KI Bild Generator",
+      "developer": "Linerock Investments LTD",
+      "prev_rank": 79,
+      "curr_rank": 68,
       "delta": 11
     },
     {
-      "country": "FR",
-      "name": "Facetune: Éditeur Photo/Vidéo",
-      "developer": "Lightricks Ltd.",
-      "prev_rank": 71,
+      "country": "ID",
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 72,
       "curr_rank": 61,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "PhotoApp - AI Photo Enhancer",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "prev_rank": 75,
+      "curr_rank": 65,
       "delta": 10
     },
     {
-      "country": "BR",
-      "name": "OpusClip - AI video clipping",
-      "developer": "OpusClip",
-      "prev_rank": 96,
-      "curr_rank": 86,
-      "delta": 10
-    },
-    {
-      "country": "BR",
-      "name": "PrettyUp - Video Body Editor",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 99,
-      "curr_rank": 89,
-      "delta": 10
-    },
-    {
-      "country": "KR",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 71,
-      "curr_rank": 61,
+      "country": "JP",
+      "name": "Pollo AI - AI動画生成",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 85,
+      "curr_rank": 75,
       "delta": 10
     }
   ],
   "by_country": {
-    "KR": [
+    "BR": [
       {
-        "country": "KR",
-        "name": "Shardee 샤디 | Daily vlog camera",
-        "developer": "DIARO",
-        "prev_rank": 47,
-        "curr_rank": 5,
+        "country": "BR",
+        "name": "ToonApp: Gerador de Imagem IA",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 95,
+        "curr_rank": 53,
         "delta": 42
       },
       {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 72,
-        "curr_rank": 60,
-        "delta": 12
+        "country": "BR",
+        "name": "GoPhoto:AI Photo/Video Creator",
+        "developer": "AIX Studio",
+        "prev_rank": 97,
+        "curr_rank": 69,
+        "delta": 28
       },
       {
+        "country": "BR",
+        "name": "Dance AI: Vídeos de Dança IA",
+        "developer": "DeePix AI",
+        "prev_rank": 77,
+        "curr_rank": 60,
+        "delta": 17
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "CarMod - Car modification AI",
+        "developer": "Netbu",
+        "prev_rank": 97,
+        "curr_rank": 58,
+        "delta": 39
+      },
+      {
+        "country": "FR",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 54,
+        "curr_rank": 22,
+        "delta": 32
+      },
+      {
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 48,
+        "curr_rank": 32,
+        "delta": 16
+      }
+    ],
+    "KR": [
+      {
         "country": "KR",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 71,
-        "curr_rank": 61,
+        "name": "AIReel：AI 영상&사진 편집",
+        "developer": "Zhao Yali",
+        "prev_rank": 98,
+        "curr_rank": 74,
+        "delta": 24
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Pollo AI - AI Video Generator",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 99,
+        "curr_rank": 77,
+        "delta": 22
+      },
+      {
+        "country": "GB",
+        "name": "AI Viral Video, Photo: Filter",
+        "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "prev_rank": 83,
+        "curr_rank": 62,
+        "delta": 21
+      },
+      {
+        "country": "GB",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 29,
+        "curr_rank": 13,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "PhotoApp - AI Photo Enhancer",
+        "developer": "SCALEUP YAZILIM HIZMETLERI",
+        "prev_rank": 75,
+        "curr_rank": 65,
         "delta": 10
       }
     ],
-    "AU": [
+    "IN": [
       {
-        "country": "AU",
-        "name": "CarMod - Car modification AI",
-        "developer": "Netbu",
-        "prev_rank": 79,
-        "curr_rank": 52,
-        "delta": 27
-      },
-      {
-        "country": "AU",
-        "name": "Pollo AI - AI Video Generator",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 100,
-        "curr_rank": 77,
-        "delta": 23
-      },
-      {
-        "country": "AU",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 63,
-        "curr_rank": 43,
-        "delta": 20
-      },
-      {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 67,
-        "curr_rank": 50,
-        "delta": 17
+        "country": "IN",
+        "name": "Luminar Photo Editor&Enhancer",
+        "developer": "Skylum",
+        "prev_rank": 90,
+        "curr_rank": 68,
+        "delta": 22
       }
     ],
     "DE": [
@@ -235,123 +265,63 @@
         "country": "DE",
         "name": "Pose AI | KI Bilder erstellen",
         "developer": "Spark Dynamic",
-        "prev_rank": 99,
-        "curr_rank": 74,
-        "delta": 25
+        "prev_rank": 74,
+        "curr_rank": 56,
+        "delta": 18
       },
       {
         "country": "DE",
-        "name": "KI Bild, Video Generator: Aura",
-        "developer": "Superapp Labs",
-        "prev_rank": 95,
-        "curr_rank": 80,
-        "delta": 15
+        "name": "Dance AI: KI-Tanzvideo Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 35,
+        "curr_rank": 21,
+        "delta": 14
+      },
+      {
+        "country": "DE",
+        "name": "Photo Lab: KI Bild Generator",
+        "developer": "Linerock Investments LTD",
+        "prev_rank": 79,
+        "curr_rank": 68,
+        "delta": 11
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "DaVinci - Image Generator AI",
-        "developer": "HUBX",
-        "prev_rank": 92,
-        "curr_rank": 68,
-        "delta": 24
+        "name": "Pollo AI - AI Video Generator",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 87,
+        "curr_rank": 72,
+        "delta": 15
       },
       {
         "country": "ID",
+        "name": "Chatlulu:Video&Photo Editor",
+        "developer": "Hong Kong Endless Flow Technology Limited",
+        "prev_rank": 72,
+        "curr_rank": 61,
+        "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 44,
-        "curr_rank": 27,
-        "delta": 17
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 87,
-        "curr_rank": 64,
-        "delta": 23
-      },
-      {
-        "country": "GB",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 53,
-        "curr_rank": 39,
-        "delta": 14
-      },
-      {
-        "country": "GB",
-        "name": "Halo AI: Photo & Video Editor",
-        "developer": "Product Studio Inc.",
-        "prev_rank": 96,
-        "curr_rank": 84,
-        "delta": 12
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "FaceAI Troca de Rosto IA Foto",
-        "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
-        "prev_rank": 27,
-        "curr_rank": 13,
-        "delta": 14
-      },
-      {
-        "country": "BR",
-        "name": "OpusClip - AI video clipping",
-        "developer": "OpusClip",
-        "prev_rank": 96,
-        "curr_rank": 86,
-        "delta": 10
-      },
-      {
-        "country": "BR",
-        "name": "PrettyUp - Video Body Editor",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 61,
-        "curr_rank": 48,
+        "prev_rank": 91,
+        "curr_rank": 78,
         "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "Éditeur photo AI, Renforceur",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 84,
-        "curr_rank": 71,
-        "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "Facetune: Éditeur Photo/Vidéo",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 71,
-        "curr_rank": 61,
-        "delta": 10
       }
     ],
     "JP": [
       {
         "country": "JP",
-        "name": "PrettyUp - 人気のAI髪描き、動画と写真加工アプリ",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 97,
-        "curr_rank": 86,
-        "delta": 11
+        "name": "Pollo AI - AI動画生成",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 85,
+        "curr_rank": 75,
+        "delta": 10
       }
     ]
   },
@@ -359,22 +329,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Shardee 샤디 | Daily vlog camera leads with +42 jump in KR"
+      "text": "ToonApp: Gerador de Imagem IA leads with +42 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 4 rising apps - highest activity today"
+      "text": "GB has 4 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "Dance AI apps trending with 4 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Ageroom - AI Photo Generator rising in 2 markets: AU, GB"
+      "text": "Pollo AI - AI Video Generator rising in 2 markets: GB, ID"
     }
   ],
   "meta": {
-    "prev_date": "2026-03-11",
-    "curr_date": "2026-03-12",
+    "prev_date": "2026-03-12",
+    "curr_date": "2026-03-13",
     "days": 1
   }
 }
