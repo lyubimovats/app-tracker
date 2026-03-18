@@ -21,47 +21,47 @@
       "name": "Quokka: AI Video Effects Maker",
       "developer": "AIVORA PTE. LTD.",
       "prev_rank": 79,
-      "curr_rank": 45,
-      "delta": 34
-    },
-    {
-      "country": "FR",
-      "name": "Quokka: AI Video Effects Maker",
-      "developer": "AIVORA PTE. LTD.",
-      "prev_rank": 78,
-      "curr_rank": 55,
-      "delta": 23
+      "curr_rank": 49,
+      "delta": 30
     },
     {
       "country": "ID",
-      "name": "Reelsapp: reel & video editor",
-      "developer": "Rustam Achilov",
-      "prev_rank": 100,
-      "curr_rank": 78,
-      "delta": 22
-    },
-    {
-      "country": "GB",
-      "name": "Cosplay: AI Baby Generator",
-      "developer": "Spark Dynamic",
-      "prev_rank": 90,
-      "curr_rank": 69,
-      "delta": 21
+      "name": "AI Baby Generator・Future Face",
+      "developer": "Great Development",
+      "prev_rank": 76,
+      "curr_rank": 52,
+      "delta": 24
     },
     {
       "country": "GB",
       "name": "Muse: Reels Video Editor",
       "developer": "Bigrowth",
       "prev_rank": 75,
-      "curr_rank": 56,
-      "delta": 19
+      "curr_rank": 52,
+      "delta": 23
     },
     {
       "country": "BR",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 91,
-      "curr_rank": 72,
+      "curr_rank": 69,
+      "delta": 22
+    },
+    {
+      "country": "FR",
+      "name": "Quokka: AI Video Effects Maker",
+      "developer": "AIVORA PTE. LTD.",
+      "prev_rank": 78,
+      "curr_rank": 57,
+      "delta": 21
+    },
+    {
+      "country": "KR",
+      "name": "타입캐스트 라이트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 97,
+      "curr_rank": 78,
       "delta": 19
     },
     {
@@ -74,43 +74,59 @@
     },
     {
       "country": "ID",
-      "name": "AI Baby Generator・Future Face",
-      "developer": "Great Development",
-      "prev_rank": 76,
-      "curr_rank": 60,
-      "delta": 16
+      "name": "Reelsapp: reel & video editor",
+      "developer": "Rustam Achilov",
+      "prev_rank": 100,
+      "curr_rank": 82,
+      "delta": 18
     },
     {
       "country": "JP",
       "name": "Pollo AI - AI動画生成",
       "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
       "prev_rank": 100,
-      "curr_rank": 86,
+      "curr_rank": 84,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "Cosplay: AI Baby Generator",
+      "developer": "Spark Dynamic",
+      "prev_rank": 90,
+      "curr_rank": 76,
       "delta": 14
     },
     {
-      "country": "KR",
-      "name": "Quokka: AI Video Effects Maker",
-      "developer": "AIVORA PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 76,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "타입캐스트 라이트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 97,
-      "curr_rank": 86,
-      "delta": 11
+      "country": "AU",
+      "name": "Mysticat-AI Photo Studio",
+      "developer": "WUHE Technology Limited",
+      "prev_rank": 76,
+      "curr_rank": 62,
+      "delta": 14
     },
     {
       "country": "US",
       "name": "Ageroom - AI Photo Generator",
       "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
       "prev_rank": 91,
-      "curr_rank": 81,
-      "delta": 10
+      "curr_rank": 78,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "PicsRoom - AI Photo Generator",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 58,
+      "curr_rank": 46,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "Filmora: AI 영상 제작 · 동영상 편집 앱",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 75,
+      "curr_rank": 64,
+      "delta": 11
     },
     {
       "country": "FR",
@@ -121,11 +137,11 @@
       "delta": 10
     },
     {
-      "country": "KR",
-      "name": "Filmora: AI 영상 제작 · 동영상 편집 앱",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 75,
-      "curr_rank": 65,
+      "country": "BR",
+      "name": "invideo AI: AI video generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 74,
+      "curr_rank": 64,
       "delta": 10
     }
   ],
@@ -144,8 +160,16 @@
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 91,
-        "curr_rank": 72,
-        "delta": 19
+        "curr_rank": 69,
+        "delta": 22
+      },
+      {
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 74,
+        "curr_rank": 64,
+        "delta": 10
       }
     ],
     "GB": [
@@ -159,19 +183,19 @@
       },
       {
         "country": "GB",
-        "name": "Cosplay: AI Baby Generator",
-        "developer": "Spark Dynamic",
-        "prev_rank": 90,
-        "curr_rank": 69,
-        "delta": 21
-      },
-      {
-        "country": "GB",
         "name": "Muse: Reels Video Editor",
         "developer": "Bigrowth",
         "prev_rank": 75,
-        "curr_rank": 56,
-        "delta": 19
+        "curr_rank": 52,
+        "delta": 23
+      },
+      {
+        "country": "GB",
+        "name": "Cosplay: AI Baby Generator",
+        "developer": "Spark Dynamic",
+        "prev_rank": 90,
+        "curr_rank": 76,
+        "delta": 14
       }
     ],
     "DE": [
@@ -180,36 +204,18 @@
         "name": "Quokka: AI Video Effects Maker",
         "developer": "AIVORA PTE. LTD.",
         "prev_rank": 79,
-        "curr_rank": 45,
-        "delta": 34
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Quokka: AI Video Effects Maker",
-        "developer": "AIVORA PTE. LTD.",
-        "prev_rank": 78,
-        "curr_rank": 55,
-        "delta": 23
-      },
-      {
-        "country": "FR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 54,
-        "curr_rank": 44,
-        "delta": 10
+        "curr_rank": 49,
+        "delta": 30
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "Reelsapp: reel & video editor",
-        "developer": "Rustam Achilov",
-        "prev_rank": 100,
-        "curr_rank": 78,
-        "delta": 22
+        "name": "AI Baby Generator・Future Face",
+        "developer": "Great Development",
+        "prev_rank": 76,
+        "curr_rank": 52,
+        "delta": 24
       },
       {
         "country": "ID",
@@ -221,11 +227,55 @@
       },
       {
         "country": "ID",
-        "name": "AI Baby Generator・Future Face",
-        "developer": "Great Development",
-        "prev_rank": 76,
-        "curr_rank": 60,
-        "delta": 16
+        "name": "Reelsapp: reel & video editor",
+        "developer": "Rustam Achilov",
+        "prev_rank": 100,
+        "curr_rank": 82,
+        "delta": 18
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Quokka: AI Video Effects Maker",
+        "developer": "AIVORA PTE. LTD.",
+        "prev_rank": 78,
+        "curr_rank": 57,
+        "delta": 21
+      },
+      {
+        "country": "FR",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 58,
+        "curr_rank": 46,
+        "delta": 12
+      },
+      {
+        "country": "FR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 54,
+        "curr_rank": 44,
+        "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "타입캐스트 라이트 - AI 음성 제작",
+        "developer": "Neosapience, Inc.",
+        "prev_rank": 97,
+        "curr_rank": 78,
+        "delta": 19
+      },
+      {
+        "country": "KR",
+        "name": "Filmora: AI 영상 제작 · 동영상 편집 앱",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 75,
+        "curr_rank": 64,
+        "delta": 11
       }
     ],
     "JP": [
@@ -234,34 +284,18 @@
         "name": "Pollo AI - AI動画生成",
         "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
         "prev_rank": 100,
-        "curr_rank": 86,
-        "delta": 14
+        "curr_rank": 84,
+        "delta": 16
       }
     ],
-    "KR": [
+    "AU": [
       {
-        "country": "KR",
-        "name": "Quokka: AI Video Effects Maker",
-        "developer": "AIVORA PTE. LTD.",
-        "prev_rank": 87,
-        "curr_rank": 76,
-        "delta": 11
-      },
-      {
-        "country": "KR",
-        "name": "타입캐스트 라이트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 97,
-        "curr_rank": 86,
-        "delta": 11
-      },
-      {
-        "country": "KR",
-        "name": "Filmora: AI 영상 제작 · 동영상 편집 앱",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
+        "country": "AU",
+        "name": "Mysticat-AI Photo Studio",
+        "developer": "WUHE Technology Limited",
+        "prev_rank": 76,
+        "curr_rank": 62,
+        "delta": 14
       }
     ],
     "US": [
@@ -270,8 +304,8 @@
         "name": "Ageroom - AI Photo Generator",
         "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
         "prev_rank": 91,
-        "curr_rank": 81,
-        "delta": 10
+        "curr_rank": 78,
+        "delta": 13
       }
     ]
   },
@@ -284,12 +318,12 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 3 rising apps - highest activity today"
+      "text": "BR has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Quokka: AI Video Effects Maker rising in 4 markets: GB, DE, FR, KR"
+      "text": "Quokka: AI Video Effects Maker rising in 3 markets: GB, DE, FR"
     }
   ],
   "meta": {
