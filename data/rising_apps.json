@@ -5,15 +5,31 @@
       "name": "Shardee 샤디 | Daily vlog camera",
       "developer": "DIARO",
       "prev_rank": 98,
-      "curr_rank": 21,
-      "delta": 77
+      "curr_rank": 22,
+      "delta": 76
+    },
+    {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 95,
+      "curr_rank": 65,
+      "delta": 30
     },
     {
       "country": "AU",
       "name": "Adobe Photoshop: Photo Editor",
       "developer": "Adobe Inc.",
       "prev_rank": 99,
-      "curr_rank": 76,
+      "curr_rank": 72,
+      "delta": 27
+    },
+    {
+      "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 55,
+      "curr_rank": 32,
       "delta": 23
     },
     {
@@ -21,40 +37,32 @@
       "name": "Luminar Photo Editor&Enhancer",
       "developer": "Skylum",
       "prev_rank": 86,
-      "curr_rank": 65,
-      "delta": 21
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 55,
-      "curr_rank": 36,
-      "delta": 19
+      "curr_rank": 66,
+      "delta": 20
     },
     {
       "country": "ID",
       "name": "Timestamp Camera :AI Timestamp",
       "developer": "Shanghai Zongchong Information Technology Co., Ltd",
       "prev_rank": 76,
-      "curr_rank": 61,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 100,
-      "curr_rank": 89,
-      "delta": 11
+      "curr_rank": 62,
+      "delta": 14
     },
     {
       "country": "DE",
-      "name": "Photoroom: KI Foto Editor",
-      "developer": "Photoroom",
-      "prev_rank": 59,
-      "curr_rank": 48,
-      "delta": 11
+      "name": "invideo AI: AI Video-Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 76,
+      "curr_rank": 63,
+      "delta": 13
+    },
+    {
+      "country": "BR",
+      "name": "Facelab - Editor de Fotos IA",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 74,
+      "curr_rank": 64,
+      "delta": 10
     }
   ],
   "by_country": {
@@ -64,16 +72,34 @@
         "name": "Shardee 샤디 | Daily vlog camera",
         "developer": "DIARO",
         "prev_rank": 98,
-        "curr_rank": 21,
-        "delta": 77
+        "curr_rank": 22,
+        "delta": 76
       },
       {
         "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 55,
-        "curr_rank": 36,
-        "delta": 19
+        "curr_rank": 32,
+        "delta": 23
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 95,
+        "curr_rank": 65,
+        "delta": 30
+      },
+      {
+        "country": "DE",
+        "name": "invideo AI: AI Video-Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 76,
+        "curr_rank": 63,
+        "delta": 13
       }
     ],
     "AU": [
@@ -82,8 +108,8 @@
         "name": "Adobe Photoshop: Photo Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 99,
-        "curr_rank": 76,
-        "delta": 23
+        "curr_rank": 72,
+        "delta": 27
       }
     ],
     "IN": [
@@ -92,8 +118,8 @@
         "name": "Luminar Photo Editor&Enhancer",
         "developer": "Skylum",
         "prev_rank": 86,
-        "curr_rank": 65,
-        "delta": 21
+        "curr_rank": 66,
+        "delta": 20
       }
     ],
     "ID": [
@@ -102,28 +128,18 @@
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
         "prev_rank": 76,
-        "curr_rank": 61,
-        "delta": 15
+        "curr_rank": 62,
+        "delta": 14
       }
     ],
-    "GB": [
+    "BR": [
       {
-        "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 100,
-        "curr_rank": 89,
-        "delta": 11
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Photoroom: KI Foto Editor",
-        "developer": "Photoroom",
-        "prev_rank": 59,
-        "curr_rank": 48,
-        "delta": 11
+        "country": "BR",
+        "name": "Facelab - Editor de Fotos IA",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 74,
+        "curr_rank": 64,
+        "delta": 10
       }
     ]
   },
@@ -131,7 +147,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Shardee 샤디 | Daily vlog camera leads with +77 jump in KR"
+      "text": "Shardee 샤디 | Daily vlog camera leads with +76 jump in KR"
     },
     {
       "type": "market",
