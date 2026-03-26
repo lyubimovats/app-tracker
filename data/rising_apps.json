@@ -2,26 +2,34 @@
   "rising": [
     {
       "country": "DE",
-      "name": "Glam KI, AI Bilder Bearbeiten",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 91,
-      "curr_rank": 48,
-      "delta": 43
-    },
-    {
-      "country": "DE",
       "name": "Hailuo AI: Bild & Video AI",
       "developer": "NANONOBLE PTE. LTD.",
       "prev_rank": 79,
-      "curr_rank": 45,
-      "delta": 34
+      "curr_rank": 38,
+      "delta": 41
+    },
+    {
+      "country": "DE",
+      "name": "Glam KI, AI Bilder Bearbeiten",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 91,
+      "curr_rank": 55,
+      "delta": 36
     },
     {
       "country": "US",
       "name": "VideoGPT - AI Video Generator",
       "developer": "ElevenThirteen LLC",
       "prev_rank": 79,
-      "curr_rank": 48,
+      "curr_rank": 47,
+      "delta": 32
+    },
+    {
+      "country": "KR",
+      "name": "Quokka: AI Video Effects Maker",
+      "developer": "AIVORA PTE. LTD.",
+      "prev_rank": 92,
+      "curr_rank": 61,
       "delta": 31
     },
     {
@@ -33,36 +41,36 @@
       "delta": 30
     },
     {
-      "country": "KR",
-      "name": "Quokka: AI Video Effects Maker",
-      "developer": "AIVORA PTE. LTD.",
-      "prev_rank": 92,
-      "curr_rank": 66,
-      "delta": 26
-    },
-    {
-      "country": "FR",
-      "name": "ToonApp: Vidéo IA, Photo Anime",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 94,
-      "curr_rank": 69,
-      "delta": 25
-    },
-    {
       "country": "DE",
       "name": "Retake AI: Foto & Gesicht",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 75,
-      "curr_rank": 52,
-      "delta": 23
+      "curr_rank": 51,
+      "delta": 24
     },
     {
       "country": "FR",
-      "name": "Pika Labs: AI Trend Effects",
-      "developer": "Md Saidul Haque",
-      "prev_rank": 91,
-      "curr_rank": 68,
-      "delta": 23
+      "name": "AI Mirror: Éditeur de visage",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 93,
+      "curr_rank": 73,
+      "delta": 20
+    },
+    {
+      "country": "IN",
+      "name": "Prompt Ai : Ai Photo Maker",
+      "developer": "Utsav Jayani",
+      "prev_rank": 95,
+      "curr_rank": 75,
+      "delta": 20
+    },
+    {
+      "country": "AU",
+      "name": "Quokka: AI Video Effects Maker",
+      "developer": "AIVORA PTE. LTD.",
+      "prev_rank": 44,
+      "curr_rank": 24,
+      "delta": 20
     },
     {
       "country": "AU",
@@ -73,132 +81,68 @@
       "delta": 18
     },
     {
-      "country": "GB",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 86,
-      "curr_rank": 70,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "Glowify - AI Hairstyle Try On",
-      "developer": "Flarial Interactive",
-      "prev_rank": 96,
-      "curr_rank": 81,
-      "delta": 15
-    },
-    {
       "country": "FR",
-      "name": "AI Mirror: Éditeur de visage",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 93,
-      "curr_rank": 78,
-      "delta": 15
-    },
-    {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 84,
-      "curr_rank": 69,
-      "delta": 15
-    },
-    {
-      "country": "IN",
-      "name": "Prompt Ai : Ai Photo Maker",
-      "developer": "Utsav Jayani",
-      "prev_rank": 95,
-      "curr_rank": 80,
-      "delta": 15
+      "name": "Pika Labs: AI Trend Effects",
+      "developer": "Md Saidul Haque",
+      "prev_rank": 91,
+      "curr_rank": 75,
+      "delta": 16
     },
     {
       "country": "IN",
       "name": "PicsRoom - AI Photo Generator",
       "developer": "HAPPY TOOLS HK LIMITED",
       "prev_rank": 59,
-      "curr_rank": 45,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "PicsRoom - AI Photo Generator",
-      "developer": "HAPPY TOOLS HK LIMITED",
-      "prev_rank": 89,
-      "curr_rank": 76,
-      "delta": 13
+      "curr_rank": 43,
+      "delta": 16
     },
     {
       "country": "FR",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 49,
-      "curr_rank": 36,
-      "delta": 13
+      "name": "ToonApp: Vidéo IA, Photo Anime",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 94,
+      "curr_rank": 79,
+      "delta": 15
     },
     {
-      "country": "FR",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 67,
-      "curr_rank": 54,
-      "delta": 13
+      "country": "US",
+      "name": "Glowify - AI Hairstyle Try On",
+      "developer": "Flarial Interactive",
+      "prev_rank": 96,
+      "curr_rank": 84,
+      "delta": 12
     },
     {
-      "country": "GB",
-      "name": "PhotoApp - AI Photo Enhancer",
-      "developer": "SCALEUP YAZILIM HIZMETLERI",
-      "prev_rank": 80,
-      "curr_rank": 68,
+      "country": "KR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 84,
+      "curr_rank": 72,
       "delta": 12
     },
     {
       "country": "AU",
-      "name": "Quokka: AI Video Effects Maker",
-      "developer": "AIVORA PTE. LTD.",
-      "prev_rank": 44,
-      "curr_rank": 32,
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 29,
+      "curr_rank": 17,
       "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "Facelab・Gesicht, Körper, Haare",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 74,
-      "curr_rank": 63,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "Facelab: Retouche Visage・Corps",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 74,
-      "curr_rank": 63,
-      "delta": 11
-    },
-    {
-      "country": "IN",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 96,
-      "curr_rank": 85,
-      "delta": 11
     },
     {
       "country": "US",
       "name": "EPIK - AI Photo & Video Editor",
       "developer": "SNOW Corporation",
       "prev_rank": 63,
-      "curr_rank": 53,
-      "delta": 10
+      "curr_rank": 52,
+      "delta": 11
     },
     {
-      "country": "GB",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 94,
-      "curr_rank": 84,
-      "delta": 10
+      "country": "FR",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 49,
+      "curr_rank": 38,
+      "delta": 11
     },
     {
       "country": "DE",
@@ -210,18 +154,18 @@
     },
     {
       "country": "DE",
-      "name": "Dance AI: KI-Tanzvideo Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 72,
-      "curr_rank": 62,
+      "name": "PicsRoom - AI Photo Generator",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 89,
+      "curr_rank": 79,
       "delta": 10
     },
     {
       "country": "FR",
-      "name": "AI Video - Générateur Vidéo IA",
-      "developer": "HUBX",
-      "prev_rank": 42,
-      "curr_rank": 32,
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 67,
+      "curr_rank": 57,
       "delta": 10
     }
   ],
@@ -229,43 +173,27 @@
     "DE": [
       {
         "country": "DE",
-        "name": "Glam KI, AI Bilder Bearbeiten",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 91,
-        "curr_rank": 48,
-        "delta": 43
-      },
-      {
-        "country": "DE",
         "name": "Hailuo AI: Bild & Video AI",
         "developer": "NANONOBLE PTE. LTD.",
         "prev_rank": 79,
-        "curr_rank": 45,
-        "delta": 34
+        "curr_rank": 38,
+        "delta": 41
+      },
+      {
+        "country": "DE",
+        "name": "Glam KI, AI Bilder Bearbeiten",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 91,
+        "curr_rank": 55,
+        "delta": 36
       },
       {
         "country": "DE",
         "name": "Retake AI: Foto & Gesicht",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 75,
-        "curr_rank": 52,
-        "delta": 23
-      },
-      {
-        "country": "DE",
-        "name": "PicsRoom - AI Photo Generator",
-        "developer": "HAPPY TOOLS HK LIMITED",
-        "prev_rank": 89,
-        "curr_rank": 76,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "Facelab・Gesicht, Körper, Haare",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 74,
-        "curr_rank": 63,
-        "delta": 11
+        "curr_rank": 51,
+        "delta": 24
       },
       {
         "country": "DE",
@@ -277,10 +205,10 @@
       },
       {
         "country": "DE",
-        "name": "Dance AI: KI-Tanzvideo Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 72,
-        "curr_rank": 62,
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 89,
+        "curr_rank": 79,
         "delta": 10
       }
     ],
@@ -290,24 +218,42 @@
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
         "prev_rank": 79,
-        "curr_rank": 48,
-        "delta": 31
+        "curr_rank": 47,
+        "delta": 32
       },
       {
         "country": "US",
         "name": "Glowify - AI Hairstyle Try On",
         "developer": "Flarial Interactive",
         "prev_rank": 96,
-        "curr_rank": 81,
-        "delta": 15
+        "curr_rank": 84,
+        "delta": 12
       },
       {
         "country": "US",
         "name": "EPIK - AI Photo & Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 63,
-        "curr_rank": 53,
-        "delta": 10
+        "curr_rank": 52,
+        "delta": 11
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Quokka: AI Video Effects Maker",
+        "developer": "AIVORA PTE. LTD.",
+        "prev_rank": 92,
+        "curr_rank": 61,
+        "delta": 31
+      },
+      {
+        "country": "KR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 84,
+        "curr_rank": 72,
+        "delta": 12
       }
     ],
     "ID": [
@@ -320,47 +266,29 @@
         "delta": 30
       }
     ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "Quokka: AI Video Effects Maker",
-        "developer": "AIVORA PTE. LTD.",
-        "prev_rank": 92,
-        "curr_rank": 66,
-        "delta": 26
-      },
-      {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 84,
-        "curr_rank": 69,
-        "delta": 15
-      }
-    ],
     "FR": [
       {
         "country": "FR",
-        "name": "ToonApp: Vidéo IA, Photo Anime",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 94,
-        "curr_rank": 69,
-        "delta": 25
+        "name": "AI Mirror: Éditeur de visage",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 93,
+        "curr_rank": 73,
+        "delta": 20
       },
       {
         "country": "FR",
         "name": "Pika Labs: AI Trend Effects",
         "developer": "Md Saidul Haque",
         "prev_rank": 91,
-        "curr_rank": 68,
-        "delta": 23
+        "curr_rank": 75,
+        "delta": 16
       },
       {
         "country": "FR",
-        "name": "AI Mirror: Éditeur de visage",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 93,
-        "curr_rank": 78,
+        "name": "ToonApp: Vidéo IA, Photo Anime",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 94,
+        "curr_rank": 79,
         "delta": 15
       },
       {
@@ -368,35 +296,45 @@
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
         "prev_rank": 49,
-        "curr_rank": 36,
-        "delta": 13
+        "curr_rank": 38,
+        "delta": 11
       },
       {
         "country": "FR",
         "name": "Meitu- AI Photo & Video Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 67,
-        "curr_rank": 54,
-        "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 74,
-        "curr_rank": 63,
-        "delta": 11
-      },
-      {
-        "country": "FR",
-        "name": "AI Video - Générateur Vidéo IA",
-        "developer": "HUBX",
-        "prev_rank": 42,
-        "curr_rank": 32,
+        "curr_rank": 57,
         "delta": 10
       }
     ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Prompt Ai : Ai Photo Maker",
+        "developer": "Utsav Jayani",
+        "prev_rank": 95,
+        "curr_rank": 75,
+        "delta": 20
+      },
+      {
+        "country": "IN",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 59,
+        "curr_rank": 43,
+        "delta": 16
+      }
+    ],
     "AU": [
+      {
+        "country": "AU",
+        "name": "Quokka: AI Video Effects Maker",
+        "developer": "AIVORA PTE. LTD.",
+        "prev_rank": 44,
+        "curr_rank": 24,
+        "delta": 20
+      },
       {
         "country": "AU",
         "name": "Retake AI Face & Selfie Editor",
@@ -407,63 +345,11 @@
       },
       {
         "country": "AU",
-        "name": "Quokka: AI Video Effects Maker",
-        "developer": "AIVORA PTE. LTD.",
-        "prev_rank": 44,
-        "curr_rank": 32,
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 29,
+        "curr_rank": 17,
         "delta": 12
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 86,
-        "curr_rank": 70,
-        "delta": 16
-      },
-      {
-        "country": "GB",
-        "name": "PhotoApp - AI Photo Enhancer",
-        "developer": "SCALEUP YAZILIM HIZMETLERI",
-        "prev_rank": 80,
-        "curr_rank": 68,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 94,
-        "curr_rank": 84,
-        "delta": 10
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Prompt Ai : Ai Photo Maker",
-        "developer": "Utsav Jayani",
-        "prev_rank": 95,
-        "curr_rank": 80,
-        "delta": 15
-      },
-      {
-        "country": "IN",
-        "name": "PicsRoom - AI Photo Generator",
-        "developer": "HAPPY TOOLS HK LIMITED",
-        "prev_rank": 59,
-        "curr_rank": 45,
-        "delta": 14
-      },
-      {
-        "country": "IN",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 96,
-        "curr_rank": 85,
-        "delta": 11
       }
     ]
   },
@@ -471,17 +357,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Glam KI, AI Bilder Bearbeiten leads with +43 jump in DE"
+      "text": "Hailuo AI: Bild & Video AI leads with +41 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 7 rising apps - highest activity today"
-    },
-    {
-      "type": "app-note",
-      "icon": "📱",
-      "text": "FaceLab apps trending with 3 variants rising"
+      "text": "DE has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
