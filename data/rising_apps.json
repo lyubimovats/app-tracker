@@ -1,115 +1,91 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Cosmo: AI Haare, Frisur Filter",
-      "developer": "Spark Dynamic",
-      "prev_rank": 74,
-      "curr_rank": 45,
-      "delta": 29
-    },
-    {
-      "country": "DE",
-      "name": "Toonapp KI Foto Bild Generator",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 68,
-      "curr_rank": 44,
-      "delta": 24
+      "country": "AU",
+      "name": "Ageroom - AI Photo Generator",
+      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+      "prev_rank": 90,
+      "curr_rank": 63,
+      "delta": 27
     },
     {
       "country": "AU",
       "name": "Vids AI - Reels Video Editor",
       "developer": "Viral Vision Ltd.",
       "prev_rank": 93,
-      "curr_rank": 71,
-      "delta": 22
-    },
-    {
-      "country": "DE",
-      "name": "Dance AI: KI-Tanzvideo Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 67,
-      "curr_rank": 46,
-      "delta": 21
+      "curr_rank": 70,
+      "delta": 23
     },
     {
       "country": "DE",
       "name": "Hailuo AI: Bild & Video AI",
       "developer": "NANONOBLE PTE. LTD.",
       "prev_rank": 38,
-      "curr_rank": 19,
-      "delta": 19
-    },
-    {
-      "country": "AU",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 90,
-      "curr_rank": 72,
-      "delta": 18
-    },
-    {
-      "country": "DE",
-      "name": "Facelab・Gesicht, Körper, Haare",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 70,
-      "curr_rank": 54,
-      "delta": 16
-    },
-    {
-      "country": "DE",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 77,
-      "curr_rank": 63,
-      "delta": 14
+      "curr_rank": 16,
+      "delta": 22
     },
     {
       "country": "JP",
       "name": "Remini - 高画質化するAI写真アプリ",
       "developer": "Bending Spoons Apps ApS",
       "prev_rank": 58,
-      "curr_rank": 45,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "Chatlulu:Video&Photo Editor",
-      "developer": "Hong Kong Endless Flow Technology Limited",
-      "prev_rank": 95,
-      "curr_rank": 83,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 89,
-      "curr_rank": 77,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Pika Labs: AI Trend Effects",
-      "developer": "Md Saidul Haque",
-      "prev_rank": 75,
-      "curr_rank": 63,
-      "delta": 12
+      "curr_rank": 37,
+      "delta": 21
     },
     {
       "country": "DE",
-      "name": "Photo Lab: KI Bild Generator",
-      "developer": "Linerock Investments LTD",
-      "prev_rank": 80,
-      "curr_rank": 69,
-      "delta": 11
+      "name": "Toonapp KI Foto Bild Generator",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 68,
+      "curr_rank": 48,
+      "delta": 20
+    },
+    {
+      "country": "DE",
+      "name": "Cosmo: AI Haare, Frisur Filter",
+      "developer": "Spark Dynamic",
+      "prev_rank": 74,
+      "curr_rank": 54,
+      "delta": 20
     },
     {
       "country": "IN",
       "name": "KwaiCut - Video Editor",
       "developer": "Kwai Technology Limited",
       "prev_rank": 78,
-      "curr_rank": 67,
+      "curr_rank": 63,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 95,
+      "curr_rank": 81,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "Pika Labs: AI Trend Effects",
+      "developer": "Md Saidul Haque",
+      "prev_rank": 75,
+      "curr_rank": 61,
+      "delta": 14
+    },
+    {
+      "country": "KR",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 56,
+      "curr_rank": 45,
+      "delta": 11
+    },
+    {
+      "country": "IN",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 58,
+      "curr_rank": 47,
       "delta": 11
     },
     {
@@ -122,10 +98,18 @@
     },
     {
       "country": "KR",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 56,
-      "curr_rank": 46,
+      "name": "AIReel：AI 영상&사진 편집",
+      "developer": "Zhao Yali",
+      "prev_rank": 74,
+      "curr_rank": 64,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "YouCam Perfect:AI Photo Editor",
+      "developer": "PERFECT MOBILE CORP.",
+      "prev_rank": 95,
+      "curr_rank": 85,
       "delta": 10
     },
     {
@@ -138,80 +122,22 @@
     }
   ],
   "by_country": {
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Cosmo: AI Haare, Frisur Filter",
-        "developer": "Spark Dynamic",
-        "prev_rank": 74,
-        "curr_rank": 45,
-        "delta": 29
-      },
-      {
-        "country": "DE",
-        "name": "Toonapp KI Foto Bild Generator",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 68,
-        "curr_rank": 44,
-        "delta": 24
-      },
-      {
-        "country": "DE",
-        "name": "Dance AI: KI-Tanzvideo Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 67,
-        "curr_rank": 46,
-        "delta": 21
-      },
-      {
-        "country": "DE",
-        "name": "Hailuo AI: Bild & Video AI",
-        "developer": "NANONOBLE PTE. LTD.",
-        "prev_rank": 38,
-        "curr_rank": 19,
-        "delta": 19
-      },
-      {
-        "country": "DE",
-        "name": "Facelab・Gesicht, Körper, Haare",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 70,
-        "curr_rank": 54,
-        "delta": 16
-      },
-      {
-        "country": "DE",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 77,
-        "curr_rank": 63,
-        "delta": 14
-      },
-      {
-        "country": "DE",
-        "name": "Photo Lab: KI Bild Generator",
-        "developer": "Linerock Investments LTD",
-        "prev_rank": 80,
-        "curr_rank": 69,
-        "delta": 11
-      }
-    ],
     "AU": [
-      {
-        "country": "AU",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 93,
-        "curr_rank": 71,
-        "delta": 22
-      },
       {
         "country": "AU",
         "name": "Ageroom - AI Photo Generator",
         "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
         "prev_rank": 90,
-        "curr_rank": 72,
-        "delta": 18
+        "curr_rank": 63,
+        "delta": 27
+      },
+      {
+        "country": "AU",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 93,
+        "curr_rank": 70,
+        "delta": 23
       },
       {
         "country": "AU",
@@ -222,44 +148,40 @@
         "delta": 11
       }
     ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Hailuo AI: Bild & Video AI",
+        "developer": "NANONOBLE PTE. LTD.",
+        "prev_rank": 38,
+        "curr_rank": 16,
+        "delta": 22
+      },
+      {
+        "country": "DE",
+        "name": "Toonapp KI Foto Bild Generator",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 68,
+        "curr_rank": 48,
+        "delta": 20
+      },
+      {
+        "country": "DE",
+        "name": "Cosmo: AI Haare, Frisur Filter",
+        "developer": "Spark Dynamic",
+        "prev_rank": 74,
+        "curr_rank": 54,
+        "delta": 20
+      }
+    ],
     "JP": [
       {
         "country": "JP",
         "name": "Remini - 高画質化するAI写真アプリ",
         "developer": "Bending Spoons Apps ApS",
         "prev_rank": 58,
-        "curr_rank": 45,
-        "delta": 13
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Chatlulu:Video&Photo Editor",
-        "developer": "Hong Kong Endless Flow Technology Limited",
-        "prev_rank": 95,
-        "curr_rank": 83,
-        "delta": 12
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 89,
-        "curr_rank": 77,
-        "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Pika Labs: AI Trend Effects",
-        "developer": "Md Saidul Haque",
-        "prev_rank": 75,
-        "curr_rank": 63,
-        "delta": 12
+        "curr_rank": 37,
+        "delta": 21
       }
     ],
     "IN": [
@@ -268,8 +190,44 @@
         "name": "KwaiCut - Video Editor",
         "developer": "Kwai Technology Limited",
         "prev_rank": 78,
-        "curr_rank": 67,
+        "curr_rank": 63,
+        "delta": 15
+      },
+      {
+        "country": "IN",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 58,
+        "curr_rank": 47,
         "delta": 11
+      },
+      {
+        "country": "IN",
+        "name": "YouCam Perfect:AI Photo Editor",
+        "developer": "PERFECT MOBILE CORP.",
+        "prev_rank": 95,
+        "curr_rank": 85,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Chatlulu:Video&Photo Editor",
+        "developer": "Hong Kong Endless Flow Technology Limited",
+        "prev_rank": 95,
+        "curr_rank": 81,
+        "delta": 14
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Pika Labs: AI Trend Effects",
+        "developer": "Md Saidul Haque",
+        "prev_rank": 75,
+        "curr_rank": 61,
+        "delta": 14
       }
     ],
     "KR": [
@@ -278,7 +236,15 @@
         "name": "Remini - AI Photo Enhancer",
         "developer": "Bending Spoons Apps ApS",
         "prev_rank": 56,
-        "curr_rank": 46,
+        "curr_rank": 45,
+        "delta": 11
+      },
+      {
+        "country": "KR",
+        "name": "AIReel：AI 영상&사진 편집",
+        "developer": "Zhao Yali",
+        "prev_rank": 74,
+        "curr_rank": 64,
         "delta": 10
       }
     ],
@@ -297,12 +263,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Cosmo: AI Haare, Frisur Filter leads with +29 jump in DE"
+      "text": "Ageroom - AI Photo Generator leads with +27 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 7 rising apps - highest activity today"
+      "text": "AU has 3 rising apps - highest activity today"
     }
   ],
   "meta": {
