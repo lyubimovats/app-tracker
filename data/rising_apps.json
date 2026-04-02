@@ -9,36 +9,12 @@
       "delta": 52
     },
     {
-      "country": "GB",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 85,
-      "curr_rank": 62,
-      "delta": 23
-    },
-    {
       "country": "AU",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
       "prev_rank": 90,
-      "curr_rank": 69,
-      "delta": 21
-    },
-    {
-      "country": "GB",
-      "name": "Cosmo: Hair Editor, AI Filters",
-      "developer": "Spark Dynamic",
-      "prev_rank": 69,
-      "curr_rank": 50,
-      "delta": 19
-    },
-    {
-      "country": "IN",
-      "name": "Artifex AI - AI photo Editor",
-      "developer": "Walrus Holdings(Hong Kong)Limited",
-      "prev_rank": 77,
-      "curr_rank": 59,
-      "delta": 18
+      "curr_rank": 64,
+      "delta": 26
     },
     {
       "country": "IN",
@@ -57,6 +33,14 @@
       "delta": 16
     },
     {
+      "country": "GB",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 85,
+      "curr_rank": 70,
+      "delta": 15
+    },
+    {
       "country": "KR",
       "name": "캐럿 - AI와 무엇이든 만드세요",
       "developer": "Paradot Corp.",
@@ -65,28 +49,36 @@
       "delta": 15
     },
     {
+      "country": "GB",
+      "name": "Cosmo: Hair Editor, AI Filters",
+      "developer": "Spark Dynamic",
+      "prev_rank": 69,
+      "curr_rank": 55,
+      "delta": 14
+    },
+    {
       "country": "US",
       "name": "Halo AI: Photo & Video Editor",
       "developer": "Product Studio Inc.",
       "prev_rank": 89,
-      "curr_rank": 75,
-      "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 83,
-      "curr_rank": 69,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 72,
-      "curr_rank": 59,
+      "curr_rank": 76,
       "delta": 13
+    },
+    {
+      "country": "IN",
+      "name": "Artifex AI - AI photo Editor",
+      "developer": "Walrus Holdings(Hong Kong)Limited",
+      "prev_rank": 77,
+      "curr_rank": 64,
+      "delta": 13
+    },
+    {
+      "country": "IN",
+      "name": "PicsRoom - AI Photo Generator",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 30,
+      "curr_rank": 18,
+      "delta": 12
     },
     {
       "country": "US",
@@ -98,6 +90,14 @@
     },
     {
       "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 72,
+      "curr_rank": 61,
+      "delta": 11
+    },
+    {
+      "country": "DE",
       "name": "Retake AI: Foto & Gesicht",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 55,
@@ -105,11 +105,11 @@
       "delta": 10
     },
     {
-      "country": "DE",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 76,
-      "curr_rank": 66,
+      "country": "FR",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 83,
+      "curr_rank": 73,
       "delta": 10
     }
   ],
@@ -124,40 +124,14 @@
         "delta": 52
       }
     ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "AI Mirror: AI Photo Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 85,
-        "curr_rank": 62,
-        "delta": 23
-      },
-      {
-        "country": "GB",
-        "name": "Cosmo: Hair Editor, AI Filters",
-        "developer": "Spark Dynamic",
-        "prev_rank": 69,
-        "curr_rank": 50,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 83,
-        "curr_rank": 69,
-        "delta": 14
-      }
-    ],
     "AU": [
       {
         "country": "AU",
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 90,
-        "curr_rank": 69,
-        "delta": 21
+        "curr_rank": 64,
+        "delta": 26
       },
       {
         "country": "AU",
@@ -171,19 +145,45 @@
     "IN": [
       {
         "country": "IN",
-        "name": "Artifex AI - AI photo Editor",
-        "developer": "Walrus Holdings(Hong Kong)Limited",
-        "prev_rank": 77,
-        "curr_rank": 59,
-        "delta": 18
-      },
-      {
-        "country": "IN",
         "name": "Luminar Photo Editor&Enhancer",
         "developer": "Skylum",
         "prev_rank": 57,
         "curr_rank": 41,
         "delta": 16
+      },
+      {
+        "country": "IN",
+        "name": "Artifex AI - AI photo Editor",
+        "developer": "Walrus Holdings(Hong Kong)Limited",
+        "prev_rank": 77,
+        "curr_rank": 64,
+        "delta": 13
+      },
+      {
+        "country": "IN",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 30,
+        "curr_rank": 18,
+        "delta": 12
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 85,
+        "curr_rank": 70,
+        "delta": 15
+      },
+      {
+        "country": "GB",
+        "name": "Cosmo: Hair Editor, AI Filters",
+        "developer": "Spark Dynamic",
+        "prev_rank": 69,
+        "curr_rank": 55,
+        "delta": 14
       }
     ],
     "KR": [
@@ -202,8 +202,8 @@
         "name": "Halo AI: Photo & Video Editor",
         "developer": "Product Studio Inc.",
         "prev_rank": 89,
-        "curr_rank": 75,
-        "delta": 14
+        "curr_rank": 76,
+        "delta": 13
       },
       {
         "country": "US",
@@ -220,8 +220,8 @@
         "name": "Mosaik+ Unschärfe Foto",
         "developer": "Shiho Sadamizu",
         "prev_rank": 72,
-        "curr_rank": 59,
-        "delta": 13
+        "curr_rank": 61,
+        "delta": 11
       },
       {
         "country": "DE",
@@ -230,13 +230,15 @@
         "prev_rank": 55,
         "curr_rank": 45,
         "delta": 10
-      },
+      }
+    ],
+    "FR": [
       {
-        "country": "DE",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 76,
-        "curr_rank": 66,
+        "country": "FR",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 83,
+        "curr_rank": 73,
         "delta": 10
       }
     ]
@@ -250,7 +252,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 3 rising apps - highest activity today"
+      "text": "IN has 3 rising apps - highest activity today"
     },
     {
       "type": "app-note",
