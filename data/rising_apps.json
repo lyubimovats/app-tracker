@@ -1,279 +1,243 @@
 {
   "rising": [
     {
+      "country": "BR",
+      "name": "PrettyUp-Video Portrait Editor",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 99,
+      "curr_rank": 47,
+      "delta": 52
+    },
+    {
       "country": "GB",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 88,
-      "curr_rank": 57,
-      "delta": 31
-    },
-    {
-      "country": "DE",
-      "name": "Bloom: AI photo editor",
-      "developer": "Tomas Erben",
-      "prev_rank": 48,
-      "curr_rank": 21,
-      "delta": 27
-    },
-    {
-      "country": "IN",
-      "name": "PicsRoom - AI Photo Generator",
-      "developer": "HAPPY TOOLS HK LIMITED",
-      "prev_rank": 56,
-      "curr_rank": 30,
-      "delta": 26
-    },
-    {
-      "country": "US",
-      "name": "Glam AI: Video & Photo Editor",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 100,
-      "curr_rank": 77,
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 85,
+      "curr_rank": 62,
       "delta": 23
     },
     {
-      "country": "KR",
-      "name": "B612 Camera&Photo/Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 27,
-      "curr_rank": 9,
-      "delta": 18
+      "country": "AU",
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 90,
+      "curr_rank": 69,
+      "delta": 21
     },
     {
-      "country": "KR",
-      "name": "캐럿 - AI와 무엇이든 만드세요",
-      "developer": "Paradot Corp.",
+      "country": "GB",
+      "name": "Cosmo: Hair Editor, AI Filters",
+      "developer": "Spark Dynamic",
+      "prev_rank": 69,
+      "curr_rank": 50,
+      "delta": 19
+    },
+    {
+      "country": "IN",
+      "name": "Artifex AI - AI photo Editor",
+      "developer": "Walrus Holdings(Hong Kong)Limited",
       "prev_rank": 77,
       "curr_rank": 59,
       "delta": 18
     },
     {
+      "country": "IN",
+      "name": "Luminar Photo Editor&Enhancer",
+      "developer": "Skylum",
+      "prev_rank": 57,
+      "curr_rank": 41,
+      "delta": 16
+    },
+    {
       "country": "AU",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 53,
-      "curr_rank": 36,
-      "delta": 17
-    },
-    {
-      "country": "DE",
-      "name": "Retake AI: Foto & Gesicht",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 71,
-      "curr_rank": 55,
+      "name": "CarMod - Car modification AI",
+      "developer": "Gd Mobil ve Yazılım Hizmetleri Ltd STi",
+      "prev_rank": 34,
+      "curr_rank": 18,
       "delta": 16
     },
     {
-      "country": "FR",
-      "name": "Photo identité - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 91,
+      "country": "KR",
+      "name": "캐럿 - AI와 무엇이든 만드세요",
+      "developer": "Paradot Corp.",
+      "prev_rank": 59,
+      "curr_rank": 44,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "Halo AI: Photo & Video Editor",
+      "developer": "Product Studio Inc.",
+      "prev_rank": 89,
       "curr_rank": 75,
-      "delta": 16
-    },
-    {
-      "country": "JP",
-      "name": "PrettyUp - 人気の髪描き、動画と写真加工アプリ",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 100,
-      "curr_rank": 84,
-      "delta": 16
-    },
-    {
-      "country": "ID",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 82,
-      "curr_rank": 68,
       "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 71,
-      "curr_rank": 59,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 47,
-      "curr_rank": 36,
-      "delta": 11
     },
     {
       "country": "GB",
       "name": "Splice - Video Editor & Maker",
       "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 93,
-      "curr_rank": 83,
+      "prev_rank": 83,
+      "curr_rank": 69,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 72,
+      "curr_rank": 59,
+      "delta": 13
+    },
+    {
+      "country": "US",
+      "name": "Cosmo: AI Editor, Hair Filters",
+      "developer": "Spark Dynamic",
+      "prev_rank": 79,
+      "curr_rank": 68,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Retake AI: Foto & Gesicht",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 55,
+      "curr_rank": 45,
       "delta": 10
     },
     {
-      "country": "KR",
-      "name": "타입캐스트 라이트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 100,
-      "curr_rank": 90,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "Adobe Premiere: Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 52,
-      "curr_rank": 42,
+      "country": "DE",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 76,
+      "curr_rank": 66,
       "delta": 10
     }
   ],
   "by_country": {
+    "BR": [
+      {
+        "country": "BR",
+        "name": "PrettyUp-Video Portrait Editor",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 99,
+        "curr_rank": 47,
+        "delta": 52
+      }
+    ],
     "GB": [
       {
         "country": "GB",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 88,
-        "curr_rank": 57,
-        "delta": 31
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 85,
+        "curr_rank": 62,
+        "delta": 23
       },
       {
         "country": "GB",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 71,
-        "curr_rank": 59,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 47,
-        "curr_rank": 36,
-        "delta": 11
+        "name": "Cosmo: Hair Editor, AI Filters",
+        "developer": "Spark Dynamic",
+        "prev_rank": 69,
+        "curr_rank": 50,
+        "delta": 19
       },
       {
         "country": "GB",
         "name": "Splice - Video Editor & Maker",
         "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 93,
-        "curr_rank": 83,
-        "delta": 10
+        "prev_rank": 83,
+        "curr_rank": 69,
+        "delta": 14
       }
     ],
-    "DE": [
+    "AU": [
       {
-        "country": "DE",
-        "name": "Bloom: AI photo editor",
-        "developer": "Tomas Erben",
-        "prev_rank": 48,
-        "curr_rank": 21,
-        "delta": 27
+        "country": "AU",
+        "name": "FaceEra – Age & Photo AI",
+        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+        "prev_rank": 90,
+        "curr_rank": 69,
+        "delta": 21
       },
       {
-        "country": "DE",
-        "name": "Retake AI: Foto & Gesicht",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 71,
-        "curr_rank": 55,
+        "country": "AU",
+        "name": "CarMod - Car modification AI",
+        "developer": "Gd Mobil ve Yazılım Hizmetleri Ltd STi",
+        "prev_rank": 34,
+        "curr_rank": 18,
         "delta": 16
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "PicsRoom - AI Photo Generator",
-        "developer": "HAPPY TOOLS HK LIMITED",
-        "prev_rank": 56,
-        "curr_rank": 30,
-        "delta": 26
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Glam AI: Video & Photo Editor",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 100,
-        "curr_rank": 77,
-        "delta": 23
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "B612 Camera&Photo/Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 27,
-        "curr_rank": 9,
-        "delta": 18
-      },
-      {
-        "country": "KR",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp.",
+        "name": "Artifex AI - AI photo Editor",
+        "developer": "Walrus Holdings(Hong Kong)Limited",
         "prev_rank": 77,
         "curr_rank": 59,
         "delta": 18
       },
       {
-        "country": "KR",
-        "name": "타입캐스트 라이트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 100,
-        "curr_rank": 90,
-        "delta": 10
+        "country": "IN",
+        "name": "Luminar Photo Editor&Enhancer",
+        "developer": "Skylum",
+        "prev_rank": 57,
+        "curr_rank": 41,
+        "delta": 16
       }
     ],
-    "AU": [
+    "KR": [
       {
-        "country": "AU",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 53,
-        "curr_rank": 36,
-        "delta": 17
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 59,
+        "curr_rank": 44,
+        "delta": 15
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Halo AI: Photo & Video Editor",
+        "developer": "Product Studio Inc.",
+        "prev_rank": 89,
+        "curr_rank": 75,
+        "delta": 14
       },
       {
-        "country": "AU",
-        "name": "Adobe Premiere: Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 52,
-        "curr_rank": 42,
-        "delta": 10
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Photo identité - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 91,
-        "curr_rank": 75,
-        "delta": 16
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "PrettyUp - 人気の髪描き、動画と写真加工アプリ",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 100,
-        "curr_rank": 84,
-        "delta": 16
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 82,
+        "country": "US",
+        "name": "Cosmo: AI Editor, Hair Filters",
+        "developer": "Spark Dynamic",
+        "prev_rank": 79,
         "curr_rank": 68,
-        "delta": 14
+        "delta": 11
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 72,
+        "curr_rank": 59,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Retake AI: Foto & Gesicht",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 55,
+        "curr_rank": 45,
+        "delta": 10
+      },
+      {
+        "country": "DE",
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 76,
+        "curr_rank": 66,
+        "delta": 10
       }
     ]
   },
@@ -281,22 +245,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Ageroom - AI Photo Generator leads with +31 jump in GB"
+      "text": "PrettyUp-Video Portrait Editor leads with +52 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 4 rising apps - highest activity today"
+      "text": "GB has 3 rising apps - highest activity today"
     },
     {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Ageroom - AI Photo Generator rising in 2 markets: GB, AU"
+      "type": "app-note",
+      "icon": "📱",
+      "text": "Cosmo apps trending with 2 variants rising"
     }
   ],
   "meta": {
-    "prev_date": "2026-03-31",
-    "curr_date": "2026-04-01",
+    "prev_date": "2026-04-01",
+    "curr_date": "2026-04-02",
     "days": 1
   }
 }
