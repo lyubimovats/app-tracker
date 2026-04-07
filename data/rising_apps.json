@@ -5,71 +5,47 @@
       "name": "Halo AI: Photo & Video Editor",
       "developer": "Product Studio Inc.",
       "prev_rank": 97,
-      "curr_rank": 72,
-      "delta": 25
+      "curr_rank": 75,
+      "delta": 22
     },
     {
       "country": "DE",
       "name": "Cosmo: AI Haare, Frisur Filter",
       "developer": "Spark Dynamic",
       "prev_rank": 84,
-      "curr_rank": 61,
-      "delta": 23
+      "curr_rank": 65,
+      "delta": 19
+    },
+    {
+      "country": "KR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 88,
+      "curr_rank": 72,
+      "delta": 16
     },
     {
       "country": "FR",
       "name": "Facelab: Retouche Visage・Corps",
       "developer": "IRONTECH LIMITED",
       "prev_rank": 90,
-      "curr_rank": 69,
-      "delta": 21
+      "curr_rank": 75,
+      "delta": 15
     },
     {
       "country": "AU",
       "name": "AI Photo Editor, Remove Object",
       "developer": "COOL SUMMER LIMITED",
       "prev_rank": 100,
-      "curr_rank": 82,
-      "delta": 18
-    },
-    {
-      "country": "GB",
-      "name": "Pose: AI Photo Video Generator",
-      "developer": "Spark Dynamic",
-      "prev_rank": 46,
-      "curr_rank": 29,
-      "delta": 17
-    },
-    {
-      "country": "GB",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 86,
-      "curr_rank": 70,
-      "delta": 16
-    },
-    {
-      "country": "AU",
-      "name": "AI Viral Video Dance・Filter",
-      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
-      "prev_rank": 90,
-      "curr_rank": 76,
+      "curr_rank": 86,
       "delta": 14
     },
     {
       "country": "US",
-      "name": "Toonapp: AI Photo & Video Art",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 92,
-      "curr_rank": 79,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Adobe Premiere: Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 67,
-      "curr_rank": 54,
+      "name": "GlowUp - Photo Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 99,
+      "curr_rank": 86,
       "delta": 13
     },
     {
@@ -81,11 +57,11 @@
       "delta": 13
     },
     {
-      "country": "FR",
-      "name": "Pose : IA Photo, Image & Vidéo",
-      "developer": "Spark Dynamic",
-      "prev_rank": 86,
-      "curr_rank": 74,
+      "country": "GB",
+      "name": "Adobe Premiere: Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 67,
+      "curr_rank": 55,
       "delta": 12
     },
     {
@@ -97,60 +73,28 @@
       "delta": 12
     },
     {
-      "country": "KR",
-      "name": "타입캐스트 라이트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 100,
-      "curr_rank": 88,
+      "country": "AU",
+      "name": "AI Viral Video Dance・Filter",
+      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
+      "prev_rank": 90,
+      "curr_rank": 78,
       "delta": 12
     },
     {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 88,
-      "curr_rank": 77,
+      "country": "US",
+      "name": "Toonapp: AI Photo & Video Art",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 92,
+      "curr_rank": 81,
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "FaceLab: Face Age, Hair Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 49,
-      "curr_rank": 39,
-      "delta": 10
-    },
-    {
-      "country": "US",
-      "name": "GlowUp - Photo Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 99,
-      "curr_rank": 89,
-      "delta": 10
-    },
-    {
-      "country": "DE",
-      "name": "Facelab・Gesicht, Körper, Haare",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 62,
-      "curr_rank": 52,
-      "delta": 10
-    },
-    {
-      "country": "FR",
-      "name": "ToonApp: Vidéo IA, Photo Anime",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 60,
-      "curr_rank": 50,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "invideo AI: AI Video Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 89,
-      "curr_rank": 79,
-      "delta": 10
+      "country": "GB",
+      "name": "Pose: AI Photo Video Generator",
+      "developer": "Spark Dynamic",
+      "prev_rank": 46,
+      "curr_rank": 35,
+      "delta": 11
     }
   ],
   "by_country": {
@@ -160,32 +104,24 @@
         "name": "Halo AI: Photo & Video Editor",
         "developer": "Product Studio Inc.",
         "prev_rank": 97,
-        "curr_rank": 72,
-        "delta": 25
-      },
-      {
-        "country": "GB",
-        "name": "Pose: AI Photo Video Generator",
-        "developer": "Spark Dynamic",
-        "prev_rank": 46,
-        "curr_rank": 29,
-        "delta": 17
-      },
-      {
-        "country": "GB",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 86,
-        "curr_rank": 70,
-        "delta": 16
+        "curr_rank": 75,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "Adobe Premiere: Video Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 67,
-        "curr_rank": 54,
-        "delta": 13
+        "curr_rank": 55,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Pose: AI Photo Video Generator",
+        "developer": "Spark Dynamic",
+        "prev_rank": 46,
+        "curr_rank": 35,
+        "delta": 11
       }
     ],
     "DE": [
@@ -194,16 +130,26 @@
         "name": "Cosmo: AI Haare, Frisur Filter",
         "developer": "Spark Dynamic",
         "prev_rank": 84,
-        "curr_rank": 61,
-        "delta": 23
+        "curr_rank": 65,
+        "delta": 19
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 88,
+        "curr_rank": 72,
+        "delta": 16
       },
       {
-        "country": "DE",
-        "name": "Facelab・Gesicht, Körper, Haare",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 62,
-        "curr_rank": 52,
-        "delta": 10
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 74,
+        "curr_rank": 62,
+        "delta": 12
       }
     ],
     "FR": [
@@ -212,24 +158,8 @@
         "name": "Facelab: Retouche Visage・Corps",
         "developer": "IRONTECH LIMITED",
         "prev_rank": 90,
-        "curr_rank": 69,
-        "delta": 21
-      },
-      {
-        "country": "FR",
-        "name": "Pose : IA Photo, Image & Vidéo",
-        "developer": "Spark Dynamic",
-        "prev_rank": 86,
-        "curr_rank": 74,
-        "delta": 12
-      },
-      {
-        "country": "FR",
-        "name": "ToonApp: Vidéo IA, Photo Anime",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 60,
-        "curr_rank": 50,
-        "delta": 10
+        "curr_rank": 75,
+        "delta": 15
       }
     ],
     "AU": [
@@ -238,50 +168,34 @@
         "name": "AI Photo Editor, Remove Object",
         "developer": "COOL SUMMER LIMITED",
         "prev_rank": 100,
-        "curr_rank": 82,
-        "delta": 18
+        "curr_rank": 86,
+        "delta": 14
       },
       {
         "country": "AU",
         "name": "AI Viral Video Dance・Filter",
         "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
         "prev_rank": 90,
-        "curr_rank": 76,
-        "delta": 14
-      },
-      {
-        "country": "AU",
-        "name": "invideo AI: AI Video Generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 89,
-        "curr_rank": 79,
-        "delta": 10
+        "curr_rank": 78,
+        "delta": 12
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "Toonapp: AI Photo & Video Art",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 92,
-        "curr_rank": 79,
+        "name": "GlowUp - Photo Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 99,
+        "curr_rank": 86,
         "delta": 13
       },
       {
         "country": "US",
-        "name": "FaceLab: Face Age, Hair Filter",
+        "name": "Toonapp: AI Photo & Video Art",
         "developer": "Lyrebird Studio",
-        "prev_rank": 49,
-        "curr_rank": 39,
-        "delta": 10
-      },
-      {
-        "country": "US",
-        "name": "GlowUp - Photo Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
+        "prev_rank": 92,
+        "curr_rank": 81,
+        "delta": 11
       }
     ],
     "BR": [
@@ -293,54 +207,23 @@
         "curr_rank": 66,
         "delta": 13
       }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp.",
-        "prev_rank": 74,
-        "curr_rank": 62,
-        "delta": 12
-      },
-      {
-        "country": "KR",
-        "name": "타입캐스트 라이트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 100,
-        "curr_rank": 88,
-        "delta": 12
-      },
-      {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 88,
-        "curr_rank": 77,
-        "delta": 11
-      }
     ]
   },
   "insights": [
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Halo AI: Photo & Video Editor leads with +25 jump in GB"
+      "text": "Halo AI: Photo & Video Editor leads with +22 jump in GB"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 4 rising apps - highest activity today"
-    },
-    {
-      "type": "app-note",
-      "icon": "📱",
-      "text": "FaceLab apps trending with 4 variants rising"
+      "text": "GB has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ElevenLabs: AI Voice Generator rising in 2 markets: BR, KR"
+      "text": "ElevenLabs: AI Voice Generator rising in 2 markets: KR, BR"
     }
   ],
   "meta": {
