@@ -1,270 +1,410 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "ToonApp: Vidéo IA, Photo Anime",
-      "developer": "Lyrebird Studio",
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 78,
+      "curr_rank": 42,
+      "delta": 36
+    },
+    {
+      "country": "AU",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 77,
+      "curr_rank": 46,
+      "delta": 31
+    },
+    {
+      "country": "AU",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
       "prev_rank": 96,
-      "curr_rank": 54,
-      "delta": 42
+      "curr_rank": 67,
+      "delta": 29
+    },
+    {
+      "country": "GB",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 76,
+      "curr_rank": 49,
+      "delta": 27
     },
     {
       "country": "AU",
       "name": "Prequel: Photo Editor, Filters",
       "developer": "Prequel Inc.",
-      "prev_rank": 62,
-      "curr_rank": 26,
-      "delta": 36
-    },
-    {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 93,
-      "curr_rank": 62,
-      "delta": 31
-    },
-    {
-      "country": "US",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 87,
-      "curr_rank": 58,
-      "delta": 29
-    },
-    {
-      "country": "US",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 53,
-      "curr_rank": 26,
-      "delta": 27
-    },
-    {
-      "country": "BR",
-      "name": "Facelab - Editor de Fotos IA",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 80,
-      "curr_rank": 55,
-      "delta": 25
-    },
-    {
-      "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 64,
-      "curr_rank": 40,
-      "delta": 24
-    },
-    {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 93,
-      "curr_rank": 70,
-      "delta": 23
-    },
-    {
-      "country": "DE",
-      "name": "Facelab・Gesicht, Körper, Haare",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 78,
-      "curr_rank": 56,
-      "delta": 22
-    },
-    {
-      "country": "AU",
-      "name": "AI Viral Video Dance・Filter",
-      "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
-      "prev_rank": 100,
-      "curr_rank": 78,
-      "delta": 22
-    },
-    {
-      "country": "GB",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 97,
-      "curr_rank": 77,
-      "delta": 20
-    },
-    {
-      "country": "AU",
-      "name": "Cosmo: Color Analysis, AI Hair",
-      "developer": "Spark Dynamic",
-      "prev_rank": 47,
+      "prev_rank": 54,
       "curr_rank": 27,
-      "delta": 20
-    },
-    {
-      "country": "GB",
-      "name": "Halo AI: Photo & Video Editor",
-      "developer": "Product Studio Inc.",
-      "prev_rank": 92,
-      "curr_rank": 75,
-      "delta": 17
-    },
-    {
-      "country": "GB",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 98,
-      "curr_rank": 81,
-      "delta": 17
-    },
-    {
-      "country": "US",
-      "name": "Aura Frames",
-      "developer": "Aura Home, Inc.",
-      "prev_rank": 63,
-      "curr_rank": 47,
-      "delta": 16
-    },
-    {
-      "country": "DE",
-      "name": "YouCam Perfect AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 58,
-      "curr_rank": 42,
-      "delta": 16
-    },
-    {
-      "country": "AU",
-      "name": "Muse Reel Maker & Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 48,
-      "curr_rank": 33,
-      "delta": 15
-    },
-    {
-      "country": "US",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 55,
-      "curr_rank": 41,
-      "delta": 14
-    },
-    {
-      "country": "US",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 79,
-      "curr_rank": 65,
-      "delta": 14
-    },
-    {
-      "country": "FR",
-      "name": "AI Mirror: Éditeur de visage",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 81,
-      "curr_rank": 67,
-      "delta": 14
-    },
-    {
-      "country": "KR",
-      "name": "Wink - 동영상 AI 강화 & 인물보정",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 58,
-      "curr_rank": 45,
-      "delta": 13
-    },
-    {
-      "country": "IN",
-      "name": "Animator - AI photo dance",
-      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-      "prev_rank": 87,
-      "curr_rank": 74,
-      "delta": 13
+      "delta": 27
     },
     {
       "country": "AU",
       "name": "eCalendar - Daily Planner",
       "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 57,
-      "curr_rank": 45,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Toonapp: AI Photo & Video Art",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 87,
-      "curr_rank": 76,
-      "delta": 11
+      "prev_rank": 65,
+      "curr_rank": 41,
+      "delta": 24
     },
     {
       "country": "KR",
-      "name": "Evoto – AI 사진 편집 및 리터칭",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 97,
-      "curr_rank": 86,
-      "delta": 11
+      "name": "AIReel：AI 영상&사진 편집",
+      "developer": "Zhao Yali",
+      "prev_rank": 76,
+      "curr_rank": 55,
+      "delta": 21
     },
     {
       "country": "US",
-      "name": "Photoshop Express Photo Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 80,
-      "curr_rank": 70,
-      "delta": 10
+      "name": "Esti: Aesthetic Photo Editor",
+      "developer": "Prequel Inc.",
+      "prev_rank": 89,
+      "curr_rank": 69,
+      "delta": 20
+    },
+    {
+      "country": "BR",
+      "name": "Posely: Editor de Carros IA",
+      "developer": "Soldd",
+      "prev_rank": 30,
+      "curr_rank": 11,
+      "delta": 19
+    },
+    {
+      "country": "US",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 58,
+      "curr_rank": 41,
+      "delta": 17
     },
     {
       "country": "GB",
-      "name": "Video Up! Video Editor & Maker",
-      "developer": "Video editor & maker app",
-      "prev_rank": 42,
-      "curr_rank": 32,
-      "delta": 10
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 87,
+      "curr_rank": 70,
+      "delta": 17
+    },
+    {
+      "country": "US",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 40,
+      "curr_rank": 24,
+      "delta": 16
+    },
+    {
+      "country": "US",
+      "name": "Toonapp: AI Photo & Video Art",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 88,
+      "curr_rank": 72,
+      "delta": 16
+    },
+    {
+      "country": "BR",
+      "name": "invideo AI: AI video generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 77,
+      "curr_rank": 62,
+      "delta": 15
+    },
+    {
+      "country": "FR",
+      "name": "AI Mirror: Éditeur de visage",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 75,
+      "curr_rank": 61,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "Facetune: KI Foto Video Editor",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 53,
+      "curr_rank": 40,
+      "delta": 13
     },
     {
       "country": "FR",
       "name": "Facetune: Éditeur Photo/Vidéo",
       "developer": "Lightricks Ltd.",
       "prev_rank": 58,
-      "curr_rank": 48,
-      "delta": 10
+      "curr_rank": 45,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "Facelab・Gesicht, Körper, Haare",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 71,
+      "curr_rank": 59,
+      "delta": 12
+    },
+    {
+      "country": "BR",
+      "name": "Remini - Realçador de Fotos IA",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 35,
+      "curr_rank": 23,
+      "delta": 12
+    },
+    {
+      "country": "JP",
+      "name": "PrettyUp - 人気の髪描き、動画と写真加工アプリ",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 96,
+      "curr_rank": 84,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Hypic - Photo Editor & AI Art",
+      "developer": "Bytedance Pte. Ltd",
+      "prev_rank": 23,
+      "curr_rank": 12,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "AI Mirror: Gesichtsfoto-Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 88,
+      "curr_rank": 77,
+      "delta": 11
     },
     {
       "country": "IN",
-      "name": "Mysticat-AI Photo Studio",
-      "developer": "WUHE Technology Limited",
-      "prev_rank": 67,
-      "curr_rank": 57,
+      "name": "Animator - AI photo dance",
+      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+      "prev_rank": 98,
+      "curr_rank": 87,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Muse Reel Maker & Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 47,
+      "curr_rank": 36,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Facelab: Face & Body Editor",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 80,
+      "curr_rank": 70,
       "delta": 10
     },
     {
       "country": "AU",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 35,
-      "curr_rank": 25,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 76,
-      "curr_rank": 66,
+      "name": "Picsify: Photo & Video Editor",
+      "developer": "Picsify.Inc",
+      "prev_rank": 87,
+      "curr_rank": 77,
       "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
+    "DE": [
       {
-        "country": "FR",
-        "name": "ToonApp: Vidéo IA, Photo Anime",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 96,
-        "curr_rank": 54,
-        "delta": 42
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 78,
+        "curr_rank": 42,
+        "delta": 36
       },
+      {
+        "country": "DE",
+        "name": "Facetune: KI Foto Video Editor",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 53,
+        "curr_rank": 40,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Facelab・Gesicht, Körper, Haare",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 71,
+        "curr_rank": 59,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "Hypic - Photo Editor & AI Art",
+        "developer": "Bytedance Pte. Ltd",
+        "prev_rank": 23,
+        "curr_rank": 12,
+        "delta": 11
+      },
+      {
+        "country": "DE",
+        "name": "AI Mirror: Gesichtsfoto-Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 88,
+        "curr_rank": 77,
+        "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 77,
+        "curr_rank": 46,
+        "delta": 31
+      },
+      {
+        "country": "AU",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 96,
+        "curr_rank": 67,
+        "delta": 29
+      },
+      {
+        "country": "AU",
+        "name": "Prequel: Photo Editor, Filters",
+        "developer": "Prequel Inc.",
+        "prev_rank": 54,
+        "curr_rank": 27,
+        "delta": 27
+      },
+      {
+        "country": "AU",
+        "name": "eCalendar - Daily Planner",
+        "developer": "Shenzhen Fujia Technology Co., Ltd.",
+        "prev_rank": 65,
+        "curr_rank": 41,
+        "delta": 24
+      },
+      {
+        "country": "AU",
+        "name": "Muse Reel Maker & Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 47,
+        "curr_rank": 36,
+        "delta": 11
+      },
+      {
+        "country": "AU",
+        "name": "Facelab: Face & Body Editor",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 80,
+        "curr_rank": 70,
+        "delta": 10
+      },
+      {
+        "country": "AU",
+        "name": "Picsify: Photo & Video Editor",
+        "developer": "Picsify.Inc",
+        "prev_rank": 87,
+        "curr_rank": 77,
+        "delta": 10
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 76,
+        "curr_rank": 49,
+        "delta": 27
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 87,
+        "curr_rank": 70,
+        "delta": 17
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "AIReel：AI 영상&사진 편집",
+        "developer": "Zhao Yali",
+        "prev_rank": 76,
+        "curr_rank": 55,
+        "delta": 21
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Esti: Aesthetic Photo Editor",
+        "developer": "Prequel Inc.",
+        "prev_rank": 89,
+        "curr_rank": 69,
+        "delta": 20
+      },
+      {
+        "country": "US",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 58,
+        "curr_rank": 41,
+        "delta": 17
+      },
+      {
+        "country": "US",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 40,
+        "curr_rank": 24,
+        "delta": 16
+      },
+      {
+        "country": "US",
+        "name": "Toonapp: AI Photo & Video Art",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 88,
+        "curr_rank": 72,
+        "delta": 16
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Posely: Editor de Carros IA",
+        "developer": "Soldd",
+        "prev_rank": 30,
+        "curr_rank": 11,
+        "delta": 19
+      },
+      {
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 77,
+        "curr_rank": 62,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "Remini - Realçador de Fotos IA",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 35,
+        "curr_rank": 23,
+        "delta": 12
+      }
+    ],
+    "FR": [
       {
         "country": "FR",
         "name": "AI Mirror: Éditeur de visage",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 81,
-        "curr_rank": 67,
+        "prev_rank": 75,
+        "curr_rank": 61,
         "delta": 14
       },
       {
@@ -272,228 +412,18 @@
         "name": "Facetune: Éditeur Photo/Vidéo",
         "developer": "Lightricks Ltd.",
         "prev_rank": 58,
-        "curr_rank": 48,
-        "delta": 10
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Prequel: Photo Editor, Filters",
-        "developer": "Prequel Inc.",
-        "prev_rank": 62,
-        "curr_rank": 26,
-        "delta": 36
-      },
-      {
-        "country": "AU",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 93,
-        "curr_rank": 70,
-        "delta": 23
-      },
-      {
-        "country": "AU",
-        "name": "AI Viral Video Dance・Filter",
-        "developer": "COSMOS OYUN YAZILIM DANIŞMANLIK SANAYİ TİCARET LİMİTED ŞİRKETİ",
-        "prev_rank": 100,
-        "curr_rank": 78,
-        "delta": 22
-      },
-      {
-        "country": "AU",
-        "name": "Cosmo: Color Analysis, AI Hair",
-        "developer": "Spark Dynamic",
-        "prev_rank": 47,
-        "curr_rank": 27,
-        "delta": 20
-      },
-      {
-        "country": "AU",
-        "name": "Muse Reel Maker & Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 48,
-        "curr_rank": 33,
-        "delta": 15
-      },
-      {
-        "country": "AU",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 57,
-        "curr_rank": 45,
-        "delta": 12
-      },
-      {
-        "country": "AU",
-        "name": "FaceApp: Perfect Face Editor",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 35,
-        "curr_rank": 25,
-        "delta": 10
-      },
-      {
-        "country": "AU",
-        "name": "AI Mirror: AI Photo Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 76,
-        "curr_rank": 66,
-        "delta": 10
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 93,
-        "curr_rank": 62,
-        "delta": 31
-      },
-      {
-        "country": "BR",
-        "name": "Facelab - Editor de Fotos IA",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 80,
-        "curr_rank": 55,
-        "delta": 25
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 87,
-        "curr_rank": 58,
-        "delta": 29
-      },
-      {
-        "country": "US",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 53,
-        "curr_rank": 26,
-        "delta": 27
-      },
-      {
-        "country": "US",
-        "name": "Aura Frames",
-        "developer": "Aura Home, Inc.",
-        "prev_rank": 63,
-        "curr_rank": 47,
-        "delta": 16
-      },
-      {
-        "country": "US",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 55,
-        "curr_rank": 41,
-        "delta": 14
-      },
-      {
-        "country": "US",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 79,
-        "curr_rank": 65,
-        "delta": 14
-      },
-      {
-        "country": "US",
-        "name": "Photoshop Express Photo Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 80,
-        "curr_rank": 70,
-        "delta": 10
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 64,
-        "curr_rank": 40,
-        "delta": 24
-      },
-      {
-        "country": "GB",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 97,
-        "curr_rank": 77,
-        "delta": 20
-      },
-      {
-        "country": "GB",
-        "name": "Halo AI: Photo & Video Editor",
-        "developer": "Product Studio Inc.",
-        "prev_rank": 92,
-        "curr_rank": 75,
-        "delta": 17
-      },
-      {
-        "country": "GB",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 98,
-        "curr_rank": 81,
-        "delta": 17
-      },
-      {
-        "country": "GB",
-        "name": "Toonapp: AI Photo & Video Art",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 87,
-        "curr_rank": 76,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "Video Up! Video Editor & Maker",
-        "developer": "Video editor & maker app",
-        "prev_rank": 42,
-        "curr_rank": 32,
-        "delta": 10
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Facelab・Gesicht, Körper, Haare",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 78,
-        "curr_rank": 56,
-        "delta": 22
-      },
-      {
-        "country": "DE",
-        "name": "YouCam Perfect AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 58,
-        "curr_rank": 42,
-        "delta": 16
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "Wink - 동영상 AI 강화 & 인물보정",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 58,
         "curr_rank": 45,
         "delta": 13
-      },
+      }
+    ],
+    "JP": [
       {
-        "country": "KR",
-        "name": "Evoto – AI 사진 편집 및 리터칭",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 97,
-        "curr_rank": 86,
-        "delta": 11
+        "country": "JP",
+        "name": "PrettyUp - 人気の髪描き、動画と写真加工アプリ",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 96,
+        "curr_rank": 84,
+        "delta": 12
       }
     ],
     "IN": [
@@ -501,17 +431,9 @@
         "country": "IN",
         "name": "Animator - AI photo dance",
         "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-        "prev_rank": 87,
-        "curr_rank": 74,
-        "delta": 13
-      },
-      {
-        "country": "IN",
-        "name": "Mysticat-AI Photo Studio",
-        "developer": "WUHE Technology Limited",
-        "prev_rank": 67,
-        "curr_rank": 57,
-        "delta": 10
+        "prev_rank": 98,
+        "curr_rank": 87,
+        "delta": 11
       }
     ]
   },
@@ -519,27 +441,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "ToonApp: Vidéo IA, Photo Anime leads with +42 jump in FR"
+      "text": "Passfoto - PhotoAiD leads with +36 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 8 rising apps - highest activity today"
+      "text": "AU has 7 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "FaceLab apps trending with 3 variants rising"
+      "text": "FaceLab apps trending with 2 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Tezza: Aesthetic Photo Editor rising in 2 markets: BR, US"
+      "text": "Tezza: Aesthetic Photo Editor rising in 2 markets: AU, US"
     }
   ],
   "meta": {
-    "prev_date": "2026-04-02",
-    "curr_date": "2026-04-07",
+    "prev_date": "2026-04-03",
+    "curr_date": "2026-04-08",
     "days": 5
   }
 }
