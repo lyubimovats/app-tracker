@@ -5,24 +5,40 @@
       "name": "GoPhoto:AI Photo/Video Creator",
       "developer": "AIX Studio",
       "prev_rank": 99,
-      "curr_rank": 36,
-      "delta": 63
+      "curr_rank": 39,
+      "delta": 60
     },
     {
-      "country": "ID",
-      "name": "WayShot: AI Cam & Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 74,
-      "curr_rank": 49,
-      "delta": 25
+      "country": "DE",
+      "name": "PicsRoom - AI Photo Generator",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 73,
+      "curr_rank": 32,
+      "delta": 41
     },
     {
       "country": "AU",
       "name": "AI Video - AI Video Generator",
       "developer": "HUBX",
       "prev_rank": 35,
-      "curr_rank": 12,
-      "delta": 23
+      "curr_rank": 6,
+      "delta": 29
+    },
+    {
+      "country": "ID",
+      "name": "WayShot: AI Cam & Photo Editor",
+      "developer": "Romangic Lab LLC",
+      "prev_rank": 74,
+      "curr_rank": 46,
+      "delta": 28
+    },
+    {
+      "country": "BR",
+      "name": "OpusClip - AI video clipping",
+      "developer": "OpusClip",
+      "prev_rank": 73,
+      "curr_rank": 53,
+      "delta": 20
     },
     {
       "country": "US",
@@ -33,99 +49,131 @@
       "delta": 18
     },
     {
-      "country": "DE",
-      "name": "Artifex AI - AI photo Editor",
-      "developer": "Walrus Holdings(Hong Kong)Limited",
-      "prev_rank": 92,
-      "curr_rank": 75,
+      "country": "GB",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 64,
+      "curr_rank": 47,
       "delta": 17
-    },
-    {
-      "country": "BR",
-      "name": "OpusClip - AI video clipping",
-      "developer": "OpusClip",
-      "prev_rank": 73,
-      "curr_rank": 56,
-      "delta": 17
-    },
-    {
-      "country": "FR",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 67,
-      "curr_rank": 51,
-      "delta": 16
     },
     {
       "country": "BR",
       "name": "invideo AI: AI video generator",
       "developer": "Invideo Inc",
       "prev_rank": 90,
-      "curr_rank": 75,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 47,
-      "curr_rank": 33,
-      "delta": 14
+      "curr_rank": 73,
+      "delta": 17
     },
     {
       "country": "GB",
       "name": "Adobe Premiere: Video Editor",
       "developer": "Adobe Inc.",
       "prev_rank": 55,
-      "curr_rank": 41,
-      "delta": 14
+      "curr_rank": 40,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "AIReel：AI Video Generator",
+      "developer": "Zhao Yali",
+      "prev_rank": 98,
+      "curr_rank": 85,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Adobe Premiere: Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 49,
+      "curr_rank": 36,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 47,
+      "curr_rank": 35,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 50,
+      "curr_rank": 38,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Pika Labs: AI Trend Effects",
+      "developer": "Md Saidul Haque",
+      "prev_rank": 88,
+      "curr_rank": 76,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "Picsify: Photo & Video Editor",
+      "developer": "Picsify.Inc",
+      "prev_rank": 87,
+      "curr_rank": 75,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 76,
+      "curr_rank": 65,
+      "delta": 11
     },
     {
       "country": "DE",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 47,
-      "curr_rank": 33,
-      "delta": 14
+      "curr_rank": 36,
+      "delta": 11
     },
     {
       "country": "IN",
       "name": "Manly - AI Photo Editor",
       "developer": "Alpha Mobile Limited",
       "prev_rank": 92,
-      "curr_rank": 78,
-      "delta": 14
+      "curr_rank": 81,
+      "delta": 11
     },
     {
-      "country": "DE",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 66,
-      "curr_rank": 54,
-      "delta": 12
+      "country": "FR",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 87,
+      "curr_rank": 77,
+      "delta": 10
     },
     {
       "country": "BR",
       "name": "WayShot: AI Cam & Photo Editor",
       "developer": "Romangic Lab LLC",
       "prev_rank": 31,
-      "curr_rank": 20,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "Pose : IA Photo, Image & Vidéo",
-      "developer": "Spark Dynamic",
-      "prev_rank": 62,
-      "curr_rank": 52,
+      "curr_rank": 21,
       "delta": 10
     },
     {
-      "country": "ID",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 68,
-      "curr_rank": 58,
+      "country": "AU",
+      "name": "PicCollage: Magic Photo Editor",
+      "developer": "Cardinal Blue",
+      "prev_rank": 44,
+      "curr_rank": 34,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "Pose: AI Photo Video Generator",
+      "developer": "Spark Dynamic",
+      "prev_rank": 55,
+      "curr_rank": 45,
       "delta": 10
     }
   ],
@@ -136,50 +184,66 @@
         "name": "GoPhoto:AI Photo/Video Creator",
         "developer": "AIX Studio",
         "prev_rank": 99,
-        "curr_rank": 36,
-        "delta": 63
+        "curr_rank": 39,
+        "delta": 60
       },
       {
         "country": "BR",
         "name": "OpusClip - AI video clipping",
         "developer": "OpusClip",
         "prev_rank": 73,
-        "curr_rank": 56,
-        "delta": 17
+        "curr_rank": 53,
+        "delta": 20
       },
       {
         "country": "BR",
         "name": "invideo AI: AI video generator",
         "developer": "Invideo Inc",
         "prev_rank": 90,
-        "curr_rank": 75,
-        "delta": 15
+        "curr_rank": 73,
+        "delta": 17
       },
       {
         "country": "BR",
         "name": "WayShot: AI Cam & Photo Editor",
         "developer": "Romangic Lab LLC",
         "prev_rank": 31,
-        "curr_rank": 20,
-        "delta": 11
+        "curr_rank": 21,
+        "delta": 10
       }
     ],
-    "ID": [
+    "DE": [
       {
-        "country": "ID",
-        "name": "WayShot: AI Cam & Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 74,
-        "curr_rank": 49,
-        "delta": 25
+        "country": "DE",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 73,
+        "curr_rank": 32,
+        "delta": 41
       },
       {
-        "country": "ID",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 68,
-        "curr_rank": 58,
-        "delta": 10
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 50,
+        "curr_rank": 38,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "Pika Labs: AI Trend Effects",
+        "developer": "Md Saidul Haque",
+        "prev_rank": 88,
+        "curr_rank": 76,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 47,
+        "curr_rank": 36,
+        "delta": 11
       }
     ],
     "AU": [
@@ -188,8 +252,50 @@
         "name": "AI Video - AI Video Generator",
         "developer": "HUBX",
         "prev_rank": 35,
-        "curr_rank": 12,
-        "delta": 23
+        "curr_rank": 6,
+        "delta": 29
+      },
+      {
+        "country": "AU",
+        "name": "Adobe Premiere: Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 49,
+        "curr_rank": 36,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Picsify: Photo & Video Editor",
+        "developer": "Picsify.Inc",
+        "prev_rank": 87,
+        "curr_rank": 75,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "PicCollage: Magic Photo Editor",
+        "developer": "Cardinal Blue",
+        "prev_rank": 44,
+        "curr_rank": 34,
+        "delta": 10
+      },
+      {
+        "country": "AU",
+        "name": "Pose: AI Photo Video Generator",
+        "developer": "Spark Dynamic",
+        "prev_rank": 55,
+        "curr_rank": 45,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "WayShot: AI Cam & Photo Editor",
+        "developer": "Romangic Lab LLC",
+        "prev_rank": 74,
+        "curr_rank": 46,
+        "delta": 28
       }
     ],
     "US": [
@@ -200,68 +306,48 @@
         "prev_rank": 69,
         "curr_rank": 51,
         "delta": 18
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Artifex AI - AI photo Editor",
-        "developer": "Walrus Holdings(Hong Kong)Limited",
-        "prev_rank": 92,
-        "curr_rank": 75,
-        "delta": 17
       },
       {
-        "country": "DE",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 47,
-        "curr_rank": 33,
-        "delta": 14
-      },
-      {
-        "country": "DE",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 66,
-        "curr_rank": 54,
-        "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 67,
-        "curr_rank": 51,
-        "delta": 16
-      },
-      {
-        "country": "FR",
-        "name": "Pose : IA Photo, Image & Vidéo",
-        "developer": "Spark Dynamic",
-        "prev_rank": 62,
-        "curr_rank": 52,
-        "delta": 10
+        "country": "US",
+        "name": "AIReel：AI Video Generator",
+        "developer": "Zhao Yali",
+        "prev_rank": 98,
+        "curr_rank": 85,
+        "delta": 13
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 47,
-        "curr_rank": 33,
-        "delta": 14
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 64,
+        "curr_rank": 47,
+        "delta": 17
       },
       {
         "country": "GB",
         "name": "Adobe Premiere: Video Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 55,
-        "curr_rank": 41,
-        "delta": 14
+        "curr_rank": 40,
+        "delta": 15
+      },
+      {
+        "country": "GB",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 47,
+        "curr_rank": 35,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 76,
+        "curr_rank": 65,
+        "delta": 11
       }
     ],
     "IN": [
@@ -270,8 +356,18 @@
         "name": "Manly - AI Photo Editor",
         "developer": "Alpha Mobile Limited",
         "prev_rank": 92,
-        "curr_rank": 78,
-        "delta": 14
+        "curr_rank": 81,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 87,
+        "curr_rank": 77,
+        "delta": 10
       }
     ]
   },
@@ -279,12 +375,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "GoPhoto:AI Photo/Video Creator leads with +63 jump in BR"
+      "text": "GoPhoto:AI Photo/Video Creator leads with +60 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 4 rising apps - highest activity today"
+      "text": "AU has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
