@@ -1,235 +1,161 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "Facelab: Retouche Visage・Corps",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 100,
-      "curr_rank": 73,
-      "delta": 27
+      "country": "JP",
+      "name": "Pollo AI - AI動画生成",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 96,
+      "curr_rank": 72,
+      "delta": 24
     },
     {
-      "country": "AU",
+      "country": "GB",
       "name": "Facelab: Face & Body Editor",
       "developer": "IRONTECH LIMITED",
-      "prev_rank": 88,
-      "curr_rank": 65,
-      "delta": 23
+      "prev_rank": 78,
+      "curr_rank": 58,
+      "delta": 20
     },
     {
       "country": "GB",
-      "name": "Cosmo: Hair Editor, AI Filters",
-      "developer": "Spark Dynamic",
-      "prev_rank": 68,
-      "curr_rank": 49,
-      "delta": 19
-    },
-    {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 83,
-      "curr_rank": 66,
-      "delta": 17
-    },
-    {
-      "country": "DE",
-      "name": "Facelab・Gesicht, Körper, Haare",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 90,
-      "curr_rank": 74,
-      "delta": 16
-    },
-    {
-      "country": "FR",
-      "name": "Dance AI: Vidéos de Danse IA",
-      "developer": "DeePix AI",
-      "prev_rank": 90,
-      "curr_rank": 74,
-      "delta": 16
-    },
-    {
-      "country": "KR",
-      "name": "타입캐스트 라이트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 94,
-      "curr_rank": 79,
+      "name": "PixMorph: AI Video Generator",
+      "developer": "FrontendLead",
+      "prev_rank": 84,
+      "curr_rank": 69,
       "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 19,
-      "curr_rank": 7,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "VN: AI Video Editor",
-      "developer": "Ubiquiti Labs, LLC",
-      "prev_rank": 64,
-      "curr_rank": 52,
-      "delta": 12
-    },
-    {
-      "country": "IN",
-      "name": "Verba: Captions AI for Videos",
-      "developer": "Verba Creative Inc.",
-      "prev_rank": 79,
-      "curr_rank": 67,
-      "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "AIReel：AI Video Generator",
-      "developer": "Zhao Yali",
-      "prev_rank": 85,
-      "curr_rank": 74,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Cosmo: AI Haare, Frisur Filter",
-      "developer": "Spark Dynamic",
-      "prev_rank": 92,
-      "curr_rank": 81,
-      "delta": 11
     },
     {
       "country": "BR",
       "name": "Facelab - Editor de Fotos IA",
       "developer": "IRONTECH LIMITED",
-      "prev_rank": 87,
-      "curr_rank": 76,
-      "delta": 11
+      "prev_rank": 76,
+      "curr_rank": 61,
+      "delta": 15
+    },
+    {
+      "country": "IN",
+      "name": "Luminar AI Image Editor&Eraser",
+      "developer": "Skylum",
+      "prev_rank": 62,
+      "curr_rank": 48,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "invideo AI: AI Video Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 73,
+      "curr_rank": 60,
+      "delta": 13
     },
     {
       "country": "AU",
-      "name": "Cosmo: Color Analysis, AI Hair",
-      "developer": "Spark Dynamic",
-      "prev_rank": 48,
-      "curr_rank": 37,
+      "name": "AI Photo Editor, Remove Object",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 90,
+      "curr_rank": 77,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 96,
+      "curr_rank": 83,
+      "delta": 13
+    },
+    {
+      "country": "US",
+      "name": "Persona: AI Beauty Editor",
+      "developer": "Ticket To The Moon, Inc.",
+      "prev_rank": 90,
+      "curr_rank": 79,
       "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Photo Lab: KI Bild Generator",
+      "developer": "Linerock Investments LTD",
+      "prev_rank": 92,
+      "curr_rank": 81,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "Facelab: Retouche Visage・Corps",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 73,
+      "curr_rank": 62,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "DaVinci - Image Generator AI",
+      "developer": "HUBX",
+      "prev_rank": 92,
+      "curr_rank": 82,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 64,
+      "curr_rank": 54,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 80,
+      "curr_rank": 70,
+      "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
+    "JP": [
       {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 100,
-        "curr_rank": 73,
-        "delta": 27
-      },
-      {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 90,
-        "curr_rank": 74,
-        "delta": 16
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 88,
-        "curr_rank": 65,
-        "delta": 23
-      },
-      {
-        "country": "AU",
-        "name": "Cosmo: Color Analysis, AI Hair",
-        "developer": "Spark Dynamic",
-        "prev_rank": 48,
-        "curr_rank": 37,
-        "delta": 11
+        "country": "JP",
+        "name": "Pollo AI - AI動画生成",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 96,
+        "curr_rank": 72,
+        "delta": 24
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Cosmo: Hair Editor, AI Filters",
-        "developer": "Spark Dynamic",
-        "prev_rank": 68,
-        "curr_rank": 49,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 19,
-        "curr_rank": 7,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "VN: AI Video Editor",
-        "developer": "Ubiquiti Labs, LLC",
-        "prev_rank": 64,
-        "curr_rank": 52,
-        "delta": 12
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 83,
-        "curr_rank": 66,
-        "delta": 17
-      },
-      {
-        "country": "KR",
-        "name": "타입캐스트 라이트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 94,
-        "curr_rank": 79,
-        "delta": 15
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Facelab・Gesicht, Körper, Haare",
+        "name": "Facelab: Face & Body Editor",
         "developer": "IRONTECH LIMITED",
-        "prev_rank": 90,
-        "curr_rank": 74,
-        "delta": 16
+        "prev_rank": 78,
+        "curr_rank": 58,
+        "delta": 20
       },
       {
-        "country": "DE",
-        "name": "Cosmo: AI Haare, Frisur Filter",
-        "developer": "Spark Dynamic",
-        "prev_rank": 92,
-        "curr_rank": 81,
-        "delta": 11
-      }
-    ],
-    "IN": [
+        "country": "GB",
+        "name": "PixMorph: AI Video Generator",
+        "developer": "FrontendLead",
+        "prev_rank": 84,
+        "curr_rank": 69,
+        "delta": 15
+      },
       {
-        "country": "IN",
-        "name": "Verba: Captions AI for Videos",
-        "developer": "Verba Creative Inc.",
-        "prev_rank": 79,
-        "curr_rank": 67,
-        "delta": 12
-      }
-    ],
-    "US": [
+        "country": "GB",
+        "name": "invideo AI: AI Video Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 73,
+        "curr_rank": 60,
+        "delta": 13
+      },
       {
-        "country": "US",
-        "name": "AIReel：AI Video Generator",
-        "developer": "Zhao Yali",
-        "prev_rank": 85,
-        "curr_rank": 74,
-        "delta": 11
+        "country": "GB",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 64,
+        "curr_rank": 54,
+        "delta": 10
       }
     ],
     "BR": [
@@ -237,9 +163,85 @@
         "country": "BR",
         "name": "Facelab - Editor de Fotos IA",
         "developer": "IRONTECH LIMITED",
-        "prev_rank": 87,
-        "curr_rank": 76,
+        "prev_rank": 76,
+        "curr_rank": 61,
+        "delta": 15
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Luminar AI Image Editor&Eraser",
+        "developer": "Skylum",
+        "prev_rank": 62,
+        "curr_rank": 48,
+        "delta": 14
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AI Photo Editor, Remove Object",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 90,
+        "curr_rank": 77,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 96,
+        "curr_rank": 83,
+        "delta": 13
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Persona: AI Beauty Editor",
+        "developer": "Ticket To The Moon, Inc.",
+        "prev_rank": 90,
+        "curr_rank": 79,
         "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "DaVinci - Image Generator AI",
+        "developer": "HUBX",
+        "prev_rank": 92,
+        "curr_rank": 82,
+        "delta": 10
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Photo Lab: KI Bild Generator",
+        "developer": "Linerock Investments LTD",
+        "prev_rank": 92,
+        "curr_rank": 81,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Facelab: Retouche Visage・Corps",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 73,
+        "curr_rank": 62,
+        "delta": 11
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 80,
+        "curr_rank": 70,
+        "delta": 10
       }
     ]
   },
@@ -247,22 +249,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Facelab: Retouche Visage・Corps leads with +27 jump in FR"
+      "text": "Pollo AI - AI動画生成 leads with +24 jump in JP"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 3 rising apps - highest activity today"
+      "text": "GB has 4 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "FaceLab apps trending with 4 variants rising"
+      "text": "FaceLab apps trending with 3 variants rising"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "Adobe Photoshop: Photo Editor rising in 2 markets: AU, GB"
     }
   ],
   "meta": {
-    "prev_date": "2026-04-14",
-    "curr_date": "2026-04-15",
+    "prev_date": "2026-04-15",
+    "curr_date": "2026-04-16",
     "days": 1
   }
 }
