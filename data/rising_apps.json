@@ -5,8 +5,8 @@
       "name": "Hailuo AI: Bild & Video AI",
       "developer": "NANONOBLE PTE. LTD.",
       "prev_rank": 65,
-      "curr_rank": 30,
-      "delta": 35
+      "curr_rank": 29,
+      "delta": 36
     },
     {
       "country": "FR",
@@ -17,12 +17,12 @@
       "delta": 30
     },
     {
-      "country": "BR",
-      "name": "Dance AI: Vídeos de Dança IA",
-      "developer": "DeePix AI",
-      "prev_rank": 91,
-      "curr_rank": 66,
-      "delta": 25
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 41,
+      "curr_rank": 15,
+      "delta": 26
     },
     {
       "country": "FR",
@@ -33,59 +33,91 @@
       "delta": 23
     },
     {
-      "country": "GB",
-      "name": "Dance AI: AI Dance Video Maker",
+      "country": "BR",
+      "name": "Dance AI: Vídeos de Dança IA",
       "developer": "DeePix AI",
-      "prev_rank": 72,
-      "curr_rank": 55,
-      "delta": 17
-    },
-    {
-      "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 85,
-      "curr_rank": 68,
-      "delta": 17
-    },
-    {
-      "country": "GB",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 96,
-      "curr_rank": 79,
-      "delta": 17
+      "prev_rank": 91,
+      "curr_rank": 69,
+      "delta": 22
     },
     {
       "country": "JP",
       "name": "AI Catch: AI ビデオジェネレーター",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 69,
-      "curr_rank": 54,
-      "delta": 15
+      "curr_rank": 49,
+      "delta": 20
     },
     {
       "country": "AU",
-      "name": "Passport Photo App - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 96,
-      "curr_rank": 84,
-      "delta": 12
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 78,
+      "curr_rank": 58,
+      "delta": 20
     },
     {
-      "country": "DE",
-      "name": "AI Mirror: Gesichtsfoto-Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 52,
-      "curr_rank": 41,
-      "delta": 11
+      "country": "GB",
+      "name": "PixPlus-AI Photo & Video Maker",
+      "developer": "PixPlus Development LLC",
+      "prev_rank": 96,
+      "curr_rank": 77,
+      "delta": 19
     },
     {
       "country": "FR",
       "name": "AI Catch: AI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 41,
-      "curr_rank": 31,
+      "curr_rank": 24,
+      "delta": 17
+    },
+    {
+      "country": "GB",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 71,
+      "curr_rank": 56,
+      "delta": 15
+    },
+    {
+      "country": "IN",
+      "name": "AI Video & Photo Maker Videa",
+      "developer": "Pure Apps",
+      "prev_rank": 90,
+      "curr_rank": 75,
+      "delta": 15
+    },
+    {
+      "country": "BR",
+      "name": "OpusClip - AI video clipping",
+      "developer": "OpusClip",
+      "prev_rank": 85,
+      "curr_rank": 71,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 53,
+      "curr_rank": 42,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "AI Mirror: Gesichtsfoto-Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 52,
+      "curr_rank": 42,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "Filmora: AI 영상 제작 & 동영상 편집",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 67,
+      "curr_rank": 57,
       "delta": 10
     }
   ],
@@ -96,16 +128,16 @@
         "name": "Hailuo AI: Bild & Video AI",
         "developer": "NANONOBLE PTE. LTD.",
         "prev_rank": 65,
-        "curr_rank": 30,
-        "delta": 35
+        "curr_rank": 29,
+        "delta": 36
       },
       {
         "country": "DE",
         "name": "AI Mirror: Gesichtsfoto-Editor",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 52,
-        "curr_rank": 41,
-        "delta": 11
+        "curr_rank": 42,
+        "delta": 10
       }
     ],
     "FR": [
@@ -130,8 +162,18 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 41,
-        "curr_rank": 31,
-        "delta": 10
+        "curr_rank": 24,
+        "delta": 17
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 41,
+        "curr_rank": 15,
+        "delta": 26
       }
     ],
     "BR": [
@@ -140,34 +182,16 @@
         "name": "Dance AI: Vídeos de Dança IA",
         "developer": "DeePix AI",
         "prev_rank": 91,
-        "curr_rank": 66,
-        "delta": 25
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 72,
-        "curr_rank": 55,
-        "delta": 17
+        "curr_rank": 69,
+        "delta": 22
       },
       {
-        "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
+        "country": "BR",
+        "name": "OpusClip - AI video clipping",
+        "developer": "OpusClip",
         "prev_rank": 85,
-        "curr_rank": 68,
-        "delta": 17
-      },
-      {
-        "country": "GB",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 96,
-        "curr_rank": 79,
-        "delta": 17
+        "curr_rank": 71,
+        "delta": 14
       }
     ],
     "JP": [
@@ -176,18 +200,64 @@
         "name": "AI Catch: AI ビデオジェネレーター",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 69,
-        "curr_rank": 54,
-        "delta": 15
+        "curr_rank": 49,
+        "delta": 20
       }
     ],
     "AU": [
       {
         "country": "AU",
-        "name": "Passport Photo App - PhotoAiD",
-        "developer": "Photo Aid",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 78,
+        "curr_rank": 58,
+        "delta": 20
+      },
+      {
+        "country": "AU",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 53,
+        "curr_rank": 42,
+        "delta": 11
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "PixPlus-AI Photo & Video Maker",
+        "developer": "PixPlus Development LLC",
         "prev_rank": 96,
-        "curr_rank": 84,
-        "delta": 12
+        "curr_rank": 77,
+        "delta": 19
+      },
+      {
+        "country": "GB",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 71,
+        "curr_rank": 56,
+        "delta": 15
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AI Video & Photo Maker Videa",
+        "developer": "Pure Apps",
+        "prev_rank": 90,
+        "curr_rank": 75,
+        "delta": 15
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Filmora: AI 영상 제작 & 동영상 편집",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 67,
+        "curr_rank": 57,
+        "delta": 10
       }
     ]
   },
@@ -195,7 +265,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Hailuo AI: Bild & Video AI leads with +35 jump in DE"
+      "text": "Hailuo AI: Bild & Video AI leads with +36 jump in DE"
     },
     {
       "type": "market",
@@ -205,7 +275,12 @@
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Dance AI apps trending with 2 variants rising"
+      "text": "AI Catch apps trending with 4 variants rising"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "AI Catch: AI Video Generator rising in 3 markets: US, FR, AU"
     }
   ],
   "meta": {
