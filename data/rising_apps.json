@@ -5,15 +5,23 @@
       "name": "Airbrush: Face Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 42,
-      "curr_rank": 24,
-      "delta": 18
+      "curr_rank": 17,
+      "delta": 25
     },
     {
-      "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 76,
-      "curr_rank": 58,
+      "country": "FR",
+      "name": "PrettyUp -Retouche video corps",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 56,
+      "curr_rank": 32,
+      "delta": 24
+    },
+    {
+      "country": "BR",
+      "name": "BIGVU Teleprompter Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 81,
+      "curr_rank": 63,
       "delta": 18
     },
     {
@@ -25,59 +33,51 @@
       "delta": 18
     },
     {
-      "country": "FR",
-      "name": "PrettyUp -Retouche video corps",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 56,
-      "curr_rank": 41,
+      "country": "IN",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 60,
+      "curr_rank": 45,
       "delta": 15
     },
     {
-      "country": "FR",
-      "name": "Dance AI: Vidéos de Danse IA",
-      "developer": "DeePix AI",
-      "prev_rank": 84,
-      "curr_rank": 69,
-      "delta": 15
-    },
-    {
-      "country": "FR",
-      "name": "Pika Labs: AI Trend Effects",
-      "developer": "Md Saidul Haque",
-      "prev_rank": 93,
-      "curr_rank": 79,
+      "country": "GB",
+      "name": "AIReel：AI Video Generator",
+      "developer": "Zhao Yali",
+      "prev_rank": 98,
+      "curr_rank": 84,
       "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 54,
+      "curr_rank": 40,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "AI LOOK: Photo to Video AI",
+      "developer": "Bao Teng Technology Limited",
+      "prev_rank": 68,
+      "curr_rank": 55,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Chatlulu- Video & Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 70,
+      "curr_rank": 57,
+      "delta": 13
     },
     {
       "country": "US",
       "name": "Vids AI - Reels Video Editor",
       "developer": "Viral Vision Ltd.",
       "prev_rank": 65,
-      "curr_rank": 52,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 77,
-      "curr_rank": 64,
-      "delta": 13
-    },
-    {
-      "country": "BR",
-      "name": "BIGVU Teleprompter Captions AI",
-      "developer": "BIGVU INC",
-      "prev_rank": 81,
-      "curr_rank": 68,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 79,
-      "curr_rank": 67,
+      "curr_rank": 53,
       "delta": 12
     },
     {
@@ -86,14 +86,6 @@
       "developer": "Adobe Inc.",
       "prev_rank": 95,
       "curr_rank": 83,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 87,
-      "curr_rank": 75,
       "delta": 12
     },
     {
@@ -113,27 +105,35 @@
       "delta": 11
     },
     {
-      "country": "IN",
-      "name": "AI LOOK: Photo to Video AI",
-      "developer": "Bao Teng Technology Limited",
-      "prev_rank": 68,
-      "curr_rank": 57,
+      "country": "DE",
+      "name": "AI Foto - Editor, Verbesserer",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 76,
+      "curr_rank": 65,
       "delta": 11
     },
     {
-      "country": "DE",
-      "name": "Airbrush - Fotobearbeitung",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 49,
-      "curr_rank": 39,
-      "delta": 10
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
+      "developer": "DeePix AI",
+      "prev_rank": 84,
+      "curr_rank": 73,
+      "delta": 11
     },
     {
-      "country": "IN",
-      "name": "YouCam Perfect:AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 99,
-      "curr_rank": 89,
+      "country": "AU",
+      "name": "Pose: AI Photo Video Generator",
+      "developer": "Spark Dynamic",
+      "prev_rank": 35,
+      "curr_rank": 24,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 87,
+      "curr_rank": 77,
       "delta": 10
     }
   ],
@@ -144,42 +144,96 @@
         "name": "Airbrush: Face Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 42,
-        "curr_rank": 24,
-        "delta": 18
+        "curr_rank": 17,
+        "delta": 25
       },
       {
         "country": "US",
         "name": "Vids AI - Reels Video Editor",
         "developer": "Viral Vision Ltd.",
         "prev_rank": 65,
-        "curr_rank": 52,
+        "curr_rank": 53,
+        "delta": 12
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "PrettyUp -Retouche video corps",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 56,
+        "curr_rank": 32,
+        "delta": 24
+      },
+      {
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 84,
+        "curr_rank": 73,
+        "delta": 11
+      },
+      {
+        "country": "FR",
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 87,
+        "curr_rank": 77,
+        "delta": 10
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "BIGVU Teleprompter Captions AI",
+        "developer": "BIGVU INC",
+        "prev_rank": 81,
+        "curr_rank": 63,
+        "delta": 18
+      },
+      {
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 89,
+        "curr_rank": 77,
+        "delta": 12
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Winkit - AI Video Enhancer",
+        "developer": "Starii Tech Pty Ltd",
+        "prev_rank": 64,
+        "curr_rank": 46,
+        "delta": 18
+      },
+      {
+        "country": "IN",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 60,
+        "curr_rank": 45,
+        "delta": 15
+      },
+      {
+        "country": "IN",
+        "name": "AI LOOK: Photo to Video AI",
+        "developer": "Bao Teng Technology Limited",
+        "prev_rank": 68,
+        "curr_rank": 55,
         "delta": 13
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 76,
-        "curr_rank": 58,
-        "delta": 18
-      },
-      {
-        "country": "GB",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 77,
-        "curr_rank": 64,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 79,
-        "curr_rank": 67,
-        "delta": 12
+        "name": "AIReel：AI Video Generator",
+        "developer": "Zhao Yali",
+        "prev_rank": 98,
+        "curr_rank": 84,
+        "delta": 14
       },
       {
         "country": "GB",
@@ -198,92 +252,40 @@
         "delta": 11
       }
     ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Winkit - AI Video Enhancer",
-        "developer": "Starii Tech Pty Ltd",
-        "prev_rank": 64,
-        "curr_rank": 46,
-        "delta": 18
-      },
-      {
-        "country": "IN",
-        "name": "AI LOOK: Photo to Video AI",
-        "developer": "Bao Teng Technology Limited",
-        "prev_rank": 68,
-        "curr_rank": 57,
-        "delta": 11
-      },
-      {
-        "country": "IN",
-        "name": "YouCam Perfect:AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "PrettyUp -Retouche video corps",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 56,
-        "curr_rank": 41,
-        "delta": 15
-      },
-      {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 84,
-        "curr_rank": 69,
-        "delta": 15
-      },
-      {
-        "country": "FR",
-        "name": "Pika Labs: AI Trend Effects",
-        "developer": "Md Saidul Haque",
-        "prev_rank": 93,
-        "curr_rank": 79,
-        "delta": 14
-      },
-      {
-        "country": "FR",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 87,
-        "curr_rank": 75,
-        "delta": 12
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "BIGVU Teleprompter Captions AI",
-        "developer": "BIGVU INC",
-        "prev_rank": 81,
-        "curr_rank": 68,
-        "delta": 13
-      },
-      {
-        "country": "BR",
-        "name": "invideo AI: AI video generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 89,
-        "curr_rank": 77,
-        "delta": 12
-      }
-    ],
     "DE": [
       {
         "country": "DE",
-        "name": "Airbrush - Fotobearbeitung",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 49,
-        "curr_rank": 39,
-        "delta": 10
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 54,
+        "curr_rank": 40,
+        "delta": 14
+      },
+      {
+        "country": "DE",
+        "name": "AI Foto - Editor, Verbesserer",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 76,
+        "curr_rank": 65,
+        "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Chatlulu- Video & Photo Editor",
+        "developer": "Hong Kong Endless Flow Technology Limited",
+        "prev_rank": 70,
+        "curr_rank": 57,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Pose: AI Photo Video Generator",
+        "developer": "Spark Dynamic",
+        "prev_rank": 35,
+        "curr_rank": 24,
+        "delta": 11
       }
     ]
   },
@@ -291,17 +293,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Airbrush: Face Photo Editor leads with +18 jump in US"
+      "text": "Airbrush: Face Photo Editor leads with +25 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 5 rising apps - highest activity today"
+      "text": "FR has 3 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Airbrush apps trending with 2 variants rising"
+      "text": "Vids AI apps trending with 2 variants rising"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "Vids AI - Reels Video Editor rising in 2 markets: DE, US"
     }
   ],
   "meta": {
