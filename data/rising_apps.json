@@ -2,6 +2,14 @@
   "rising": [
     {
       "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 89,
+      "curr_rank": 47,
+      "delta": 42
+    },
+    {
+      "country": "DE",
       "name": "WayShot:Aesthetic Photo Editor",
       "developer": "Romangic Lab LLC",
       "prev_rank": 45,
@@ -9,43 +17,27 @@
       "delta": 35
     },
     {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 89,
-      "curr_rank": 56,
-      "delta": 33
-    },
-    {
       "country": "KR",
       "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
       "developer": "PICME",
       "prev_rank": 88,
-      "curr_rank": 57,
-      "delta": 31
-    },
-    {
-      "country": "AU",
-      "name": "BIGVU Teleprompter Captions AI",
-      "developer": "BIGVU INC",
-      "prev_rank": 100,
-      "curr_rank": 71,
-      "delta": 29
-    },
-    {
-      "country": "FR",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 48,
-      "curr_rank": 20,
-      "delta": 28
+      "curr_rank": 54,
+      "delta": 34
     },
     {
       "country": "DE",
       "name": "Retake AI: Foto & Gesicht",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 86,
-      "curr_rank": 59,
+      "curr_rank": 54,
+      "delta": 32
+    },
+    {
+      "country": "AU",
+      "name": "BIGVU Teleprompter Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 100,
+      "curr_rank": 73,
       "delta": 27
     },
     {
@@ -53,15 +45,23 @@
       "name": "Pose: Vídeos e Fotos com IA",
       "developer": "Spark Dynamic",
       "prev_rank": 85,
-      "curr_rank": 58,
-      "delta": 27
+      "curr_rank": 59,
+      "delta": 26
     },
     {
-      "country": "US",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 68,
-      "curr_rank": 46,
+      "country": "FR",
+      "name": "WayShot:Aesthetic Photo Editor",
+      "developer": "Romangic Lab LLC",
+      "prev_rank": 48,
+      "curr_rank": 25,
+      "delta": 23
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 96,
+      "curr_rank": 74,
       "delta": 22
     },
     {
@@ -69,15 +69,15 @@
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 83,
-      "curr_rank": 63,
-      "delta": 20
+      "curr_rank": 61,
+      "delta": 22
     },
     {
       "country": "US",
-      "name": "InstaSize: AI Photo Editor",
-      "developer": "Instasize Inc.",
-      "prev_rank": 93,
-      "curr_rank": 75,
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 68,
+      "curr_rank": 50,
       "delta": 18
     },
     {
@@ -85,32 +85,40 @@
       "name": "Timestamp Camera :AI Timestamp",
       "developer": "Shanghai Zongchong Information Technology Co., Ltd",
       "prev_rank": 87,
-      "curr_rank": 69,
-      "delta": 18
+      "curr_rank": 70,
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
+      "developer": "DeePix AI",
+      "prev_rank": 82,
+      "curr_rank": 67,
+      "delta": 15
     },
     {
       "country": "BR",
       "name": "BIGVU Teleprompter Captions AI",
       "developer": "BIGVU INC",
       "prev_rank": 97,
-      "curr_rank": 81,
-      "delta": 16
+      "curr_rank": 82,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "InstaSize: AI Photo Editor",
+      "developer": "Instasize Inc.",
+      "prev_rank": 93,
+      "curr_rank": 79,
+      "delta": 14
     },
     {
       "country": "DE",
       "name": "invideo AI: AI Video-Generator",
       "developer": "Invideo Inc",
       "prev_rank": 92,
-      "curr_rank": 80,
-      "delta": 12
-    },
-    {
-      "country": "AU",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 62,
-      "curr_rank": 50,
-      "delta": 12
+      "curr_rank": 78,
+      "delta": 14
     },
     {
       "country": "US",
@@ -122,23 +130,39 @@
     },
     {
       "country": "GB",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 72,
-      "curr_rank": 62,
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 71,
+      "curr_rank": 61,
       "delta": 10
     },
     {
-      "country": "GB",
-      "name": "Passport Photo - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 96,
-      "curr_rank": 86,
+      "country": "IN",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 80,
+      "curr_rank": 70,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 62,
+      "curr_rank": 52,
       "delta": 10
     }
   ],
   "by_country": {
     "DE": [
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 89,
+        "curr_rank": 47,
+        "delta": 42
+      },
       {
         "country": "DE",
         "name": "WayShot:Aesthetic Photo Editor",
@@ -149,27 +173,19 @@
       },
       {
         "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 89,
-        "curr_rank": 56,
-        "delta": 33
-      },
-      {
-        "country": "DE",
         "name": "Retake AI: Foto & Gesicht",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 86,
-        "curr_rank": 59,
-        "delta": 27
+        "curr_rank": 54,
+        "delta": 32
       },
       {
         "country": "DE",
         "name": "invideo AI: AI Video-Generator",
         "developer": "Invideo Inc",
         "prev_rank": 92,
-        "curr_rank": 80,
-        "delta": 12
+        "curr_rank": 78,
+        "delta": 14
       }
     ],
     "KR": [
@@ -178,16 +194,16 @@
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 88,
-        "curr_rank": 57,
-        "delta": 31
+        "curr_rank": 54,
+        "delta": 34
       },
       {
         "country": "KR",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 83,
-        "curr_rank": 63,
-        "delta": 20
+        "curr_rank": 61,
+        "delta": 22
       }
     ],
     "AU": [
@@ -196,26 +212,8 @@
         "name": "BIGVU Teleprompter Captions AI",
         "developer": "BIGVU INC",
         "prev_rank": 100,
-        "curr_rank": 71,
-        "delta": 29
-      },
-      {
-        "country": "AU",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 62,
-        "curr_rank": 50,
-        "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 48,
-        "curr_rank": 20,
-        "delta": 28
+        "curr_rank": 73,
+        "delta": 27
       }
     ],
     "BR": [
@@ -224,16 +222,52 @@
         "name": "Pose: Vídeos e Fotos com IA",
         "developer": "Spark Dynamic",
         "prev_rank": 85,
-        "curr_rank": 58,
-        "delta": 27
+        "curr_rank": 59,
+        "delta": 26
       },
       {
         "country": "BR",
         "name": "BIGVU Teleprompter Captions AI",
         "developer": "BIGVU INC",
         "prev_rank": 97,
-        "curr_rank": 81,
-        "delta": 16
+        "curr_rank": 82,
+        "delta": 15
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "WayShot:Aesthetic Photo Editor",
+        "developer": "Romangic Lab LLC",
+        "prev_rank": 48,
+        "curr_rank": 25,
+        "delta": 23
+      },
+      {
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 82,
+        "curr_rank": 67,
+        "delta": 15
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 96,
+        "curr_rank": 74,
+        "delta": 22
+      },
+      {
+        "country": "GB",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 71,
+        "curr_rank": 61,
+        "delta": 10
       }
     ],
     "US": [
@@ -242,16 +276,16 @@
         "name": "AI Mirror: AI Photo Editor",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 68,
-        "curr_rank": 46,
-        "delta": 22
+        "curr_rank": 50,
+        "delta": 18
       },
       {
         "country": "US",
         "name": "InstaSize: AI Photo Editor",
         "developer": "Instasize Inc.",
         "prev_rank": 93,
-        "curr_rank": 75,
-        "delta": 18
+        "curr_rank": 79,
+        "delta": 14
       },
       {
         "country": "US",
@@ -268,25 +302,25 @@
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
         "prev_rank": 87,
-        "curr_rank": 69,
-        "delta": 18
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 72,
-        "curr_rank": 62,
-        "delta": 10
+        "curr_rank": 70,
+        "delta": 17
       },
       {
-        "country": "GB",
-        "name": "Passport Photo - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 96,
-        "curr_rank": 86,
+        "country": "ID",
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 62,
+        "curr_rank": 52,
+        "delta": 10
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 80,
+        "curr_rank": 70,
         "delta": 10
       }
     ]
@@ -295,7 +329,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "WayShot:Aesthetic Photo Editor leads with +35 jump in DE"
+      "text": "Passfoto - PhotoAiD leads with +42 jump in DE"
     },
     {
       "type": "market",
