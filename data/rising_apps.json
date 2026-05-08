@@ -1,293 +1,161 @@
 {
   "rising": [
     {
-      "country": "KR",
-      "name": "Pollo AI(폴로 AI)- AI 비디오 생성기",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 77,
-      "curr_rank": 35,
-      "delta": 42
-    },
-    {
-      "country": "GB",
-      "name": "Pixlr AI Photo & Video Editor",
-      "developer": "Pixlr Pte Ltd",
-      "prev_rank": 97,
-      "curr_rank": 71,
-      "delta": 26
-    },
-    {
-      "country": "JP",
-      "name": "Retake AI 写真、顔 & セルフィーエディター",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 81,
-      "curr_rank": 56,
-      "delta": 25
-    },
-    {
-      "country": "DE",
-      "name": "Pose AI | KI Bilder erstellen",
-      "developer": "Spark Dynamic",
-      "prev_rank": 98,
-      "curr_rank": 75,
-      "delta": 23
-    },
-    {
-      "country": "GB",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
+      "country": "AU",
+      "name": "Time Machine Booth, FaceLab AI",
+      "developer": "Lyrebird Studio",
       "prev_rank": 78,
-      "curr_rank": 58,
-      "delta": 20
+      "curr_rank": 54,
+      "delta": 24
     },
     {
-      "country": "FR",
-      "name": "AIReel: Générateur IA Vidéo",
-      "developer": "Zhao Yali",
-      "prev_rank": 75,
-      "curr_rank": 57,
+      "country": "GB",
+      "name": "Evoto AI Photo Editor",
+      "developer": "TRUESIGHT PTE. LTD.",
+      "prev_rank": 77,
+      "curr_rank": 59,
       "delta": 18
     },
     {
-      "country": "DE",
-      "name": "AI Mirror: Gesichtsfoto-Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 92,
-      "curr_rank": 76,
+      "country": "FR",
+      "name": "PixPlus-AI Photo & Video Maker",
+      "developer": "PixPlus Development LLC",
+      "prev_rank": 77,
+      "curr_rank": 61,
       "delta": 16
     },
     {
-      "country": "US",
-      "name": "Glam AI: Video & Photo Editor",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 92,
-      "curr_rank": 78,
+      "country": "KR",
+      "name": "DeeVid - AI 영상 생성기",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 95,
+      "curr_rank": 80,
+      "delta": 15
+    },
+    {
+      "country": "KR",
+      "name": "캐럿 - AI와 무엇이든 만드세요",
+      "developer": "Paradot Corp.",
+      "prev_rank": 49,
+      "curr_rank": 35,
       "delta": 14
     },
     {
-      "country": "IN",
-      "name": "PicsRoom - AI Photo Generator",
-      "developer": "HAPPY TOOLS HK LIMITED",
-      "prev_rank": 57,
+      "country": "AU",
+      "name": "Movia AI: Photo to Video Maker",
+      "developer": "DEEP LINK META LIMITED",
+      "prev_rank": 87,
+      "curr_rank": 74,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "VN: Video Editor",
+      "developer": "Ubiquiti Labs, LLC",
+      "prev_rank": 55,
       "curr_rank": 44,
-      "delta": 13
-    },
-    {
-      "country": "ID",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 78,
-      "curr_rank": 65,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "Cosplay: Future Baby Generator",
-      "developer": "Spark Dynamic",
-      "prev_rank": 80,
-      "curr_rank": 68,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 41,
-      "curr_rank": 30,
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 89,
-      "curr_rank": 79,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "VN: Video Editor",
-      "developer": "Ubiquiti Labs, LLC",
-      "prev_rank": 61,
-      "curr_rank": 51,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 94,
-      "curr_rank": 84,
-      "delta": 10
-    },
-    {
-      "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 65,
-      "curr_rank": 55,
-      "delta": 10
-    },
-    {
-      "country": "KR",
-      "name": "Filmora: AI 영상 제작 & 동영상 편집",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "country": "FR",
+      "name": "AIPhoto: Image Video Generator",
+      "developer": "Le Anh Tuan",
       "prev_rank": 73,
       "curr_rank": 63,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "Pose: Vídeos e Fotos com IA",
+      "developer": "Spark Dynamic",
+      "prev_rank": 97,
+      "curr_rank": 87,
       "delta": 10
     }
   ],
   "by_country": {
-    "KR": [
+    "AU": [
       {
-        "country": "KR",
-        "name": "Pollo AI(폴로 AI)- AI 비디오 생성기",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 77,
-        "curr_rank": 35,
-        "delta": 42
+        "country": "AU",
+        "name": "Time Machine Booth, FaceLab AI",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 78,
+        "curr_rank": 54,
+        "delta": 24
       },
       {
-        "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 65,
-        "curr_rank": 55,
-        "delta": 10
-      },
-      {
-        "country": "KR",
-        "name": "Filmora: AI 영상 제작 & 동영상 편집",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 73,
-        "curr_rank": 63,
-        "delta": 10
+        "country": "AU",
+        "name": "Movia AI: Photo to Video Maker",
+        "developer": "DEEP LINK META LIMITED",
+        "prev_rank": 87,
+        "curr_rank": 74,
+        "delta": 13
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Pixlr AI Photo & Video Editor",
-        "developer": "Pixlr Pte Ltd",
-        "prev_rank": 97,
-        "curr_rank": 71,
-        "delta": 26
-      },
-      {
-        "country": "GB",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 78,
-        "curr_rank": 58,
-        "delta": 20
-      },
-      {
-        "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 41,
-        "curr_rank": 30,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "VN: Video Editor",
-        "developer": "Ubiquiti Labs, LLC",
-        "prev_rank": 61,
-        "curr_rank": 51,
-        "delta": 10
-      },
-      {
-        "country": "GB",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 94,
-        "curr_rank": 84,
-        "delta": 10
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Retake AI 写真、顔 & セルフィーエディター",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 81,
-        "curr_rank": 56,
-        "delta": 25
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Pose AI | KI Bilder erstellen",
-        "developer": "Spark Dynamic",
-        "prev_rank": 98,
-        "curr_rank": 75,
-        "delta": 23
-      },
-      {
-        "country": "DE",
-        "name": "AI Mirror: Gesichtsfoto-Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 92,
-        "curr_rank": 76,
-        "delta": 16
+        "name": "Evoto AI Photo Editor",
+        "developer": "TRUESIGHT PTE. LTD.",
+        "prev_rank": 77,
+        "curr_rank": 59,
+        "delta": 18
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "AIReel: Générateur IA Vidéo",
-        "developer": "Zhao Yali",
-        "prev_rank": 75,
-        "curr_rank": 57,
-        "delta": 18
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Glam AI: Video & Photo Editor",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 92,
-        "curr_rank": 78,
-        "delta": 14
+        "name": "PixPlus-AI Photo & Video Maker",
+        "developer": "PixPlus Development LLC",
+        "prev_rank": 77,
+        "curr_rank": 61,
+        "delta": 16
       },
       {
-        "country": "US",
-        "name": "Cosplay: Future Baby Generator",
-        "developer": "Spark Dynamic",
-        "prev_rank": 80,
-        "curr_rank": 68,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 89,
-        "curr_rank": 79,
+        "country": "FR",
+        "name": "AIPhoto: Image Video Generator",
+        "developer": "Le Anh Tuan",
+        "prev_rank": 73,
+        "curr_rank": 63,
         "delta": 10
       }
     ],
-    "IN": [
+    "KR": [
       {
-        "country": "IN",
-        "name": "PicsRoom - AI Photo Generator",
-        "developer": "HAPPY TOOLS HK LIMITED",
-        "prev_rank": 57,
-        "curr_rank": 44,
-        "delta": 13
+        "country": "KR",
+        "name": "DeeVid - AI 영상 생성기",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 95,
+        "curr_rank": 80,
+        "delta": 15
+      },
+      {
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 49,
+        "curr_rank": 35,
+        "delta": 14
       }
     ],
-    "ID": [
+    "DE": [
       {
-        "country": "ID",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 78,
-        "curr_rank": 65,
-        "delta": 13
+        "country": "DE",
+        "name": "VN: Video Editor",
+        "developer": "Ubiquiti Labs, LLC",
+        "prev_rank": 55,
+        "curr_rank": 44,
+        "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Pose: Vídeos e Fotos com IA",
+        "developer": "Spark Dynamic",
+        "prev_rank": 97,
+        "curr_rank": 87,
+        "delta": 10
       }
     ]
   },
@@ -295,17 +163,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Pollo AI(폴로 AI)- AI 비디오 생성기 leads with +42 jump in KR"
+      "text": "Time Machine Booth, FaceLab AI leads with +24 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 5 rising apps - highest activity today"
+      "text": "AU has 2 rising apps - highest activity today"
     }
   ],
   "meta": {
-    "prev_date": "2026-05-06",
-    "curr_date": "2026-05-07",
+    "prev_date": "2026-05-07",
+    "curr_date": "2026-05-08",
     "days": 1
   }
 }
