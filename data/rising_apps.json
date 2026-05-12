@@ -1,371 +1,693 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Glam KI, AI Bilder Bearbeiten",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 100,
-      "curr_rank": 10,
-      "delta": 90
-    },
-    {
-      "country": "FR",
-      "name": "Glam IA: Retouche Photo, Video",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 87,
-      "curr_rank": 8,
-      "delta": 79
-    },
-    {
-      "country": "IN",
-      "name": "AIMagico",
-      "developer": "ALLIANCELEC",
-      "prev_rank": 83,
-      "curr_rank": 24,
-      "delta": 59
-    },
-    {
-      "country": "JP",
-      "name": "Hailuo AI：画像＆動画生成",
-      "developer": "NANONOBLE PTE. LTD.",
-      "prev_rank": 97,
-      "curr_rank": 43,
-      "delta": 54
-    },
-    {
-      "country": "US",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 87,
-      "curr_rank": 45,
-      "delta": 42
-    },
-    {
-      "country": "IN",
-      "name": "Picora: AI Photo Editor",
-      "developer": "MEGAMOBI LIMITED",
-      "prev_rank": 74,
-      "curr_rank": 32,
-      "delta": 42
-    },
-    {
-      "country": "US",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 61,
-      "curr_rank": 25,
-      "delta": 36
-    },
-    {
-      "country": "US",
-      "name": "Hailuo Al: Image&Video Maker",
-      "developer": "NANONOBLE PTE. LTD.",
-      "prev_rank": 63,
-      "curr_rank": 31,
-      "delta": 32
-    },
-    {
-      "country": "DE",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 85,
-      "curr_rank": 53,
-      "delta": 32
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 86,
-      "curr_rank": 55,
-      "delta": 31
+      "country": "BR",
+      "name": "Pose: Vídeos e Fotos com IA",
+      "developer": "Spark Dynamic",
+      "prev_rank": 69,
+      "curr_rank": 12,
+      "delta": 57
     },
     {
       "country": "ID",
-      "name": "Hailuo Al: Image&Video Maker",
-      "developer": "NANONOBLE PTE. LTD.",
-      "prev_rank": 49,
-      "curr_rank": 23,
-      "delta": 26
-    },
-    {
-      "country": "AU",
-      "name": "ReGen: AI Profile Photos",
-      "developer": "Bounty Studio, Inc.",
-      "prev_rank": 79,
-      "curr_rank": 53,
-      "delta": 26
+      "name": "Glam AI: Video & Photo Editor",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 80,
+      "curr_rank": 29,
+      "delta": 51
     },
     {
       "country": "IN",
-      "name": "ReGen: AI Profile Photos",
-      "developer": "Bounty Studio, Inc.",
-      "prev_rank": 91,
-      "curr_rank": 66,
-      "delta": 25
+      "name": "Glam AI: Video & Photo Editor",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 67,
+      "curr_rank": 21,
+      "delta": 46
     },
     {
-      "country": "US",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 99,
-      "curr_rank": 75,
-      "delta": 24
-    },
-    {
-      "country": "BR",
+      "country": "ID",
       "name": "AI Video - AI Video Generator",
       "developer": "HUBX",
-      "prev_rank": 36,
-      "curr_rank": 12,
-      "delta": 24
+      "prev_rank": 48,
+      "curr_rank": 4,
+      "delta": 44
     },
     {
       "country": "BR",
-      "name": "BIGVU Teleprompter Captions AI",
-      "developer": "BIGVU INC",
-      "prev_rank": 96,
-      "curr_rank": 74,
-      "delta": 22
-    },
-    {
-      "country": "US",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 92,
-      "curr_rank": 71,
-      "delta": 21
-    },
-    {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 86,
-      "curr_rank": 65,
-      "delta": 21
-    },
-    {
-      "country": "DE",
-      "name": "AI Video – KI-Video-Generator",
-      "developer": "HUBX",
-      "prev_rank": 46,
-      "curr_rank": 26,
-      "delta": 20
-    },
-    {
-      "country": "DE",
-      "name": "Pose AI | KI Bilder erstellen",
-      "developer": "Spark Dynamic",
-      "prev_rank": 66,
-      "curr_rank": 46,
-      "delta": 20
-    },
-    {
-      "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 70,
-      "curr_rank": 53,
-      "delta": 17
-    },
-    {
-      "country": "AU",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 87,
-      "curr_rank": 70,
-      "delta": 17
-    },
-    {
-      "country": "DE",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 83,
-      "curr_rank": 67,
-      "delta": 16
-    },
-    {
-      "country": "JP",
-      "name": "AI Mirror: AI アニメとマンガ画像編集作画アプリ",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 83,
-      "curr_rank": 68,
-      "delta": 15
-    },
-    {
-      "country": "ID",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 65,
-      "curr_rank": 52,
-      "delta": 13
+      "name": "Prompt for Gemini : AI Cartoon",
+      "developer": "Hardikkumar Mavani",
+      "prev_rank": 94,
+      "curr_rank": 51,
+      "delta": 43
     },
     {
       "country": "FR",
       "name": "AI Mirror: Éditeur de visage",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 95,
-      "curr_rank": 83,
-      "delta": 12
-    },
-    {
-      "country": "ID",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 76,
-      "curr_rank": 64,
-      "delta": 12
+      "prev_rank": 83,
+      "curr_rank": 42,
+      "delta": 41
     },
     {
       "country": "GB",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 97,
-      "curr_rank": 86,
-      "delta": 11
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "Zoombo Technology Limited",
+      "prev_rank": 95,
+      "curr_rank": 63,
+      "delta": 32
     },
     {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 88,
-      "curr_rank": 77,
-      "delta": 11
+      "country": "ID",
+      "name": "AI Video & Photo Maker Videa",
+      "developer": "Pure Apps",
+      "prev_rank": 84,
+      "curr_rank": 52,
+      "delta": 32
+    },
+    {
+      "country": "US",
+      "name": "Toonapp: AI Photo & Video Art",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 95,
+      "curr_rank": 64,
+      "delta": 31
+    },
+    {
+      "country": "BR",
+      "name": "Glam IA: Editar Fotos & Video",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 39,
+      "curr_rank": 9,
+      "delta": 30
+    },
+    {
+      "country": "AU",
+      "name": "Glam AI: Video & Photo Editor",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 35,
+      "curr_rank": 9,
+      "delta": 26
+    },
+    {
+      "country": "BR",
+      "name": "PixVideo AI",
+      "developer": "Murat Dikenci",
+      "prev_rank": 71,
+      "curr_rank": 46,
+      "delta": 25
+    },
+    {
+      "country": "AU",
+      "name": "PixPlus-AI Photo & Video Maker",
+      "developer": "PixPlus Development LLC",
+      "prev_rank": 80,
+      "curr_rank": 55,
+      "delta": 25
+    },
+    {
+      "country": "GB",
+      "name": "Hailuo Al: Image&Video Maker",
+      "developer": "NANONOBLE PTE. LTD.",
+      "prev_rank": 41,
+      "curr_rank": 17,
+      "delta": 24
+    },
+    {
+      "country": "DE",
+      "name": "AI Video – KI-Video-Generator",
+      "developer": "HUBX",
+      "prev_rank": 26,
+      "curr_rank": 2,
+      "delta": 24
     },
     {
       "country": "GB",
       "name": "AI Video - AI Video Generator",
       "developer": "HUBX",
-      "prev_rank": 34,
-      "curr_rank": 24,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 62,
-      "curr_rank": 52,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "Evoto AI Photo Editor",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 69,
-      "curr_rank": 59,
-      "delta": 10
+      "prev_rank": 24,
+      "curr_rank": 3,
+      "delta": 21
     },
     {
       "country": "BR",
       "name": "invideo AI: AI video generator",
       "developer": "Invideo Inc",
-      "prev_rank": 91,
-      "curr_rank": 81,
-      "delta": 10
+      "prev_rank": 81,
+      "curr_rank": 61,
+      "delta": 20
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 90,
+      "curr_rank": 70,
+      "delta": 20
+    },
+    {
+      "country": "US",
+      "name": "Pose: AI Photo Video Generator",
+      "developer": "Spark Dynamic",
+      "prev_rank": 63,
+      "curr_rank": 44,
+      "delta": 19
+    },
+    {
+      "country": "FR",
+      "name": "Pose : IA Photo, Image & Vidéo",
+      "developer": "Spark Dynamic",
+      "prev_rank": 50,
+      "curr_rank": 31,
+      "delta": 19
     },
     {
       "country": "AU",
-      "name": "VN: Video Editor",
-      "developer": "Ubiquiti Labs, LLC",
-      "prev_rank": 40,
-      "curr_rank": 30,
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 70,
+      "curr_rank": 52,
+      "delta": 18
+    },
+    {
+      "country": "US",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "Zoombo Technology Limited",
+      "prev_rank": 48,
+      "curr_rank": 31,
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "FaceLab: Visage Vieux, Cheveux",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 41,
+      "curr_rank": 24,
+      "delta": 17
+    },
+    {
+      "country": "JP",
+      "name": "Hailuo AI：画像＆動画生成",
+      "developer": "NANONOBLE PTE. LTD.",
+      "prev_rank": 43,
+      "curr_rank": 28,
+      "delta": 15
+    },
+    {
+      "country": "AU",
+      "name": "Hailuo Al: Image&Video Maker",
+      "developer": "NANONOBLE PTE. LTD.",
+      "prev_rank": 31,
+      "curr_rank": 16,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "Hailuo Al: Image&Video Maker",
+      "developer": "NANONOBLE PTE. LTD.",
+      "prev_rank": 31,
+      "curr_rank": 17,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Glam AI: Video & Photo Editor",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 21,
+      "curr_rank": 7,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "Time Machine Booth, FaceLab AI",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 45,
+      "curr_rank": 31,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "y2k: 2000s photo editor",
+      "developer": "Abel Thomas Noble",
+      "prev_rank": 91,
+      "curr_rank": 78,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 15,
+      "curr_rank": 2,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 66,
+      "curr_rank": 54,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 75,
+      "curr_rank": 63,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "AI Video - Générateur Vidéo IA",
+      "developer": "HUBX",
+      "prev_rank": 13,
+      "curr_rank": 1,
+      "delta": 12
+    },
+    {
+      "country": "BR",
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 55,
+      "curr_rank": 43,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "Photoroom: AI 사진 편집 및 디자인",
+      "developer": "Photoroom",
+      "prev_rank": 75,
+      "curr_rank": 63,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 77,
+      "curr_rank": 65,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 52,
+      "curr_rank": 41,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 81,
+      "curr_rank": 70,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Muse Reel Maker & Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 61,
+      "curr_rank": 50,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 12,
+      "curr_rank": 2,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 58,
+      "curr_rank": 48,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 65,
+      "curr_rank": 55,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 12,
+      "curr_rank": 2,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "Adobe Premiere - AI動画編集",
+      "developer": "Adobe Inc.",
+      "prev_rank": 35,
+      "curr_rank": 25,
       "delta": 10
     }
   ],
   "by_country": {
-    "DE": [
+    "BR": [
       {
-        "country": "DE",
-        "name": "Glam KI, AI Bilder Bearbeiten",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 100,
-        "curr_rank": 10,
-        "delta": 90
+        "country": "BR",
+        "name": "Pose: Vídeos e Fotos com IA",
+        "developer": "Spark Dynamic",
+        "prev_rank": 69,
+        "curr_rank": 12,
+        "delta": 57
       },
       {
-        "country": "DE",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 85,
-        "curr_rank": 53,
+        "country": "BR",
+        "name": "Prompt for Gemini : AI Cartoon",
+        "developer": "Hardikkumar Mavani",
+        "prev_rank": 94,
+        "curr_rank": 51,
+        "delta": 43
+      },
+      {
+        "country": "BR",
+        "name": "Glam IA: Editar Fotos & Video",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 39,
+        "curr_rank": 9,
+        "delta": 30
+      },
+      {
+        "country": "BR",
+        "name": "PixVideo AI",
+        "developer": "Murat Dikenci",
+        "prev_rank": 71,
+        "curr_rank": 46,
+        "delta": 25
+      },
+      {
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 81,
+        "curr_rank": 61,
+        "delta": 20
+      },
+      {
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 55,
+        "curr_rank": 43,
+        "delta": 12
+      },
+      {
+        "country": "BR",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 12,
+        "curr_rank": 2,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Glam AI: Video & Photo Editor",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 80,
+        "curr_rank": 29,
+        "delta": 51
+      },
+      {
+        "country": "ID",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 48,
+        "curr_rank": 4,
+        "delta": 44
+      },
+      {
+        "country": "ID",
+        "name": "AI Video & Photo Maker Videa",
+        "developer": "Pure Apps",
+        "prev_rank": 84,
+        "curr_rank": 52,
         "delta": 32
       },
       {
-        "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 86,
-        "curr_rank": 65,
-        "delta": 21
-      },
-      {
-        "country": "DE",
-        "name": "AI Video – KI-Video-Generator",
-        "developer": "HUBX",
-        "prev_rank": 46,
-        "curr_rank": 26,
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 90,
+        "curr_rank": 70,
         "delta": 20
-      },
-      {
-        "country": "DE",
-        "name": "Pose AI | KI Bilder erstellen",
-        "developer": "Spark Dynamic",
-        "prev_rank": 66,
-        "curr_rank": 46,
-        "delta": 20
-      },
-      {
-        "country": "DE",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 83,
-        "curr_rank": 67,
-        "delta": 16
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Glam IA: Retouche Photo, Video",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 87,
-        "curr_rank": 8,
-        "delta": 79
-      },
-      {
-        "country": "FR",
-        "name": "AI Mirror: Éditeur de visage",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 95,
-        "curr_rank": 83,
-        "delta": 12
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "AIMagico",
-        "developer": "ALLIANCELEC",
+        "name": "Glam AI: Video & Photo Editor",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 67,
+        "curr_rank": 21,
+        "delta": 46
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "AI Mirror: Éditeur de visage",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 83,
+        "curr_rank": 42,
+        "delta": 41
+      },
+      {
+        "country": "FR",
+        "name": "Pose : IA Photo, Image & Vidéo",
+        "developer": "Spark Dynamic",
+        "prev_rank": 50,
+        "curr_rank": 31,
+        "delta": 19
+      },
+      {
+        "country": "FR",
+        "name": "FaceLab: Visage Vieux, Cheveux",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 41,
         "curr_rank": 24,
-        "delta": 59
+        "delta": 17
       },
       {
-        "country": "IN",
-        "name": "Picora: AI Photo Editor",
-        "developer": "MEGAMOBI LIMITED",
-        "prev_rank": 74,
-        "curr_rank": 32,
-        "delta": 42
+        "country": "FR",
+        "name": "AI Video - Générateur Vidéo IA",
+        "developer": "HUBX",
+        "prev_rank": 13,
+        "curr_rank": 1,
+        "delta": 12
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "Zoombo Technology Limited",
+        "prev_rank": 95,
+        "curr_rank": 63,
+        "delta": 32
       },
       {
-        "country": "IN",
-        "name": "ReGen: AI Profile Photos",
-        "developer": "Bounty Studio, Inc.",
+        "country": "GB",
+        "name": "Hailuo Al: Image&Video Maker",
+        "developer": "NANONOBLE PTE. LTD.",
+        "prev_rank": 41,
+        "curr_rank": 17,
+        "delta": 24
+      },
+      {
+        "country": "GB",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 24,
+        "curr_rank": 3,
+        "delta": 21
+      },
+      {
+        "country": "GB",
+        "name": "Glam AI: Video & Photo Editor",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 21,
+        "curr_rank": 7,
+        "delta": 14
+      },
+      {
+        "country": "GB",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 81,
+        "curr_rank": 70,
+        "delta": 11
+      },
+      {
+        "country": "GB",
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 58,
+        "curr_rank": 48,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Toonapp: AI Photo & Video Art",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 95,
+        "curr_rank": 64,
+        "delta": 31
+      },
+      {
+        "country": "US",
+        "name": "Pose: AI Photo Video Generator",
+        "developer": "Spark Dynamic",
+        "prev_rank": 63,
+        "curr_rank": 44,
+        "delta": 19
+      },
+      {
+        "country": "US",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "Zoombo Technology Limited",
+        "prev_rank": 48,
+        "curr_rank": 31,
+        "delta": 17
+      },
+      {
+        "country": "US",
+        "name": "Hailuo Al: Image&Video Maker",
+        "developer": "NANONOBLE PTE. LTD.",
+        "prev_rank": 31,
+        "curr_rank": 17,
+        "delta": 14
+      },
+      {
+        "country": "US",
+        "name": "y2k: 2000s photo editor",
+        "developer": "Abel Thomas Noble",
         "prev_rank": 91,
-        "curr_rank": 66,
+        "curr_rank": 78,
+        "delta": 13
+      },
+      {
+        "country": "US",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 52,
+        "curr_rank": 41,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 12,
+        "curr_rank": 2,
+        "delta": 10
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Glam AI: Video & Photo Editor",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 35,
+        "curr_rank": 9,
+        "delta": 26
+      },
+      {
+        "country": "AU",
+        "name": "PixPlus-AI Photo & Video Maker",
+        "developer": "PixPlus Development LLC",
+        "prev_rank": 80,
+        "curr_rank": 55,
         "delta": 25
+      },
+      {
+        "country": "AU",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 70,
+        "curr_rank": 52,
+        "delta": 18
+      },
+      {
+        "country": "AU",
+        "name": "Hailuo Al: Image&Video Maker",
+        "developer": "NANONOBLE PTE. LTD.",
+        "prev_rank": 31,
+        "curr_rank": 16,
+        "delta": 15
+      },
+      {
+        "country": "AU",
+        "name": "Time Machine Booth, FaceLab AI",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 45,
+        "curr_rank": 31,
+        "delta": 14
+      },
+      {
+        "country": "AU",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 15,
+        "curr_rank": 2,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Muse Reel Maker & Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 61,
+        "curr_rank": 50,
+        "delta": 11
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "AI Video – KI-Video-Generator",
+        "developer": "HUBX",
+        "prev_rank": 26,
+        "curr_rank": 2,
+        "delta": 24
+      },
+      {
+        "country": "DE",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 66,
+        "curr_rank": 54,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 75,
+        "curr_rank": 63,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 65,
+        "curr_rank": 55,
+        "delta": 10
       }
     ],
     "JP": [
@@ -373,197 +695,35 @@
         "country": "JP",
         "name": "Hailuo AI：画像＆動画生成",
         "developer": "NANONOBLE PTE. LTD.",
-        "prev_rank": 97,
-        "curr_rank": 43,
-        "delta": 54
+        "prev_rank": 43,
+        "curr_rank": 28,
+        "delta": 15
       },
       {
         "country": "JP",
-        "name": "AI Mirror: AI アニメとマンガ画像編集作画アプリ",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 83,
-        "curr_rank": 68,
-        "delta": 15
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "AI Mirror: AI Photo Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 87,
-        "curr_rank": 45,
-        "delta": 42
-      },
-      {
-        "country": "US",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 61,
+        "name": "Adobe Premiere - AI動画編集",
+        "developer": "Adobe Inc.",
+        "prev_rank": 35,
         "curr_rank": 25,
-        "delta": 36
-      },
-      {
-        "country": "US",
-        "name": "Hailuo Al: Image&Video Maker",
-        "developer": "NANONOBLE PTE. LTD.",
-        "prev_rank": 63,
-        "curr_rank": 31,
-        "delta": 32
-      },
-      {
-        "country": "US",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 99,
-        "curr_rank": 75,
-        "delta": 24
-      },
-      {
-        "country": "US",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 92,
-        "curr_rank": 71,
-        "delta": 21
+        "delta": 10
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME",
-        "prev_rank": 86,
-        "curr_rank": 55,
-        "delta": 31
-      },
-      {
-        "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 70,
-        "curr_rank": 53,
-        "delta": 17
+        "name": "Photoroom: AI 사진 편집 및 디자인",
+        "developer": "Photoroom",
+        "prev_rank": 75,
+        "curr_rank": 63,
+        "delta": 12
       },
       {
         "country": "KR",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
-        "prev_rank": 88,
-        "curr_rank": 77,
-        "delta": 11
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Hailuo Al: Image&Video Maker",
-        "developer": "NANONOBLE PTE. LTD.",
-        "prev_rank": 49,
-        "curr_rank": 23,
-        "delta": 26
-      },
-      {
-        "country": "ID",
-        "name": "AI Mirror: AI Photo Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 65,
-        "curr_rank": 52,
-        "delta": 13
-      },
-      {
-        "country": "ID",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 76,
-        "curr_rank": 64,
+        "prev_rank": 77,
+        "curr_rank": 65,
         "delta": 12
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "ReGen: AI Profile Photos",
-        "developer": "Bounty Studio, Inc.",
-        "prev_rank": 79,
-        "curr_rank": 53,
-        "delta": 26
-      },
-      {
-        "country": "AU",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 87,
-        "curr_rank": 70,
-        "delta": 17
-      },
-      {
-        "country": "AU",
-        "name": "VN: Video Editor",
-        "developer": "Ubiquiti Labs, LLC",
-        "prev_rank": 40,
-        "curr_rank": 30,
-        "delta": 10
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 36,
-        "curr_rank": 12,
-        "delta": 24
-      },
-      {
-        "country": "BR",
-        "name": "BIGVU Teleprompter Captions AI",
-        "developer": "BIGVU INC",
-        "prev_rank": 96,
-        "curr_rank": 74,
-        "delta": 22
-      },
-      {
-        "country": "BR",
-        "name": "invideo AI: AI video generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 91,
-        "curr_rank": 81,
-        "delta": 10
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 97,
-        "curr_rank": 86,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 34,
-        "curr_rank": 24,
-        "delta": 10
-      },
-      {
-        "country": "GB",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 62,
-        "curr_rank": 52,
-        "delta": 10
-      },
-      {
-        "country": "GB",
-        "name": "Evoto AI Photo Editor",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 69,
-        "curr_rank": 59,
-        "delta": 10
       }
     ]
   },
@@ -571,12 +731,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Glam KI, AI Bilder Bearbeiten leads with +90 jump in DE"
+      "text": "Pose: Vídeos e Fotos com IA leads with +57 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 6 rising apps - highest activity today"
+      "text": "BR has 7 rising apps - highest activity today"
     },
     {
       "type": "app-note",
@@ -586,12 +746,12 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AI Mirror: AI Photo Editor rising in 2 markets: US, ID"
+      "text": "AI Video - AI Video Generator rising in 5 markets: ID, GB, AU, US, BR"
     }
   ],
   "meta": {
-    "prev_date": "2026-05-10",
-    "curr_date": "2026-05-11",
+    "prev_date": "2026-05-11",
+    "curr_date": "2026-05-12",
     "days": 1
   }
 }
