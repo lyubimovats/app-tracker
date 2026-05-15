@@ -1,491 +1,247 @@
 {
   "rising": [
     {
-      "country": "ID",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 81,
-      "curr_rank": 45,
-      "delta": 36
-    },
-    {
-      "country": "US",
-      "name": "Cosmo: AI Editor, Hair Filters",
-      "developer": "Spark Dynamic",
-      "prev_rank": 89,
-      "curr_rank": 61,
-      "delta": 28
-    },
-    {
-      "country": "DE",
-      "name": "AI Foto - Editor, Verbesserer",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 86,
-      "curr_rank": 59,
-      "delta": 27
-    },
-    {
-      "country": "GB",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 81,
-      "curr_rank": 55,
-      "delta": 26
-    },
-    {
-      "country": "DE",
-      "name": "Pose AI | KI Bilder erstellen",
-      "developer": "Spark Dynamic",
-      "prev_rank": 74,
-      "curr_rank": 48,
-      "delta": 26
-    },
-    {
-      "country": "AU",
-      "name": "BeautyPlus-Selfie Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 99,
-      "curr_rank": 74,
-      "delta": 25
-    },
-    {
-      "country": "GB",
-      "name": "Cosmo: Hair Editor, AI Filters",
-      "developer": "Spark Dynamic",
-      "prev_rank": 62,
-      "curr_rank": 41,
-      "delta": 21
-    },
-    {
-      "country": "AU",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 82,
-      "curr_rank": 61,
-      "delta": 21
-    },
-    {
-      "country": "US",
-      "name": "Chatlulu:Video&Photo Editor",
-      "developer": "Hong Kong Endless Flow Technology Limited",
-      "prev_rank": 97,
-      "curr_rank": 77,
-      "delta": 20
-    },
-    {
-      "country": "AU",
-      "name": "Chatlulu:Video&Photo Editor",
-      "developer": "Hong Kong Endless Flow Technology Limited",
-      "prev_rank": 95,
-      "curr_rank": 78,
-      "delta": 17
-    },
-    {
-      "country": "FR",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 48,
-      "curr_rank": 32,
-      "delta": 16
-    },
-    {
-      "country": "KR",
-      "name": "Wink - 동영상 AI 강화 & 인물보정",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 83,
-      "curr_rank": 67,
-      "delta": 16
-    },
-    {
-      "country": "DE",
-      "name": "Cosmo: AI Haare, Frisur Filter",
-      "developer": "Spark Dynamic",
-      "prev_rank": 41,
-      "curr_rank": 26,
-      "delta": 15
-    },
-    {
-      "country": "DE",
-      "name": "YouCam Perfect AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 80,
-      "curr_rank": 65,
-      "delta": 15
-    },
-    {
-      "country": "DE",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 97,
-      "curr_rank": 83,
-      "delta": 14
-    },
-    {
-      "country": "KR",
-      "name": "Photoroom: AI 사진 편집 및 디자인",
-      "developer": "Photoroom",
-      "prev_rank": 67,
-      "curr_rank": 53,
-      "delta": 14
-    },
-    {
-      "country": "KR",
-      "name": "B612 Camera&Photo/Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 75,
-      "curr_rank": 61,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "EPIK - AI Photo & Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 85,
-      "curr_rank": 71,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "Cosmo: Color Analysis, AI Hair",
-      "developer": "Spark Dynamic",
-      "prev_rank": 60,
-      "curr_rank": 46,
-      "delta": 14
-    },
-    {
-      "country": "FR",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 93,
-      "curr_rank": 80,
-      "delta": 13
-    },
-    {
-      "country": "ID",
-      "name": "Liit - Photo & Video Editor",
-      "developer": "DAZZ PTE. LTD.",
-      "prev_rank": 92,
-      "curr_rank": 79,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "AI Mirror: AI Photo Editor",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 33,
-      "curr_rank": 21,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Dance AI: Vidéos de Danse IA",
-      "developer": "DeePix AI",
-      "prev_rank": 51,
-      "curr_rank": 40,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "AIReel：AI 영상&사진 편집",
-      "developer": "Zhao Yali",
-      "prev_rank": 55,
-      "curr_rank": 44,
-      "delta": 11
-    },
-    {
-      "country": "ID",
-      "name": "Cosmo: Hair Editor, AI Filters",
-      "developer": "Spark Dynamic",
-      "prev_rank": 19,
-      "curr_rank": 8,
-      "delta": 11
-    },
-    {
-      "country": "AU",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 83,
-      "curr_rank": 72,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "Pose: AI Photo Video Generator",
-      "developer": "Spark Dynamic",
-      "prev_rank": 27,
-      "curr_rank": 17,
-      "delta": 10
-    },
-    {
-      "country": "DE",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 48,
-      "curr_rank": 38,
-      "delta": 10
+      "country": "IN",
+      "name": "FaceRoom: Al Photo Editor",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 90,
+      "curr_rank": 50,
+      "delta": 40
     },
     {
       "country": "JP",
       "name": "AI Catch: AI ビデオジェネレーター",
       "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 90,
+      "curr_rank": 55,
+      "delta": 35
+    },
+    {
+      "country": "GB",
+      "name": "BeautyCam-AI Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 80,
+      "curr_rank": 46,
+      "delta": 34
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 61,
+      "curr_rank": 34,
+      "delta": 27
+    },
+    {
+      "country": "ID",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 40,
+      "curr_rank": 13,
+      "delta": 27
+    },
+    {
+      "country": "FR",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 76,
+      "curr_rank": 53,
+      "delta": 23
+    },
+    {
+      "country": "IN",
+      "name": "PicsRoom - AI Photo Generator",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 87,
+      "curr_rank": 64,
+      "delta": 23
+    },
+    {
+      "country": "IN",
+      "name": "AI Art-Photo&Face Editor",
+      "developer": "AHAJOY LIMITED",
+      "prev_rank": 77,
+      "curr_rank": 56,
+      "delta": 21
+    },
+    {
+      "country": "IN",
+      "name": "Prompt Ai : Ai Photo Maker",
+      "developer": "Utsav Jayani",
+      "prev_rank": 98,
+      "curr_rank": 78,
+      "delta": 20
+    },
+    {
+      "country": "AU",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 57,
+      "curr_rank": 37,
+      "delta": 20
+    },
+    {
+      "country": "KR",
+      "name": "AI Catch: AI 영상 생성기",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 89,
+      "curr_rank": 71,
+      "delta": 18
+    },
+    {
+      "country": "US",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 76,
+      "curr_rank": 60,
+      "delta": 16
+    },
+    {
+      "country": "KR",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 95,
+      "curr_rank": 79,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 65,
+      "curr_rank": 51,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "ARTA: KI-Bild-Generator",
+      "developer": "AIBY",
+      "prev_rank": 75,
+      "curr_rank": 61,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 32,
+      "curr_rank": 18,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 96,
+      "curr_rank": 83,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "Wink - 동영상 AI 강화 & 인물보정",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 67,
+      "curr_rank": 54,
+      "delta": 13
+    },
+    {
+      "country": "JP",
+      "name": "VivaVideo - AI動画編集&動画作成&動画加工",
+      "developer": "Hangzhou Xiaoying Innovation Technology Co., Ltd.",
       "prev_rank": 100,
-      "curr_rank": 90,
+      "curr_rank": 88,
+      "delta": 12
+    },
+    {
+      "country": "IN",
+      "name": "KineMaster- Video Editor",
+      "developer": "KineMaster Corporation",
+      "prev_rank": 67,
+      "curr_rank": 55,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 88,
+      "curr_rank": 77,
+      "delta": 11
+    },
+    {
+      "country": "JP",
+      "name": "Filmora：AI動画生成 & 動画編集",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 65,
+      "curr_rank": 54,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "Glowify - AI Hairstyle Try On",
+      "developer": "Flarial Interactive",
+      "prev_rank": 85,
+      "curr_rank": 75,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 57,
+      "curr_rank": 47,
       "delta": 10
     },
     {
       "country": "AU",
-      "name": "Time Machine Booth, FaceLab AI",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 30,
-      "curr_rank": 20,
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 67,
+      "curr_rank": 57,
       "delta": 10
     }
   ],
   "by_country": {
-    "ID": [
+    "IN": [
       {
-        "country": "ID",
-        "name": "AI Mirror: AI Photo Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 81,
-        "curr_rank": 45,
-        "delta": 36
+        "country": "IN",
+        "name": "FaceRoom: Al Photo Editor",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 90,
+        "curr_rank": 50,
+        "delta": 40
       },
       {
-        "country": "ID",
-        "name": "EPIK - AI Photo & Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 85,
-        "curr_rank": 71,
-        "delta": 14
+        "country": "IN",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 87,
+        "curr_rank": 64,
+        "delta": 23
       },
       {
-        "country": "ID",
-        "name": "Liit - Photo & Video Editor",
-        "developer": "DAZZ PTE. LTD.",
-        "prev_rank": 92,
-        "curr_rank": 79,
-        "delta": 13
+        "country": "IN",
+        "name": "AI Art-Photo&Face Editor",
+        "developer": "AHAJOY LIMITED",
+        "prev_rank": 77,
+        "curr_rank": 56,
+        "delta": 21
       },
       {
-        "country": "ID",
-        "name": "Cosmo: Hair Editor, AI Filters",
-        "developer": "Spark Dynamic",
-        "prev_rank": 19,
-        "curr_rank": 8,
-        "delta": 11
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Cosmo: AI Editor, Hair Filters",
-        "developer": "Spark Dynamic",
-        "prev_rank": 89,
-        "curr_rank": 61,
-        "delta": 28
-      },
-      {
-        "country": "US",
-        "name": "Chatlulu:Video&Photo Editor",
-        "developer": "Hong Kong Endless Flow Technology Limited",
-        "prev_rank": 97,
-        "curr_rank": 77,
+        "country": "IN",
+        "name": "Prompt Ai : Ai Photo Maker",
+        "developer": "Utsav Jayani",
+        "prev_rank": 98,
+        "curr_rank": 78,
         "delta": 20
       },
       {
-        "country": "US",
-        "name": "Pose: AI Photo Video Generator",
-        "developer": "Spark Dynamic",
-        "prev_rank": 27,
-        "curr_rank": 17,
-        "delta": 10
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "AI Foto - Editor, Verbesserer",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 86,
-        "curr_rank": 59,
-        "delta": 27
-      },
-      {
-        "country": "DE",
-        "name": "Pose AI | KI Bilder erstellen",
-        "developer": "Spark Dynamic",
-        "prev_rank": 74,
-        "curr_rank": 48,
-        "delta": 26
-      },
-      {
-        "country": "DE",
-        "name": "Cosmo: AI Haare, Frisur Filter",
-        "developer": "Spark Dynamic",
-        "prev_rank": 41,
-        "curr_rank": 26,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "YouCam Perfect AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 80,
-        "curr_rank": 65,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 97,
-        "curr_rank": 83,
-        "delta": 14
-      },
-      {
-        "country": "DE",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 48,
-        "curr_rank": 38,
-        "delta": 10
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 81,
-        "curr_rank": 55,
-        "delta": 26
-      },
-      {
-        "country": "GB",
-        "name": "Cosmo: Hair Editor, AI Filters",
-        "developer": "Spark Dynamic",
-        "prev_rank": 62,
-        "curr_rank": 41,
-        "delta": 21
-      },
-      {
-        "country": "GB",
-        "name": "AI Mirror: AI Photo Editor",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 33,
-        "curr_rank": 21,
-        "delta": 12
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 99,
-        "curr_rank": 74,
-        "delta": 25
-      },
-      {
-        "country": "AU",
-        "name": "Retake AI Face & Selfie Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 82,
-        "curr_rank": 61,
-        "delta": 21
-      },
-      {
-        "country": "AU",
-        "name": "Chatlulu:Video&Photo Editor",
-        "developer": "Hong Kong Endless Flow Technology Limited",
-        "prev_rank": 95,
-        "curr_rank": 78,
-        "delta": 17
-      },
-      {
-        "country": "AU",
-        "name": "Cosmo: Color Analysis, AI Hair",
-        "developer": "Spark Dynamic",
-        "prev_rank": 60,
-        "curr_rank": 46,
-        "delta": 14
-      },
-      {
-        "country": "AU",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 83,
-        "curr_rank": 72,
-        "delta": 11
-      },
-      {
-        "country": "AU",
-        "name": "Time Machine Booth, FaceLab AI",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 30,
-        "curr_rank": 20,
-        "delta": 10
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 48,
-        "curr_rank": 32,
-        "delta": 16
-      },
-      {
-        "country": "FR",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 93,
-        "curr_rank": 80,
-        "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 51,
-        "curr_rank": 40,
-        "delta": 11
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "Wink - 동영상 AI 강화 & 인물보정",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 83,
-        "curr_rank": 67,
-        "delta": 16
-      },
-      {
-        "country": "KR",
-        "name": "Photoroom: AI 사진 편집 및 디자인",
-        "developer": "Photoroom",
+        "country": "IN",
+        "name": "KineMaster- Video Editor",
+        "developer": "KineMaster Corporation",
         "prev_rank": 67,
-        "curr_rank": 53,
-        "delta": 14
-      },
-      {
-        "country": "KR",
-        "name": "B612 Camera&Photo/Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 75,
-        "curr_rank": 61,
-        "delta": 14
-      },
-      {
-        "country": "KR",
-        "name": "AIReel：AI 영상&사진 편집",
-        "developer": "Zhao Yali",
-        "prev_rank": 55,
-        "curr_rank": 44,
-        "delta": 11
+        "curr_rank": 55,
+        "delta": 12
       }
     ],
     "JP": [
@@ -493,9 +249,175 @@
         "country": "JP",
         "name": "AI Catch: AI ビデオジェネレーター",
         "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 90,
+        "curr_rank": 55,
+        "delta": 35
+      },
+      {
+        "country": "JP",
+        "name": "VivaVideo - AI動画編集&動画作成&動画加工",
+        "developer": "Hangzhou Xiaoying Innovation Technology Co., Ltd.",
         "prev_rank": 100,
-        "curr_rank": 90,
+        "curr_rank": 88,
+        "delta": 12
+      },
+      {
+        "country": "JP",
+        "name": "Filmora：AI動画生成 & 動画編集",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 65,
+        "curr_rank": 54,
+        "delta": 11
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "BeautyCam-AI Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 80,
+        "curr_rank": 46,
+        "delta": 34
+      },
+      {
+        "country": "GB",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 65,
+        "curr_rank": 51,
+        "delta": 14
+      },
+      {
+        "country": "GB",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 57,
+        "curr_rank": 47,
         "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 61,
+        "curr_rank": 34,
+        "delta": 27
+      },
+      {
+        "country": "KR",
+        "name": "AI Catch: AI 영상 생성기",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 89,
+        "curr_rank": 71,
+        "delta": 18
+      },
+      {
+        "country": "KR",
+        "name": "Remini - AI Photo Enhancer",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 95,
+        "curr_rank": 79,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "Wink - 동영상 AI 강화 & 인물보정",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 67,
+        "curr_rank": 54,
+        "delta": 13
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 40,
+        "curr_rank": 13,
+        "delta": 27
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 76,
+        "curr_rank": 53,
+        "delta": 23
+      },
+      {
+        "country": "FR",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 32,
+        "curr_rank": 18,
+        "delta": 14
+      },
+      {
+        "country": "FR",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 96,
+        "curr_rank": 83,
+        "delta": 13
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 57,
+        "curr_rank": 37,
+        "delta": 20
+      },
+      {
+        "country": "AU",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 67,
+        "curr_rank": 57,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 76,
+        "curr_rank": 60,
+        "delta": 16
+      },
+      {
+        "country": "US",
+        "name": "Glowify - AI Hairstyle Try On",
+        "developer": "Flarial Interactive",
+        "prev_rank": 85,
+        "curr_rank": 75,
+        "delta": 10
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "ARTA: KI-Bild-Generator",
+        "developer": "AIBY",
+        "prev_rank": 75,
+        "curr_rank": 61,
+        "delta": 14
+      },
+      {
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 88,
+        "curr_rank": 77,
+        "delta": 11
       }
     ]
   },
@@ -503,27 +425,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Mirror: AI Photo Editor leads with +36 jump in ID"
+      "text": "FaceRoom: Al Photo Editor leads with +40 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 6 rising apps - highest activity today"
+      "text": "IN has 5 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Cosmo apps trending with 5 variants rising"
+      "text": "AI Catch apps trending with 6 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AI Mirror: AI Photo Editor rising in 2 markets: ID, GB"
+      "text": "AI Catch: AI Video Generator rising in 4 markets: ID, FR, GB, AU"
     }
   ],
   "meta": {
-    "prev_date": "2026-05-13",
-    "curr_date": "2026-05-14",
+    "prev_date": "2026-05-14",
+    "curr_date": "2026-05-15",
     "days": 1
   }
 }
