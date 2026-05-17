@@ -13,48 +13,16 @@
       "name": "GIO: AI Professional Headshot",
       "developer": "Prequel Inc.",
       "prev_rank": 43,
-      "curr_rank": 22,
-      "delta": 21
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 73,
-      "curr_rank": 54,
-      "delta": 19
+      "curr_rank": 20,
+      "delta": 23
     },
     {
       "country": "KR",
       "name": "mevu 미브 - AI 사진 & 증명사진",
       "developer": "ESTaid Corp.",
       "prev_rank": 86,
-      "curr_rank": 68,
-      "delta": 18
-    },
-    {
-      "country": "AU",
-      "name": "Vixel - AI Video Generator",
-      "developer": "FENIX MOBILE YAZILIM A.S.",
-      "prev_rank": 66,
-      "curr_rank": 49,
-      "delta": 17
-    },
-    {
-      "country": "ID",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 66,
-      "curr_rank": 50,
-      "delta": 16
-    },
-    {
-      "country": "DE",
-      "name": "Retake AI: Foto & Gesicht",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 80,
-      "curr_rank": 65,
-      "delta": 15
+      "curr_rank": 67,
+      "delta": 19
     },
     {
       "country": "BR",
@@ -65,36 +33,84 @@
       "delta": 15
     },
     {
+      "country": "AU",
+      "name": "Vixel - AI Video Generator",
+      "developer": "FENIX MOBILE YAZILIM A.S.",
+      "prev_rank": 66,
+      "curr_rank": 51,
+      "delta": 15
+    },
+    {
+      "country": "AU",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 77,
+      "curr_rank": 62,
+      "delta": 15
+    },
+    {
+      "country": "GB",
+      "name": "GIO: AI Headshot Generator Pro",
+      "developer": "Prequel Inc.",
+      "prev_rank": 28,
+      "curr_rank": 14,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Photoroom: AI Photo Editor",
+      "developer": "Photoroom",
+      "prev_rank": 43,
+      "curr_rank": 29,
+      "delta": 14
+    },
+    {
       "country": "IN",
       "name": "AI Art-Photo&Face Editor",
       "developer": "AHAJOY LIMITED",
       "prev_rank": 65,
-      "curr_rank": 50,
-      "delta": 15
+      "curr_rank": 51,
+      "delta": 14
     },
     {
-      "country": "FR",
-      "name": "Facetune: Éditeur Photo/Vidéo",
-      "developer": "Lightricks Ltd.",
-      "prev_rank": 73,
-      "curr_rank": 60,
-      "delta": 13
+      "country": "IN",
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 92,
+      "curr_rank": 78,
+      "delta": 14
     },
     {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 78,
-      "curr_rank": 65,
-      "delta": 13
+      "country": "ID",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 66,
+      "curr_rank": 52,
+      "delta": 14
     },
     {
       "country": "US",
       "name": "Retake AI Face & Selfie Editor",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 55,
-      "curr_rank": 43,
-      "delta": 12
+      "curr_rank": 42,
+      "delta": 13
+    },
+    {
+      "country": "ID",
+      "name": "AI Face Maker: Photo Effects",
+      "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+      "prev_rank": 100,
+      "curr_rank": 87,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "FaceApp: Perfect Face Editor",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 50,
+      "curr_rank": 37,
+      "delta": 13
     },
     {
       "country": "US",
@@ -102,6 +118,14 @@
       "developer": "Tezza App LLC",
       "prev_rank": 61,
       "curr_rank": 49,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 53,
+      "curr_rank": 41,
       "delta": 12
     },
     {
@@ -121,38 +145,6 @@
       "delta": 11
     },
     {
-      "country": "GB",
-      "name": "GIO: AI Headshot Generator Pro",
-      "developer": "Prequel Inc.",
-      "prev_rank": 28,
-      "curr_rank": 17,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Facetune: KI Foto Video Editor",
-      "developer": "Lightricks Ltd.",
-      "prev_rank": 63,
-      "curr_rank": 52,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "YouCam Perfect AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
-    },
-    {
-      "country": "AU",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 50,
-      "curr_rank": 39,
-      "delta": 11
-    },
-    {
       "country": "US",
       "name": "Glowify - AI Hairstyle Try On",
       "developer": "Flarial Interactive",
@@ -162,26 +154,42 @@
     },
     {
       "country": "DE",
-      "name": "FaceApp: Gesichtsbearbeitung",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 36,
-      "curr_rank": 26,
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 73,
+      "curr_rank": 63,
       "delta": 10
     },
     {
-      "country": "KR",
-      "name": "Adobe Premiere AI 비디오 에디터",
-      "developer": "Adobe Inc.",
-      "prev_rank": 66,
-      "curr_rank": 56,
+      "country": "DE",
+      "name": "Retake AI: Foto & Gesicht",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 80,
+      "curr_rank": 70,
+      "delta": 10
+    },
+    {
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
+      "developer": "DeePix AI",
+      "prev_rank": 39,
+      "curr_rank": 29,
       "delta": 10
     },
     {
       "country": "IN",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 88,
-      "curr_rank": 78,
+      "name": "Scalio - AI Videos & Photos",
+      "developer": "Scalio Technology Private Limited",
+      "prev_rank": 56,
+      "curr_rank": 46,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Editor, Remove Object",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 69,
+      "curr_rank": 59,
       "delta": 10
     }
   ],
@@ -210,73 +218,39 @@
         "name": "GIO: AI Professional Headshot",
         "developer": "Prequel Inc.",
         "prev_rank": 43,
-        "curr_rank": 22,
-        "delta": 21
+        "curr_rank": 20,
+        "delta": 23
       },
       {
         "country": "AU",
         "name": "Vixel - AI Video Generator",
         "developer": "FENIX MOBILE YAZILIM A.S.",
         "prev_rank": 66,
-        "curr_rank": 49,
-        "delta": 17
+        "curr_rank": 51,
+        "delta": 15
       },
       {
         "country": "AU",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 78,
-        "curr_rank": 65,
-        "delta": 13
+        "name": "Airbrush: Face Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 77,
+        "curr_rank": 62,
+        "delta": 15
       },
       {
         "country": "AU",
         "name": "FaceApp: Perfect Face Editor",
         "developer": "FaceApp Technology Limited",
         "prev_rank": 50,
-        "curr_rank": 39,
-        "delta": 11
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 73,
-        "curr_rank": 54,
-        "delta": 19
+        "curr_rank": 37,
+        "delta": 13
       },
       {
-        "country": "DE",
-        "name": "Retake AI: Foto & Gesicht",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 80,
-        "curr_rank": 65,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "Facetune: KI Foto Video Editor",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 63,
-        "curr_rank": 52,
-        "delta": 11
-      },
-      {
-        "country": "DE",
-        "name": "YouCam Perfect AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
-      },
-      {
-        "country": "DE",
-        "name": "FaceApp: Gesichtsbearbeitung",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 36,
-        "curr_rank": 26,
+        "country": "AU",
+        "name": "AI Photo Editor, Remove Object",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 69,
+        "curr_rank": 59,
         "delta": 10
       }
     ],
@@ -286,15 +260,75 @@
         "name": "mevu 미브 - AI 사진 & 증명사진",
         "developer": "ESTaid Corp.",
         "prev_rank": 86,
-        "curr_rank": 68,
-        "delta": 18
+        "curr_rank": 67,
+        "delta": 19
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "GIO: AI Headshot Generator Pro",
+        "developer": "Prequel Inc.",
+        "prev_rank": 28,
+        "curr_rank": 14,
+        "delta": 14
       },
       {
-        "country": "KR",
-        "name": "Adobe Premiere AI 비디오 에디터",
-        "developer": "Adobe Inc.",
-        "prev_rank": 66,
-        "curr_rank": 56,
+        "country": "GB",
+        "name": "Photoroom: AI Photo Editor",
+        "developer": "Photoroom",
+        "prev_rank": 43,
+        "curr_rank": 29,
+        "delta": 14
+      },
+      {
+        "country": "GB",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 53,
+        "curr_rank": 41,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 90,
+        "curr_rank": 78,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 24,
+        "curr_rank": 13,
+        "delta": 11
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AI Art-Photo&Face Editor",
+        "developer": "AHAJOY LIMITED",
+        "prev_rank": 65,
+        "curr_rank": 51,
+        "delta": 14
+      },
+      {
+        "country": "IN",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 92,
+        "curr_rank": 78,
+        "delta": 14
+      },
+      {
+        "country": "IN",
+        "name": "Scalio - AI Videos & Photos",
+        "developer": "Scalio Technology Private Limited",
+        "prev_rank": 56,
+        "curr_rank": 46,
         "delta": 10
       }
     ],
@@ -304,35 +338,15 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 66,
-        "curr_rank": 50,
-        "delta": 16
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "AI Art-Photo&Face Editor",
-        "developer": "AHAJOY LIMITED",
-        "prev_rank": 65,
-        "curr_rank": 50,
-        "delta": 15
+        "curr_rank": 52,
+        "delta": 14
       },
       {
-        "country": "IN",
-        "name": "FaceApp: Perfect Face Editor",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 88,
-        "curr_rank": 78,
-        "delta": 10
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Facetune: Éditeur Photo/Vidéo",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 73,
-        "curr_rank": 60,
+        "country": "ID",
+        "name": "AI Face Maker: Photo Effects",
+        "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+        "prev_rank": 100,
+        "curr_rank": 87,
         "delta": 13
       }
     ],
@@ -342,8 +356,8 @@
         "name": "Retake AI Face & Selfie Editor",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 55,
-        "curr_rank": 43,
-        "delta": 12
+        "curr_rank": 42,
+        "delta": 13
       },
       {
         "country": "US",
@@ -362,30 +376,32 @@
         "delta": 10
       }
     ],
-    "GB": [
+    "DE": [
       {
-        "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 90,
-        "curr_rank": 78,
-        "delta": 12
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 73,
+        "curr_rank": 63,
+        "delta": 10
       },
       {
-        "country": "GB",
-        "name": "Dance AI: AI Dance Video Maker",
+        "country": "DE",
+        "name": "Retake AI: Foto & Gesicht",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 80,
+        "curr_rank": 70,
+        "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
         "developer": "DeePix AI",
-        "prev_rank": 24,
-        "curr_rank": 13,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "GIO: AI Headshot Generator Pro",
-        "developer": "Prequel Inc.",
-        "prev_rank": 28,
-        "curr_rank": 17,
-        "delta": 11
+        "prev_rank": 39,
+        "curr_rank": 29,
+        "delta": 10
       }
     ]
   },
@@ -398,12 +414,12 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 5 rising apps - highest activity today"
+      "text": "AU has 5 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Dance AI apps trending with 2 variants rising"
+      "text": "Dance AI apps trending with 3 variants rising"
     },
     {
       "type": "trending",
