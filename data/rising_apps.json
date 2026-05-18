@@ -5,16 +5,16 @@
       "name": "Passfoto - PhotoAiD",
       "developer": "Photo Aid",
       "prev_rank": 99,
-      "curr_rank": 73,
-      "delta": 26
+      "curr_rank": 58,
+      "delta": 41
     },
     {
       "country": "KR",
       "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
       "developer": "PICME",
       "prev_rank": 91,
-      "curr_rank": 66,
-      "delta": 25
+      "curr_rank": 64,
+      "delta": 27
     },
     {
       "country": "GB",
@@ -25,68 +25,52 @@
       "delta": 23
     },
     {
-      "country": "KR",
-      "name": "Shardee 샤디 | Daily vlog camera",
-      "developer": "DIARO",
-      "prev_rank": 43,
-      "curr_rank": 22,
-      "delta": 21
-    },
-    {
-      "country": "GB",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 43,
-      "curr_rank": 30,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 94,
-      "curr_rank": 81,
-      "delta": 13
-    },
-    {
       "country": "AU",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 83,
-      "curr_rank": 70,
-      "delta": 13
+      "curr_rank": 61,
+      "delta": 22
     },
     {
-      "country": "GB",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 62,
-      "curr_rank": 50,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "YouCam Perfect AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 72,
-      "curr_rank": 60,
-      "delta": 12
+      "country": "KR",
+      "name": "Shardee 샤디 | Daily vlog camera",
+      "developer": "DIARO",
+      "prev_rank": 43,
+      "curr_rank": 24,
+      "delta": 19
     },
     {
       "country": "AU",
       "name": "InShot - AI Video Editor",
       "developer": "SHANTANU PTE. LTD.",
       "prev_rank": 43,
-      "curr_rank": 31,
+      "curr_rank": 28,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 89,
+      "curr_rank": 75,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 41,
+      "curr_rank": 29,
       "delta": 12
     },
     {
       "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 69,
-      "curr_rank": 58,
-      "delta": 11
+      "name": "invideo AI: AI Video-Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 95,
+      "curr_rank": 83,
+      "delta": 12
     },
     {
       "country": "DE",
@@ -105,27 +89,43 @@
       "delta": 11
     },
     {
-      "country": "AU",
-      "name": "Hula AI: Trend Video Generator",
-      "developer": "Prequel Inc.",
-      "prev_rank": 96,
-      "curr_rank": 85,
-      "delta": 11
-    },
-    {
       "country": "US",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 89,
-      "curr_rank": 79,
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 71,
+      "curr_rank": 61,
       "delta": 10
     },
     {
       "country": "GB",
-      "name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 41,
-      "curr_rank": 31,
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 43,
+      "curr_rank": 33,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 62,
+      "curr_rank": 52,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "PhotoApp - AI Photo Enhancer",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "prev_rank": 100,
+      "curr_rank": 90,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 56,
+      "curr_rank": 46,
       "delta": 10
     },
     {
@@ -144,24 +144,16 @@
         "name": "Passfoto - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 99,
-        "curr_rank": 73,
-        "delta": 26
-      },
-      {
-        "country": "DE",
-        "name": "YouCam Perfect AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 72,
-        "curr_rank": 60,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 69,
         "curr_rank": 58,
-        "delta": 11
+        "delta": 41
+      },
+      {
+        "country": "DE",
+        "name": "invideo AI: AI Video-Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 95,
+        "curr_rank": 83,
+        "delta": 12
       },
       {
         "country": "DE",
@@ -170,6 +162,14 @@
         "prev_rank": 70,
         "curr_rank": 59,
         "delta": 11
+      },
+      {
+        "country": "DE",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 56,
+        "curr_rank": 46,
+        "delta": 10
       }
     ],
     "KR": [
@@ -178,16 +178,16 @@
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 91,
-        "curr_rank": 66,
-        "delta": 25
+        "curr_rank": 64,
+        "delta": 27
       },
       {
         "country": "KR",
         "name": "Shardee 샤디 | Daily vlog camera",
         "developer": "DIARO",
         "prev_rank": 43,
-        "curr_rank": 22,
-        "delta": 21
+        "curr_rank": 24,
+        "delta": 19
       },
       {
         "country": "KR",
@@ -209,34 +209,34 @@
       },
       {
         "country": "GB",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 43,
-        "curr_rank": 30,
-        "delta": 13
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 41,
+        "curr_rank": 29,
+        "delta": 12
       },
       {
         "country": "GB",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 94,
-        "curr_rank": 81,
-        "delta": 13
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 43,
+        "curr_rank": 33,
+        "delta": 10
       },
       {
         "country": "GB",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 62,
-        "curr_rank": 50,
-        "delta": 12
+        "curr_rank": 52,
+        "delta": 10
       },
       {
         "country": "GB",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 41,
-        "curr_rank": 31,
+        "name": "PhotoApp - AI Photo Enhancer",
+        "developer": "SCALEUP YAZILIM HIZMETLERI",
+        "prev_rank": 100,
+        "curr_rank": 90,
         "delta": 10
       }
     ],
@@ -246,24 +246,16 @@
         "name": "Cantina: AI Video & Characters",
         "developer": "Cantina, Inc",
         "prev_rank": 83,
-        "curr_rank": 70,
-        "delta": 13
+        "curr_rank": 61,
+        "delta": 22
       },
       {
         "country": "AU",
         "name": "InShot - AI Video Editor",
         "developer": "SHANTANU PTE. LTD.",
         "prev_rank": 43,
-        "curr_rank": 31,
-        "delta": 12
-      },
-      {
-        "country": "AU",
-        "name": "Hula AI: Trend Video Generator",
-        "developer": "Prequel Inc.",
-        "prev_rank": 96,
-        "curr_rank": 85,
-        "delta": 11
+        "curr_rank": 28,
+        "delta": 15
       }
     ],
     "US": [
@@ -272,7 +264,15 @@
         "name": "Citrus 1 Tap Photo Enhancer AI",
         "developer": "Wemagine.ai LLP",
         "prev_rank": 89,
-        "curr_rank": 79,
+        "curr_rank": 75,
+        "delta": 14
+      },
+      {
+        "country": "US",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 71,
+        "curr_rank": 61,
         "delta": 10
       }
     ],
@@ -291,7 +291,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Passfoto - PhotoAiD leads with +26 jump in DE"
+      "text": "Passfoto - PhotoAiD leads with +41 jump in DE"
     },
     {
       "type": "market",
@@ -301,7 +301,7 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Cantina: AI Video & Characters rising in 2 markets: GB, AU"
+      "text": "ElevenLabs: AI Voice Generator rising in 3 markets: US, GB, DE"
     }
   ],
   "meta": {
