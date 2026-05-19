@@ -5,32 +5,40 @@
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 84,
-      "curr_rank": 51,
-      "delta": 33
+      "curr_rank": 47,
+      "delta": 37
     },
     {
       "country": "GB",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 33,
-      "curr_rank": 12,
-      "delta": 21
+      "curr_rank": 11,
+      "delta": 22
     },
     {
-      "country": "KR",
-      "name": "PixPlus-AI Photo & Video Maker",
-      "developer": "PixPlus Development LLC",
-      "prev_rank": 96,
-      "curr_rank": 76,
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 58,
+      "curr_rank": 38,
       "delta": 20
     },
     {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 88,
-      "curr_rank": 70,
+      "country": "BR",
+      "name": "Meitu - Câmara de beleza",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 57,
+      "curr_rank": 39,
       "delta": 18
+    },
+    {
+      "country": "JP",
+      "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
+      "developer": "Photoroom",
+      "prev_rank": 52,
+      "curr_rank": 35,
+      "delta": 17
     },
     {
       "country": "AU",
@@ -41,20 +49,20 @@
       "delta": 17
     },
     {
-      "country": "JP",
-      "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
-      "developer": "Photoroom",
-      "prev_rank": 52,
-      "curr_rank": 36,
+      "country": "FR",
+      "name": "Photo identité - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 78,
+      "curr_rank": 62,
       "delta": 16
     },
     {
-      "country": "BR",
-      "name": "Meitu - Câmara de beleza",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 57,
-      "curr_rank": 42,
-      "delta": 15
+      "country": "KR",
+      "name": "PixPlus-AI Photo & Video Maker",
+      "developer": "PixPlus Development LLC",
+      "prev_rank": 96,
+      "curr_rank": 80,
+      "delta": 16
     },
     {
       "country": "FR",
@@ -65,36 +73,60 @@
       "delta": 14
     },
     {
-      "country": "AU",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 48,
-      "curr_rank": 34,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 58,
-      "curr_rank": 45,
-      "delta": 13
-    },
-    {
       "country": "GB",
       "name": "invideo AI: AI Video Generator",
       "developer": "Invideo Inc",
       "prev_rank": 82,
-      "curr_rank": 70,
+      "curr_rank": 69,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "FaceApp: Perfect Face Editor",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 48,
+      "curr_rank": 35,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "Photoroom: KI Foto Editor",
+      "developer": "Photoroom",
+      "prev_rank": 49,
+      "curr_rank": 37,
       "delta": 12
     },
     {
-      "country": "FR",
-      "name": "Photo identité - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 78,
-      "curr_rank": 66,
+      "country": "IN",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 66,
+      "curr_rank": 54,
       "delta": 12
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 88,
+      "curr_rank": 76,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 55,
+      "curr_rank": 44,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 38,
+      "curr_rank": 27,
+      "delta": 11
     },
     {
       "country": "US",
@@ -105,11 +137,19 @@
       "delta": 10
     },
     {
-      "country": "DE",
-      "name": "Photoroom: KI Foto Editor",
-      "developer": "Photoroom",
-      "prev_rank": 49,
-      "curr_rank": 39,
+      "country": "FR",
+      "name": "Éditeur photo AI, Renforceur",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 99,
+      "curr_rank": 89,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "Retake AI 写真、顔 & セルフィーエディター",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 94,
+      "curr_rank": 84,
       "delta": 10
     },
     {
@@ -128,24 +168,24 @@
         "name": "Cantina: AI Video & Characters",
         "developer": "Cantina, Inc",
         "prev_rank": 84,
-        "curr_rank": 51,
-        "delta": 33
+        "curr_rank": 47,
+        "delta": 37
       },
       {
         "country": "DE",
         "name": "Passfoto - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 58,
-        "curr_rank": 45,
-        "delta": 13
+        "curr_rank": 38,
+        "delta": 20
       },
       {
         "country": "DE",
         "name": "Photoroom: KI Foto Editor",
         "developer": "Photoroom",
         "prev_rank": 49,
-        "curr_rank": 39,
-        "delta": 10
+        "curr_rank": 37,
+        "delta": 12
       }
     ],
     "GB": [
@@ -154,43 +194,51 @@
         "name": "Cantina: AI Video & Characters",
         "developer": "Cantina, Inc",
         "prev_rank": 33,
-        "curr_rank": 12,
-        "delta": 21
+        "curr_rank": 11,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "invideo AI: AI Video Generator",
         "developer": "Invideo Inc",
         "prev_rank": 82,
-        "curr_rank": 70,
-        "delta": 12
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "PixPlus-AI Photo & Video Maker",
-        "developer": "PixPlus Development LLC",
-        "prev_rank": 96,
-        "curr_rank": 76,
-        "delta": 20
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 88,
-        "curr_rank": 70,
-        "delta": 18
+        "curr_rank": 69,
+        "delta": 13
       },
       {
-        "country": "ID",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 70,
-        "curr_rank": 60,
+        "country": "GB",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 55,
+        "curr_rank": 44,
+        "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Meitu - Câmara de beleza",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 57,
+        "curr_rank": 39,
+        "delta": 18
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
+        "developer": "Photoroom",
+        "prev_rank": 52,
+        "curr_rank": 35,
+        "delta": 17
+      },
+      {
+        "country": "JP",
+        "name": "Retake AI 写真、顔 & セルフィーエディター",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 94,
+        "curr_rank": 84,
         "delta": 10
       }
     ],
@@ -208,31 +256,27 @@
         "name": "FaceApp: Perfect Face Editor",
         "developer": "FaceApp Technology Limited",
         "prev_rank": 48,
-        "curr_rank": 34,
-        "delta": 14
-      }
-    ],
-    "JP": [
+        "curr_rank": 35,
+        "delta": 13
+      },
       {
-        "country": "JP",
-        "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
-        "developer": "Photoroom",
-        "prev_rank": 52,
-        "curr_rank": 36,
-        "delta": 16
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Meitu - Câmara de beleza",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 57,
-        "curr_rank": 42,
-        "delta": 15
+        "country": "AU",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 38,
+        "curr_rank": 27,
+        "delta": 11
       }
     ],
     "FR": [
+      {
+        "country": "FR",
+        "name": "Photo identité - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 78,
+        "curr_rank": 62,
+        "delta": 16
+      },
       {
         "country": "FR",
         "name": "BeautyCam-AI Photo Editor",
@@ -243,11 +287,49 @@
       },
       {
         "country": "FR",
-        "name": "Photo identité - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 78,
-        "curr_rank": 66,
+        "name": "Éditeur photo AI, Renforceur",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 99,
+        "curr_rank": 89,
+        "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "PixPlus-AI Photo & Video Maker",
+        "developer": "PixPlus Development LLC",
+        "prev_rank": 96,
+        "curr_rank": 80,
+        "delta": 16
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 66,
+        "curr_rank": 54,
         "delta": 12
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 88,
+        "curr_rank": 76,
+        "delta": 12
+      },
+      {
+        "country": "ID",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 70,
+        "curr_rank": 60,
+        "delta": 10
       }
     ],
     "US": [
@@ -265,7 +347,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Cantina: AI Video & Characters leads with +33 jump in DE"
+      "text": "Cantina: AI Video & Characters leads with +37 jump in DE"
     },
     {
       "type": "market",
