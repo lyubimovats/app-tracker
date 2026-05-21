@@ -9,11 +9,11 @@
       "delta": 21
     },
     {
-      "country": "KR",
-      "name": "타입캐스트 라이트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 99,
-      "curr_rank": 79,
+      "country": "DE",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 66,
+      "curr_rank": 46,
       "delta": 20
     },
     {
@@ -21,15 +21,39 @@
       "name": "Pollo AI - AI動画生成",
       "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
       "prev_rank": 75,
-      "curr_rank": 56,
-      "delta": 19
+      "curr_rank": 57,
+      "delta": 18
+    },
+    {
+      "country": "IN",
+      "name": "NyraAI: AI Image Generator",
+      "developer": "Loan Nguyen",
+      "prev_rank": 98,
+      "curr_rank": 81,
+      "delta": 17
+    },
+    {
+      "country": "KR",
+      "name": "타입캐스트 라이트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 99,
+      "curr_rank": 83,
+      "delta": 16
     },
     {
       "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 66,
-      "curr_rank": 51,
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 86,
+      "curr_rank": 71,
+      "delta": 15
+    },
+    {
+      "country": "KR",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 85,
+      "curr_rank": 70,
       "delta": 15
     },
     {
@@ -41,14 +65,6 @@
       "delta": 14
     },
     {
-      "country": "AU",
-      "name": "Muse Reel Maker & Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 56,
-      "curr_rank": 43,
-      "delta": 13
-    },
-    {
       "country": "GB",
       "name": "Dance AI: AI Dance Video Maker",
       "developer": "DeePix AI",
@@ -57,59 +73,51 @@
       "delta": 12
     },
     {
-      "country": "KR",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 85,
-      "curr_rank": 73,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "FaceLab: Alterungs App, Älter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 51,
-      "curr_rank": 40,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 86,
-      "curr_rank": 75,
-      "delta": 11
-    },
-    {
       "country": "FR",
       "name": "Glam IA: Retouche Photo, Video",
       "developer": "Glam Labs, Inc.",
       "prev_rank": 67,
-      "curr_rank": 56,
+      "curr_rank": 55,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "Muse Reel Maker & Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 56,
+      "curr_rank": 44,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
+      "developer": "DeePix AI",
+      "prev_rank": 34,
+      "curr_rank": 23,
       "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 90,
+      "curr_rank": 80,
+      "delta": 10
     },
     {
       "country": "KR",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 67,
-      "curr_rank": 56,
-      "delta": 11
+      "curr_rank": 57,
+      "delta": 10
     },
     {
       "country": "IN",
-      "name": "NyraAI: AI Image Generator",
-      "developer": "Loan Nguyen",
-      "prev_rank": 98,
-      "curr_rank": 87,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 75,
-      "curr_rank": 65,
+      "name": "Momo: AI Photo & Video Maker",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "prev_rank": 80,
+      "curr_rank": 70,
       "delta": 10
     }
   ],
@@ -128,44 +136,16 @@
         "name": "Glam IA: Retouche Photo, Video",
         "developer": "Glam Labs, Inc.",
         "prev_rank": 67,
-        "curr_rank": 56,
-        "delta": 11
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "타입캐스트 라이트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 99,
-        "curr_rank": 79,
-        "delta": 20
-      },
-      {
-        "country": "KR",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 85,
-        "curr_rank": 73,
+        "curr_rank": 55,
         "delta": 12
       },
       {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 67,
-        "curr_rank": 56,
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 34,
+        "curr_rank": 23,
         "delta": 11
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Pollo AI - AI動画生成",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 75,
-        "curr_rank": 56,
-        "delta": 19
       }
     ],
     "DE": [
@@ -174,24 +154,78 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 66,
-        "curr_rank": 51,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "FaceLab: Alterungs App, Älter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 51,
-        "curr_rank": 40,
-        "delta": 11
+        "curr_rank": 46,
+        "delta": 20
       },
       {
         "country": "DE",
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
         "prev_rank": 86,
-        "curr_rank": 75,
-        "delta": 11
+        "curr_rank": 71,
+        "delta": 15
+      },
+      {
+        "country": "DE",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 90,
+        "curr_rank": 80,
+        "delta": 10
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Pollo AI - AI動画生成",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 75,
+        "curr_rank": 57,
+        "delta": 18
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "NyraAI: AI Image Generator",
+        "developer": "Loan Nguyen",
+        "prev_rank": 98,
+        "curr_rank": 81,
+        "delta": 17
+      },
+      {
+        "country": "IN",
+        "name": "Momo: AI Photo & Video Maker",
+        "developer": "SCALEUP YAZILIM HIZMETLERI",
+        "prev_rank": 80,
+        "curr_rank": 70,
+        "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "타입캐스트 라이트 - AI 음성 제작",
+        "developer": "Neosapience, Inc.",
+        "prev_rank": 99,
+        "curr_rank": 83,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "Remini - AI Photo Enhancer",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 85,
+        "curr_rank": 70,
+        "delta": 15
+      },
+      {
+        "country": "KR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 67,
+        "curr_rank": 57,
+        "delta": 10
       }
     ],
     "ID": [
@@ -204,16 +238,6 @@
         "delta": 14
       }
     ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Muse Reel Maker & Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 56,
-        "curr_rank": 43,
-        "delta": 13
-      }
-    ],
     "GB": [
       {
         "country": "GB",
@@ -222,24 +246,16 @@
         "prev_rank": 30,
         "curr_rank": 18,
         "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
       }
     ],
-    "IN": [
+    "AU": [
       {
-        "country": "IN",
-        "name": "NyraAI: AI Image Generator",
-        "developer": "Loan Nguyen",
-        "prev_rank": 98,
-        "curr_rank": 87,
-        "delta": 11
+        "country": "AU",
+        "name": "Muse Reel Maker & Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 56,
+        "curr_rank": 44,
+        "delta": 12
       }
     ]
   },
@@ -252,7 +268,12 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "KR has 3 rising apps - highest activity today"
+      "text": "FR has 3 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "Dance AI apps trending with 2 variants rising"
     }
   ],
   "meta": {
