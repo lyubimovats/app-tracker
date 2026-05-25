@@ -1,76 +1,100 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Retake AI: Foto & Gesicht",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 59,
-      "curr_rank": 36,
-      "delta": 23
-    },
-    {
-      "country": "KR",
-      "name": "Photoroom: AI 사진 편집 및 디자인",
-      "developer": "Photoroom",
-      "prev_rank": 64,
-      "curr_rank": 43,
-      "delta": 21
-    },
-    {
       "country": "BR",
       "name": "BeautyCam-Beautify & AI Artist",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 85,
-      "curr_rank": 65,
-      "delta": 20
+      "curr_rank": 58,
+      "delta": 27
     },
     {
-      "country": "US",
-      "name": "Toonapp: AI Photo & Video Art",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 88,
-      "curr_rank": 73,
-      "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 64,
-      "curr_rank": 50,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "invideo AI: AI Video Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 91,
-      "curr_rank": 77,
-      "delta": 14
+      "country": "DE",
+      "name": "Retake AI: Foto & Gesicht",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 59,
+      "curr_rank": 33,
+      "delta": 26
     },
     {
       "country": "FR",
       "name": "Retake IA: Éditeur de photos",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 81,
-      "curr_rank": 68,
-      "delta": 13
+      "curr_rank": 62,
+      "delta": 19
+    },
+    {
+      "country": "KR",
+      "name": "Photoroom: AI 사진 편집 및 디자인",
+      "developer": "Photoroom",
+      "prev_rank": 64,
+      "curr_rank": 45,
+      "delta": 19
+    },
+    {
+      "country": "BR",
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 93,
+      "curr_rank": 75,
+      "delta": 18
     },
     {
       "country": "BR",
       "name": "AI Mirror: Fotos anime IA",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 65,
-      "curr_rank": 52,
-      "delta": 13
+      "curr_rank": 50,
+      "delta": 15
+    },
+    {
+      "country": "KR",
+      "name": "VDIT 브이딧, AI 브이로그 릴스 영상 편집",
+      "developer": "ImgBase, Inc.",
+      "prev_rank": 65,
+      "curr_rank": 50,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "Toonapp: AI Photo & Video Art",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 88,
+      "curr_rank": 74,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "invideo AI: AI Video-Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 89,
+      "curr_rank": 77,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "FaceApp: Editor facial idéal",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 34,
+      "curr_rank": 22,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Airbrush - Éditeur Photo",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 93,
+      "curr_rank": 81,
+      "delta": 12
     },
     {
       "country": "BR",
       "name": "Retake AI: Editor de Fotos",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 74,
-      "curr_rank": 61,
-      "delta": 13
+      "curr_rank": 62,
+      "delta": 12
     },
     {
       "country": "KR",
@@ -81,31 +105,115 @@
       "delta": 12
     },
     {
-      "country": "FR",
-      "name": "Airbrush - Éditeur Photo",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 93,
-      "curr_rank": 82,
+      "country": "DE",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 55,
+      "curr_rank": 44,
       "delta": 11
     },
     {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 100,
-      "curr_rank": 90,
+      "country": "AU",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 64,
+      "curr_rank": 53,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "invideo AI: AI Video Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 91,
+      "curr_rank": 81,
       "delta": 10
     }
   ],
   "by_country": {
+    "BR": [
+      {
+        "country": "BR",
+        "name": "BeautyCam-Beautify & AI Artist",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 85,
+        "curr_rank": 58,
+        "delta": 27
+      },
+      {
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 93,
+        "curr_rank": 75,
+        "delta": 18
+      },
+      {
+        "country": "BR",
+        "name": "AI Mirror: Fotos anime IA",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 65,
+        "curr_rank": 50,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "Retake AI: Editor de Fotos",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 74,
+        "curr_rank": 62,
+        "delta": 12
+      }
+    ],
     "DE": [
       {
         "country": "DE",
         "name": "Retake AI: Foto & Gesicht",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 59,
-        "curr_rank": 36,
-        "delta": 23
+        "curr_rank": 33,
+        "delta": 26
+      },
+      {
+        "country": "DE",
+        "name": "invideo AI: AI Video-Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 89,
+        "curr_rank": 77,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 55,
+        "curr_rank": 44,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Retake IA: Éditeur de photos",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 81,
+        "curr_rank": 62,
+        "delta": 19
+      },
+      {
+        "country": "FR",
+        "name": "FaceApp: Editor facial idéal",
+        "developer": "FaceApp Technology Limited",
+        "prev_rank": 34,
+        "curr_rank": 22,
+        "delta": 12
+      },
+      {
+        "country": "FR",
+        "name": "Airbrush - Éditeur Photo",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 93,
+        "curr_rank": 81,
+        "delta": 12
       }
     ],
     "KR": [
@@ -114,8 +222,16 @@
         "name": "Photoroom: AI 사진 편집 및 디자인",
         "developer": "Photoroom",
         "prev_rank": 64,
-        "curr_rank": 43,
-        "delta": 21
+        "curr_rank": 45,
+        "delta": 19
+      },
+      {
+        "country": "KR",
+        "name": "VDIT 브이딧, AI 브이로그 릴스 영상 편집",
+        "developer": "ImgBase, Inc.",
+        "prev_rank": 65,
+        "curr_rank": 50,
+        "delta": 15
       },
       {
         "country": "KR",
@@ -126,48 +242,14 @@
         "delta": 12
       }
     ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "BeautyCam-Beautify & AI Artist",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 85,
-        "curr_rank": 65,
-        "delta": 20
-      },
-      {
-        "country": "BR",
-        "name": "AI Mirror: Fotos anime IA",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 65,
-        "curr_rank": 52,
-        "delta": 13
-      },
-      {
-        "country": "BR",
-        "name": "Retake AI: Editor de Fotos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 74,
-        "curr_rank": 61,
-        "delta": 13
-      },
-      {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 100,
-        "curr_rank": 90,
-        "delta": 10
-      }
-    ],
     "US": [
       {
         "country": "US",
         "name": "Toonapp: AI Photo & Video Art",
         "developer": "Lyrebird Studio",
         "prev_rank": 88,
-        "curr_rank": 73,
-        "delta": 15
+        "curr_rank": 74,
+        "delta": 14
       }
     ],
     "AU": [
@@ -176,34 +258,16 @@
         "name": "Captions: AI Edits Your Video",
         "developer": "Captions, LLC (US)",
         "prev_rank": 64,
-        "curr_rank": 50,
-        "delta": 14
+        "curr_rank": 53,
+        "delta": 11
       },
       {
         "country": "AU",
         "name": "invideo AI: AI Video Generator",
         "developer": "Invideo Inc",
         "prev_rank": 91,
-        "curr_rank": 77,
-        "delta": 14
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Retake IA: Éditeur de photos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 81,
-        "curr_rank": 68,
-        "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "Airbrush - Éditeur Photo",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 93,
-        "curr_rank": 82,
-        "delta": 11
+        "curr_rank": 81,
+        "delta": 10
       }
     ]
   },
@@ -211,7 +275,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Retake AI: Foto & Gesicht leads with +23 jump in DE"
+      "text": "BeautyCam-Beautify & AI Artist leads with +27 jump in BR"
     },
     {
       "type": "market",
