@@ -5,31 +5,39 @@
       "name": "Hela AI: Photo Video Generator",
       "developer": "Hypernova Limited",
       "prev_rank": 95,
-      "curr_rank": 44,
-      "delta": 51
+      "curr_rank": 46,
+      "delta": 49
+    },
+    {
+      "country": "DE",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 62,
+      "curr_rank": 33,
+      "delta": 29
     },
     {
       "country": "AU",
       "name": "Tezza: Aesthetic Photo Editor",
       "developer": "Tezza App LLC",
       "prev_rank": 71,
-      "curr_rank": 44,
-      "delta": 27
-    },
-    {
-      "country": "US",
-      "name": "Halo AI: Photo & Video Editor",
-      "developer": "Product Studio Inc.",
-      "prev_rank": 79,
-      "curr_rank": 55,
-      "delta": 24
+      "curr_rank": 43,
+      "delta": 28
     },
     {
       "country": "US",
       "name": "AI Mirror: AI Photo Editor",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 83,
-      "curr_rank": 61,
+      "curr_rank": 60,
+      "delta": 23
+    },
+    {
+      "country": "US",
+      "name": "Halo AI: Photo & Video Editor",
+      "developer": "Product Studio Inc.",
+      "prev_rank": 79,
+      "curr_rank": 57,
       "delta": 22
     },
     {
@@ -41,6 +49,22 @@
       "delta": 22
     },
     {
+      "country": "AU",
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 66,
+      "curr_rank": 45,
+      "delta": 21
+    },
+    {
+      "country": "GB",
+      "name": "Halo AI: Photo & Video Editor",
+      "developer": "Product Studio Inc.",
+      "prev_rank": 78,
+      "curr_rank": 59,
+      "delta": 19
+    },
+    {
       "country": "IN",
       "name": "FilmLook - AI Camera",
       "developer": "Khanh Thong Le",
@@ -49,11 +73,11 @@
       "delta": 19
     },
     {
-      "country": "GB",
-      "name": "Halo AI: Photo & Video Editor",
-      "developer": "Product Studio Inc.",
-      "prev_rank": 78,
-      "curr_rank": 60,
+      "country": "IN",
+      "name": "Posie -AI Video Photo Generate",
+      "developer": "Tran Anh Linh",
+      "prev_rank": 54,
+      "curr_rank": 36,
       "delta": 18
     },
     {
@@ -61,111 +85,87 @@
       "name": "AIReel: AI動画メーカー",
       "developer": "Zhao Yali",
       "prev_rank": 69,
-      "curr_rank": 51,
-      "delta": 18
-    },
-    {
-      "country": "IN",
-      "name": "Posie -AI Video Photo Generate",
-      "developer": "Tran Anh Linh",
-      "prev_rank": 54,
-      "curr_rank": 37,
-      "delta": 17
-    },
-    {
-      "country": "IN",
-      "name": "Pose Genius",
-      "developer": "Founders, Inc.",
-      "prev_rank": 77,
-      "curr_rank": 61,
-      "delta": 16
-    },
-    {
-      "country": "IN",
-      "name": "AIReel：AI Video Generator",
-      "developer": "Zhao Yali",
-      "prev_rank": 79,
-      "curr_rank": 63,
-      "delta": 16
+      "curr_rank": 54,
+      "delta": 15
     },
     {
       "country": "GB",
       "name": "Pose: AI Photo Video Generator",
       "developer": "Spark Dynamic",
       "prev_rank": 61,
-      "curr_rank": 46,
-      "delta": 15
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 71,
-      "curr_rank": 56,
-      "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "Chatlulu:Video&Photo Editor",
-      "developer": "Hong Kong Endless Flow Technology Limited",
-      "prev_rank": 66,
-      "curr_rank": 51,
-      "delta": 15
-    },
-    {
-      "country": "DE",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 62,
-      "curr_rank": 48,
+      "curr_rank": 47,
       "delta": 14
     },
     {
       "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 84,
-      "curr_rank": 71,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 64,
-      "curr_rank": 52,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "BeautyPlus-Selfie Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 75,
-      "delta": 12
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 63,
+      "curr_rank": 49,
+      "delta": 14
     },
     {
       "country": "BR",
       "name": "Instories: AI Fotos & Videos",
       "developer": "Ylee Studio LTD",
       "prev_rank": 70,
-      "curr_rank": 59,
-      "delta": 11
+      "curr_rank": 56,
+      "delta": 14
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 71,
+      "curr_rank": 57,
+      "delta": 14
     },
     {
       "country": "GB",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 34,
-      "curr_rank": 24,
-      "delta": 10
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 64,
+      "curr_rank": 51,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Photica: AI Video Generator",
+      "developer": "Comapps LLC",
+      "prev_rank": 95,
+      "curr_rank": 83,
+      "delta": 12
     },
     {
       "country": "FR",
       "name": "Retake IA: Éditeur de photos",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 67,
+      "curr_rank": 56,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "Wink：AI 영상 화질 개선 및 편집",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 68,
       "curr_rank": 57,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 60,
+      "curr_rank": 50,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "AIReel：AI Video Generator",
+      "developer": "Zhao Yali",
+      "prev_rank": 79,
+      "curr_rank": 69,
       "delta": 10
     }
   ],
@@ -176,8 +176,8 @@
         "name": "Hela AI: Photo Video Generator",
         "developer": "Hypernova Limited",
         "prev_rank": 95,
-        "curr_rank": 44,
-        "delta": 51
+        "curr_rank": 46,
+        "delta": 49
       },
       {
         "country": "IN",
@@ -192,24 +192,26 @@
         "name": "Posie -AI Video Photo Generate",
         "developer": "Tran Anh Linh",
         "prev_rank": 54,
-        "curr_rank": 37,
-        "delta": 17
-      },
-      {
-        "country": "IN",
-        "name": "Pose Genius",
-        "developer": "Founders, Inc.",
-        "prev_rank": 77,
-        "curr_rank": 61,
-        "delta": 16
+        "curr_rank": 36,
+        "delta": 18
       },
       {
         "country": "IN",
         "name": "AIReel：AI Video Generator",
         "developer": "Zhao Yali",
         "prev_rank": 79,
-        "curr_rank": 63,
-        "delta": 16
+        "curr_rank": 69,
+        "delta": 10
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Meitu AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 62,
+        "curr_rank": 33,
+        "delta": 29
       }
     ],
     "AU": [
@@ -218,33 +220,41 @@
         "name": "Tezza: Aesthetic Photo Editor",
         "developer": "Tezza App LLC",
         "prev_rank": 71,
-        "curr_rank": 44,
-        "delta": 27
+        "curr_rank": 43,
+        "delta": 28
       },
       {
         "country": "AU",
         "name": "Chatlulu:Video&Photo Editor",
         "developer": "Hong Kong Endless Flow Technology Limited",
         "prev_rank": 66,
-        "curr_rank": 51,
-        "delta": 15
+        "curr_rank": 45,
+        "delta": 21
+      },
+      {
+        "country": "AU",
+        "name": "Photica: AI Video Generator",
+        "developer": "Comapps LLC",
+        "prev_rank": 95,
+        "curr_rank": 83,
+        "delta": 12
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "Halo AI: Photo & Video Editor",
-        "developer": "Product Studio Inc.",
-        "prev_rank": 79,
-        "curr_rank": 55,
-        "delta": 24
-      },
-      {
-        "country": "US",
         "name": "AI Mirror: AI Photo Editor",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 83,
-        "curr_rank": 61,
+        "curr_rank": 60,
+        "delta": 23
+      },
+      {
+        "country": "US",
+        "name": "Halo AI: Photo & Video Editor",
+        "developer": "Product Studio Inc.",
+        "prev_rank": 79,
+        "curr_rank": 57,
         "delta": 22
       }
     ],
@@ -262,8 +272,8 @@
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
         "prev_rank": 71,
-        "curr_rank": 56,
-        "delta": 15
+        "curr_rank": 57,
+        "delta": 14
       }
     ],
     "GB": [
@@ -272,40 +282,32 @@
         "name": "Halo AI: Photo & Video Editor",
         "developer": "Product Studio Inc.",
         "prev_rank": 78,
-        "curr_rank": 60,
-        "delta": 18
+        "curr_rank": 59,
+        "delta": 19
       },
       {
         "country": "GB",
         "name": "Pose: AI Photo Video Generator",
         "developer": "Spark Dynamic",
         "prev_rank": 61,
-        "curr_rank": 46,
-        "delta": 15
+        "curr_rank": 47,
+        "delta": 14
       },
       {
         "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 84,
-        "curr_rank": 71,
-        "delta": 13
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 63,
+        "curr_rank": 49,
+        "delta": 14
       },
       {
         "country": "GB",
         "name": "Meitu- AI Photo & Video Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 64,
-        "curr_rank": 52,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 34,
-        "curr_rank": 24,
-        "delta": 10
+        "curr_rank": 51,
+        "delta": 13
       }
     ],
     "JP": [
@@ -314,36 +316,8 @@
         "name": "AIReel: AI動画メーカー",
         "developer": "Zhao Yali",
         "prev_rank": 69,
-        "curr_rank": 51,
-        "delta": 18
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Meitu AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 62,
-        "curr_rank": 48,
-        "delta": 14
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 87,
-        "curr_rank": 75,
-        "delta": 12
-      },
-      {
-        "country": "FR",
-        "name": "Retake IA: Éditeur de photos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 67,
-        "curr_rank": 57,
-        "delta": 10
+        "curr_rank": 54,
+        "delta": 15
       }
     ],
     "BR": [
@@ -352,7 +326,35 @@
         "name": "Instories: AI Fotos & Videos",
         "developer": "Ylee Studio LTD",
         "prev_rank": 70,
-        "curr_rank": 59,
+        "curr_rank": 56,
+        "delta": 14
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Retake IA: Éditeur de photos",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 67,
+        "curr_rank": 56,
+        "delta": 11
+      },
+      {
+        "country": "FR",
+        "name": "Meitu AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 60,
+        "curr_rank": 50,
+        "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Wink：AI 영상 화질 개선 및 편집",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 68,
+        "curr_rank": 57,
         "delta": 11
       }
     ]
@@ -361,17 +363,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Hela AI: Photo Video Generator leads with +51 jump in IN"
+      "text": "Hela AI: Photo Video Generator leads with +49 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "IN has 5 rising apps - highest activity today"
+      "text": "IN has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Halo AI: Photo & Video Editor rising in 2 markets: US, GB"
+      "text": "Meitu AI Photo & Video Editor rising in 2 markets: DE, FR"
     }
   ],
   "meta": {
