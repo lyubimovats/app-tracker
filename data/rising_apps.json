@@ -5,24 +5,32 @@
       "name": "AI Art-Photo&Face Editor",
       "developer": "AHAJOY LIMITED",
       "prev_rank": 76,
-      "curr_rank": 37,
-      "delta": 39
+      "curr_rank": 42,
+      "delta": 34
     },
     {
       "country": "AU",
       "name": "Airbrush: Face Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 57,
-      "curr_rank": 31,
-      "delta": 26
+      "curr_rank": 30,
+      "delta": 27
     },
     {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 73,
-      "curr_rank": 54,
-      "delta": 19
+      "country": "JP",
+      "name": "Filmora：AI動画生成 & 動画編集",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 86,
+      "curr_rank": 63,
+      "delta": 23
+    },
+    {
+      "country": "IN",
+      "name": "StyleMe-AI selfie editor",
+      "developer": "VoiceFun",
+      "prev_rank": 65,
+      "curr_rank": 47,
+      "delta": 18
     },
     {
       "country": "DE",
@@ -34,90 +42,98 @@
     },
     {
       "country": "JP",
-      "name": "Filmora：AI動画生成 & 動画編集",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 86,
-      "curr_rank": 69,
-      "delta": 17
-    },
-    {
-      "country": "IN",
-      "name": "StyleMe-AI selfie editor",
-      "developer": "VoiceFun",
-      "prev_rank": 65,
-      "curr_rank": 49,
+      "name": "AI Catch: AI ビデオジェネレーター",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 99,
+      "curr_rank": 83,
       "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 39,
-      "curr_rank": 25,
-      "delta": 14
     },
     {
       "country": "DE",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 81,
-      "curr_rank": 68,
-      "delta": 13
-    },
-    {
-      "country": "JP",
-      "name": "Evoto AI - 写真編集・加工アプリ",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 75,
-      "curr_rank": 62,
-      "delta": 13
+      "curr_rank": 66,
+      "delta": 15
     },
     {
       "country": "BR",
       "name": "invideo AI: AI video generator",
       "developer": "Invideo Inc",
       "prev_rank": 81,
-      "curr_rank": 70,
-      "delta": 11
+      "curr_rank": 67,
+      "delta": 14
     },
     {
-      "country": "IN",
-      "name": "Flow AI - Video Generator",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 92,
-      "curr_rank": 81,
-      "delta": 11
-    },
-    {
-      "country": "BR",
-      "name": "Pose: Vídeos e Fotos com IA",
-      "developer": "Spark Dynamic",
-      "prev_rank": 100,
-      "curr_rank": 90,
-      "delta": 10
-    },
-    {
-      "country": "JP",
-      "name": "Pollo AI - AI動画生成",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 52,
-      "curr_rank": 42,
-      "delta": 10
+      "country": "KR",
+      "name": "Filmora: AI 영상 제작 & 동영상 편집",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 76,
+      "curr_rank": 63,
+      "delta": 13
     },
     {
       "country": "IN",
       "name": "PicsRoom - AI Photo Generator",
       "developer": "HAPPY TOOLS HK LIMITED",
       "prev_rank": 64,
-      "curr_rank": 54,
-      "delta": 10
+      "curr_rank": 51,
+      "delta": 13
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 73,
+      "curr_rank": 60,
+      "delta": 13
+    },
+    {
+      "country": "BR",
+      "name": "Flow AI: Criador De Video IA",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 93,
+      "curr_rank": 81,
+      "delta": 12
     },
     {
       "country": "IN",
-      "name": "Prompt Ai : Ai Photo Maker",
-      "developer": "Utsav Jayani",
-      "prev_rank": 94,
-      "curr_rank": 84,
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 91,
+      "curr_rank": 79,
+      "delta": 12
+    },
+    {
+      "country": "IN",
+      "name": "Flow AI - Video Generator",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 92,
+      "curr_rank": 80,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 39,
+      "curr_rank": 28,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "invideo AI: AI Video Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 96,
+      "curr_rank": 86,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 38,
+      "curr_rank": 28,
       "delta": 10
     }
   ],
@@ -128,40 +144,40 @@
         "name": "AI Art-Photo&Face Editor",
         "developer": "AHAJOY LIMITED",
         "prev_rank": 76,
-        "curr_rank": 37,
-        "delta": 39
+        "curr_rank": 42,
+        "delta": 34
       },
       {
         "country": "IN",
         "name": "StyleMe-AI selfie editor",
         "developer": "VoiceFun",
         "prev_rank": 65,
-        "curr_rank": 49,
-        "delta": 16
-      },
-      {
-        "country": "IN",
-        "name": "Flow AI - Video Generator",
-        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-        "prev_rank": 92,
-        "curr_rank": 81,
-        "delta": 11
+        "curr_rank": 47,
+        "delta": 18
       },
       {
         "country": "IN",
         "name": "PicsRoom - AI Photo Generator",
         "developer": "HAPPY TOOLS HK LIMITED",
         "prev_rank": 64,
-        "curr_rank": 54,
-        "delta": 10
+        "curr_rank": 51,
+        "delta": 13
       },
       {
         "country": "IN",
-        "name": "Prompt Ai : Ai Photo Maker",
-        "developer": "Utsav Jayani",
-        "prev_rank": 94,
-        "curr_rank": 84,
-        "delta": 10
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 91,
+        "curr_rank": 79,
+        "delta": 12
+      },
+      {
+        "country": "IN",
+        "name": "Flow AI - Video Generator",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 92,
+        "curr_rank": 80,
+        "delta": 12
       }
     ],
     "AU": [
@@ -170,18 +186,34 @@
         "name": "Airbrush: Face Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 57,
-        "curr_rank": 31,
-        "delta": 26
+        "curr_rank": 30,
+        "delta": 27
+      },
+      {
+        "country": "AU",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 38,
+        "curr_rank": 28,
+        "delta": 10
       }
     ],
-    "ID": [
+    "JP": [
       {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 73,
-        "curr_rank": 54,
-        "delta": 19
+        "country": "JP",
+        "name": "Filmora：AI動画生成 & 動画編集",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 86,
+        "curr_rank": 63,
+        "delta": 23
+      },
+      {
+        "country": "JP",
+        "name": "AI Catch: AI ビデオジェネレーター",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 99,
+        "curr_rank": 83,
+        "delta": 16
       }
     ],
     "DE": [
@@ -198,44 +230,8 @@
         "name": "Cantina: AI Video & Characters",
         "developer": "Cantina, Inc",
         "prev_rank": 81,
-        "curr_rank": 68,
-        "delta": 13
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Filmora：AI動画生成 & 動画編集",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 86,
-        "curr_rank": 69,
-        "delta": 17
-      },
-      {
-        "country": "JP",
-        "name": "Evoto AI - 写真編集・加工アプリ",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 75,
-        "curr_rank": 62,
-        "delta": 13
-      },
-      {
-        "country": "JP",
-        "name": "Pollo AI - AI動画生成",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 52,
-        "curr_rank": 42,
-        "delta": 10
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 39,
-        "curr_rank": 25,
-        "delta": 14
+        "curr_rank": 66,
+        "delta": 15
       }
     ],
     "BR": [
@@ -244,15 +240,53 @@
         "name": "invideo AI: AI video generator",
         "developer": "Invideo Inc",
         "prev_rank": 81,
-        "curr_rank": 70,
-        "delta": 11
+        "curr_rank": 67,
+        "delta": 14
       },
       {
         "country": "BR",
-        "name": "Pose: Vídeos e Fotos com IA",
-        "developer": "Spark Dynamic",
-        "prev_rank": 100,
-        "curr_rank": 90,
+        "name": "Flow AI: Criador De Video IA",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 93,
+        "curr_rank": 81,
+        "delta": 12
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Filmora: AI 영상 제작 & 동영상 편집",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 76,
+        "curr_rank": 63,
+        "delta": 13
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 73,
+        "curr_rank": 60,
+        "delta": 13
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 39,
+        "curr_rank": 28,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "invideo AI: AI Video Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 96,
+        "curr_rank": 86,
         "delta": 10
       }
     ]
@@ -261,7 +295,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Art-Photo&Face Editor leads with +39 jump in IN"
+      "text": "AI Art-Photo&Face Editor leads with +34 jump in IN"
     },
     {
       "type": "market",
