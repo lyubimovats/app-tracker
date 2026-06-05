@@ -9,22 +9,6 @@
       "delta": 30
     },
     {
-      "country": "AU",
-      "name": "KwaiCut - Video Editor",
-      "developer": "Kwai Technology Limited",
-      "prev_rank": 96,
-      "curr_rank": 72,
-      "delta": 24
-    },
-    {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 91,
-      "curr_rank": 68,
-      "delta": 23
-    },
-    {
       "country": "IN",
       "name": "AI Art-Photo&Face Editor",
       "developer": "AHAJOY LIMITED",
@@ -33,107 +17,163 @@
       "delta": 22
     },
     {
+      "country": "BR",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 91,
+      "curr_rank": 71,
+      "delta": 20
+    },
+    {
       "country": "US",
       "name": "Halo AI: Photo & Video Editor",
       "developer": "Product Studio Inc.",
       "prev_rank": 90,
-      "curr_rank": 70,
-      "delta": 20
-    },
-    {
-      "country": "FR",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 97,
-      "curr_rank": 79,
-      "delta": 18
-    },
-    {
-      "country": "JP",
-      "name": "Pixi Ai：フォトマジック＆Aiビデオ",
-      "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-      "prev_rank": 86,
-      "curr_rank": 70,
-      "delta": 16
-    },
-    {
-      "country": "BR",
-      "name": "Dance AI: Vídeos de Dança IA",
-      "developer": "DeePix AI",
-      "prev_rank": 59,
-      "curr_rank": 44,
-      "delta": 15
+      "curr_rank": 73,
+      "delta": 17
     },
     {
       "country": "DE",
       "name": "Vids AI - Reels Video Editor",
       "developer": "Viral Vision Ltd.",
       "prev_rank": 83,
-      "curr_rank": 70,
-      "delta": 13
+      "curr_rank": 66,
+      "delta": 17
     },
     {
-      "country": "DE",
-      "name": "invideo AI: AI Video-Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 94,
-      "curr_rank": 81,
-      "delta": 13
+      "country": "JP",
+      "name": "Pixi Ai：フォトマジック＆Aiビデオ",
+      "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
+      "prev_rank": 86,
+      "curr_rank": 69,
+      "delta": 17
     },
     {
-      "country": "GB",
-      "name": "AI Video Generator - Reelina",
-      "developer": "Mobilina App Studio",
-      "prev_rank": 72,
-      "curr_rank": 60,
-      "delta": 12
+      "country": "FR",
+      "name": "BeautyCam-AI Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 89,
+      "curr_rank": 75,
+      "delta": 14
     },
     {
-      "country": "ID",
-      "name": "Flow AI - Video Generator",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 95,
-      "curr_rank": 83,
-      "delta": 12
+      "country": "BR",
+      "name": "Dance AI: Vídeos de Dança IA",
+      "developer": "DeePix AI",
+      "prev_rank": 59,
+      "curr_rank": 45,
+      "delta": 14
     },
     {
       "country": "DE",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
       "prev_rank": 49,
-      "curr_rank": 38,
-      "delta": 11
+      "curr_rank": 36,
+      "delta": 13
     },
     {
       "country": "DE",
       "name": "YouCam Perfect AI Photo Editor",
       "developer": "PERFECT MOBILE CORP.",
       "prev_rank": 90,
-      "curr_rank": 79,
-      "delta": 11
+      "curr_rank": 78,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 97,
+      "curr_rank": 85,
+      "delta": 12
     },
     {
       "country": "BR",
       "name": "Pose: Vídeos e Fotos com IA",
       "developer": "Spark Dynamic",
       "prev_rank": 84,
-      "curr_rank": 73,
+      "curr_rank": 72,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "KwaiCut - Video Editor",
+      "developer": "Kwai Technology Limited",
+      "prev_rank": 96,
+      "curr_rank": 84,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "AI Video Generator - Reelina",
+      "developer": "Mobilina App Studio",
+      "prev_rank": 72,
+      "curr_rank": 61,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "invideo AI: AI Video-Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 94,
+      "curr_rank": 83,
+      "delta": 11
+    },
+    {
+      "country": "ID",
+      "name": "Flow AI - Video Generator",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 95,
+      "curr_rank": 84,
       "delta": 11
     },
     {
       "country": "US",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 85,
-      "curr_rank": 75,
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 70,
+      "curr_rank": 60,
+      "delta": 10
+    },
+    {
+      "country": "US",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 84,
+      "curr_rank": 74,
       "delta": 10
     },
     {
       "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 48,
-      "curr_rank": 38,
+      "name": "invideo AI: AI Video Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 81,
+      "curr_rank": 71,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "Wink：AI 영상 화질 개선 및 편집",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 38,
+      "curr_rank": 28,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 64,
+      "curr_rank": 54,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "ReelMe AI: Daily Photo & Trend",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 71,
+      "curr_rank": 61,
       "delta": 10
     }
   ],
@@ -152,52 +192,24 @@
         "name": "Halo AI: Photo & Video Editor",
         "developer": "Product Studio Inc.",
         "prev_rank": 90,
-        "curr_rank": 70,
-        "delta": 20
+        "curr_rank": 73,
+        "delta": 17
       },
       {
         "country": "US",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 85,
-        "curr_rank": 75,
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 70,
+        "curr_rank": 60,
         "delta": 10
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "KwaiCut - Video Editor",
-        "developer": "Kwai Technology Limited",
-        "prev_rank": 96,
-        "curr_rank": 72,
-        "delta": 24
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 91,
-        "curr_rank": 68,
-        "delta": 23
       },
       {
-        "country": "BR",
-        "name": "Dance AI: Vídeos de Dança IA",
-        "developer": "DeePix AI",
-        "prev_rank": 59,
-        "curr_rank": 44,
-        "delta": 15
-      },
-      {
-        "country": "BR",
-        "name": "Pose: Vídeos e Fotos com IA",
-        "developer": "Spark Dynamic",
+        "country": "US",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
         "prev_rank": 84,
-        "curr_rank": 73,
-        "delta": 11
+        "curr_rank": 74,
+        "delta": 10
       }
     ],
     "IN": [
@@ -210,24 +222,30 @@
         "delta": 22
       }
     ],
-    "FR": [
+    "BR": [
       {
-        "country": "FR",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 97,
-        "curr_rank": 79,
-        "delta": 18
-      }
-    ],
-    "JP": [
+        "country": "BR",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 91,
+        "curr_rank": 71,
+        "delta": 20
+      },
       {
-        "country": "JP",
-        "name": "Pixi Ai：フォトマジック＆Aiビデオ",
-        "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-        "prev_rank": 86,
-        "curr_rank": 70,
-        "delta": 16
+        "country": "BR",
+        "name": "Dance AI: Vídeos de Dança IA",
+        "developer": "DeePix AI",
+        "prev_rank": 59,
+        "curr_rank": 45,
+        "delta": 14
+      },
+      {
+        "country": "BR",
+        "name": "Pose: Vídeos e Fotos com IA",
+        "developer": "Spark Dynamic",
+        "prev_rank": 84,
+        "curr_rank": 72,
+        "delta": 12
       }
     ],
     "DE": [
@@ -236,32 +254,86 @@
         "name": "Vids AI - Reels Video Editor",
         "developer": "Viral Vision Ltd.",
         "prev_rank": 83,
-        "curr_rank": 70,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "invideo AI: AI Video-Generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 94,
-        "curr_rank": 81,
-        "delta": 13
+        "curr_rank": 66,
+        "delta": 17
       },
       {
         "country": "DE",
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 49,
-        "curr_rank": 38,
-        "delta": 11
+        "curr_rank": 36,
+        "delta": 13
       },
       {
         "country": "DE",
         "name": "YouCam Perfect AI Photo Editor",
         "developer": "PERFECT MOBILE CORP.",
         "prev_rank": 90,
-        "curr_rank": 79,
+        "curr_rank": 78,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "invideo AI: AI Video-Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 94,
+        "curr_rank": 83,
         "delta": 11
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Pixi Ai：フォトマジック＆Aiビデオ",
+        "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
+        "prev_rank": 86,
+        "curr_rank": 69,
+        "delta": 17
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "BeautyCam-AI Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 89,
+        "curr_rank": 75,
+        "delta": 14
+      },
+      {
+        "country": "FR",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 97,
+        "curr_rank": 85,
+        "delta": 12
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "KwaiCut - Video Editor",
+        "developer": "Kwai Technology Limited",
+        "prev_rank": 96,
+        "curr_rank": 84,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 64,
+        "curr_rank": 54,
+        "delta": 10
+      },
+      {
+        "country": "AU",
+        "name": "ReelMe AI: Daily Photo & Trend",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 71,
+        "curr_rank": 61,
+        "delta": 10
       }
     ],
     "GB": [
@@ -270,15 +342,15 @@
         "name": "AI Video Generator - Reelina",
         "developer": "Mobilina App Studio",
         "prev_rank": 72,
-        "curr_rank": 60,
-        "delta": 12
+        "curr_rank": 61,
+        "delta": 11
       },
       {
         "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 48,
-        "curr_rank": 38,
+        "name": "invideo AI: AI Video Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 81,
+        "curr_rank": 71,
         "delta": 10
       }
     ],
@@ -288,8 +360,18 @@
         "name": "Flow AI - Video Generator",
         "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
         "prev_rank": 95,
-        "curr_rank": 83,
-        "delta": 12
+        "curr_rank": 84,
+        "delta": 11
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Wink：AI 영상 화질 개선 및 편집",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 38,
+        "curr_rank": 28,
+        "delta": 10
       }
     ]
   },
@@ -302,17 +384,17 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 4 rising apps - highest activity today"
+      "text": "US has 4 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Dance AI apps trending with 2 variants rising"
+      "text": "Vids AI apps trending with 2 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Instories: AI Photo & Video rising in 2 markets: FR, DE"
+      "text": "Instories: AI Photo & Video rising in 3 markets: DE, FR, US"
     }
   ],
   "meta": {
