@@ -1,35 +1,43 @@
 {
   "rising": [
     {
-      "country": "GB",
-      "name": "AI Art-Photo&Face Editor",
-      "developer": "AHAJOY LIMITED",
-      "prev_rank": 74,
-      "curr_rank": 50,
-      "delta": 24
-    },
-    {
-      "country": "IN",
-      "name": "Photo to Video: AI Video Maker",
-      "developer": "嘉夫 张",
-      "prev_rank": 80,
-      "curr_rank": 58,
-      "delta": 22
-    },
-    {
-      "country": "AU",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 53,
-      "curr_rank": 32,
-      "delta": 21
-    },
-    {
       "country": "AU",
       "name": "Zoombo: Nano AI Studio",
       "developer": "Zoombo Technology Limited",
       "prev_rank": 56,
-      "curr_rank": 35,
+      "curr_rank": 30,
+      "delta": 26
+    },
+    {
+      "country": "FR",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 64,
+      "curr_rank": 39,
+      "delta": 25
+    },
+    {
+      "country": "DE",
+      "name": "Dance AI: KI-Tanzvideo Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 64,
+      "curr_rank": 41,
+      "delta": 23
+    },
+    {
+      "country": "GB",
+      "name": "AI Art-Photo&Face Editor",
+      "developer": "AHAJOY LIMITED",
+      "prev_rank": 74,
+      "curr_rank": 53,
+      "delta": 21
+    },
+    {
+      "country": "FR",
+      "name": "BeautyCam-AI Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 79,
+      "curr_rank": 58,
       "delta": 21
     },
     {
@@ -37,111 +45,119 @@
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 96,
-      "curr_rank": 76,
-      "delta": 20
-    },
-    {
-      "country": "FR",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 64,
-      "curr_rank": 47,
-      "delta": 17
+      "curr_rank": 75,
+      "delta": 21
     },
     {
       "country": "IN",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 83,
-      "curr_rank": 67,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "Esti: Aesthetic Photo Editor",
-      "developer": "Prequel Inc.",
-      "prev_rank": 81,
-      "curr_rank": 67,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Dance AI: KI-Tanzvideo Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 64,
-      "curr_rank": 51,
-      "delta": 13
-    },
-    {
-      "country": "FR",
-      "name": "PrettyUp -Retouche video corps",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 74,
+      "name": "Photo to Video: AI Video Maker",
+      "developer": "嘉夫 张",
+      "prev_rank": 80,
       "curr_rank": 61,
-      "delta": 13
+      "delta": 19
     },
     {
       "country": "AU",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 78,
-      "curr_rank": 65,
-      "delta": 13
-    },
-    {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 55,
-      "curr_rank": 43,
-      "delta": 12
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 53,
+      "curr_rank": 34,
+      "delta": 19
     },
     {
       "country": "US",
       "name": "BeautyCam-AI Photo Editor",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
+      "curr_rank": 62,
+      "delta": 17
     },
     {
-      "country": "GB",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 62,
-      "curr_rank": 51,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "BeautyCam-AI Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "Adobe Premiere AI 비디오 에디터",
-      "developer": "Adobe Inc.",
-      "prev_rank": 82,
-      "curr_rank": 71,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "Zoombo Technology Limited",
-      "prev_rank": 68,
-      "curr_rank": 58,
-      "delta": 10
+      "country": "BR",
+      "name": "BIGVU Teleprompter Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 97,
+      "curr_rank": 82,
+      "delta": 15
     },
     {
       "country": "FR",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
       "prev_rank": 84,
-      "curr_rank": 74,
+      "curr_rank": 71,
+      "delta": 13
+    },
+    {
+      "country": "IN",
+      "name": "AI Photo Editor, Remove Object",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 83,
+      "curr_rank": 71,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 86,
+      "curr_rank": 75,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
+      "developer": "DeePix AI",
+      "prev_rank": 73,
+      "curr_rank": 62,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "PrettyUp -Retouche video corps",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 74,
+      "curr_rank": 63,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "캐럿 - AI와 무엇이든 만드세요",
+      "developer": "Paradot Corp.",
+      "prev_rank": 59,
+      "curr_rank": 48,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "Esti: Aesthetic Photo Editor",
+      "developer": "Prequel Inc.",
+      "prev_rank": 81,
+      "curr_rank": 71,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 62,
+      "curr_rank": 52,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "BeautyCam-AI Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 28,
+      "curr_rank": 18,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "AI Mirror: Fotos anime IA",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 27,
+      "curr_rank": 17,
       "delta": 10
     },
     {
@@ -162,90 +178,46 @@
     },
     {
       "country": "KR",
-      "name": "캐럿 - AI와 무엇이든 만드세요",
-      "developer": "Paradot Corp.",
-      "prev_rank": 59,
-      "curr_rank": 49,
+      "name": "Adobe Premiere AI 비디오 에디터",
+      "developer": "Adobe Inc.",
+      "prev_rank": 82,
+      "curr_rank": 72,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "eCalendar - Daily Planner",
+      "developer": "Shenzhen Fujia Technology Co., Ltd.",
+      "prev_rank": 78,
+      "curr_rank": 68,
       "delta": 10
     }
   ],
   "by_country": {
-    "GB": [
-      {
-        "country": "GB",
-        "name": "AI Art-Photo&Face Editor",
-        "developer": "AHAJOY LIMITED",
-        "prev_rank": 74,
-        "curr_rank": 50,
-        "delta": 24
-      },
-      {
-        "country": "GB",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 62,
-        "curr_rank": 51,
-        "delta": 11
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Photo to Video: AI Video Maker",
-        "developer": "嘉夫 张",
-        "prev_rank": 80,
-        "curr_rank": 58,
-        "delta": 22
-      },
-      {
-        "country": "IN",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 96,
-        "curr_rank": 76,
-        "delta": 20
-      },
-      {
-        "country": "IN",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 83,
-        "curr_rank": 67,
-        "delta": 16
-      }
-    ],
     "AU": [
-      {
-        "country": "AU",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 53,
-        "curr_rank": 32,
-        "delta": 21
-      },
       {
         "country": "AU",
         "name": "Zoombo: Nano AI Studio",
         "developer": "Zoombo Technology Limited",
         "prev_rank": 56,
-        "curr_rank": 35,
-        "delta": 21
+        "curr_rank": 30,
+        "delta": 26
+      },
+      {
+        "country": "AU",
+        "name": "FaceEra – Age & Photo AI",
+        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+        "prev_rank": 53,
+        "curr_rank": 34,
+        "delta": 19
       },
       {
         "country": "AU",
         "name": "eCalendar - Daily Planner",
         "developer": "Shenzhen Fujia Technology Co., Ltd.",
         "prev_rank": 78,
-        "curr_rank": 65,
-        "delta": 13
-      },
-      {
-        "country": "AU",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 55,
-        "curr_rank": 43,
-        "delta": 12
+        "curr_rank": 68,
+        "delta": 10
       }
     ],
     "FR": [
@@ -254,49 +226,39 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 64,
-        "curr_rank": 47,
-        "delta": 17
-      },
-      {
-        "country": "FR",
-        "name": "PrettyUp -Retouche video corps",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 74,
-        "curr_rank": 61,
-        "delta": 13
+        "curr_rank": 39,
+        "delta": 25
       },
       {
         "country": "FR",
         "name": "BeautyCam-AI Photo Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
+        "curr_rank": 58,
+        "delta": 21
       },
       {
         "country": "FR",
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 84,
-        "curr_rank": 74,
-        "delta": 10
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Esti: Aesthetic Photo Editor",
-        "developer": "Prequel Inc.",
-        "prev_rank": 81,
-        "curr_rank": 67,
-        "delta": 14
+        "curr_rank": 71,
+        "delta": 13
       },
       {
-        "country": "US",
-        "name": "BeautyCam-AI Photo Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 79,
-        "curr_rank": 68,
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 73,
+        "curr_rank": 62,
+        "delta": 11
+      },
+      {
+        "country": "FR",
+        "name": "PrettyUp -Retouche video corps",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 74,
+        "curr_rank": 63,
         "delta": 11
       }
     ],
@@ -306,25 +268,121 @@
         "name": "Dance AI: KI-Tanzvideo Maker",
         "developer": "DeePix AI",
         "prev_rank": 64,
-        "curr_rank": 51,
-        "delta": 13
+        "curr_rank": 41,
+        "delta": 23
       },
       {
         "country": "DE",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "Zoombo Technology Limited",
-        "prev_rank": 68,
-        "curr_rank": 58,
+        "name": "BeautyCam-AI Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 28,
+        "curr_rank": 18,
+        "delta": 10
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "AI Art-Photo&Face Editor",
+        "developer": "AHAJOY LIMITED",
+        "prev_rank": 74,
+        "curr_rank": 53,
+        "delta": 21
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 86,
+        "curr_rank": 75,
+        "delta": 11
+      },
+      {
+        "country": "GB",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 62,
+        "curr_rank": 52,
+        "delta": 10
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 96,
+        "curr_rank": 75,
+        "delta": 21
+      },
+      {
+        "country": "IN",
+        "name": "Photo to Video: AI Video Maker",
+        "developer": "嘉夫 张",
+        "prev_rank": 80,
+        "curr_rank": 61,
+        "delta": 19
+      },
+      {
+        "country": "IN",
+        "name": "AI Photo Editor, Remove Object",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 83,
+        "curr_rank": 71,
+        "delta": 12
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "BeautyCam-AI Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 79,
+        "curr_rank": 62,
+        "delta": 17
+      },
+      {
+        "country": "US",
+        "name": "Esti: Aesthetic Photo Editor",
+        "developer": "Prequel Inc.",
+        "prev_rank": 81,
+        "curr_rank": 71,
+        "delta": 10
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "BIGVU Teleprompter Captions AI",
+        "developer": "BIGVU INC",
+        "prev_rank": 97,
+        "curr_rank": 82,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "AI Mirror: Fotos anime IA",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 27,
+        "curr_rank": 17,
+        "delta": 10
+      },
+      {
+        "country": "BR",
+        "name": "Dance AI: Vídeos de Dança IA",
+        "developer": "DeePix AI",
+        "prev_rank": 69,
+        "curr_rank": 59,
         "delta": 10
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "Adobe Premiere AI 비디오 에디터",
-        "developer": "Adobe Inc.",
-        "prev_rank": 82,
-        "curr_rank": 71,
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 59,
+        "curr_rank": 48,
         "delta": 11
       },
       {
@@ -337,20 +395,10 @@
       },
       {
         "country": "KR",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp.",
-        "prev_rank": 59,
-        "curr_rank": 49,
-        "delta": 10
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Dance AI: Vídeos de Dança IA",
-        "developer": "DeePix AI",
-        "prev_rank": 69,
-        "curr_rank": 59,
+        "name": "Adobe Premiere AI 비디오 에디터",
+        "developer": "Adobe Inc.",
+        "prev_rank": 82,
+        "curr_rank": 72,
         "delta": 10
       }
     ]
@@ -359,22 +407,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Art-Photo&Face Editor leads with +24 jump in GB"
+      "text": "Zoombo: Nano AI Studio leads with +26 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 4 rising apps - highest activity today"
+      "text": "FR has 5 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Dance AI apps trending with 2 variants rising"
+      "text": "Dance AI apps trending with 3 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Zoombo: Nano AI Studio rising in 2 markets: AU, DE"
+      "text": "BeautyCam-AI Photo Editor rising in 3 markets: FR, US, DE"
     }
   ],
   "meta": {
