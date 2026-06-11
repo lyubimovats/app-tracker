@@ -73,14 +73,6 @@
       "delta": 16
     },
     {
-      "country": "JP",
-      "name": "Evoto AI - 写真編集・加工アプリ",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 72,
-      "delta": 15
-    },
-    {
       "country": "US",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
@@ -294,16 +286,6 @@
         "prev_rank": 53,
         "curr_rank": 41,
         "delta": 12
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Evoto AI - 写真編集・加工アプリ",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 87,
-        "curr_rank": 72,
-        "delta": 15
       }
     ]
   },
