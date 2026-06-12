@@ -5,31 +5,47 @@
       "name": "Dance AI: AI Dance Video Maker",
       "developer": "DeePix AI",
       "prev_rank": 84,
-      "curr_rank": 50,
-      "delta": 34
+      "curr_rank": 48,
+      "delta": 36
     },
     {
       "country": "IN",
       "name": "Muse: Reels Video Editor",
       "developer": "Bigrowth",
       "prev_rank": 71,
-      "curr_rank": 43,
-      "delta": 28
+      "curr_rank": 37,
+      "delta": 34
     },
     {
       "country": "US",
       "name": "AI Catch: AI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 88,
-      "curr_rank": 65,
-      "delta": 23
+      "curr_rank": 56,
+      "delta": 32
+    },
+    {
+      "country": "DE",
+      "name": "AI Catch: KI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 95,
+      "curr_rank": 68,
+      "delta": 27
     },
     {
       "country": "US",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
       "prev_rank": 62,
-      "curr_rank": 40,
+      "curr_rank": 38,
+      "delta": 24
+    },
+    {
+      "country": "GB",
+      "name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 77,
+      "curr_rank": 55,
       "delta": 22
     },
     {
@@ -41,99 +57,75 @@
       "delta": 22
     },
     {
-      "country": "GB",
-      "name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 77,
-      "curr_rank": 59,
-      "delta": 18
-    },
-    {
-      "country": "DE",
-      "name": "AI Catch: KI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 95,
-      "curr_rank": 77,
-      "delta": 18
-    },
-    {
-      "country": "FR",
-      "name": "AI Video - Générateur Vidéo IA",
-      "developer": "HUBX",
-      "prev_rank": 69,
-      "curr_rank": 56,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 42,
-      "curr_rank": 31,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Photoroom: KI Foto Editor",
-      "developer": "Photoroom",
-      "prev_rank": 52,
-      "curr_rank": 41,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
-    },
-    {
-      "country": "IN",
-      "name": "Flow AI - Video Generator",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 77,
-      "curr_rank": 66,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "VN：Photo & Video Editor",
-      "developer": "Ubiquiti Labs, LLC",
-      "prev_rank": 64,
-      "curr_rank": 54,
-      "delta": 10
+      "country": "BR",
+      "name": "GoPhoto:AI Photo/Video Creator",
+      "developer": "AIX Studio",
+      "prev_rank": 56,
+      "curr_rank": 36,
+      "delta": 20
     },
     {
       "country": "FR",
       "name": "Dance AI: Vidéos de Danse IA",
       "developer": "DeePix AI",
       "prev_rank": 62,
-      "curr_rank": 52,
-      "delta": 10
+      "curr_rank": 46,
+      "delta": 16
     },
     {
       "country": "BR",
       "name": "Dance AI: Vídeos de Dança IA",
       "developer": "DeePix AI",
       "prev_rank": 38,
-      "curr_rank": 28,
-      "delta": 10
+      "curr_rank": 22,
+      "delta": 16
     },
     {
-      "country": "BR",
-      "name": "GoPhoto:AI Photo/Video Creator",
-      "developer": "AIX Studio",
-      "prev_rank": 56,
-      "curr_rank": 46,
-      "delta": 10
+      "country": "GB",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 42,
+      "curr_rank": 27,
+      "delta": 15
+    },
+    {
+      "country": "FR",
+      "name": "AI Video - Générateur Vidéo IA",
+      "developer": "HUBX",
+      "prev_rank": 69,
+      "curr_rank": 55,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "Flow AI - Video Generator",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 77,
+      "curr_rank": 65,
+      "delta": 12
     },
     {
       "country": "ID",
       "name": "EPIK - AI Photo & Video Editor",
       "developer": "SNOW Corporation",
       "prev_rank": 94,
-      "curr_rank": 84,
+      "curr_rank": 83,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "AI Catch: IA Vídeo Gerador",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 42,
+      "curr_rank": 32,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "ReelMe AI: Daily Photo & Trend",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 75,
+      "curr_rank": 65,
       "delta": 10
     }
   ],
@@ -144,8 +136,8 @@
         "name": "Dance AI: AI Dance Video Maker",
         "developer": "DeePix AI",
         "prev_rank": 84,
-        "curr_rank": 50,
-        "delta": 34
+        "curr_rank": 48,
+        "delta": 36
       },
       {
         "country": "AU",
@@ -154,6 +146,14 @@
         "prev_rank": 95,
         "curr_rank": 73,
         "delta": 22
+      },
+      {
+        "country": "AU",
+        "name": "ReelMe AI: Daily Photo & Trend",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 75,
+        "curr_rank": 65,
+        "delta": 10
       }
     ],
     "IN": [
@@ -162,16 +162,16 @@
         "name": "Muse: Reels Video Editor",
         "developer": "Bigrowth",
         "prev_rank": 71,
-        "curr_rank": 43,
-        "delta": 28
+        "curr_rank": 37,
+        "delta": 34
       },
       {
         "country": "IN",
         "name": "Flow AI - Video Generator",
         "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
         "prev_rank": 77,
-        "curr_rank": 66,
-        "delta": 11
+        "curr_rank": 65,
+        "delta": 12
       }
     ],
     "US": [
@@ -180,42 +180,16 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 88,
-        "curr_rank": 65,
-        "delta": 23
+        "curr_rank": 56,
+        "delta": 32
       },
       {
         "country": "US",
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 62,
-        "curr_rank": 40,
-        "delta": 22
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 77,
-        "curr_rank": 59,
-        "delta": 18
-      },
-      {
-        "country": "GB",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 42,
-        "curr_rank": 31,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "VN：Photo & Video Editor",
-        "developer": "Ubiquiti Labs, LLC",
-        "prev_rank": 64,
-        "curr_rank": 54,
-        "delta": 10
+        "curr_rank": 38,
+        "delta": 24
       }
     ],
     "DE": [
@@ -224,60 +198,70 @@
         "name": "AI Catch: KI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 95,
-        "curr_rank": 77,
-        "delta": 18
-      },
-      {
-        "country": "DE",
-        "name": "Photoroom: KI Foto Editor",
-        "developer": "Photoroom",
-        "prev_rank": 52,
-        "curr_rank": 41,
-        "delta": 11
+        "curr_rank": 68,
+        "delta": 27
       }
     ],
-    "FR": [
+    "GB": [
       {
-        "country": "FR",
-        "name": "AI Video - Générateur Vidéo IA",
-        "developer": "HUBX",
-        "prev_rank": 69,
-        "curr_rank": 56,
-        "delta": 13
+        "country": "GB",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 77,
+        "curr_rank": 55,
+        "delta": 22
       },
       {
-        "country": "FR",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
-      },
-      {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
+        "country": "GB",
+        "name": "Dance AI: AI Dance Video Maker",
         "developer": "DeePix AI",
-        "prev_rank": 62,
-        "curr_rank": 52,
-        "delta": 10
+        "prev_rank": 42,
+        "curr_rank": 27,
+        "delta": 15
       }
     ],
     "BR": [
       {
         "country": "BR",
-        "name": "Dance AI: Vídeos de Dança IA",
-        "developer": "DeePix AI",
-        "prev_rank": 38,
-        "curr_rank": 28,
-        "delta": 10
-      },
-      {
-        "country": "BR",
         "name": "GoPhoto:AI Photo/Video Creator",
         "developer": "AIX Studio",
         "prev_rank": 56,
-        "curr_rank": 46,
+        "curr_rank": 36,
+        "delta": 20
+      },
+      {
+        "country": "BR",
+        "name": "Dance AI: Vídeos de Dança IA",
+        "developer": "DeePix AI",
+        "prev_rank": 38,
+        "curr_rank": 22,
+        "delta": 16
+      },
+      {
+        "country": "BR",
+        "name": "AI Catch: IA Vídeo Gerador",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 42,
+        "curr_rank": 32,
         "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 62,
+        "curr_rank": 46,
+        "delta": 16
+      },
+      {
+        "country": "FR",
+        "name": "AI Video - Générateur Vidéo IA",
+        "developer": "HUBX",
+        "prev_rank": 69,
+        "curr_rank": 55,
+        "delta": 14
       }
     ],
     "ID": [
@@ -286,8 +270,8 @@
         "name": "EPIK - AI Photo & Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 94,
-        "curr_rank": 84,
-        "delta": 10
+        "curr_rank": 83,
+        "delta": 11
       }
     ]
   },
@@ -295,12 +279,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Dance AI: AI Dance Video Maker leads with +34 jump in AU"
+      "text": "Dance AI: AI Dance Video Maker leads with +36 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 3 rising apps - highest activity today"
+      "text": "AU has 3 rising apps - highest activity today"
     },
     {
       "type": "app-note",
