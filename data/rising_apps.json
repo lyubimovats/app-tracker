@@ -5,8 +5,8 @@
       "name": "B612 Camera&Photo/Video Editor",
       "developer": "SNOW Corporation",
       "prev_rank": 61,
-      "curr_rank": 42,
-      "delta": 19
+      "curr_rank": 38,
+      "delta": 23
     },
     {
       "country": "AU",
@@ -17,51 +17,43 @@
       "delta": 18
     },
     {
-      "country": "FR",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 88,
-      "curr_rank": 72,
-      "delta": 16
-    },
-    {
       "country": "KR",
       "name": "Hypic - Photo Editor & AI Art",
       "developer": "Bytedance Pte. Ltd",
       "prev_rank": 48,
-      "curr_rank": 33,
-      "delta": 15
+      "curr_rank": 32,
+      "delta": 16
     },
     {
       "country": "IN",
       "name": "AI Photo Editor, Remove Object",
       "developer": "COOL SUMMER LIMITED",
       "prev_rank": 82,
-      "curr_rank": 67,
-      "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "Pose: AI Photo Video Generator",
-      "developer": "Spark Dynamic",
-      "prev_rank": 93,
-      "curr_rank": 80,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 82,
-      "curr_rank": 70,
-      "delta": 12
+      "curr_rank": 68,
+      "delta": 14
     },
     {
       "country": "KR",
       "name": "Wink：AI 영상 화질 개선 및 편집",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 39,
-      "curr_rank": 27,
+      "curr_rank": 26,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "AI Catch: AI 영상 생성기",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 83,
+      "curr_rank": 71,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "PicCollage: Magic Photo Editor",
+      "developer": "Cardinal Blue",
+      "prev_rank": 57,
+      "curr_rank": 45,
       "delta": 12
     },
     {
@@ -89,19 +81,27 @@
       "delta": 11
     },
     {
-      "country": "BR",
-      "name": "FaceApp: Editor facial ideal",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 57,
-      "curr_rank": 47,
-      "delta": 10
-    },
-    {
       "country": "IN",
       "name": "AirPlay Cast",
       "developer": "Taro Aso",
       "prev_rank": 97,
-      "curr_rank": 87,
+      "curr_rank": 86,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "AI Catch: IA Vídeo Gerador",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 32,
+      "curr_rank": 22,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "Muse Reel Maker & Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 52,
+      "curr_rank": 42,
       "delta": 10
     }
   ],
@@ -112,23 +112,31 @@
         "name": "B612 Camera&Photo/Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 61,
-        "curr_rank": 42,
-        "delta": 19
+        "curr_rank": 38,
+        "delta": 23
       },
       {
         "country": "KR",
         "name": "Hypic - Photo Editor & AI Art",
         "developer": "Bytedance Pte. Ltd",
         "prev_rank": 48,
-        "curr_rank": 33,
-        "delta": 15
+        "curr_rank": 32,
+        "delta": 16
       },
       {
         "country": "KR",
         "name": "Wink：AI 영상 화질 개선 및 편집",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 39,
-        "curr_rank": 27,
+        "curr_rank": 26,
+        "delta": 13
+      },
+      {
+        "country": "KR",
+        "name": "AI Catch: AI 영상 생성기",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 83,
+        "curr_rank": 71,
         "delta": 12
       }
     ],
@@ -143,11 +151,11 @@
       },
       {
         "country": "AU",
-        "name": "Pose: AI Photo Video Generator",
-        "developer": "Spark Dynamic",
-        "prev_rank": 93,
-        "curr_rank": 80,
-        "delta": 13
+        "name": "PicCollage: Magic Photo Editor",
+        "developer": "Cardinal Blue",
+        "prev_rank": 57,
+        "curr_rank": 45,
+        "delta": 12
       },
       {
         "country": "AU",
@@ -156,24 +164,14 @@
         "prev_rank": 60,
         "curr_rank": 48,
         "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Meitu AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 88,
-        "curr_rank": 72,
-        "delta": 16
       },
       {
-        "country": "FR",
-        "name": "Facetune: Éditeur Photo/Vidéo",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 66,
-        "curr_rank": 55,
-        "delta": 11
+        "country": "AU",
+        "name": "Muse Reel Maker & Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 52,
+        "curr_rank": 42,
+        "delta": 10
       }
     ],
     "IN": [
@@ -182,26 +180,26 @@
         "name": "AI Photo Editor, Remove Object",
         "developer": "COOL SUMMER LIMITED",
         "prev_rank": 82,
-        "curr_rank": 67,
-        "delta": 15
+        "curr_rank": 68,
+        "delta": 14
       },
       {
         "country": "IN",
         "name": "AirPlay Cast",
         "developer": "Taro Aso",
         "prev_rank": 97,
-        "curr_rank": 87,
-        "delta": 10
+        "curr_rank": 86,
+        "delta": 11
       }
     ],
-    "DE": [
+    "FR": [
       {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 82,
-        "curr_rank": 70,
-        "delta": 12
+        "country": "FR",
+        "name": "Facetune: Éditeur Photo/Vidéo",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
       }
     ],
     "BR": [
@@ -215,10 +213,10 @@
       },
       {
         "country": "BR",
-        "name": "FaceApp: Editor facial ideal",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 57,
-        "curr_rank": 47,
+        "name": "AI Catch: IA Vídeo Gerador",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 32,
+        "curr_rank": 22,
         "delta": 10
       }
     ]
@@ -227,12 +225,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "B612 Camera&Photo/Video Editor leads with +19 jump in KR"
+      "text": "B612 Camera&Photo/Video Editor leads with +23 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "KR has 3 rising apps - highest activity today"
+      "text": "KR has 4 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "AI Catch apps trending with 2 variants rising"
     }
   ],
   "meta": {
