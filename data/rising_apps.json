@@ -1,19 +1,19 @@
 {
   "rising": [
     {
-      "country": "ID",
-      "name": "Labbet: Vintage Photo Editor",
-      "developer": "Blurred AB",
-      "prev_rank": 94,
-      "curr_rank": 66,
-      "delta": 28
-    },
-    {
       "country": "US",
       "name": "Adobe Premiere AI Video Editor",
       "developer": "Adobe Inc.",
       "prev_rank": 67,
       "curr_rank": 41,
+      "delta": 26
+    },
+    {
+      "country": "ID",
+      "name": "Labbet: Vintage Photo Editor",
+      "developer": "Blurred AB",
+      "prev_rank": 94,
+      "curr_rank": 68,
       "delta": 26
     },
     {
@@ -26,22 +26,6 @@
     },
     {
       "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 52,
-      "curr_rank": 30,
-      "delta": 22
-    },
-    {
-      "country": "DE",
-      "name": "AI Video – KI-Video-Generator",
-      "developer": "HUBX",
-      "prev_rank": 89,
-      "curr_rank": 68,
-      "delta": 21
-    },
-    {
-      "country": "AU",
       "name": "Photoroom: AI Photo Editor",
       "developer": "Photoroom",
       "prev_rank": 35,
@@ -49,28 +33,60 @@
       "delta": 21
     },
     {
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 52,
+      "curr_rank": 31,
+      "delta": 21
+    },
+    {
+      "country": "DE",
+      "name": "AI Video – KI-Video-Generator",
+      "developer": "HUBX",
+      "prev_rank": 89,
+      "curr_rank": 69,
+      "delta": 20
+    },
+    {
+      "country": "BR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 89,
+      "curr_rank": 70,
+      "delta": 19
+    },
+    {
       "country": "GB",
       "name": "Captions: AI Edits Your Video",
       "developer": "Captions, LLC (US)",
       "prev_rank": 74,
-      "curr_rank": 54,
-      "delta": 20
+      "curr_rank": 56,
+      "delta": 18
     },
     {
       "country": "BR",
       "name": "BIGVU Teleprompter Captions AI",
       "developer": "BIGVU INC",
       "prev_rank": 99,
-      "curr_rank": 81,
-      "delta": 18
+      "curr_rank": 82,
+      "delta": 17
     },
     {
-      "country": "IN",
-      "name": "Prompt Ai : Ai Photo Maker",
-      "developer": "Utsav Jayani",
-      "prev_rank": 89,
-      "curr_rank": 72,
-      "delta": 17
+      "country": "DE",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 53,
+      "curr_rank": 37,
+      "delta": 16
+    },
+    {
+      "country": "DE",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 79,
+      "curr_rank": 63,
+      "delta": 16
     },
     {
       "country": "GB",
@@ -78,14 +94,6 @@
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 100,
       "curr_rank": 85,
-      "delta": 15
-    },
-    {
-      "country": "BR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 89,
-      "curr_rank": 74,
       "delta": 15
     },
     {
@@ -98,106 +106,74 @@
     },
     {
       "country": "GB",
-      "name": "Photoroom: AI Photo Editor",
-      "developer": "Photoroom",
-      "prev_rank": 33,
-      "curr_rank": 19,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 53,
-      "curr_rank": 39,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "AI Photo Editor - HypnoPixels",
-      "developer": "Ads4you OU",
-      "prev_rank": 84,
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 83,
       "curr_rank": 70,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 79,
-      "curr_rank": 66,
       "delta": 13
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 97,
-      "curr_rank": 84,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 87,
-      "curr_rank": 75,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "invideo AI: AI Video-Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 93,
-      "curr_rank": 81,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 61,
-      "curr_rank": 50,
-      "delta": 11
-    },
-    {
-      "country": "IN",
-      "name": "Posie -AI Video Photo Generate",
-      "developer": "Tran Anh Linh",
-      "prev_rank": 87,
-      "curr_rank": 76,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 57,
-      "curr_rank": 47,
-      "delta": 10
     },
     {
       "country": "DE",
       "name": "VideoGPT - AI Video Generator",
       "developer": "ElevenThirteen LLC",
       "prev_rank": 75,
-      "curr_rank": 65,
-      "delta": 10
+      "curr_rank": 62,
+      "delta": 13
+    },
+    {
+      "country": "ID",
+      "name": "AI Photo Editor - HypnoPixels",
+      "developer": "Ads4you OU",
+      "prev_rank": 84,
+      "curr_rank": 71,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Photoroom: AI Photo Editor",
+      "developer": "Photoroom",
+      "prev_rank": 33,
+      "curr_rank": 21,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Photoroom: AI Photo Editor",
+      "developer": "Photoroom",
+      "prev_rank": 30,
+      "curr_rank": 19,
+      "delta": 11
     },
     {
       "country": "DE",
       "name": "KI Foto Video Editor: Cocopix",
       "developer": "The Growing Co. Labs Inc.",
       "prev_rank": 85,
-      "curr_rank": 75,
-      "delta": 10
+      "curr_rank": 74,
+      "delta": 11
     },
     {
-      "country": "FR",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 99,
-      "curr_rank": 89,
+      "country": "DE",
+      "name": "invideo AI: AI Video-Generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 93,
+      "curr_rank": 82,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "캐럿 - AI와 무엇이든 만드세요",
+      "developer": "Paradot Corp.",
+      "prev_rank": 58,
+      "curr_rank": 47,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "FaceLab: Aging, Haircut Filter",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 78,
+      "curr_rank": 68,
       "delta": 10
     },
     {
@@ -209,33 +185,15 @@
       "delta": 10
     },
     {
-      "country": "JP",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "prev_rank": 49,
-      "curr_rank": 39,
+      "country": "IN",
+      "name": "Prompt Ai : Ai Photo Maker",
+      "developer": "Utsav Jayani",
+      "prev_rank": 89,
+      "curr_rank": 79,
       "delta": 10
     }
   ],
   "by_country": {
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Labbet: Vintage Photo Editor",
-        "developer": "Blurred AB",
-        "prev_rank": 94,
-        "curr_rank": 66,
-        "delta": 28
-      },
-      {
-        "country": "ID",
-        "name": "AI Photo Editor - HypnoPixels",
-        "developer": "Ads4you OU",
-        "prev_rank": 84,
-        "curr_rank": 70,
-        "delta": 14
-      }
-    ],
     "US": [
       {
         "country": "US",
@@ -244,6 +202,32 @@
         "prev_rank": 67,
         "curr_rank": 41,
         "delta": 26
+      },
+      {
+        "country": "US",
+        "name": "Photoroom: AI Photo Editor",
+        "developer": "Photoroom",
+        "prev_rank": 30,
+        "curr_rank": 19,
+        "delta": 11
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Labbet: Vintage Photo Editor",
+        "developer": "Blurred AB",
+        "prev_rank": 94,
+        "curr_rank": 68,
+        "delta": 26
+      },
+      {
+        "country": "ID",
+        "name": "AI Photo Editor - HypnoPixels",
+        "developer": "Ads4you OU",
+        "prev_rank": 84,
+        "curr_rank": 71,
+        "delta": 13
       }
     ],
     "KR": [
@@ -254,17 +238,17 @@
         "prev_rank": 91,
         "curr_rank": 68,
         "delta": 23
+      },
+      {
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 58,
+        "curr_rank": 47,
+        "delta": 11
       }
     ],
     "AU": [
-      {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 52,
-        "curr_rank": 30,
-        "delta": 22
-      },
       {
         "country": "AU",
         "name": "Photoroom: AI Photo Editor",
@@ -275,11 +259,11 @@
       },
       {
         "country": "AU",
-        "name": "AI Photo Editor, Remove Object",
+        "name": "AI Photo Video Editor, Enhance",
         "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 97,
-        "curr_rank": 84,
-        "delta": 13
+        "prev_rank": 52,
+        "curr_rank": 31,
+        "delta": 21
       }
     ],
     "DE": [
@@ -288,116 +272,66 @@
         "name": "AI Video – KI-Video-Generator",
         "developer": "HUBX",
         "prev_rank": 89,
-        "curr_rank": 68,
-        "delta": 21
+        "curr_rank": 69,
+        "delta": 20
       },
       {
         "country": "DE",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 53,
-        "curr_rank": 39,
-        "delta": 14
+        "curr_rank": 37,
+        "delta": 16
       },
       {
         "country": "DE",
         "name": "Meitu AI Photo & Video Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 79,
-        "curr_rank": 66,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "invideo AI: AI Video-Generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 93,
-        "curr_rank": 81,
-        "delta": 12
+        "curr_rank": 63,
+        "delta": 16
       },
       {
         "country": "DE",
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
         "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
+        "curr_rank": 62,
+        "delta": 13
       },
       {
         "country": "DE",
         "name": "KI Foto Video Editor: Cocopix",
         "developer": "The Growing Co. Labs Inc.",
         "prev_rank": 85,
-        "curr_rank": 75,
-        "delta": 10
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 74,
-        "curr_rank": 54,
-        "delta": 20
-      },
-      {
-        "country": "GB",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 100,
-        "curr_rank": 85,
-        "delta": 15
-      },
-      {
-        "country": "GB",
-        "name": "Photoroom: AI Photo Editor",
-        "developer": "Photoroom",
-        "prev_rank": 33,
-        "curr_rank": 19,
-        "delta": 14
-      },
-      {
-        "country": "GB",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 87,
-        "curr_rank": 75,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 61,
-        "curr_rank": 50,
+        "curr_rank": 74,
         "delta": 11
       },
       {
-        "country": "GB",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 57,
-        "curr_rank": 47,
-        "delta": 10
+        "country": "DE",
+        "name": "invideo AI: AI Video-Generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 93,
+        "curr_rank": 82,
+        "delta": 11
       }
     ],
     "BR": [
       {
         "country": "BR",
-        "name": "BIGVU Teleprompter Captions AI",
-        "developer": "BIGVU INC",
-        "prev_rank": 99,
-        "curr_rank": 81,
-        "delta": 18
-      },
-      {
-        "country": "BR",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 89,
-        "curr_rank": 74,
-        "delta": 15
+        "curr_rank": 70,
+        "delta": 19
+      },
+      {
+        "country": "BR",
+        "name": "BIGVU Teleprompter Captions AI",
+        "developer": "BIGVU INC",
+        "prev_rank": 99,
+        "curr_rank": 82,
+        "delta": 17
       },
       {
         "country": "BR",
@@ -416,41 +350,55 @@
         "delta": 10
       }
     ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 74,
+        "curr_rank": 56,
+        "delta": 18
+      },
+      {
+        "country": "GB",
+        "name": "BeautyPlus-Selfie Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 100,
+        "curr_rank": 85,
+        "delta": 15
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 83,
+        "curr_rank": 70,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Photoroom: AI Photo Editor",
+        "developer": "Photoroom",
+        "prev_rank": 33,
+        "curr_rank": 21,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "FaceLab: Aging, Haircut Filter",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 78,
+        "curr_rank": 68,
+        "delta": 10
+      }
+    ],
     "IN": [
       {
         "country": "IN",
         "name": "Prompt Ai : Ai Photo Maker",
         "developer": "Utsav Jayani",
         "prev_rank": 89,
-        "curr_rank": 72,
-        "delta": 17
-      },
-      {
-        "country": "IN",
-        "name": "Posie -AI Video Photo Generate",
-        "developer": "Tran Anh Linh",
-        "prev_rank": 87,
-        "curr_rank": 76,
-        "delta": 11
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-        "developer": "SNOW Corporation",
-        "prev_rank": 49,
-        "curr_rank": 39,
+        "curr_rank": 79,
         "delta": 10
       }
     ]
@@ -459,7 +407,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Labbet: Vintage Photo Editor leads with +28 jump in ID"
+      "text": "Adobe Premiere AI Video Editor leads with +26 jump in US"
     },
     {
       "type": "market",
@@ -469,7 +417,7 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ElevenLabs: AI Voice Generator rising in 3 markets: BR, DE, GB"
+      "text": "Photoroom: AI Photo Editor rising in 3 markets: AU, GB, US"
     }
   ],
   "meta": {
