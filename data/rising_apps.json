@@ -5,127 +5,111 @@
       "name": "AI Photo Video Editor: Cocopix",
       "developer": "The Growing Co. Labs Inc.",
       "prev_rank": 96,
-      "curr_rank": 44,
-      "delta": 52
+      "curr_rank": 46,
+      "delta": 50
     },
     {
       "country": "GB",
       "name": "GoPhoto:AI Photo & Video Maker",
       "developer": "AIX Studio",
       "prev_rank": 89,
-      "curr_rank": 61,
-      "delta": 28
+      "curr_rank": 67,
+      "delta": 22
     },
     {
       "country": "AU",
       "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 88,
-      "curr_rank": 63,
-      "delta": 25
-    },
-    {
-      "country": "US",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 100,
-      "curr_rank": 84,
-      "delta": 16
-    },
-    {
-      "country": "FR",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 97,
-      "curr_rank": 82,
-      "delta": 15
-    },
-    {
-      "country": "BR",
-      "name": "Blow Up AI: Viralize",
-      "developer": "Mountains Studio LLC",
-      "prev_rank": 44,
-      "curr_rank": 30,
-      "delta": 14
-    },
-    {
-      "country": "IN",
-      "name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 91,
-      "curr_rank": 78,
-      "delta": 13
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 85,
-      "curr_rank": 73,
-      "delta": 12
-    },
-    {
-      "country": "ID",
-      "name": "Loomi AI - ‎AI Video Generator",
-      "developer": "Smda Dev Group",
-      "prev_rank": 68,
-      "curr_rank": 57,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Airbrush: Face Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 33,
-      "curr_rank": 23,
-      "delta": 10
-    },
-    {
-      "country": "DE",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 40,
-      "curr_rank": 30,
-      "delta": 10
+      "curr_rank": 70,
+      "delta": 18
     },
     {
       "country": "DE",
       "name": "Genie AI - AI Video Generator",
       "developer": "发家 罗",
       "prev_rank": 96,
-      "curr_rank": 86,
-      "delta": 10
+      "curr_rank": 79,
+      "delta": 17
     },
     {
       "country": "FR",
-      "name": "Pollo AI - Générateur Vidéo IA",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 88,
-      "curr_rank": 78,
-      "delta": 10
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 97,
+      "curr_rank": 80,
+      "delta": 17
     },
     {
-      "country": "KR",
-      "name": "DeeVid - AI 영상 생성기",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 96,
-      "curr_rank": 86,
-      "delta": 10
+      "country": "GB",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 33,
+      "curr_rank": 19,
+      "delta": 14
     },
     {
       "country": "IN",
       "name": "Flow AI - Video Generator",
       "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
       "prev_rank": 69,
-      "curr_rank": 59,
-      "delta": 10
+      "curr_rank": 55,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "Pollo AI - Générateur Vidéo IA",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 88,
+      "curr_rank": 75,
+      "delta": 13
+    },
+    {
+      "country": "BR",
+      "name": "Blow Up AI: Viralize",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 44,
+      "curr_rank": 31,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 67,
+      "curr_rank": 54,
+      "delta": 13
     },
     {
       "country": "AU",
-      "name": "GoPhoto:AI Photo/Video Creator",
-      "developer": "AIX Studio",
-      "prev_rank": 79,
-      "curr_rank": 69,
+      "name": "Chatlulu:Video&Photo Editor",
+      "developer": "Hong Kong Endless Flow Technology Limited",
+      "prev_rank": 74,
+      "curr_rank": 61,
+      "delta": 13
+    },
+    {
+      "country": "US",
+      "name": "WayShot:Aesthetic Photo Editor",
+      "developer": "Romangic Lab LLC",
+      "prev_rank": 100,
+      "curr_rank": 88,
+      "delta": 12
+    },
+    {
+      "country": "IN",
+      "name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 91,
+      "curr_rank": 80,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 54,
+      "curr_rank": 44,
       "delta": 10
     }
   ],
@@ -136,16 +120,16 @@
         "name": "AI Photo Video Editor: Cocopix",
         "developer": "The Growing Co. Labs Inc.",
         "prev_rank": 96,
-        "curr_rank": 44,
-        "delta": 52
+        "curr_rank": 46,
+        "delta": 50
       },
       {
         "country": "US",
         "name": "WayShot:Aesthetic Photo Editor",
         "developer": "Romangic Lab LLC",
         "prev_rank": 100,
-        "curr_rank": 84,
-        "delta": 16
+        "curr_rank": 88,
+        "delta": 12
       }
     ],
     "GB": [
@@ -154,15 +138,23 @@
         "name": "GoPhoto:AI Photo & Video Maker",
         "developer": "AIX Studio",
         "prev_rank": 89,
-        "curr_rank": 61,
-        "delta": 28
+        "curr_rank": 67,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "Airbrush: Face Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 33,
-        "curr_rank": 23,
+        "curr_rank": 19,
+        "delta": 14
+      },
+      {
+        "country": "GB",
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 54,
+        "curr_rank": 44,
         "delta": 10
       }
     ],
@@ -172,24 +164,26 @@
         "name": "BeautyPlus-Selfie Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 88,
-        "curr_rank": 63,
-        "delta": 25
+        "curr_rank": 70,
+        "delta": 18
       },
       {
         "country": "AU",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 85,
-        "curr_rank": 73,
-        "delta": 12
-      },
+        "name": "Chatlulu:Video&Photo Editor",
+        "developer": "Hong Kong Endless Flow Technology Limited",
+        "prev_rank": 74,
+        "curr_rank": 61,
+        "delta": 13
+      }
+    ],
+    "DE": [
       {
-        "country": "AU",
-        "name": "GoPhoto:AI Photo/Video Creator",
-        "developer": "AIX Studio",
-        "prev_rank": 79,
-        "curr_rank": 69,
-        "delta": 10
+        "country": "DE",
+        "name": "Genie AI - AI Video Generator",
+        "developer": "发家 罗",
+        "prev_rank": 96,
+        "curr_rank": 79,
+        "delta": 17
       }
     ],
     "FR": [
@@ -198,16 +192,34 @@
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 97,
-        "curr_rank": 82,
-        "delta": 15
+        "curr_rank": 80,
+        "delta": 17
       },
       {
         "country": "FR",
         "name": "Pollo AI - Générateur Vidéo IA",
         "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
         "prev_rank": 88,
-        "curr_rank": 78,
-        "delta": 10
+        "curr_rank": 75,
+        "delta": 13
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Flow AI - Video Generator",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 69,
+        "curr_rank": 55,
+        "delta": 14
+      },
+      {
+        "country": "IN",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 91,
+        "curr_rank": 80,
+        "delta": 11
       }
     ],
     "BR": [
@@ -216,64 +228,18 @@
         "name": "Blow Up AI: Viralize",
         "developer": "Mountains Studio LLC",
         "prev_rank": 44,
-        "curr_rank": 30,
-        "delta": 14
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 91,
-        "curr_rank": 78,
+        "curr_rank": 31,
         "delta": 13
-      },
-      {
-        "country": "IN",
-        "name": "Flow AI - Video Generator",
-        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-        "prev_rank": 69,
-        "curr_rank": 59,
-        "delta": 10
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Loomi AI - ‎AI Video Generator",
-        "developer": "Smda Dev Group",
-        "prev_rank": 68,
-        "curr_rank": 57,
-        "delta": 11
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 40,
-        "curr_rank": 30,
-        "delta": 10
-      },
-      {
-        "country": "DE",
-        "name": "Genie AI - AI Video Generator",
-        "developer": "发家 罗",
-        "prev_rank": 96,
-        "curr_rank": 86,
-        "delta": 10
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "DeeVid - AI 영상 생성기",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 96,
-        "curr_rank": 86,
-        "delta": 10
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 67,
+        "curr_rank": 54,
+        "delta": 13
       }
     ]
   },
@@ -281,17 +247,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Photo Video Editor: Cocopix leads with +52 jump in US"
+      "text": "AI Photo Video Editor: Cocopix leads with +50 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 3 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "BeautyCam-Digicam&Photo Editor rising in 2 markets: FR, DE"
+      "text": "GB has 3 rising apps - highest activity today"
     }
   ],
   "meta": {
