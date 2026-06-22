@@ -5,8 +5,8 @@
       "name": "AI Photo Video Editor: Cocopix",
       "developer": "The Growing Co. Labs Inc.",
       "prev_rank": 94,
-      "curr_rank": 21,
-      "delta": 73
+      "curr_rank": 12,
+      "delta": 82
     },
     {
       "country": "ID",
@@ -17,36 +17,36 @@
       "delta": 53
     },
     {
-      "country": "DE",
-      "name": "PrettyUp - Video Body Editor",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 85,
-      "curr_rank": 56,
-      "delta": 29
-    },
-    {
       "country": "FR",
       "name": "Photo identité - PhotoAiD",
       "developer": "Photo Aid",
       "prev_rank": 93,
-      "curr_rank": 67,
-      "delta": 26
+      "curr_rank": 61,
+      "delta": 32
     },
     {
       "country": "DE",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 98,
-      "curr_rank": 79,
-      "delta": 19
+      "curr_rank": 75,
+      "delta": 23
     },
     {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 59,
-      "curr_rank": 40,
-      "delta": 19
+      "country": "DE",
+      "name": "PrettyUp - Video Body Editor",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 85,
+      "curr_rank": 64,
+      "delta": 21
+    },
+    {
+      "country": "ID",
+      "name": "Liit - Photo & Video Editor",
+      "developer": "DAZZ PTE. LTD.",
+      "prev_rank": 76,
+      "curr_rank": 58,
+      "delta": 18
     },
     {
       "country": "IN",
@@ -57,11 +57,11 @@
       "delta": 17
     },
     {
-      "country": "ID",
-      "name": "Liit - Photo & Video Editor",
-      "developer": "DAZZ PTE. LTD.",
-      "prev_rank": 76,
-      "curr_rank": 60,
+      "country": "KR",
+      "name": "Adobe Premiere AI 비디오 에디터",
+      "developer": "Adobe Inc.",
+      "prev_rank": 75,
+      "curr_rank": 59,
       "delta": 16
     },
     {
@@ -73,51 +73,27 @@
       "delta": 15
     },
     {
-      "country": "FR",
-      "name": "Hype AI – AI Photo & Vidéo",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 63,
-      "curr_rank": 49,
-      "delta": 14
-    },
-    {
-      "country": "FR",
-      "name": "Pollo AI - Générateur Vidéo IA",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 82,
-      "curr_rank": 68,
-      "delta": 14
-    },
-    {
-      "country": "BR",
-      "name": "Facelab - Editor de Fotos IA",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 98,
-      "curr_rank": 84,
-      "delta": 14
-    },
-    {
-      "country": "IN",
-      "name": "Manly - AI Photo Editor",
-      "developer": "Alpha Mobile Limited",
-      "prev_rank": 96,
-      "curr_rank": 82,
-      "delta": 14
-    },
-    {
       "country": "GB",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 31,
-      "curr_rank": 18,
-      "delta": 13
+      "curr_rank": 17,
+      "delta": 14
     },
     {
-      "country": "GB",
-      "name": "Peachy - AI Face & Body Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 93,
-      "curr_rank": 80,
+      "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 59,
+      "curr_rank": 45,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 76,
+      "curr_rank": 63,
       "delta": 13
     },
     {
@@ -137,30 +113,6 @@
       "delta": 13
     },
     {
-      "country": "US",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 76,
-      "curr_rank": 64,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 77,
-      "curr_rank": 65,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Filmora: AI Video Editor&Maker",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 88,
-      "curr_rank": 76,
-      "delta": 12
-    },
-    {
       "country": "DE",
       "name": "Photoroom: KI Foto Editor",
       "developer": "Photoroom",
@@ -169,27 +121,51 @@
       "delta": 12
     },
     {
-      "country": "KR",
-      "name": "Adobe Premiere AI 비디오 에디터",
+      "country": "US",
+      "name": "Adobe Premiere AI Video Editor",
       "developer": "Adobe Inc.",
-      "prev_rank": 75,
-      "curr_rank": 64,
+      "prev_rank": 54,
+      "curr_rank": 43,
       "delta": 11
     },
     {
       "country": "US",
-      "name": "YouCam Perfect:AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 88,
-      "curr_rank": 78,
-      "delta": 10
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 92,
+      "curr_rank": 81,
+      "delta": 11
     },
     {
-      "country": "DE",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 51,
-      "curr_rank": 41,
+      "country": "GB",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 77,
+      "curr_rank": 66,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 93,
+      "curr_rank": 82,
+      "delta": 11
+    },
+    {
+      "country": "IN",
+      "name": "Winkit - AI Video Enhancer",
+      "developer": "Starii Tech Pty Ltd",
+      "prev_rank": 72,
+      "curr_rank": 61,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Facelab: Face & Body Editor",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 99,
+      "curr_rank": 89,
       "delta": 10
     },
     {
@@ -198,6 +174,14 @@
       "developer": "FaceApp Technology Limited",
       "prev_rank": 33,
       "curr_rank": 23,
+      "delta": 10
+    },
+    {
+      "country": "FR",
+      "name": "Pollo AI - Générateur Vidéo IA",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 82,
+      "curr_rank": 72,
       "delta": 10
     },
     {
@@ -216,16 +200,8 @@
         "name": "AI Photo Video Editor: Cocopix",
         "developer": "The Growing Co. Labs Inc.",
         "prev_rank": 94,
-        "curr_rank": 21,
-        "delta": 73
-      },
-      {
-        "country": "BR",
-        "name": "Facelab - Editor de Fotos IA",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 98,
-        "curr_rank": 84,
-        "delta": 14
+        "curr_rank": 12,
+        "delta": 82
       },
       {
         "country": "BR",
@@ -250,42 +226,8 @@
         "name": "Liit - Photo & Video Editor",
         "developer": "DAZZ PTE. LTD.",
         "prev_rank": 76,
-        "curr_rank": 60,
-        "delta": 16
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "PrettyUp - Video Body Editor",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 85,
-        "curr_rank": 56,
-        "delta": 29
-      },
-      {
-        "country": "DE",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 98,
-        "curr_rank": 79,
-        "delta": 19
-      },
-      {
-        "country": "DE",
-        "name": "Photoroom: KI Foto Editor",
-        "developer": "Photoroom",
-        "prev_rank": 56,
-        "curr_rank": 44,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 51,
-        "curr_rank": 41,
-        "delta": 10
+        "curr_rank": 58,
+        "delta": 18
       }
     ],
     "FR": [
@@ -294,24 +236,8 @@
         "name": "Photo identité - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 93,
-        "curr_rank": 67,
-        "delta": 26
-      },
-      {
-        "country": "FR",
-        "name": "Hype AI – AI Photo & Vidéo",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 63,
-        "curr_rank": 49,
-        "delta": 14
-      },
-      {
-        "country": "FR",
-        "name": "Pollo AI - Générateur Vidéo IA",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 82,
-        "curr_rank": 68,
-        "delta": 14
+        "curr_rank": 61,
+        "delta": 32
       },
       {
         "country": "FR",
@@ -320,32 +246,40 @@
         "prev_rank": 33,
         "curr_rank": 23,
         "delta": 10
+      },
+      {
+        "country": "FR",
+        "name": "Pollo AI - Générateur Vidéo IA",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 82,
+        "curr_rank": 72,
+        "delta": 10
       }
     ],
-    "KR": [
+    "DE": [
       {
-        "country": "KR",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME",
-        "prev_rank": 59,
-        "curr_rank": 40,
-        "delta": 19
+        "country": "DE",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 98,
+        "curr_rank": 75,
+        "delta": 23
       },
       {
-        "country": "KR",
-        "name": "Adobe Premiere AI 비디오 에디터",
-        "developer": "Adobe Inc.",
-        "prev_rank": 75,
+        "country": "DE",
+        "name": "PrettyUp - Video Body Editor",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 85,
         "curr_rank": 64,
-        "delta": 11
+        "delta": 21
       },
       {
-        "country": "KR",
-        "name": "nana AI (나나 AI)",
-        "developer": "Tae jun Kim",
-        "prev_rank": 37,
-        "curr_rank": 27,
-        "delta": 10
+        "country": "DE",
+        "name": "Photoroom: KI Foto Editor",
+        "developer": "Photoroom",
+        "prev_rank": 56,
+        "curr_rank": 44,
+        "delta": 12
       }
     ],
     "IN": [
@@ -359,11 +293,37 @@
       },
       {
         "country": "IN",
-        "name": "Manly - AI Photo Editor",
-        "developer": "Alpha Mobile Limited",
-        "prev_rank": 96,
-        "curr_rank": 82,
+        "name": "Winkit - AI Video Enhancer",
+        "developer": "Starii Tech Pty Ltd",
+        "prev_rank": 72,
+        "curr_rank": 61,
+        "delta": 11
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Adobe Premiere AI 비디오 에디터",
+        "developer": "Adobe Inc.",
+        "prev_rank": 75,
+        "curr_rank": 59,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+        "developer": "PICME",
+        "prev_rank": 59,
+        "curr_rank": 45,
         "delta": 14
+      },
+      {
+        "country": "KR",
+        "name": "nana AI (나나 AI)",
+        "developer": "Tae jun Kim",
+        "prev_rank": 37,
+        "curr_rank": 27,
+        "delta": 10
       }
     ],
     "AU": [
@@ -390,32 +350,32 @@
         "name": "Cantina: AI Video & Characters",
         "developer": "Cantina, Inc",
         "prev_rank": 31,
-        "curr_rank": 18,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "Peachy - AI Face & Body Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 93,
-        "curr_rank": 80,
-        "delta": 13
+        "curr_rank": 17,
+        "delta": 14
       },
       {
         "country": "GB",
         "name": "Meitu- AI Photo & Video Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 77,
-        "curr_rank": 65,
-        "delta": 12
+        "curr_rank": 66,
+        "delta": 11
       },
       {
         "country": "GB",
-        "name": "Filmora: AI Video Editor&Maker",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 88,
-        "curr_rank": 76,
-        "delta": 12
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 93,
+        "curr_rank": 82,
+        "delta": 11
+      },
+      {
+        "country": "GB",
+        "name": "Facelab: Face & Body Editor",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 99,
+        "curr_rank": 89,
+        "delta": 10
       }
     ],
     "US": [
@@ -424,16 +384,24 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 76,
-        "curr_rank": 64,
-        "delta": 12
+        "curr_rank": 63,
+        "delta": 13
       },
       {
         "country": "US",
-        "name": "YouCam Perfect:AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 88,
-        "curr_rank": 78,
-        "delta": 10
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 54,
+        "curr_rank": 43,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 92,
+        "curr_rank": 81,
+        "delta": 11
       }
     ]
   },
@@ -441,12 +409,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Photo Video Editor: Cocopix leads with +73 jump in BR"
+      "text": "AI Photo Video Editor: Cocopix leads with +82 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 4 rising apps - highest activity today"
+      "text": "GB has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
