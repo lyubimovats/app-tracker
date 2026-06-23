@@ -5,24 +5,32 @@
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
       "prev_rank": 56,
-      "curr_rank": 30,
-      "delta": 26
+      "curr_rank": 31,
+      "delta": 25
     },
     {
       "country": "KR",
       "name": "Muse: 릴스 동영상 편집 & AI",
       "developer": "Bigrowth",
       "prev_rank": 87,
-      "curr_rank": 64,
-      "delta": 23
+      "curr_rank": 68,
+      "delta": 19
     },
     {
-      "country": "BR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 86,
-      "curr_rank": 70,
-      "delta": 16
+      "country": "KR",
+      "name": "BeautyCam - 고화질 카메라 & AI 사진",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 30,
+      "curr_rank": 12,
+      "delta": 18
+    },
+    {
+      "country": "GB",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 71,
+      "curr_rank": 54,
+      "delta": 17
     },
     {
       "country": "ID",
@@ -34,6 +42,30 @@
     },
     {
       "country": "BR",
+      "name": "Hela AI: Photo Video Generator",
+      "developer": "Hypernova Limited",
+      "prev_rank": 78,
+      "curr_rank": 63,
+      "delta": 15
+    },
+    {
+      "country": "BR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 86,
+      "curr_rank": 71,
+      "delta": 15
+    },
+    {
+      "country": "AU",
+      "name": "eCalendar - Daily Planner",
+      "developer": "Shenzhen Fujia Technology Co., Ltd.",
+      "prev_rank": 79,
+      "curr_rank": 64,
+      "delta": 15
+    },
+    {
+      "country": "BR",
       "name": "BIGVU Teleprompter Captions AI",
       "developer": "BIGVU INC",
       "prev_rank": 72,
@@ -41,36 +73,36 @@
       "delta": 14
     },
     {
-      "country": "BR",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 87,
-      "curr_rank": 73,
+      "country": "AU",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 83,
+      "curr_rank": 69,
       "delta": 14
     },
     {
       "country": "GB",
-      "name": "InShot - AI Video Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 34,
-      "curr_rank": 21,
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 64,
+      "curr_rank": 51,
       "delta": 13
     },
     {
-      "country": "FR",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 99,
-      "curr_rank": 86,
+      "country": "BR",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 87,
+      "curr_rank": 74,
       "delta": 13
     },
     {
-      "country": "AU",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 79,
-      "curr_rank": 66,
-      "delta": 13
+      "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 45,
+      "curr_rank": 33,
+      "delta": 12
     },
     {
       "country": "ID",
@@ -82,10 +114,10 @@
     },
     {
       "country": "GB",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 64,
-      "curr_rank": 53,
+      "name": "InShot - AI Video Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 34,
+      "curr_rank": 23,
       "delta": 11
     },
     {
@@ -97,43 +129,11 @@
       "delta": 11
     },
     {
-      "country": "JP",
-      "name": "Pixi Ai：フォトマジック＆Aiビデオ",
-      "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-      "prev_rank": 96,
-      "curr_rank": 85,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 45,
-      "curr_rank": 34,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 71,
-      "curr_rank": 61,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "BeautyPlus-Selfie Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 83,
-      "curr_rank": 73,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "AI Video Generator - Pixaflow",
-      "developer": "HITDEV AI Teknoloji Anonim Şirketi",
-      "prev_rank": 99,
-      "curr_rank": 89,
+      "country": "DE",
+      "name": "AI Video – KI-Video-Generator",
+      "developer": "HUBX",
+      "prev_rank": 89,
+      "curr_rank": 79,
       "delta": 10
     }
   ],
@@ -144,24 +144,24 @@
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 56,
-        "curr_rank": 30,
-        "delta": 26
+        "curr_rank": 31,
+        "delta": 25
       },
       {
         "country": "AU",
         "name": "eCalendar - Daily Planner",
         "developer": "Shenzhen Fujia Technology Co., Ltd.",
         "prev_rank": 79,
-        "curr_rank": 66,
-        "delta": 13
+        "curr_rank": 64,
+        "delta": 15
       },
       {
         "country": "AU",
-        "name": "AI Video Generator - Pixaflow",
-        "developer": "HITDEV AI Teknoloji Anonim Şirketi",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 83,
+        "curr_rank": 69,
+        "delta": 14
       }
     ],
     "KR": [
@@ -170,49 +170,49 @@
         "name": "Muse: 릴스 동영상 편집 & AI",
         "developer": "Bigrowth",
         "prev_rank": 87,
-        "curr_rank": 64,
-        "delta": 23
+        "curr_rank": 68,
+        "delta": 19
+      },
+      {
+        "country": "KR",
+        "name": "BeautyCam - 고화질 카메라 & AI 사진",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 30,
+        "curr_rank": 12,
+        "delta": 18
       },
       {
         "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 45,
-        "curr_rank": 34,
-        "delta": 11
+        "curr_rank": 33,
+        "delta": 12
       }
     ],
-    "BR": [
+    "GB": [
       {
-        "country": "BR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 86,
-        "curr_rank": 70,
-        "delta": 16
+        "country": "GB",
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 71,
+        "curr_rank": 54,
+        "delta": 17
       },
       {
-        "country": "BR",
-        "name": "BIGVU Teleprompter Captions AI",
-        "developer": "BIGVU INC",
-        "prev_rank": 72,
-        "curr_rank": 58,
-        "delta": 14
+        "country": "GB",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 64,
+        "curr_rank": 51,
+        "delta": 13
       },
       {
-        "country": "BR",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 87,
-        "curr_rank": 73,
-        "delta": 14
-      },
-      {
-        "country": "BR",
-        "name": "invideo AI: AI video generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 97,
-        "curr_rank": 86,
+        "country": "GB",
+        "name": "InShot - AI Video Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 34,
+        "curr_rank": 23,
         "delta": 11
       }
     ],
@@ -234,58 +234,56 @@
         "delta": 12
       }
     ],
-    "GB": [
+    "BR": [
       {
-        "country": "GB",
-        "name": "InShot - AI Video Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 34,
-        "curr_rank": 21,
+        "country": "BR",
+        "name": "Hela AI: Photo Video Generator",
+        "developer": "Hypernova Limited",
+        "prev_rank": 78,
+        "curr_rank": 63,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 86,
+        "curr_rank": 71,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "BIGVU Teleprompter Captions AI",
+        "developer": "BIGVU INC",
+        "prev_rank": 72,
+        "curr_rank": 58,
+        "delta": 14
+      },
+      {
+        "country": "BR",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 87,
+        "curr_rank": 74,
         "delta": 13
       },
       {
-        "country": "GB",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 64,
-        "curr_rank": 53,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 71,
-        "curr_rank": 61,
-        "delta": 10
-      },
-      {
-        "country": "GB",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 83,
-        "curr_rank": 73,
-        "delta": 10
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 99,
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 97,
         "curr_rank": 86,
-        "delta": 13
+        "delta": 11
       }
     ],
-    "JP": [
+    "DE": [
       {
-        "country": "JP",
-        "name": "Pixi Ai：フォトマジック＆Aiビデオ",
-        "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-        "prev_rank": 96,
-        "curr_rank": 85,
-        "delta": 11
+        "country": "DE",
+        "name": "AI Video – KI-Video-Generator",
+        "developer": "HUBX",
+        "prev_rank": 89,
+        "curr_rank": 79,
+        "delta": 10
       }
     ]
   },
@@ -293,12 +291,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "FaceEra – Age & Photo AI leads with +26 jump in AU"
+      "text": "FaceEra – Age & Photo AI leads with +25 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 4 rising apps - highest activity today"
+      "text": "BR has 5 rising apps - highest activity today"
     }
   ],
   "meta": {
