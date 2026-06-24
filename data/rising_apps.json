@@ -5,24 +5,24 @@
       "name": "Photogenik: Pose & Photo Coach",
       "developer": "Photogenik Inc.",
       "prev_rank": 89,
-      "curr_rank": 15,
-      "delta": 74
+      "curr_rank": 12,
+      "delta": 77
     },
     {
       "country": "US",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
       "prev_rank": 93,
-      "curr_rank": 62,
-      "delta": 31
+      "curr_rank": 65,
+      "delta": 28
     },
     {
       "country": "IN",
       "name": "Photogenik: Pose & Photo Coach",
       "developer": "Photogenik Inc.",
       "prev_rank": 41,
-      "curr_rank": 14,
-      "delta": 27
+      "curr_rank": 13,
+      "delta": 28
     },
     {
       "country": "AU",
@@ -33,35 +33,51 @@
       "delta": 27
     },
     {
-      "country": "DE",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 88,
-      "curr_rank": 68,
-      "delta": 20
-    },
-    {
-      "country": "AU",
-      "name": "FaceLab: Time Machine, Hair AI",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 99,
-      "curr_rank": 79,
-      "delta": 20
+      "country": "GB",
+      "name": "Vixel - AI Video Generator",
+      "developer": "FENIX MOBILE YAZILIM A.S.",
+      "prev_rank": 97,
+      "curr_rank": 71,
+      "delta": 26
     },
     {
       "country": "IN",
       "name": "Animator - AI photo dance",
       "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
       "prev_rank": 83,
-      "curr_rank": 66,
+      "curr_rank": 60,
+      "delta": 23
+    },
+    {
+      "country": "FR",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 96,
+      "curr_rank": 75,
+      "delta": 21
+    },
+    {
+      "country": "BR",
+      "name": "Blow Up AI: Viralize",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 75,
+      "curr_rank": 58,
       "delta": 17
     },
     {
-      "country": "GB",
-      "name": "Vixel - AI Video Generator",
-      "developer": "FENIX MOBILE YAZILIM A.S.",
-      "prev_rank": 97,
-      "curr_rank": 81,
+      "country": "AU",
+      "name": "FaceLab: Time Machine, Hair AI",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 99,
+      "curr_rank": 82,
+      "delta": 17
+    },
+    {
+      "country": "AU",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 75,
+      "curr_rank": 59,
       "delta": 16
     },
     {
@@ -73,60 +89,44 @@
       "delta": 15
     },
     {
-      "country": "AU",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 75,
-      "curr_rank": 60,
-      "delta": 15
-    },
-    {
-      "country": "BR",
-      "name": "Blow Up AI: Viralize",
-      "developer": "Mountains Studio LLC",
-      "prev_rank": 75,
-      "curr_rank": 63,
-      "delta": 12
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 93,
-      "curr_rank": 81,
-      "delta": 12
-    },
-    {
-      "country": "AU",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 31,
-      "curr_rank": 20,
-      "delta": 11
-    },
-    {
       "country": "GB",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 54,
-      "curr_rank": 44,
-      "delta": 10
+      "name": "Facelab: Face & Body Editor",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 90,
+      "curr_rank": 76,
+      "delta": 14
     },
     {
       "country": "DE",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 48,
-      "curr_rank": 38,
-      "delta": 10
+      "curr_rank": 36,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "AI Foto - Editor, Verbesserer",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 94,
+      "curr_rank": 82,
+      "delta": 12
     },
     {
       "country": "AU",
       "name": "AI Video - AI Video Generator",
       "developer": "HUBX",
       "prev_rank": 48,
-      "curr_rank": 38,
-      "delta": 10
+      "curr_rank": 36,
+      "delta": 12
+    },
+    {
+      "country": "BR",
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 83,
+      "curr_rank": 72,
+      "delta": 11
     }
   ],
   "by_country": {
@@ -136,24 +136,24 @@
         "name": "Photogenik: Pose & Photo Coach",
         "developer": "Photogenik Inc.",
         "prev_rank": 89,
-        "curr_rank": 15,
-        "delta": 74
-      },
-      {
-        "country": "DE",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 88,
-        "curr_rank": 68,
-        "delta": 20
+        "curr_rank": 12,
+        "delta": 77
       },
       {
         "country": "DE",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 48,
-        "curr_rank": 38,
-        "delta": 10
+        "curr_rank": 36,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "AI Foto - Editor, Verbesserer",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 94,
+        "curr_rank": 82,
+        "delta": 12
       }
     ],
     "US": [
@@ -162,8 +162,8 @@
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 93,
-        "curr_rank": 62,
-        "delta": 31
+        "curr_rank": 65,
+        "delta": 28
       }
     ],
     "IN": [
@@ -172,16 +172,16 @@
         "name": "Photogenik: Pose & Photo Coach",
         "developer": "Photogenik Inc.",
         "prev_rank": 41,
-        "curr_rank": 14,
-        "delta": 27
+        "curr_rank": 13,
+        "delta": 28
       },
       {
         "country": "IN",
         "name": "Animator - AI photo dance",
         "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
         "prev_rank": 83,
-        "curr_rank": 66,
-        "delta": 17
+        "curr_rank": 60,
+        "delta": 23
       },
       {
         "country": "IN",
@@ -206,40 +206,24 @@
         "name": "FaceLab: Time Machine, Hair AI",
         "developer": "Lyrebird Studio",
         "prev_rank": 99,
-        "curr_rank": 79,
-        "delta": 20
+        "curr_rank": 82,
+        "delta": 17
       },
       {
         "country": "AU",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
         "prev_rank": 75,
-        "curr_rank": 60,
-        "delta": 15
-      },
-      {
-        "country": "AU",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 93,
-        "curr_rank": 81,
-        "delta": 12
-      },
-      {
-        "country": "AU",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 31,
-        "curr_rank": 20,
-        "delta": 11
+        "curr_rank": 59,
+        "delta": 16
       },
       {
         "country": "AU",
         "name": "AI Video - AI Video Generator",
         "developer": "HUBX",
         "prev_rank": 48,
-        "curr_rank": 38,
-        "delta": 10
+        "curr_rank": 36,
+        "delta": 12
       }
     ],
     "GB": [
@@ -248,16 +232,26 @@
         "name": "Vixel - AI Video Generator",
         "developer": "FENIX MOBILE YAZILIM A.S.",
         "prev_rank": 97,
-        "curr_rank": 81,
-        "delta": 16
+        "curr_rank": 71,
+        "delta": 26
       },
       {
         "country": "GB",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 54,
-        "curr_rank": 44,
-        "delta": 10
+        "name": "Facelab: Face & Body Editor",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 90,
+        "curr_rank": 76,
+        "delta": 14
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 96,
+        "curr_rank": 75,
+        "delta": 21
       }
     ],
     "BR": [
@@ -266,8 +260,16 @@
         "name": "Blow Up AI: Viralize",
         "developer": "Mountains Studio LLC",
         "prev_rank": 75,
-        "curr_rank": 63,
-        "delta": 12
+        "curr_rank": 58,
+        "delta": 17
+      },
+      {
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 83,
+        "curr_rank": 72,
+        "delta": 11
       }
     ]
   },
@@ -275,12 +277,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Photogenik: Pose & Photo Coach leads with +74 jump in DE"
+      "text": "Photogenik: Pose & Photo Coach leads with +77 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 6 rising apps - highest activity today"
+      "text": "AU has 4 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "FaceLab apps trending with 2 variants rising"
     },
     {
       "type": "trending",
