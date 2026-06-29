@@ -9,59 +9,59 @@
       "delta": 40
     },
     {
+      "country": "FR",
+      "name": "Photo identité - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 92,
+      "curr_rank": 53,
+      "delta": 39
+    },
+    {
       "country": "AU",
       "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 79,
-      "curr_rank": 46,
-      "delta": 33
+      "curr_rank": 44,
+      "delta": 35
     },
     {
       "country": "BR",
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 89,
-      "curr_rank": 61,
-      "delta": 28
+      "curr_rank": 56,
+      "delta": 33
     },
     {
       "country": "US",
       "name": "Citrus 1 Tap Photo Enhancer AI",
       "developer": "Wemagine.ai LLP",
       "prev_rank": 65,
-      "curr_rank": 40,
-      "delta": 25
+      "curr_rank": 33,
+      "delta": 32
     },
     {
       "country": "IN",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
       "prev_rank": 50,
-      "curr_rank": 29,
-      "delta": 21
+      "curr_rank": 30,
+      "delta": 20
     },
     {
       "country": "US",
       "name": "Halo AI: Photo & Video Editor",
       "developer": "Product Studio Inc.",
       "prev_rank": 78,
-      "curr_rank": 58,
-      "delta": 20
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera: AIO GPS Time",
-      "developer": "周萍 黄",
-      "prev_rank": 76,
-      "curr_rank": 58,
+      "curr_rank": 60,
       "delta": 18
     },
     {
       "country": "FR",
-      "name": "Facelab: Retouche Visage・Corps",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 82,
-      "curr_rank": 66,
+      "name": "Blow Up AI: Deviens Viral",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 32,
+      "curr_rank": 16,
       "delta": 16
     },
     {
@@ -77,96 +77,72 @@
       "name": "Dance AI: AI Dance Video Maker",
       "developer": "DeePix AI",
       "prev_rank": 29,
-      "curr_rank": 14,
-      "delta": 15
-    },
-    {
-      "country": "FR",
-      "name": "Blow Up AI: Deviens Viral",
-      "developer": "Mountains Studio LLC",
-      "prev_rank": 32,
-      "curr_rank": 17,
-      "delta": 15
-    },
-    {
-      "country": "KR",
-      "name": "AI Catch: AI 영상 생성기",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 76,
-      "curr_rank": 61,
-      "delta": 15
-    },
-    {
-      "country": "FR",
-      "name": "Photo identité - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 92,
-      "curr_rank": 78,
+      "curr_rank": 15,
       "delta": 14
     },
     {
-      "country": "FR",
-      "name": "Pollo AI - Générateur Vidéo IA",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 85,
-      "curr_rank": 72,
-      "delta": 13
-    },
-    {
-      "country": "KR",
-      "name": "Muse: 릴스 동영상 편집 & AI",
-      "developer": "Bigrowth",
-      "prev_rank": 58,
-      "curr_rank": 45,
-      "delta": 13
-    },
-    {
-      "country": "AU",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 41,
-      "curr_rank": 28,
-      "delta": 13
-    },
-    {
-      "country": "AU",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 85,
-      "curr_rank": 72,
-      "delta": 13
+      "country": "ID",
+      "name": "Timestamp Camera: AIO GPS Time",
+      "developer": "周萍 黄",
+      "prev_rank": 76,
+      "curr_rank": 62,
+      "delta": 14
     },
     {
       "country": "GB",
       "name": "Adobe Premiere AI Video Editor",
       "developer": "Adobe Inc.",
       "prev_rank": 69,
-      "curr_rank": 57,
-      "delta": 12
+      "curr_rank": 56,
+      "delta": 13
     },
     {
       "country": "GB",
       "name": "Toonapp: AI Photo & Video Art",
       "developer": "Lyrebird Studio",
       "prev_rank": 79,
-      "curr_rank": 67,
-      "delta": 12
+      "curr_rank": 66,
+      "delta": 13
     },
     {
-      "country": "DE",
-      "name": "invideo AI: AI Video-Generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 98,
-      "curr_rank": 86,
-      "delta": 12
+      "country": "FR",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 91,
+      "curr_rank": 78,
+      "delta": 13
     },
     {
       "country": "US",
       "name": "AI Photo Generator: ARTA",
       "developer": "AIBY",
       "prev_rank": 60,
-      "curr_rank": 49,
-      "delta": 11
+      "curr_rank": 48,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 63,
+      "curr_rank": 51,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Facelab: Retouche Visage・Corps",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 82,
+      "curr_rank": 70,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "Muse: 릴스 동영상 편집 & AI",
+      "developer": "Bigrowth",
+      "prev_rank": 58,
+      "curr_rank": 46,
+      "delta": 12
     },
     {
       "country": "GB",
@@ -193,14 +169,6 @@
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 98,
-      "curr_rank": 88,
-      "delta": 10
-    },
-    {
       "country": "GB",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
@@ -209,19 +177,11 @@
       "delta": 10
     },
     {
-      "country": "FR",
-      "name": "AIPhoto: Image Video Generator",
-      "developer": "Le Anh Tuan",
-      "prev_rank": 83,
-      "curr_rank": 73,
-      "delta": 10
-    },
-    {
-      "country": "BR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 82,
-      "curr_rank": 72,
+      "country": "AU",
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 41,
+      "curr_rank": 31,
       "delta": 10
     }
   ],
@@ -237,19 +197,11 @@
       },
       {
         "country": "KR",
-        "name": "AI Catch: AI 영상 생성기",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 76,
-        "curr_rank": 61,
-        "delta": 15
-      },
-      {
-        "country": "KR",
         "name": "Muse: 릴스 동영상 편집 & AI",
         "developer": "Bigrowth",
         "prev_rank": 58,
-        "curr_rank": 45,
-        "delta": 13
+        "curr_rank": 46,
+        "delta": 12
       },
       {
         "country": "KR",
@@ -260,30 +212,56 @@
         "delta": 11
       }
     ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Photo identité - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 92,
+        "curr_rank": 53,
+        "delta": 39
+      },
+      {
+        "country": "FR",
+        "name": "Blow Up AI: Deviens Viral",
+        "developer": "Mountains Studio LLC",
+        "prev_rank": 32,
+        "curr_rank": 16,
+        "delta": 16
+      },
+      {
+        "country": "FR",
+        "name": "Meitu AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 91,
+        "curr_rank": 78,
+        "delta": 13
+      },
+      {
+        "country": "FR",
+        "name": "Facelab: Retouche Visage・Corps",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 82,
+        "curr_rank": 70,
+        "delta": 12
+      }
+    ],
     "AU": [
       {
         "country": "AU",
         "name": "BeautyPlus-Selfie Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 79,
-        "curr_rank": 46,
-        "delta": 33
+        "curr_rank": 44,
+        "delta": 35
       },
       {
         "country": "AU",
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 41,
-        "curr_rank": 28,
-        "delta": 13
-      },
-      {
-        "country": "AU",
-        "name": "Retake AI Face & Selfie Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 85,
-        "curr_rank": 72,
-        "delta": 13
+        "curr_rank": 31,
+        "delta": 10
       }
     ],
     "BR": [
@@ -292,16 +270,8 @@
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 89,
-        "curr_rank": 61,
-        "delta": 28
-      },
-      {
-        "country": "BR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 82,
-        "curr_rank": 72,
-        "delta": 10
+        "curr_rank": 56,
+        "delta": 33
       }
     ],
     "US": [
@@ -310,32 +280,32 @@
         "name": "Citrus 1 Tap Photo Enhancer AI",
         "developer": "Wemagine.ai LLP",
         "prev_rank": 65,
-        "curr_rank": 40,
-        "delta": 25
+        "curr_rank": 33,
+        "delta": 32
       },
       {
         "country": "US",
         "name": "Halo AI: Photo & Video Editor",
         "developer": "Product Studio Inc.",
         "prev_rank": 78,
-        "curr_rank": 58,
-        "delta": 20
+        "curr_rank": 60,
+        "delta": 18
       },
       {
         "country": "US",
         "name": "AI Photo Generator: ARTA",
         "developer": "AIBY",
         "prev_rank": 60,
-        "curr_rank": 49,
-        "delta": 11
+        "curr_rank": 48,
+        "delta": 12
       },
       {
         "country": "US",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 98,
-        "curr_rank": 88,
-        "delta": 10
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 63,
+        "curr_rank": 51,
+        "delta": 12
       }
     ],
     "IN": [
@@ -344,8 +314,8 @@
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 50,
-        "curr_rank": 29,
-        "delta": 21
+        "curr_rank": 30,
+        "delta": 20
       },
       {
         "country": "IN",
@@ -359,61 +329,19 @@
     "ID": [
       {
         "country": "ID",
-        "name": "Timestamp Camera: AIO GPS Time",
-        "developer": "周萍 黄",
-        "prev_rank": 76,
-        "curr_rank": 58,
-        "delta": 18
-      },
-      {
-        "country": "ID",
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
         "prev_rank": 43,
         "curr_rank": 27,
         "delta": 16
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 82,
-        "curr_rank": 66,
-        "delta": 16
       },
       {
-        "country": "FR",
-        "name": "Blow Up AI: Deviens Viral",
-        "developer": "Mountains Studio LLC",
-        "prev_rank": 32,
-        "curr_rank": 17,
-        "delta": 15
-      },
-      {
-        "country": "FR",
-        "name": "Photo identité - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 92,
-        "curr_rank": 78,
+        "country": "ID",
+        "name": "Timestamp Camera: AIO GPS Time",
+        "developer": "周萍 黄",
+        "prev_rank": 76,
+        "curr_rank": 62,
         "delta": 14
-      },
-      {
-        "country": "FR",
-        "name": "Pollo AI - Générateur Vidéo IA",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 85,
-        "curr_rank": 72,
-        "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "AIPhoto: Image Video Generator",
-        "developer": "Le Anh Tuan",
-        "prev_rank": 83,
-        "curr_rank": 73,
-        "delta": 10
       }
     ],
     "GB": [
@@ -422,24 +350,24 @@
         "name": "Dance AI: AI Dance Video Maker",
         "developer": "DeePix AI",
         "prev_rank": 29,
-        "curr_rank": 14,
-        "delta": 15
+        "curr_rank": 15,
+        "delta": 14
       },
       {
         "country": "GB",
         "name": "Adobe Premiere AI Video Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 69,
-        "curr_rank": 57,
-        "delta": 12
+        "curr_rank": 56,
+        "delta": 13
       },
       {
         "country": "GB",
         "name": "Toonapp: AI Photo & Video Art",
         "developer": "Lyrebird Studio",
         "prev_rank": 79,
-        "curr_rank": 67,
-        "delta": 12
+        "curr_rank": 66,
+        "delta": 13
       },
       {
         "country": "GB",
@@ -457,16 +385,6 @@
         "curr_rank": 52,
         "delta": 10
       }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "invideo AI: AI Video-Generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 98,
-        "curr_rank": 86,
-        "delta": 12
-      }
     ]
   },
   "insights": [
@@ -478,12 +396,12 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "FR has 5 rising apps - highest activity today"
+      "text": "GB has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ElevenLabs: AI Voice Generator rising in 3 markets: KR, GB, BR"
+      "text": "Citrus 1 Tap Photo Enhancer AI rising in 2 markets: US, GB"
     }
   ],
   "meta": {
