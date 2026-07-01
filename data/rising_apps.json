@@ -1,6 +1,14 @@
 {
   "rising": [
     {
+      "country": "KR",
+      "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
+      "developer": "ImgBase, Inc.",
+      "prev_rank": 82,
+      "curr_rank": 53,
+      "delta": 29
+    },
+    {
       "country": "US",
       "name": "Dance AI: AI Dance Video Maker",
       "developer": "DeePix AI",
@@ -9,20 +17,20 @@
       "delta": 28
     },
     {
-      "country": "KR",
-      "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
-      "developer": "ImgBase, Inc.",
-      "prev_rank": 82,
-      "curr_rank": 56,
-      "delta": 26
-    },
-    {
       "country": "IN",
       "name": "Animator - AI photo dance",
       "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
       "prev_rank": 66,
-      "curr_rank": 40,
-      "delta": 26
+      "curr_rank": 38,
+      "delta": 28
+    },
+    {
+      "country": "BR",
+      "name": "Blow Up AI: Viralize",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 72,
+      "curr_rank": 47,
+      "delta": 25
     },
     {
       "country": "AU",
@@ -33,68 +41,44 @@
       "delta": 21
     },
     {
-      "country": "FR",
-      "name": "Dance AI: Vidéos de Danse IA",
-      "developer": "DeePix AI",
-      "prev_rank": 94,
-      "curr_rank": 74,
-      "delta": 20
-    },
-    {
       "country": "DE",
       "name": "Mosaik+ Unschärfe Foto",
       "developer": "Shiho Sadamizu",
       "prev_rank": 80,
-      "curr_rank": 61,
+      "curr_rank": 60,
+      "delta": 20
+    },
+    {
+      "country": "FR",
+      "name": "PrettyUp -Retouche video corps",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 67,
+      "curr_rank": 48,
       "delta": 19
     },
     {
-      "country": "BR",
-      "name": "Blow Up AI: Viralize",
-      "developer": "Mountains Studio LLC",
-      "prev_rank": 72,
-      "curr_rank": 53,
-      "delta": 19
-    },
-    {
-      "country": "DE",
-      "name": "Dance AI: KI-Tanzvideo Maker",
+      "country": "FR",
+      "name": "Dance AI: Vidéos de Danse IA",
       "developer": "DeePix AI",
-      "prev_rank": 99,
-      "curr_rank": 83,
+      "prev_rank": 94,
+      "curr_rank": 78,
       "delta": 16
     },
     {
       "country": "KR",
-      "name": "Muse: 릴스 동영상 편집 & AI",
-      "developer": "Bigrowth",
-      "prev_rank": 57,
-      "curr_rank": 41,
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 77,
+      "curr_rank": 61,
       "delta": 16
     },
     {
       "country": "BR",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 76,
-      "curr_rank": 61,
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 92,
+      "curr_rank": 77,
       "delta": 15
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik&Gesicht verpixeln/blur",
-      "developer": "Yu Abe",
-      "prev_rank": 30,
-      "curr_rank": 16,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 56,
-      "curr_rank": 42,
-      "delta": 14
     },
     {
       "country": "AU",
@@ -105,20 +89,20 @@
       "delta": 14
     },
     {
-      "country": "US",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 51,
-      "curr_rank": 38,
+      "country": "BR",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 76,
+      "curr_rank": 63,
       "delta": 13
     },
     {
-      "country": "GB",
-      "name": "Dance AI: AI Dance Video Maker",
-      "developer": "DeePix AI",
-      "prev_rank": 28,
-      "curr_rank": 16,
-      "delta": 12
+      "country": "AU",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 96,
+      "curr_rank": 83,
+      "delta": 13
     },
     {
       "country": "DE",
@@ -129,55 +113,129 @@
       "delta": 12
     },
     {
-      "country": "ID",
-      "name": "VidCraft - Photo to Video AI",
-      "developer": "Mian saboor hussain Ali",
-      "prev_rank": 60,
-      "curr_rank": 48,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 48,
-      "curr_rank": 37,
-      "delta": 11
-    },
-    {
       "country": "KR",
       "name": "캐럿 - AI와 무엇이든 만드세요",
       "developer": "Paradot Corp.",
       "prev_rank": 72,
-      "curr_rank": 61,
+      "curr_rank": 60,
+      "delta": 12
+    },
+    {
+      "country": "ID",
+      "name": "Muse: Reels Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 56,
+      "curr_rank": 44,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik&Gesicht verpixeln/blur",
+      "developer": "Yu Abe",
+      "prev_rank": 30,
+      "curr_rank": 19,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Dance AI: KI-Tanzvideo Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 99,
+      "curr_rank": 88,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "PrettyUp-Video Portrait Editor",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 81,
+      "curr_rank": 70,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "Muse: 릴스 동영상 편집 & AI",
+      "developer": "Bigrowth",
+      "prev_rank": 57,
+      "curr_rank": 46,
+      "delta": 11
+    },
+    {
+      "country": "ID",
+      "name": "VidCraft - Photo to Video AI",
+      "developer": "Mian saboor hussain Ali",
+      "prev_rank": 60,
+      "curr_rank": 49,
       "delta": 11
     },
     {
       "country": "US",
-      "name": "Glowify - AI Hairstyle Try On",
-      "developer": "Flarial Interactive",
-      "prev_rank": 83,
-      "curr_rank": 73,
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 51,
+      "curr_rank": 41,
       "delta": 10
     },
     {
-      "country": "IN",
-      "name": "Kriya AI - Video Maker",
-      "developer": "KATHANIKA ENTERTAINMENTS PRIVATE LIMITED",
-      "prev_rank": 85,
-      "curr_rank": 75,
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 77,
+      "curr_rank": 67,
       "delta": 10
     },
     {
       "country": "AU",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 29,
-      "curr_rank": 19,
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 37,
+      "curr_rank": 27,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 72,
+      "curr_rank": 62,
       "delta": 10
     }
   ],
   "by_country": {
+    "KR": [
+      {
+        "country": "KR",
+        "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
+        "developer": "ImgBase, Inc.",
+        "prev_rank": 82,
+        "curr_rank": 53,
+        "delta": 29
+      },
+      {
+        "country": "KR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 77,
+        "curr_rank": 61,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 72,
+        "curr_rank": 60,
+        "delta": 12
+      },
+      {
+        "country": "KR",
+        "name": "Muse: 릴스 동영상 편집 & AI",
+        "developer": "Bigrowth",
+        "prev_rank": 57,
+        "curr_rank": 46,
+        "delta": 11
+      }
+    ],
     "US": [
       {
         "country": "US",
@@ -192,42 +250,16 @@
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 51,
-        "curr_rank": 38,
-        "delta": 13
+        "curr_rank": 41,
+        "delta": 10
       },
       {
         "country": "US",
-        "name": "Glowify - AI Hairstyle Try On",
-        "developer": "Flarial Interactive",
-        "prev_rank": 83,
-        "curr_rank": 73,
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 77,
+        "curr_rank": 67,
         "delta": 10
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
-        "developer": "ImgBase, Inc.",
-        "prev_rank": 82,
-        "curr_rank": 56,
-        "delta": 26
-      },
-      {
-        "country": "KR",
-        "name": "Muse: 릴스 동영상 편집 & AI",
-        "developer": "Bigrowth",
-        "prev_rank": 57,
-        "curr_rank": 41,
-        "delta": 16
-      },
-      {
-        "country": "KR",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp.",
-        "prev_rank": 72,
-        "curr_rank": 61,
-        "delta": 11
       }
     ],
     "IN": [
@@ -236,16 +268,42 @@
         "name": "Animator - AI photo dance",
         "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
         "prev_rank": 66,
-        "curr_rank": 40,
-        "delta": 26
+        "curr_rank": 38,
+        "delta": 28
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Blow Up AI: Viralize",
+        "developer": "Mountains Studio LLC",
+        "prev_rank": 72,
+        "curr_rank": 47,
+        "delta": 25
       },
       {
-        "country": "IN",
-        "name": "Kriya AI - Video Maker",
-        "developer": "KATHANIKA ENTERTAINMENTS PRIVATE LIMITED",
-        "prev_rank": 85,
-        "curr_rank": 75,
-        "delta": 10
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 92,
+        "curr_rank": 77,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 76,
+        "curr_rank": 63,
+        "delta": 13
+      },
+      {
+        "country": "BR",
+        "name": "PrettyUp-Video Portrait Editor",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 81,
+        "curr_rank": 70,
+        "delta": 11
       }
     ],
     "AU": [
@@ -267,21 +325,27 @@
       },
       {
         "country": "AU",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 29,
-        "curr_rank": 19,
-        "delta": 10
-      }
-    ],
-    "FR": [
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 96,
+        "curr_rank": 83,
+        "delta": 13
+      },
       {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 94,
-        "curr_rank": 74,
-        "delta": 20
+        "country": "AU",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 37,
+        "curr_rank": 27,
+        "delta": 10
+      },
+      {
+        "country": "AU",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 72,
+        "curr_rank": 62,
+        "delta": 10
       }
     ],
     "DE": [
@@ -290,24 +354,8 @@
         "name": "Mosaik+ Unschärfe Foto",
         "developer": "Shiho Sadamizu",
         "prev_rank": 80,
-        "curr_rank": 61,
-        "delta": 19
-      },
-      {
-        "country": "DE",
-        "name": "Dance AI: KI-Tanzvideo Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 99,
-        "curr_rank": 83,
-        "delta": 16
-      },
-      {
-        "country": "DE",
-        "name": "Mosaik&Gesicht verpixeln/blur",
-        "developer": "Yu Abe",
-        "prev_rank": 30,
-        "curr_rank": 16,
-        "delta": 14
+        "curr_rank": 60,
+        "delta": 20
       },
       {
         "country": "DE",
@@ -316,24 +364,40 @@
         "prev_rank": 83,
         "curr_rank": 71,
         "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "Mosaik&Gesicht verpixeln/blur",
+        "developer": "Yu Abe",
+        "prev_rank": 30,
+        "curr_rank": 19,
+        "delta": 11
+      },
+      {
+        "country": "DE",
+        "name": "Dance AI: KI-Tanzvideo Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 99,
+        "curr_rank": 88,
+        "delta": 11
       }
     ],
-    "BR": [
+    "FR": [
       {
-        "country": "BR",
-        "name": "Blow Up AI: Viralize",
-        "developer": "Mountains Studio LLC",
-        "prev_rank": 72,
-        "curr_rank": 53,
+        "country": "FR",
+        "name": "PrettyUp -Retouche video corps",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 67,
+        "curr_rank": 48,
         "delta": 19
       },
       {
-        "country": "BR",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 76,
-        "curr_rank": 61,
-        "delta": 15
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 94,
+        "curr_rank": 78,
+        "delta": 16
       }
     ],
     "ID": [
@@ -342,33 +406,15 @@
         "name": "Muse: Reels Video Editor",
         "developer": "Bigrowth",
         "prev_rank": 56,
-        "curr_rank": 42,
-        "delta": 14
+        "curr_rank": 44,
+        "delta": 12
       },
       {
         "country": "ID",
         "name": "VidCraft - Photo to Video AI",
         "developer": "Mian saboor hussain Ali",
         "prev_rank": 60,
-        "curr_rank": 48,
-        "delta": 12
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Dance AI: AI Dance Video Maker",
-        "developer": "DeePix AI",
-        "prev_rank": 28,
-        "curr_rank": 16,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 48,
-        "curr_rank": 37,
+        "curr_rank": 49,
         "delta": 11
       }
     ]
@@ -377,22 +423,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Dance AI: AI Dance Video Maker leads with +28 jump in US"
+      "text": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집 leads with +29 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 4 rising apps - highest activity today"
+      "text": "AU has 5 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Dance AI apps trending with 5 variants rising"
+      "text": "Dance AI apps trending with 4 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Dance AI: AI Dance Video Maker rising in 3 markets: US, AU, GB"
+      "text": "Dance AI: AI Dance Video Maker rising in 2 markets: US, AU"
     }
   ],
   "meta": {
