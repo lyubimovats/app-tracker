@@ -1,83 +1,75 @@
 {
   "rising": [
     {
+      "country": "AU",
+      "name": "MePic – AI Photo & Video",
+      "developer": "Ocean Float Mobile",
+      "prev_rank": 72,
+      "curr_rank": 46,
+      "delta": 26
+    },
+    {
       "country": "KR",
       "name": "Hf: AI Video & Image Generator",
       "developer": "Denis Zhesterev",
       "prev_rank": 86,
-      "curr_rank": 61,
-      "delta": 25
-    },
-    {
-      "country": "GB",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 91,
-      "curr_rank": 69,
-      "delta": 22
+      "curr_rank": 63,
+      "delta": 23
     },
     {
       "country": "US",
       "name": "ReelMe AI: Daily Photo & Trend",
       "developer": "TPC INVEST PTE.LTD",
       "prev_rank": 82,
-      "curr_rank": 61,
-      "delta": 21
-    },
-    {
-      "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 98,
-      "curr_rank": 78,
+      "curr_rank": 62,
       "delta": 20
-    },
-    {
-      "country": "AU",
-      "name": "ReelMe AI: Daily Photo & Trend",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 92,
-      "curr_rank": 74,
-      "delta": 18
-    },
-    {
-      "country": "AU",
-      "name": "MePic – AI Photo & Video",
-      "developer": "Ocean Float Mobile",
-      "prev_rank": 72,
-      "curr_rank": 55,
-      "delta": 17
-    },
-    {
-      "country": "AU",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 65,
-      "curr_rank": 49,
-      "delta": 16
     },
     {
       "country": "DE",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
       "prev_rank": 80,
-      "curr_rank": 65,
-      "delta": 15
+      "curr_rank": 60,
+      "delta": 20
     },
     {
-      "country": "US",
-      "name": "Halo AI: Photo & Video Editor",
-      "developer": "Product Studio Inc.",
-      "prev_rank": 79,
-      "curr_rank": 66,
+      "country": "GB",
+      "name": "FaceLab: Aging, Haircut Filter",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 98,
+      "curr_rank": 79,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 91,
+      "curr_rank": 75,
+      "delta": 16
+    },
+    {
+      "country": "AU",
+      "name": "ReelMe AI: Daily Photo & Trend",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 92,
+      "curr_rank": 78,
+      "delta": 14
+    },
+    {
+      "country": "BR",
+      "name": "Pixelo - AI Photo Editor",
+      "developer": "HAPPY TOOLS HK LIMITED",
+      "prev_rank": 31,
+      "curr_rank": 18,
       "delta": 13
     },
     {
-      "country": "ID",
-      "name": "AI Dance Video Maker: Geno",
-      "developer": "AIFreeFlow",
-      "prev_rank": 94,
-      "curr_rank": 81,
+      "country": "IN",
+      "name": "VidCraft - Photo to Video AI",
+      "developer": "Mian saboor hussain Ali",
+      "prev_rank": 96,
+      "curr_rank": 83,
       "delta": 13
     },
     {
@@ -90,64 +82,88 @@
     },
     {
       "country": "DE",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 48,
-      "curr_rank": 36,
+      "name": "Facelab・Gesicht, Körper, Haare",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 63,
+      "curr_rank": 51,
       "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Halo AI: Photo & Video Editor",
+      "developer": "Product Studio Inc.",
+      "prev_rank": 79,
+      "curr_rank": 68,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 80,
+      "curr_rank": 69,
+      "delta": 11
     },
     {
       "country": "AU",
       "name": "Retake AI Face & Selfie Editor",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 60,
-      "curr_rank": 48,
-      "delta": 12
-    },
-    {
-      "country": "IN",
-      "name": "VidCraft - Photo to Video AI",
-      "developer": "Mian saboor hussain Ali",
-      "prev_rank": 96,
-      "curr_rank": 85,
+      "curr_rank": 49,
       "delta": 11
     },
     {
-      "country": "FR",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 84,
-      "curr_rank": 74,
+      "country": "DE",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 48,
+      "curr_rank": 38,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "AI Dance Video Maker: Geno",
+      "developer": "AIFreeFlow",
+      "prev_rank": 94,
+      "curr_rank": 84,
       "delta": 10
     }
   ],
   "by_country": {
+    "AU": [
+      {
+        "country": "AU",
+        "name": "MePic – AI Photo & Video",
+        "developer": "Ocean Float Mobile",
+        "prev_rank": 72,
+        "curr_rank": 46,
+        "delta": 26
+      },
+      {
+        "country": "AU",
+        "name": "ReelMe AI: Daily Photo & Trend",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 92,
+        "curr_rank": 78,
+        "delta": 14
+      },
+      {
+        "country": "AU",
+        "name": "Retake AI Face & Selfie Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 60,
+        "curr_rank": 49,
+        "delta": 11
+      }
+    ],
     "KR": [
       {
         "country": "KR",
         "name": "Hf: AI Video & Image Generator",
         "developer": "Denis Zhesterev",
         "prev_rank": 86,
-        "curr_rank": 61,
-        "delta": 25
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 91,
-        "curr_rank": 69,
-        "delta": 22
-      },
-      {
-        "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 98,
-        "curr_rank": 78,
-        "delta": 20
+        "curr_rank": 63,
+        "delta": 23
       }
     ],
     "US": [
@@ -156,16 +172,8 @@
         "name": "ReelMe AI: Daily Photo & Trend",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 82,
-        "curr_rank": 61,
-        "delta": 21
-      },
-      {
-        "country": "US",
-        "name": "Halo AI: Photo & Video Editor",
-        "developer": "Product Studio Inc.",
-        "prev_rank": 79,
-        "curr_rank": 66,
-        "delta": 13
+        "curr_rank": 62,
+        "delta": 20
       },
       {
         "country": "US",
@@ -174,40 +182,14 @@
         "prev_rank": 83,
         "curr_rank": 71,
         "delta": 12
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "ReelMe AI: Daily Photo & Trend",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 92,
-        "curr_rank": 74,
-        "delta": 18
       },
       {
-        "country": "AU",
-        "name": "MePic – AI Photo & Video",
-        "developer": "Ocean Float Mobile",
-        "prev_rank": 72,
-        "curr_rank": 55,
-        "delta": 17
-      },
-      {
-        "country": "AU",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 65,
-        "curr_rank": 49,
-        "delta": 16
-      },
-      {
-        "country": "AU",
-        "name": "Retake AI Face & Selfie Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 60,
-        "curr_rank": 48,
-        "delta": 12
+        "country": "US",
+        "name": "Halo AI: Photo & Video Editor",
+        "developer": "Product Studio Inc.",
+        "prev_rank": 79,
+        "curr_rank": 68,
+        "delta": 11
       }
     ],
     "DE": [
@@ -216,25 +198,59 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 80,
-        "curr_rank": 65,
-        "delta": 15
+        "curr_rank": 60,
+        "delta": 20
+      },
+      {
+        "country": "DE",
+        "name": "Facelab・Gesicht, Körper, Haare",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 63,
+        "curr_rank": 51,
+        "delta": 12
       },
       {
         "country": "DE",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 48,
-        "curr_rank": 36,
-        "delta": 12
+        "curr_rank": 38,
+        "delta": 10
       }
     ],
-    "ID": [
+    "GB": [
       {
-        "country": "ID",
-        "name": "AI Dance Video Maker: Geno",
-        "developer": "AIFreeFlow",
-        "prev_rank": 94,
-        "curr_rank": 81,
+        "country": "GB",
+        "name": "FaceLab: Aging, Haircut Filter",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 98,
+        "curr_rank": 79,
+        "delta": 19
+      },
+      {
+        "country": "GB",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 91,
+        "curr_rank": 75,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 80,
+        "curr_rank": 69,
+        "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Pixelo - AI Photo Editor",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 31,
+        "curr_rank": 18,
         "delta": 13
       }
     ],
@@ -244,17 +260,17 @@
         "name": "VidCraft - Photo to Video AI",
         "developer": "Mian saboor hussain Ali",
         "prev_rank": 96,
-        "curr_rank": 85,
-        "delta": 11
+        "curr_rank": 83,
+        "delta": 13
       }
     ],
-    "FR": [
+    "ID": [
       {
-        "country": "FR",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 84,
-        "curr_rank": 74,
+        "country": "ID",
+        "name": "AI Dance Video Maker: Geno",
+        "developer": "AIFreeFlow",
+        "prev_rank": 94,
+        "curr_rank": 84,
         "delta": 10
       }
     ]
@@ -263,17 +279,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Hf: AI Video & Image Generator leads with +25 jump in KR"
+      "text": "MePic – AI Photo & Video leads with +26 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 4 rising apps - highest activity today"
+      "text": "AU has 3 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "FaceLab apps trending with 2 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "BeautyCam-Digicam&Photo Editor rising in 2 markets: GB, DE"
+      "text": "ReelMe AI: Daily Photo & Trend rising in 2 markets: US, AU"
     }
   ],
   "meta": {
