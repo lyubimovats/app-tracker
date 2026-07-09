@@ -1,76 +1,60 @@
 {
   "rising": [
     {
-      "country": "GB",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 93,
-      "curr_rank": 74,
-      "delta": 19
+      "country": "FR",
+      "name": "Hype AI – AI Photo & Vidéo",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 92,
+      "curr_rank": 70,
+      "delta": 22
     },
     {
       "country": "FR",
       "name": "Facelab: Retouche Visage・Corps",
       "developer": "IRONTECH LIMITED",
       "prev_rank": 68,
-      "curr_rank": 50,
-      "delta": 18
-    },
-    {
-      "country": "DE",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 78,
-      "curr_rank": 61,
-      "delta": 17
-    },
-    {
-      "country": "ID",
-      "name": "AI Dance Video Maker: Geno",
-      "developer": "AIFreeFlow",
-      "prev_rank": 71,
-      "curr_rank": 54,
-      "delta": 17
-    },
-    {
-      "country": "FR",
-      "name": "Hype AI – AI Photo & Vidéo",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 92,
-      "curr_rank": 77,
-      "delta": 15
+      "curr_rank": 47,
+      "delta": 21
     },
     {
       "country": "ID",
       "name": "Facelab: Face & Body Editor",
       "developer": "IRONTECH LIMITED",
       "prev_rank": 82,
-      "curr_rank": 67,
-      "delta": 15
+      "curr_rank": 61,
+      "delta": 21
+    },
+    {
+      "country": "DE",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 78,
+      "curr_rank": 59,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 93,
+      "curr_rank": 76,
+      "delta": 17
     },
     {
       "country": "ID",
       "name": "VidCraft - Photo to Video AI",
       "developer": "Mian saboor hussain Ali",
       "prev_rank": 94,
-      "curr_rank": 79,
+      "curr_rank": 78,
+      "delta": 16
+    },
+    {
+      "country": "IN",
+      "name": "AIPhoto: Image Video Generator",
+      "developer": "Le Anh Tuan",
+      "prev_rank": 60,
+      "curr_rank": 45,
       "delta": 15
-    },
-    {
-      "country": "US",
-      "name": "AI Face Maker & Dance Video",
-      "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
-      "prev_rank": 71,
-      "curr_rank": 57,
-      "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 98,
-      "curr_rank": 84,
-      "delta": 14
     },
     {
       "country": "FR",
@@ -81,20 +65,28 @@
       "delta": 14
     },
     {
+      "country": "FR",
+      "name": "Retake IA: Éditeur de photos",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 67,
+      "curr_rank": 54,
+      "delta": 13
+    },
+    {
       "country": "IN",
       "name": "Pixo AI: AI Video Generator",
       "developer": "Hypernova Limited",
       "prev_rank": 48,
-      "curr_rank": 34,
-      "delta": 14
+      "curr_rank": 35,
+      "delta": 13
     },
     {
       "country": "IN",
-      "name": "AIPhoto: Image Video Generator",
-      "developer": "Le Anh Tuan",
-      "prev_rank": 60,
-      "curr_rank": 46,
-      "delta": 14
+      "name": "Photogenik: Pose & Photo Coach",
+      "developer": "Photogenik Inc.",
+      "prev_rank": 88,
+      "curr_rank": 75,
+      "delta": 13
     },
     {
       "country": "ID",
@@ -105,67 +97,91 @@
       "delta": 13
     },
     {
-      "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 90,
-      "curr_rank": 78,
-      "delta": 12
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 75,
+      "curr_rank": 62,
+      "delta": 13
     },
     {
-      "country": "FR",
-      "name": "Retake IA: Éditeur de photos",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 67,
-      "curr_rank": 55,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "ToonApp: Gerador de Imagem IA",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 63,
-      "curr_rank": 52,
-      "delta": 11
-    },
-    {
-      "country": "JP",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
+      "country": "AU",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 92,
+      "curr_rank": 79,
+      "delta": 13
     },
     {
       "country": "US",
-      "name": "FlashCam: AI Photo&Filter",
-      "developer": "建华 董",
-      "prev_rank": 54,
-      "curr_rank": 44,
-      "delta": 10
+      "name": "AI Face Maker & Dance Video",
+      "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+      "prev_rank": 71,
+      "curr_rank": 59,
+      "delta": 12
     },
     {
       "country": "DE",
       "name": "Tezza: Aesthetic Photo Editor",
       "developer": "Tezza App LLC",
       "prev_rank": 92,
-      "curr_rank": 82,
-      "delta": 10
+      "curr_rank": 80,
+      "delta": 12
     },
     {
       "country": "FR",
       "name": "Zoombo: Nano AI Studio",
       "developer": "CoNext Limited",
       "prev_rank": 48,
+      "curr_rank": 36,
+      "delta": 12
+    },
+    {
+      "country": "IN",
+      "name": "Scalio - AI Videos & Photos",
+      "developer": "Scalio Technology Private Limited",
+      "prev_rank": 62,
+      "curr_rank": 50,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Toonapp KI Foto Bild Generator",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 80,
+      "curr_rank": 69,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 97,
+      "curr_rank": 86,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 48,
       "curr_rank": 38,
       "delta": 10
     },
     {
-      "country": "FR",
-      "name": "Pixi AI: Photo Magie&Vidéo IA",
-      "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-      "prev_rank": 91,
-      "curr_rank": 81,
+      "country": "GB",
+      "name": "FaceLab: Aging, Haircut Filter",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 90,
+      "curr_rank": 80,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "Facelab・Gesicht, Körper, Haare",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 45,
+      "curr_rank": 35,
       "delta": 10
     },
     {
@@ -177,73 +193,31 @@
       "delta": 10
     },
     {
-      "country": "IN",
-      "name": "Scalio - AI Videos & Photos",
-      "developer": "Scalio Technology Private Limited",
-      "prev_rank": 62,
-      "curr_rank": 52,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 89,
-      "curr_rank": 79,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 92,
-      "curr_rank": 82,
+      "country": "BR",
+      "name": "ToonApp: Gerador de Imagem IA",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 63,
+      "curr_rank": 53,
       "delta": 10
     }
   ],
   "by_country": {
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 93,
-        "curr_rank": 74,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 98,
-        "curr_rank": 84,
-        "delta": 14
-      },
-      {
-        "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 90,
-        "curr_rank": 78,
-        "delta": 12
-      }
-    ],
     "FR": [
-      {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 68,
-        "curr_rank": 50,
-        "delta": 18
-      },
       {
         "country": "FR",
         "name": "Hype AI – AI Photo & Vidéo",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 92,
-        "curr_rank": 77,
-        "delta": 15
+        "curr_rank": 70,
+        "delta": 22
+      },
+      {
+        "country": "FR",
+        "name": "Facelab: Retouche Visage・Corps",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 68,
+        "curr_rank": 47,
+        "delta": 21
       },
       {
         "country": "FR",
@@ -258,24 +232,16 @@
         "name": "Retake IA: Éditeur de photos",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 67,
-        "curr_rank": 55,
-        "delta": 12
+        "curr_rank": 54,
+        "delta": 13
       },
       {
         "country": "FR",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
         "prev_rank": 48,
-        "curr_rank": 38,
-        "delta": 10
-      },
-      {
-        "country": "FR",
-        "name": "Pixi AI: Photo Magie&Vidéo IA",
-        "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-        "prev_rank": 91,
-        "curr_rank": 81,
-        "delta": 10
+        "curr_rank": 36,
+        "delta": 12
       },
       {
         "country": "FR",
@@ -286,48 +252,22 @@
         "delta": 10
       }
     ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 78,
-        "curr_rank": 61,
-        "delta": 17
-      },
-      {
-        "country": "DE",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 92,
-        "curr_rank": 82,
-        "delta": 10
-      }
-    ],
     "ID": [
-      {
-        "country": "ID",
-        "name": "AI Dance Video Maker: Geno",
-        "developer": "AIFreeFlow",
-        "prev_rank": 71,
-        "curr_rank": 54,
-        "delta": 17
-      },
       {
         "country": "ID",
         "name": "Facelab: Face & Body Editor",
         "developer": "IRONTECH LIMITED",
         "prev_rank": 82,
-        "curr_rank": 67,
-        "delta": 15
+        "curr_rank": 61,
+        "delta": 21
       },
       {
         "country": "ID",
         "name": "VidCraft - Photo to Video AI",
         "developer": "Mian saboor hussain Ali",
         "prev_rank": 94,
-        "curr_rank": 79,
-        "delta": 15
+        "curr_rank": 78,
+        "delta": 16
       },
       {
         "country": "ID",
@@ -338,48 +278,134 @@
         "delta": 13
       }
     ],
-    "US": [
+    "DE": [
       {
-        "country": "US",
-        "name": "AI Face Maker & Dance Video",
-        "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
-        "prev_rank": 71,
-        "curr_rank": 57,
-        "delta": 14
+        "country": "DE",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "CoNext Limited",
+        "prev_rank": 78,
+        "curr_rank": 59,
+        "delta": 19
       },
       {
-        "country": "US",
-        "name": "FlashCam: AI Photo&Filter",
-        "developer": "建华 董",
-        "prev_rank": 54,
-        "curr_rank": 44,
+        "country": "DE",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 92,
+        "curr_rank": 80,
+        "delta": 12
+      },
+      {
+        "country": "DE",
+        "name": "Toonapp KI Foto Bild Generator",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 80,
+        "curr_rank": 69,
+        "delta": 11
+      },
+      {
+        "country": "DE",
+        "name": "Facelab・Gesicht, Körper, Haare",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 45,
+        "curr_rank": 35,
+        "delta": 10
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "CoNext Limited",
+        "prev_rank": 93,
+        "curr_rank": 76,
+        "delta": 17
+      },
+      {
+        "country": "GB",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 48,
+        "curr_rank": 38,
+        "delta": 10
+      },
+      {
+        "country": "GB",
+        "name": "FaceLab: Aging, Haircut Filter",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 90,
+        "curr_rank": 80,
         "delta": 10
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "Pixo AI: AI Video Generator",
-        "developer": "Hypernova Limited",
-        "prev_rank": 48,
-        "curr_rank": 34,
-        "delta": 14
-      },
-      {
-        "country": "IN",
         "name": "AIPhoto: Image Video Generator",
         "developer": "Le Anh Tuan",
         "prev_rank": 60,
-        "curr_rank": 46,
-        "delta": 14
+        "curr_rank": 45,
+        "delta": 15
+      },
+      {
+        "country": "IN",
+        "name": "Pixo AI: AI Video Generator",
+        "developer": "Hypernova Limited",
+        "prev_rank": 48,
+        "curr_rank": 35,
+        "delta": 13
+      },
+      {
+        "country": "IN",
+        "name": "Photogenik: Pose & Photo Coach",
+        "developer": "Photogenik Inc.",
+        "prev_rank": 88,
+        "curr_rank": 75,
+        "delta": 13
       },
       {
         "country": "IN",
         "name": "Scalio - AI Videos & Photos",
         "developer": "Scalio Technology Private Limited",
         "prev_rank": 62,
-        "curr_rank": 52,
-        "delta": 10
+        "curr_rank": 50,
+        "delta": 12
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 75,
+        "curr_rank": 62,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 92,
+        "curr_rank": 79,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 97,
+        "curr_rank": 86,
+        "delta": 11
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Face Maker & Dance Video",
+        "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+        "prev_rank": 71,
+        "curr_rank": 59,
+        "delta": 12
       }
     ],
     "BR": [
@@ -388,35 +414,7 @@
         "name": "ToonApp: Gerador de Imagem IA",
         "developer": "Lyrebird Studio",
         "prev_rank": 63,
-        "curr_rank": 52,
-        "delta": 11
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 89,
-        "curr_rank": 79,
-        "delta": 10
-      },
-      {
-        "country": "AU",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 92,
-        "curr_rank": 82,
+        "curr_rank": 53,
         "delta": 10
       }
     ]
@@ -425,22 +423,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Zoombo: Nano AI Studio leads with +19 jump in GB"
+      "text": "Hype AI – AI Photo & Vidéo leads with +22 jump in FR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "FR has 7 rising apps - highest activity today"
+      "text": "FR has 6 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "FaceLab apps trending with 3 variants rising"
+      "text": "FaceLab apps trending with 4 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Zoombo: Nano AI Studio rising in 3 markets: GB, DE, FR"
+      "text": "Zoombo: Nano AI Studio rising in 3 markets: DE, GB, FR"
     }
   ],
   "meta": {
