@@ -1,131 +1,115 @@
 {
   "rising": [
     {
+      "country": "JP",
+      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+      "developer": "SNOW Corporation",
+      "prev_rank": 67,
+      "curr_rank": 40,
+      "delta": 27
+    },
+    {
       "country": "GB",
       "name": "Toonapp: AI Photo & Video Art",
       "developer": "Lyrebird Studio",
       "prev_rank": 79,
-      "curr_rank": 53,
-      "delta": 26
+      "curr_rank": 57,
+      "delta": 22
     },
     {
       "country": "IN",
       "name": "Kriya AI - Video Maker",
       "developer": "KATHANIKA ENTERTAINMENTS PRIVATE LIMITED",
       "prev_rank": 89,
-      "curr_rank": 64,
-      "delta": 25
-    },
-    {
-      "country": "FR",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 94,
-      "curr_rank": 74,
-      "delta": 20
-    },
-    {
-      "country": "FR",
-      "name": "FaceLab Cheveux, Filtre Visage",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 96,
-      "curr_rank": 76,
-      "delta": 20
+      "curr_rank": 68,
+      "delta": 21
     },
     {
       "country": "GB",
       "name": "FaceLab: Aging, Haircut Filter",
       "developer": "Lyrebird Studio",
       "prev_rank": 80,
-      "curr_rank": 61,
-      "delta": 19
-    },
-    {
-      "country": "FR",
-      "name": "Pixi AI: Photo Magie&Vidéo IA",
-      "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-      "prev_rank": 85,
-      "curr_rank": 68,
-      "delta": 17
+      "curr_rank": 62,
+      "delta": 18
     },
     {
       "country": "DE",
       "name": "Toonapp KI Foto Bild Generator",
       "developer": "Lyrebird Studio",
       "prev_rank": 69,
-      "curr_rank": 53,
-      "delta": 16
-    },
-    {
-      "country": "ID",
-      "name": "AI Dance Video Maker: Geno",
-      "developer": "AIFreeFlow",
-      "prev_rank": 66,
-      "curr_rank": 50,
-      "delta": 16
+      "curr_rank": 52,
+      "delta": 17
     },
     {
       "country": "FR",
-      "name": "ToonApp: Vidéo IA, Photo Anime",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 88,
-      "curr_rank": 73,
-      "delta": 15
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 94,
+      "curr_rank": 78,
+      "delta": 16
     },
     {
       "country": "US",
       "name": "AI Face Maker & Dance Video",
       "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
       "prev_rank": 59,
-      "curr_rank": 45,
-      "delta": 14
+      "curr_rank": 44,
+      "delta": 15
     },
     {
-      "country": "JP",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "prev_rank": 67,
-      "curr_rank": 53,
-      "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 76,
-      "curr_rank": 64,
-      "delta": 12
-    },
-    {
-      "country": "IN",
-      "name": "AIPhoto: Image Video Generator",
-      "developer": "Le Anh Tuan",
-      "prev_rank": 45,
-      "curr_rank": 33,
-      "delta": 12
+      "country": "FR",
+      "name": "Pixi AI: Photo Magie&Vidéo IA",
+      "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
+      "prev_rank": 85,
+      "curr_rank": 70,
+      "delta": 15
     },
     {
       "country": "DE",
       "name": "Zoombo: Nano AI Studio",
       "developer": "CoNext Limited",
       "prev_rank": 59,
-      "curr_rank": 48,
+      "curr_rank": 46,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "ToonApp: Vidéo IA, Photo Anime",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 88,
+      "curr_rank": 76,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "FaceLab Cheveux, Filtre Visage",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 96,
+      "curr_rank": 85,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 67,
+      "curr_rank": 56,
       "delta": 11
     },
     {
       "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 76,
-      "curr_rank": 65,
+      "name": "AI Dance Video Maker: Geno",
+      "developer": "AIFreeFlow",
+      "prev_rank": 66,
+      "curr_rank": 55,
       "delta": 11
     },
     {
       "country": "AU",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 55,
-      "curr_rank": 44,
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 57,
+      "curr_rank": 46,
       "delta": 11
     },
     {
@@ -138,38 +122,40 @@
     },
     {
       "country": "AU",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 57,
-      "curr_rank": 47,
+      "name": "ReelMe AI: Daily Photo & Trend",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 84,
+      "curr_rank": 74,
       "delta": 10
     }
   ],
   "by_country": {
+    "JP": [
+      {
+        "country": "JP",
+        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+        "developer": "SNOW Corporation",
+        "prev_rank": 67,
+        "curr_rank": 40,
+        "delta": 27
+      }
+    ],
     "GB": [
       {
         "country": "GB",
         "name": "Toonapp: AI Photo & Video Art",
         "developer": "Lyrebird Studio",
         "prev_rank": 79,
-        "curr_rank": 53,
-        "delta": 26
+        "curr_rank": 57,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "FaceLab: Aging, Haircut Filter",
         "developer": "Lyrebird Studio",
         "prev_rank": 80,
-        "curr_rank": 61,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 76,
-        "curr_rank": 64,
-        "delta": 12
+        "curr_rank": 62,
+        "delta": 18
       }
     ],
     "IN": [
@@ -178,50 +164,8 @@
         "name": "Kriya AI - Video Maker",
         "developer": "KATHANIKA ENTERTAINMENTS PRIVATE LIMITED",
         "prev_rank": 89,
-        "curr_rank": 64,
-        "delta": 25
-      },
-      {
-        "country": "IN",
-        "name": "AIPhoto: Image Video Generator",
-        "developer": "Le Anh Tuan",
-        "prev_rank": 45,
-        "curr_rank": 33,
-        "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 94,
-        "curr_rank": 74,
-        "delta": 20
-      },
-      {
-        "country": "FR",
-        "name": "FaceLab Cheveux, Filtre Visage",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 96,
-        "curr_rank": 76,
-        "delta": 20
-      },
-      {
-        "country": "FR",
-        "name": "Pixi AI: Photo Magie&Vidéo IA",
-        "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
-        "prev_rank": 85,
         "curr_rank": 68,
-        "delta": 17
-      },
-      {
-        "country": "FR",
-        "name": "ToonApp: Vidéo IA, Photo Anime",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 88,
-        "curr_rank": 73,
-        "delta": 15
+        "delta": 21
       }
     ],
     "DE": [
@@ -230,33 +174,49 @@
         "name": "Toonapp KI Foto Bild Generator",
         "developer": "Lyrebird Studio",
         "prev_rank": 69,
-        "curr_rank": 53,
-        "delta": 16
+        "curr_rank": 52,
+        "delta": 17
       },
       {
         "country": "DE",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
         "prev_rank": 59,
-        "curr_rank": 48,
-        "delta": 11
+        "curr_rank": 46,
+        "delta": 13
       }
     ],
-    "ID": [
+    "FR": [
       {
-        "country": "ID",
-        "name": "AI Dance Video Maker: Geno",
-        "developer": "AIFreeFlow",
-        "prev_rank": 66,
-        "curr_rank": 50,
+        "country": "FR",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 94,
+        "curr_rank": 78,
         "delta": 16
       },
       {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 76,
-        "curr_rank": 65,
+        "country": "FR",
+        "name": "Pixi AI: Photo Magie&Vidéo IA",
+        "developer": "INSTANOVA INNOVATION TECHNOLOGY LIMITED",
+        "prev_rank": 85,
+        "curr_rank": 70,
+        "delta": 15
+      },
+      {
+        "country": "FR",
+        "name": "ToonApp: Vidéo IA, Photo Anime",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 88,
+        "curr_rank": 76,
+        "delta": 12
+      },
+      {
+        "country": "FR",
+        "name": "FaceLab Cheveux, Filtre Visage",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 96,
+        "curr_rank": 85,
         "delta": 11
       }
     ],
@@ -266,8 +226,8 @@
         "name": "AI Face Maker & Dance Video",
         "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
         "prev_rank": 59,
-        "curr_rank": 45,
-        "delta": 14
+        "curr_rank": 44,
+        "delta": 15
       },
       {
         "country": "US",
@@ -278,31 +238,41 @@
         "delta": 10
       }
     ],
-    "JP": [
+    "KR": [
       {
-        "country": "JP",
-        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+        "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 67,
-        "curr_rank": 53,
-        "delta": 14
+        "curr_rank": 56,
+        "delta": 11
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "AI Dance Video Maker: Geno",
+        "developer": "AIFreeFlow",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
       }
     ],
     "AU": [
       {
         "country": "AU",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 55,
-        "curr_rank": 44,
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 57,
+        "curr_rank": 46,
         "delta": 11
       },
       {
         "country": "AU",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 57,
-        "curr_rank": 47,
+        "name": "ReelMe AI: Daily Photo & Trend",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 84,
+        "curr_rank": 74,
         "delta": 10
       }
     ]
@@ -311,7 +281,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Toonapp: AI Photo & Video Art leads with +26 jump in GB"
+      "text": "SODA（ソーダ）-AIビューティー&診断カメラ leads with +27 jump in JP"
     },
     {
       "type": "market",
@@ -322,11 +292,6 @@
       "type": "app-note",
       "icon": "📱",
       "text": "FaceLab apps trending with 2 variants rising"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Zoombo: Nano AI Studio rising in 3 markets: GB, DE, AU"
     }
   ],
   "meta": {
