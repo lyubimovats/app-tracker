@@ -10,91 +10,91 @@
     },
     {
       "country": "IN",
-      "name": "Animator - AI photo dance",
-      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-      "prev_rank": 96,
-      "curr_rank": 72,
-      "delta": 24
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 74,
+      "curr_rank": 46,
+      "delta": 28
     },
     {
       "country": "GB",
       "name": "Glam AI: Video & Photo Editor",
       "developer": "Glam Labs, Inc.",
       "prev_rank": 92,
-      "curr_rank": 69,
-      "delta": 23
+      "curr_rank": 65,
+      "delta": 27
     },
     {
       "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 67,
-      "curr_rank": 45,
-      "delta": 22
+      "curr_rank": 42,
+      "delta": 25
+    },
+    {
+      "country": "IN",
+      "name": "Animator - AI photo dance",
+      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+      "prev_rank": 96,
+      "curr_rank": 76,
+      "delta": 20
     },
     {
       "country": "FR",
       "name": "Meitu AI Photo & Video Editor",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 89,
-      "curr_rank": 67,
-      "delta": 22
-    },
-    {
-      "country": "IN",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 74,
-      "curr_rank": 53,
-      "delta": 21
+      "curr_rank": 71,
+      "delta": 18
     },
     {
       "country": "IN",
       "name": "AirPlay Cast",
       "developer": "Taro Aso",
       "prev_rank": 93,
-      "curr_rank": 76,
-      "delta": 17
+      "curr_rank": 75,
+      "delta": 18
     },
     {
       "country": "AU",
-      "name": "FaceLab: Time Machine, Hair AI",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 76,
-      "curr_rank": 60,
+      "name": "eCalendar - Daily Planner",
+      "developer": "Shenzhen Fujia Technology Co., Ltd.",
+      "prev_rank": 58,
+      "curr_rank": 42,
       "delta": 16
-    },
-    {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 89,
-      "curr_rank": 75,
-      "delta": 14
     },
     {
       "country": "US",
       "name": "AI Catch: AI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 89,
-      "curr_rank": 76,
-      "delta": 13
+      "curr_rank": 74,
+      "delta": 15
     },
     {
       "country": "AU",
       "name": "Dance AI: AI Dance Video Maker",
       "developer": "DeePix AI",
       "prev_rank": 89,
-      "curr_rank": 76,
-      "delta": 13
+      "curr_rank": 74,
+      "delta": 15
     },
     {
-      "country": "DE",
-      "name": "Mosaik&Gesicht verpixeln/blur",
-      "developer": "Yu Abe",
-      "prev_rank": 31,
-      "curr_rank": 19,
-      "delta": 12
+      "country": "AU",
+      "name": "FaceLab: Time Machine, Hair AI",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 76,
+      "curr_rank": 62,
+      "delta": 14
+    },
+    {
+      "country": "BR",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 89,
+      "curr_rank": 76,
+      "delta": 13
     },
     {
       "country": "FR",
@@ -114,26 +114,42 @@
     },
     {
       "country": "GB",
-      "name": "Peachy - AI Face & Body Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 88,
-      "curr_rank": 77,
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 99,
+      "curr_rank": 88,
       "delta": 11
     },
     {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 79,
-      "curr_rank": 68,
+      "country": "FR",
+      "name": "Lumy AI - Photo Editor",
+      "developer": "Ocean Float Mobile",
+      "prev_rank": 51,
+      "curr_rank": 40,
       "delta": 11
     },
     {
+      "country": "GB",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 69,
+      "curr_rank": 59,
+      "delta": 10
+    },
+    {
       "country": "DE",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 76,
-      "curr_rank": 66,
+      "name": "Glam KI, AI Bilder Bearbeiten",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 77,
+      "curr_rank": 67,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "DeeVid - AI 영상 생성기",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 93,
+      "curr_rank": 83,
       "delta": 10
     },
     {
@@ -160,34 +176,34 @@
         "name": "Tezza: Aesthetic Photo Editor",
         "developer": "Tezza App LLC",
         "prev_rank": 89,
-        "curr_rank": 75,
-        "delta": 14
+        "curr_rank": 76,
+        "delta": 13
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "Animator - AI photo dance",
-        "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-        "prev_rank": 96,
-        "curr_rank": 72,
-        "delta": 24
-      },
-      {
-        "country": "IN",
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 74,
-        "curr_rank": 53,
-        "delta": 21
+        "curr_rank": 46,
+        "delta": 28
+      },
+      {
+        "country": "IN",
+        "name": "Animator - AI photo dance",
+        "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+        "prev_rank": 96,
+        "curr_rank": 76,
+        "delta": 20
       },
       {
         "country": "IN",
         "name": "AirPlay Cast",
         "developer": "Taro Aso",
         "prev_rank": 93,
-        "curr_rank": 76,
-        "delta": 17
+        "curr_rank": 75,
+        "delta": 18
       }
     ],
     "GB": [
@@ -196,24 +212,32 @@
         "name": "Glam AI: Video & Photo Editor",
         "developer": "Glam Labs, Inc.",
         "prev_rank": 92,
-        "curr_rank": 69,
-        "delta": 23
+        "curr_rank": 65,
+        "delta": 27
       },
       {
         "country": "GB",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 67,
-        "curr_rank": 45,
-        "delta": 22
+        "curr_rank": 42,
+        "delta": 25
       },
       {
         "country": "GB",
-        "name": "Peachy - AI Face & Body Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 88,
-        "curr_rank": 77,
+        "name": "AI Video Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 99,
+        "curr_rank": 88,
         "delta": 11
+      },
+      {
+        "country": "GB",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "CoNext Limited",
+        "prev_rank": 69,
+        "curr_rank": 59,
+        "delta": 10
       }
     ],
     "FR": [
@@ -222,8 +246,8 @@
         "name": "Meitu AI Photo & Video Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 89,
-        "curr_rank": 67,
-        "delta": 22
+        "curr_rank": 71,
+        "delta": 18
       },
       {
         "country": "FR",
@@ -232,15 +256,23 @@
         "prev_rank": 77,
         "curr_rank": 65,
         "delta": 12
+      },
+      {
+        "country": "FR",
+        "name": "Lumy AI - Photo Editor",
+        "developer": "Ocean Float Mobile",
+        "prev_rank": 51,
+        "curr_rank": 40,
+        "delta": 11
       }
     ],
     "AU": [
       {
         "country": "AU",
-        "name": "FaceLab: Time Machine, Hair AI",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 76,
-        "curr_rank": 60,
+        "name": "eCalendar - Daily Planner",
+        "developer": "Shenzhen Fujia Technology Co., Ltd.",
+        "prev_rank": 58,
+        "curr_rank": 42,
         "delta": 16
       },
       {
@@ -248,8 +280,16 @@
         "name": "Dance AI: AI Dance Video Maker",
         "developer": "DeePix AI",
         "prev_rank": 89,
-        "curr_rank": 76,
-        "delta": 13
+        "curr_rank": 74,
+        "delta": 15
+      },
+      {
+        "country": "AU",
+        "name": "FaceLab: Time Machine, Hair AI",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 76,
+        "curr_rank": 62,
+        "delta": 14
       },
       {
         "country": "AU",
@@ -266,34 +306,8 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 89,
-        "curr_rank": 76,
-        "delta": 13
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Mosaik&Gesicht verpixeln/blur",
-        "developer": "Yu Abe",
-        "prev_rank": 31,
-        "curr_rank": 19,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
-      },
-      {
-        "country": "DE",
-        "name": "Meitu AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 76,
-        "curr_rank": 66,
-        "delta": 10
+        "curr_rank": 74,
+        "delta": 15
       }
     ],
     "KR": [
@@ -304,6 +318,24 @@
         "prev_rank": 59,
         "curr_rank": 47,
         "delta": 12
+      },
+      {
+        "country": "KR",
+        "name": "DeeVid - AI 영상 생성기",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 93,
+        "curr_rank": 83,
+        "delta": 10
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Glam KI, AI Bilder Bearbeiten",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 77,
+        "curr_rank": 67,
+        "delta": 10
       }
     ]
   },
@@ -316,12 +348,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "IN has 3 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Meitu AI Photo & Video Editor rising in 2 markets: FR, DE"
+      "text": "GB has 4 rising apps - highest activity today"
     }
   ],
   "meta": {
