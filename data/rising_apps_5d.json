@@ -1,481 +1,435 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 87,
-      "curr_rank": 35,
-      "delta": 52
+      "country": "IN",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 66,
+      "curr_rank": 16,
+      "delta": 50
     },
     {
-      "country": "AU",
+      "country": "DE",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 79,
+      "curr_rank": 42,
+      "delta": 37
+    },
+    {
+      "country": "GB",
       "name": "Zoombo: Nano AI Studio",
       "developer": "CoNext Limited",
-      "prev_rank": 82,
-      "curr_rank": 40,
-      "delta": 42
+      "prev_rank": 93,
+      "curr_rank": 61,
+      "delta": 32
     },
     {
       "country": "US",
       "name": "AI Face Maker & Dance Video",
       "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
-      "prev_rank": 73,
-      "curr_rank": 38,
-      "delta": 35
-    },
-    {
-      "country": "ID",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 99,
-      "curr_rank": 65,
-      "delta": 34
-    },
-    {
-      "country": "IN",
-      "name": "Scalio - AI Videos & Photos",
-      "developer": "Scalio Technology Private Limited",
-      "prev_rank": 80,
-      "curr_rank": 49,
-      "delta": 31
-    },
-    {
-      "country": "AU",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 75,
-      "curr_rank": 44,
-      "delta": 31
+      "prev_rank": 71,
+      "curr_rank": 41,
+      "delta": 30
     },
     {
       "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 66,
-      "curr_rank": 37,
-      "delta": 29
+      "prev_rank": 71,
+      "curr_rank": 43,
+      "delta": 28
+    },
+    {
+      "country": "ID",
+      "name": "VidCraft - Photo to Video AI",
+      "developer": "Mian saboor hussain Ali",
+      "prev_rank": 94,
+      "curr_rank": 66,
+      "delta": 28
+    },
+    {
+      "country": "AU",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 47,
+      "curr_rank": 19,
+      "delta": 28
+    },
+    {
+      "country": "DE",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 78,
+      "curr_rank": 55,
+      "delta": 23
     },
     {
       "country": "BR",
       "name": "Blow Up AI: Viralize",
       "developer": "Mountains Studio LLC",
-      "prev_rank": 54,
-      "curr_rank": 25,
-      "delta": 29
+      "prev_rank": 50,
+      "curr_rank": 27,
+      "delta": 23
     },
     {
-      "country": "FR",
-      "name": "Hype AI – AI Photo & Vidéo",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "country": "BR",
+      "name": "AI Catch: IA Vídeo Gerador",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 76,
+      "curr_rank": 53,
+      "delta": 23
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 99,
-      "curr_rank": 73,
-      "delta": 26
+      "curr_rank": 77,
+      "delta": 22
     },
     {
-      "country": "FR",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 54,
-      "curr_rank": 30,
-      "delta": 24
+      "country": "GB",
+      "name": "FaceLab: Aging, Haircut Filter",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 90,
+      "curr_rank": 69,
+      "delta": 21
+    },
+    {
+      "country": "BR",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 83,
+      "curr_rank": 63,
+      "delta": 20
+    },
+    {
+      "country": "AU",
+      "name": "eCalendar - Daily Planner",
+      "developer": "Shenzhen Fujia Technology Co., Ltd.",
+      "prev_rank": 65,
+      "curr_rank": 45,
+      "delta": 20
+    },
+    {
+      "country": "GB",
+      "name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 45,
+      "curr_rank": 26,
+      "delta": 19
+    },
+    {
+      "country": "BR",
+      "name": "ToonApp: Gerador de Imagem IA",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 63,
+      "curr_rank": 44,
+      "delta": 19
+    },
+    {
+      "country": "ID",
+      "name": "Facelab: Face & Body Editor",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 82,
+      "curr_rank": 63,
+      "delta": 19
     },
     {
       "country": "JP",
       "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
       "developer": "SNOW Corporation",
       "prev_rank": 68,
-      "curr_rank": 44,
-      "delta": 24
-    },
-    {
-      "country": "DE",
-      "name": "Toonapp KI Foto Bild Generator",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 90,
-      "curr_rank": 68,
-      "delta": 22
-    },
-    {
-      "country": "KR",
-      "name": "B612 Camera&Photo/Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 68,
-      "curr_rank": 47,
-      "delta": 21
-    },
-    {
-      "country": "US",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 94,
-      "curr_rank": 74,
-      "delta": 20
-    },
-    {
-      "country": "GB",
-      "name": "Hype AI - AI Photo & Video",
-      "developer": "POLYVERSE ENTERTAINMENT INC.",
-      "prev_rank": 98,
-      "curr_rank": 78,
-      "delta": 20
-    },
-    {
-      "country": "KR",
-      "name": "Adobe Premiere AI 비디오 에디터",
-      "developer": "Adobe Inc.",
-      "prev_rank": 91,
-      "curr_rank": 71,
-      "delta": 20
-    },
-    {
-      "country": "FR",
-      "name": "Facelab: Retouche Visage・Corps",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 69,
-      "curr_rank": 50,
-      "delta": 19
-    },
-    {
-      "country": "KR",
-      "name": "Hypic - Photo Editor & AI Art",
-      "developer": "Bytedance Pte. Ltd",
-      "prev_rank": 62,
-      "curr_rank": 43,
-      "delta": 19
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 83,
-      "curr_rank": 64,
-      "delta": 19
-    },
-    {
-      "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 93,
-      "curr_rank": 75,
-      "delta": 18
-    },
-    {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 75,
-      "curr_rank": 58,
+      "curr_rank": 51,
       "delta": 17
     },
     {
       "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 88,
-      "curr_rank": 72,
-      "delta": 16
-    },
-    {
-      "country": "ID",
-      "name": "VidCraft - Photo to Video AI",
-      "developer": "Mian saboor hussain Ali",
-      "prev_rank": 93,
+      "name": "타입캐스트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 94,
       "curr_rank": 77,
-      "delta": 16
+      "delta": 17
     },
     {
-      "country": "US",
-      "name": "Glowify - AI Hairstyle Try On",
-      "developer": "Flarial Interactive",
-      "prev_rank": 66,
-      "curr_rank": 51,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 60,
-      "curr_rank": 45,
-      "delta": 15
-    },
-    {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 84,
-      "curr_rank": 69,
-      "delta": 15
-    },
-    {
-      "country": "US",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 53,
-      "curr_rank": 39,
-      "delta": 14
-    },
-    {
-      "country": "KR",
-      "name": "DeeVid - AI 영상 생성기",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 81,
-      "curr_rank": 67,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 40,
-      "curr_rank": 26,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
+      "country": "DE",
+      "name": "Facetune: KI Foto Video Editor",
+      "developer": "Lightricks Ltd.",
       "prev_rank": 61,
-      "curr_rank": 47,
-      "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 42,
-      "curr_rank": 29,
-      "delta": 13
-    },
-    {
-      "country": "BR",
-      "name": "ToonApp: Gerador de Imagem IA",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 60,
-      "curr_rank": 47,
-      "delta": 13
+      "curr_rank": 45,
+      "delta": 16
     },
     {
       "country": "JP",
       "name": "PowerDirector - AI動画編集アプリ",
       "developer": "CyberLink",
-      "prev_rank": 95,
-      "curr_rank": 82,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 39,
-      "curr_rank": 27,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 71,
-      "curr_rank": 59,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "FaceApp: Editor facial ideal",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 34,
-      "curr_rank": 22,
-      "delta": 12
+      "prev_rank": 97,
+      "curr_rank": 81,
+      "delta": 16
     },
     {
       "country": "JP",
-      "name": "SNOW スノー - AIプロフィール",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 79,
+      "curr_rank": 64,
+      "delta": 15
+    },
+    {
+      "country": "KR",
+      "name": "DeeVid - AI 영상 생성기",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 79,
+      "curr_rank": 64,
+      "delta": 15
+    },
+    {
+      "country": "IN",
+      "name": "Winkit - AI Video Enhancer",
+      "developer": "Starii Tech Pty Ltd",
+      "prev_rank": 80,
+      "curr_rank": 65,
+      "delta": 15
+    },
+    {
+      "country": "DE",
+      "name": "Airbrush - Fotobearbeitung",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 54,
+      "curr_rank": 40,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "Hype AI – AI Photo & Vidéo",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 92,
+      "curr_rank": 78,
+      "delta": 14
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
       "developer": "SNOW Corporation",
-      "prev_rank": 34,
-      "curr_rank": 22,
-      "delta": 12
+      "prev_rank": 69,
+      "curr_rank": 55,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "prev_rank": 65,
+      "curr_rank": 52,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "Facelab: Retouche Visage・Corps",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 68,
+      "curr_rank": 55,
+      "delta": 13
     },
     {
       "country": "KR",
       "name": "Muse: 릴스 동영상 편집 & AI",
       "developer": "Bigrowth",
-      "prev_rank": 70,
-      "curr_rank": 58,
+      "prev_rank": 66,
+      "curr_rank": 53,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 39,
+      "curr_rank": 27,
       "delta": 12
-    },
-    {
-      "country": "IN",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 74,
-      "curr_rank": 62,
-      "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "FlashCam: AI Photo&Filter",
-      "developer": "建华 董",
-      "prev_rank": 63,
-      "curr_rank": 52,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "EPIK - AI Photo & Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 77,
-      "curr_rank": 66,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Facelab・Gesicht, Körper, Haare",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 47,
-      "curr_rank": 36,
-      "delta": 11
     },
     {
       "country": "FR",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "name": "AI Mirror: Éditeur de visage",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 99,
+      "curr_rank": 88,
+      "delta": 11
+    },
+    {
+      "country": "JP",
+      "name": "YouCam Video : AI動画加工・動画編集アプリ",
+      "developer": "PERFECT MOBILE CORP.",
       "prev_rank": 85,
       "curr_rank": 74,
       "delta": 11
     },
     {
-      "country": "IN",
-      "name": "AI Video Generator - HeyGen",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 96,
-      "curr_rank": 85,
+      "country": "ID",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 67,
+      "curr_rank": 56,
       "delta": 11
     },
     {
       "country": "AU",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 90,
-      "curr_rank": 79,
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 41,
+      "curr_rank": 30,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Dance AI: AI Dance Video Maker",
+      "developer": "DeePix AI",
+      "prev_rank": 97,
+      "curr_rank": 86,
       "delta": 11
     },
     {
       "country": "DE",
-      "name": "FaceApp: Gesichtsbearbeitung",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 30,
-      "curr_rank": 20,
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 37,
+      "curr_rank": 27,
       "delta": 10
     },
     {
-      "country": "ID",
-      "name": "AI Dance Video Maker: Geno",
-      "developer": "AIFreeFlow",
-      "prev_rank": 68,
-      "curr_rank": 58,
+      "country": "DE",
+      "name": "Facelab・Gesicht, Körper, Haare",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 45,
+      "curr_rank": 35,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "Scalio - AI Videos & Photos",
+      "developer": "Scalio Technology Private Limited",
+      "prev_rank": 62,
+      "curr_rank": 52,
       "delta": 10
     }
   ],
   "by_country": {
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 66,
+        "curr_rank": 16,
+        "delta": 50
+      },
+      {
+        "country": "IN",
+        "name": "Winkit - AI Video Enhancer",
+        "developer": "Starii Tech Pty Ltd",
+        "prev_rank": 80,
+        "curr_rank": 65,
+        "delta": 15
+      },
+      {
+        "country": "IN",
+        "name": "Scalio - AI Videos & Photos",
+        "developer": "Scalio Technology Private Limited",
+        "prev_rank": 62,
+        "curr_rank": 52,
+        "delta": 10
+      }
+    ],
     "DE": [
+      {
+        "country": "DE",
+        "name": "Meitu AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 79,
+        "curr_rank": 42,
+        "delta": 37
+      },
       {
         "country": "DE",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
-        "prev_rank": 87,
-        "curr_rank": 35,
-        "delta": 52
+        "prev_rank": 78,
+        "curr_rank": 55,
+        "delta": 23
       },
       {
         "country": "DE",
-        "name": "Toonapp KI Foto Bild Generator",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 90,
-        "curr_rank": 68,
-        "delta": 22
+        "name": "Facetune: KI Foto Video Editor",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 61,
+        "curr_rank": 45,
+        "delta": 16
+      },
+      {
+        "country": "DE",
+        "name": "Airbrush - Fotobearbeitung",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 54,
+        "curr_rank": 40,
+        "delta": 14
       },
       {
         "country": "DE",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 39,
+        "prev_rank": 37,
         "curr_rank": 27,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 71,
-        "curr_rank": 59,
-        "delta": 12
+        "delta": 10
       },
       {
         "country": "DE",
         "name": "Facelab・Gesicht, Körper, Haare",
         "developer": "IRONTECH LIMITED",
-        "prev_rank": 47,
-        "curr_rank": 36,
-        "delta": 11
-      },
-      {
-        "country": "DE",
-        "name": "FaceApp: Gesichtsbearbeitung",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 30,
-        "curr_rank": 20,
+        "prev_rank": 45,
+        "curr_rank": 35,
         "delta": 10
       }
     ],
-    "AU": [
+    "GB": [
       {
-        "country": "AU",
+        "country": "GB",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
-        "prev_rank": 82,
-        "curr_rank": 40,
-        "delta": 42
+        "prev_rank": 93,
+        "curr_rank": 61,
+        "delta": 32
       },
       {
-        "country": "AU",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 75,
-        "curr_rank": 44,
-        "delta": 31
+        "country": "GB",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 71,
+        "curr_rank": 43,
+        "delta": 28
       },
       {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 83,
-        "curr_rank": 64,
+        "country": "GB",
+        "name": "FaceLab: Aging, Haircut Filter",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 90,
+        "curr_rank": 69,
+        "delta": 21
+      },
+      {
+        "country": "GB",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 45,
+        "curr_rank": 26,
         "delta": 19
       },
       {
-        "country": "AU",
-        "name": "Retake AI Face & Selfie Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 40,
-        "curr_rank": 26,
-        "delta": 14
-      },
-      {
-        "country": "AU",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 61,
-        "curr_rank": 47,
-        "delta": 14
-      },
-      {
-        "country": "AU",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 90,
-        "curr_rank": 79,
-        "delta": 11
+        "country": "GB",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 39,
+        "curr_rank": 27,
+        "delta": 12
       }
     ],
     "US": [
@@ -483,143 +437,85 @@
         "country": "US",
         "name": "AI Face Maker & Dance Video",
         "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
-        "prev_rank": 73,
-        "curr_rank": 38,
-        "delta": 35
+        "prev_rank": 71,
+        "curr_rank": 41,
+        "delta": 30
       },
       {
         "country": "US",
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 94,
-        "curr_rank": 74,
-        "delta": 20
+        "prev_rank": 99,
+        "curr_rank": 77,
+        "delta": 22
       },
       {
         "country": "US",
-        "name": "Glowify - AI Hairstyle Try On",
-        "developer": "Flarial Interactive",
-        "prev_rank": 66,
-        "curr_rank": 51,
-        "delta": 15
-      },
-      {
-        "country": "US",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 53,
-        "curr_rank": 39,
-        "delta": 14
-      },
-      {
-        "country": "US",
-        "name": "FlashCam: AI Photo&Filter",
-        "developer": "建华 董",
-        "prev_rank": 63,
+        "name": "Aura Frames",
+        "developer": "Aura Home, Inc.",
+        "prev_rank": 65,
         "curr_rank": 52,
-        "delta": 11
-      },
-      {
-        "country": "US",
-        "name": "EPIK - AI Photo & Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 77,
-        "curr_rank": 66,
-        "delta": 11
+        "delta": 13
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 99,
-        "curr_rank": 65,
-        "delta": 34
-      },
-      {
-        "country": "ID",
         "name": "VidCraft - Photo to Video AI",
         "developer": "Mian saboor hussain Ali",
-        "prev_rank": 93,
-        "curr_rank": 77,
-        "delta": 16
+        "prev_rank": 94,
+        "curr_rank": 66,
+        "delta": 28
       },
       {
         "country": "ID",
-        "name": "AI Dance Video Maker: Geno",
-        "developer": "AIFreeFlow",
-        "prev_rank": 68,
-        "curr_rank": 58,
-        "delta": 10
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Scalio - AI Videos & Photos",
-        "developer": "Scalio Technology Private Limited",
-        "prev_rank": 80,
-        "curr_rank": 49,
-        "delta": 31
+        "name": "Facelab: Face & Body Editor",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 82,
+        "curr_rank": 63,
+        "delta": 19
       },
       {
-        "country": "IN",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 74,
-        "curr_rank": 62,
-        "delta": 12
-      },
-      {
-        "country": "IN",
-        "name": "AI Video Generator - HeyGen",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 96,
-        "curr_rank": 85,
+        "country": "ID",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 67,
+        "curr_rank": 56,
         "delta": 11
       }
     ],
-    "GB": [
+    "AU": [
       {
-        "country": "GB",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 66,
-        "curr_rank": 37,
-        "delta": 29
+        "country": "AU",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 47,
+        "curr_rank": 19,
+        "delta": 28
       },
       {
-        "country": "GB",
-        "name": "Hype AI - AI Photo & Video",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 98,
-        "curr_rank": 78,
+        "country": "AU",
+        "name": "eCalendar - Daily Planner",
+        "developer": "Shenzhen Fujia Technology Co., Ltd.",
+        "prev_rank": 65,
+        "curr_rank": 45,
         "delta": 20
       },
       {
-        "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 93,
-        "curr_rank": 75,
-        "delta": 18
-      },
-      {
-        "country": "GB",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 60,
-        "curr_rank": 45,
-        "delta": 15
-      },
-      {
-        "country": "GB",
-        "name": "Retake AI: Face & Photo Editor",
+        "country": "AU",
+        "name": "Retake AI Face & Selfie Editor",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 42,
-        "curr_rank": 29,
-        "delta": 13
+        "prev_rank": 41,
+        "curr_rank": 30,
+        "delta": 11
+      },
+      {
+        "country": "AU",
+        "name": "Dance AI: AI Dance Video Maker",
+        "developer": "DeePix AI",
+        "prev_rank": 97,
+        "curr_rank": 86,
+        "delta": 11
       }
     ],
     "BR": [
@@ -627,67 +523,33 @@
         "country": "BR",
         "name": "Blow Up AI: Viralize",
         "developer": "Mountains Studio LLC",
-        "prev_rank": 54,
-        "curr_rank": 25,
-        "delta": 29
+        "prev_rank": 50,
+        "curr_rank": 27,
+        "delta": 23
+      },
+      {
+        "country": "BR",
+        "name": "AI Catch: IA Vídeo Gerador",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 76,
+        "curr_rank": 53,
+        "delta": 23
       },
       {
         "country": "BR",
         "name": "Tezza: Aesthetic Photo Editor",
         "developer": "Tezza App LLC",
-        "prev_rank": 75,
-        "curr_rank": 58,
-        "delta": 17
+        "prev_rank": 83,
+        "curr_rank": 63,
+        "delta": 20
       },
       {
         "country": "BR",
         "name": "ToonApp: Gerador de Imagem IA",
         "developer": "Lyrebird Studio",
-        "prev_rank": 60,
-        "curr_rank": 47,
-        "delta": 13
-      },
-      {
-        "country": "BR",
-        "name": "FaceApp: Editor facial ideal",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 34,
-        "curr_rank": 22,
-        "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Hype AI – AI Photo & Vidéo",
-        "developer": "POLYVERSE ENTERTAINMENT INC.",
-        "prev_rank": 99,
-        "curr_rank": 73,
-        "delta": 26
-      },
-      {
-        "country": "FR",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 54,
-        "curr_rank": 30,
-        "delta": 24
-      },
-      {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 69,
-        "curr_rank": 50,
+        "prev_rank": 63,
+        "curr_rank": 44,
         "delta": 19
-      },
-      {
-        "country": "FR",
-        "name": "Meitu AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 85,
-        "curr_rank": 74,
-        "delta": 11
       }
     ],
     "JP": [
@@ -696,82 +558,92 @@
         "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
         "developer": "SNOW Corporation",
         "prev_rank": 68,
-        "curr_rank": 44,
-        "delta": 24
+        "curr_rank": 51,
+        "delta": 17
       },
       {
         "country": "JP",
         "name": "PowerDirector - AI動画編集アプリ",
         "developer": "CyberLink",
-        "prev_rank": 95,
-        "curr_rank": 82,
-        "delta": 13
+        "prev_rank": 97,
+        "curr_rank": 81,
+        "delta": 16
       },
       {
         "country": "JP",
-        "name": "SNOW スノー - AIプロフィール",
-        "developer": "SNOW Corporation",
-        "prev_rank": 34,
-        "curr_rank": 22,
-        "delta": 12
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 79,
+        "curr_rank": 64,
+        "delta": 15
+      },
+      {
+        "country": "JP",
+        "name": "YouCam Video : AI動画加工・動画編集アプリ",
+        "developer": "PERFECT MOBILE CORP.",
+        "prev_rank": 85,
+        "curr_rank": 74,
+        "delta": 11
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "B612 Camera&Photo/Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 68,
-        "curr_rank": 47,
-        "delta": 21
-      },
-      {
-        "country": "KR",
-        "name": "Adobe Premiere AI 비디오 에디터",
-        "developer": "Adobe Inc.",
-        "prev_rank": 91,
-        "curr_rank": 71,
-        "delta": 20
-      },
-      {
-        "country": "KR",
-        "name": "Hypic - Photo Editor & AI Art",
-        "developer": "Bytedance Pte. Ltd",
-        "prev_rank": 62,
-        "curr_rank": 43,
-        "delta": 19
-      },
-      {
-        "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 88,
-        "curr_rank": 72,
-        "delta": 16
-      },
-      {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 84,
-        "curr_rank": 69,
-        "delta": 15
+        "name": "타입캐스트 - AI 음성 제작",
+        "developer": "Neosapience, Inc.",
+        "prev_rank": 94,
+        "curr_rank": 77,
+        "delta": 17
       },
       {
         "country": "KR",
         "name": "DeeVid - AI 영상 생성기",
         "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 81,
-        "curr_rank": 67,
+        "prev_rank": 79,
+        "curr_rank": 64,
+        "delta": 15
+      },
+      {
+        "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 69,
+        "curr_rank": 55,
         "delta": 14
       },
       {
         "country": "KR",
         "name": "Muse: 릴스 동영상 편집 & AI",
         "developer": "Bigrowth",
-        "prev_rank": 70,
-        "curr_rank": 58,
-        "delta": 12
+        "prev_rank": 66,
+        "curr_rank": 53,
+        "delta": 13
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Hype AI – AI Photo & Vidéo",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 92,
+        "curr_rank": 78,
+        "delta": 14
+      },
+      {
+        "country": "FR",
+        "name": "Facelab: Retouche Visage・Corps",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 68,
+        "curr_rank": 55,
+        "delta": 13
+      },
+      {
+        "country": "FR",
+        "name": "AI Mirror: Éditeur de visage",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 99,
+        "curr_rank": 88,
+        "delta": 11
       }
     ]
   },
@@ -779,27 +651,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Zoombo: Nano AI Studio leads with +52 jump in DE"
+      "text": "AgeEra - Face & Photo AI leads with +50 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "KR has 7 rising apps - highest activity today"
+      "text": "DE has 6 rising apps - highest activity today"
     },
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "FaceLab apps trending with 5 variants rising"
+      "text": "FaceLab apps trending with 4 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Zoombo: Nano AI Studio rising in 3 markets: DE, AU, FR"
+      "text": "AgeEra - Face & Photo AI rising in 3 markets: IN, AU, GB"
     }
   ],
   "meta": {
-    "prev_date": "2026-07-07",
-    "curr_date": "2026-07-12",
+    "prev_date": "2026-07-08",
+    "curr_date": "2026-07-13",
     "days": 5
   }
 }
