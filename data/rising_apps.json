@@ -5,119 +5,95 @@
       "name": "Nanaba AI - AI 이미지, 3D",
       "developer": "Dongwon Ahn",
       "prev_rank": 90,
-      "curr_rank": 37,
-      "delta": 53
+      "curr_rank": 38,
+      "delta": 52
     },
     {
       "country": "FR",
       "name": "Facetune: Éditeur Photo/Vidéo",
       "developer": "Lightricks Ltd.",
       "prev_rank": 68,
-      "curr_rank": 32,
-      "delta": 36
+      "curr_rank": 28,
+      "delta": 40
     },
     {
       "country": "ID",
       "name": "AI Catch: AI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 46,
-      "curr_rank": 19,
-      "delta": 27
+      "curr_rank": 16,
+      "delta": 30
     },
     {
       "country": "IN",
       "name": "Winkit - AI Video Enhancer",
       "developer": "Starii Tech Pty Ltd",
       "prev_rank": 69,
-      "curr_rank": 44,
-      "delta": 25
+      "curr_rank": 42,
+      "delta": 27
     },
     {
       "country": "IN",
       "name": "Genie AI - AI Video Generator",
       "developer": "发家 罗",
       "prev_rank": 90,
-      "curr_rank": 67,
-      "delta": 23
+      "curr_rank": 64,
+      "delta": 26
     },
     {
       "country": "DE",
       "name": "Facetune: KI Foto Video Editor",
       "developer": "Lightricks Ltd.",
       "prev_rank": 51,
-      "curr_rank": 33,
-      "delta": 18
-    },
-    {
-      "country": "FR",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 94,
-      "curr_rank": 76,
-      "delta": 18
+      "curr_rank": 35,
+      "delta": 16
     },
     {
       "country": "IN",
       "name": "Hailuo Al: Image Makerx",
       "developer": "Muteeb Ali",
       "prev_rank": 70,
-      "curr_rank": 53,
-      "delta": 17
-    },
-    {
-      "country": "BR",
-      "name": "invideo AI: AI video generator",
-      "developer": "Invideo Inc",
-      "prev_rank": 100,
-      "curr_rank": 86,
-      "delta": 14
+      "curr_rank": 54,
+      "delta": 16
     },
     {
       "country": "BR",
       "name": "Blow Up AI: Viralize",
       "developer": "Mountains Studio LLC",
       "prev_rank": 50,
-      "curr_rank": 37,
-      "delta": 13
+      "curr_rank": 35,
+      "delta": 15
     },
     {
       "country": "FR",
-      "name": "PrettyUp -Retouche video corps",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 64,
-      "curr_rank": 52,
+      "name": "Photo identité - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 67,
+      "curr_rank": 53,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "Esti: Aesthetic Photo Editor",
+      "developer": "Prequel Inc.",
+      "prev_rank": 68,
+      "curr_rank": 56,
       "delta": 12
     },
     {
-      "country": "FR",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 71,
-      "curr_rank": 60,
+      "country": "ID",
+      "name": "VidCraft - Photo to Video AI",
+      "developer": "Mian saboor hussain Ali",
+      "prev_rank": 82,
+      "curr_rank": 71,
       "delta": 11
     },
     {
-      "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 93,
-      "curr_rank": 82,
-      "delta": 11
-    },
-    {
-      "country": "ID",
-      "name": "Flow AI - Video Generator",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 75,
-      "curr_rank": 65,
-      "delta": 10
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera: Aio GPS Cam",
-      "developer": "周萍 黄",
-      "prev_rank": 97,
-      "curr_rank": 87,
+      "country": "BR",
+      "name": "invideo AI: AI video generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 100,
+      "curr_rank": 90,
       "delta": 10
     }
   ],
@@ -128,16 +104,8 @@
         "name": "Nanaba AI - AI 이미지, 3D",
         "developer": "Dongwon Ahn",
         "prev_rank": 90,
-        "curr_rank": 37,
-        "delta": 53
-      },
-      {
-        "country": "KR",
-        "name": "타입캐스트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 93,
-        "curr_rank": 82,
-        "delta": 11
+        "curr_rank": 38,
+        "delta": 52
       }
     ],
     "FR": [
@@ -146,32 +114,16 @@
         "name": "Facetune: Éditeur Photo/Vidéo",
         "developer": "Lightricks Ltd.",
         "prev_rank": 68,
-        "curr_rank": 32,
-        "delta": 36
+        "curr_rank": 28,
+        "delta": 40
       },
       {
         "country": "FR",
-        "name": "AirPlay Cast",
-        "developer": "Taro Aso",
-        "prev_rank": 94,
-        "curr_rank": 76,
-        "delta": 18
-      },
-      {
-        "country": "FR",
-        "name": "PrettyUp -Retouche video corps",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 64,
-        "curr_rank": 52,
-        "delta": 12
-      },
-      {
-        "country": "FR",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 71,
-        "curr_rank": 60,
-        "delta": 11
+        "name": "Photo identité - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 67,
+        "curr_rank": 53,
+        "delta": 14
       }
     ],
     "ID": [
@@ -180,24 +132,16 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 46,
-        "curr_rank": 19,
-        "delta": 27
+        "curr_rank": 16,
+        "delta": 30
       },
       {
         "country": "ID",
-        "name": "Flow AI - Video Generator",
-        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
-      },
-      {
-        "country": "ID",
-        "name": "Timestamp Camera: Aio GPS Cam",
-        "developer": "周萍 黄",
-        "prev_rank": 97,
-        "curr_rank": 87,
-        "delta": 10
+        "name": "VidCraft - Photo to Video AI",
+        "developer": "Mian saboor hussain Ali",
+        "prev_rank": 82,
+        "curr_rank": 71,
+        "delta": 11
       }
     ],
     "IN": [
@@ -206,24 +150,24 @@
         "name": "Winkit - AI Video Enhancer",
         "developer": "Starii Tech Pty Ltd",
         "prev_rank": 69,
-        "curr_rank": 44,
-        "delta": 25
+        "curr_rank": 42,
+        "delta": 27
       },
       {
         "country": "IN",
         "name": "Genie AI - AI Video Generator",
         "developer": "发家 罗",
         "prev_rank": 90,
-        "curr_rank": 67,
-        "delta": 23
+        "curr_rank": 64,
+        "delta": 26
       },
       {
         "country": "IN",
         "name": "Hailuo Al: Image Makerx",
         "developer": "Muteeb Ali",
         "prev_rank": 70,
-        "curr_rank": 53,
-        "delta": 17
+        "curr_rank": 54,
+        "delta": 16
       }
     ],
     "DE": [
@@ -232,26 +176,36 @@
         "name": "Facetune: KI Foto Video Editor",
         "developer": "Lightricks Ltd.",
         "prev_rank": 51,
-        "curr_rank": 33,
-        "delta": 18
+        "curr_rank": 35,
+        "delta": 16
       }
     ],
     "BR": [
       {
         "country": "BR",
-        "name": "invideo AI: AI video generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 100,
-        "curr_rank": 86,
-        "delta": 14
-      },
-      {
-        "country": "BR",
         "name": "Blow Up AI: Viralize",
         "developer": "Mountains Studio LLC",
         "prev_rank": 50,
-        "curr_rank": 37,
-        "delta": 13
+        "curr_rank": 35,
+        "delta": 15
+      },
+      {
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 100,
+        "curr_rank": 90,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Esti: Aesthetic Photo Editor",
+        "developer": "Prequel Inc.",
+        "prev_rank": 68,
+        "curr_rank": 56,
+        "delta": 12
       }
     ]
   },
@@ -259,12 +213,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Nanaba AI - AI 이미지, 3D leads with +53 jump in KR"
+      "text": "Nanaba AI - AI 이미지, 3D leads with +52 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "FR has 4 rising apps - highest activity today"
+      "text": "IN has 3 rising apps - highest activity today"
     }
   ],
   "meta": {
