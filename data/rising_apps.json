@@ -1,27 +1,35 @@
 {
   "rising": [
     {
-      "country": "IN",
-      "name": "Ageroom - AI Photo Generator",
-      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-      "prev_rank": 89,
-      "curr_rank": 65,
-      "delta": 24
+      "country": "BR",
+      "name": "HairX AI，Experiência  de Corte",
+      "developer": "小舟 陈",
+      "prev_rank": 96,
+      "curr_rank": 70,
+      "delta": 26
     },
     {
       "country": "AU",
       "name": "VidCraft - Photo to Video AI",
       "developer": "Mian saboor hussain Ali",
       "prev_rank": 84,
-      "curr_rank": 60,
-      "delta": 24
+      "curr_rank": 61,
+      "delta": 23
     },
     {
       "country": "DE",
       "name": "Glam KI, AI Bilder Bearbeiten",
       "developer": "Glam Labs, Inc.",
       "prev_rank": 57,
-      "curr_rank": 41,
+      "curr_rank": 37,
+      "delta": 20
+    },
+    {
+      "country": "IN",
+      "name": "Ageroom - AI Photo Generator",
+      "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+      "prev_rank": 89,
+      "curr_rank": 73,
       "delta": 16
     },
     {
@@ -34,62 +42,102 @@
     },
     {
       "country": "AU",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 75,
-      "curr_rank": 62,
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 74,
+      "curr_rank": 60,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 83,
+      "curr_rank": 70,
       "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 82,
-      "curr_rank": 71,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "ReelMe AI: Daily Photo & Trend",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 98,
-      "curr_rank": 87,
-      "delta": 11
     },
     {
       "country": "BR",
       "name": "AI Catch: IA Vídeo Gerador",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 67,
-      "curr_rank": 56,
+      "curr_rank": 54,
+      "delta": 13
+    },
+    {
+      "country": "ID",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 94,
+      "curr_rank": 82,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 87,
+      "curr_rank": 76,
+      "delta": 11
+    },
+    {
+      "country": "JP",
+      "name": "VivaVideo - AI動画編集&動画作成&動画加工",
+      "developer": "Hangzhou Xiaoying Innovation Technology Co., Ltd.",
+      "prev_rank": 97,
+      "curr_rank": 86,
       "delta": 11
     },
     {
       "country": "FR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 56,
-      "curr_rank": 46,
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 86,
+      "curr_rank": 76,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 58,
+      "curr_rank": 48,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "Scalio - AI Videos & Photos",
+      "developer": "Scalio Technology Private Limited",
+      "prev_rank": 53,
+      "curr_rank": 43,
       "delta": 10
     },
     {
       "country": "AU",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 93,
-      "curr_rank": 83,
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 75,
+      "curr_rank": 65,
       "delta": 10
     }
   ],
   "by_country": {
-    "IN": [
+    "BR": [
       {
-        "country": "IN",
-        "name": "Ageroom - AI Photo Generator",
-        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
-        "prev_rank": 89,
-        "curr_rank": 65,
-        "delta": 24
+        "country": "BR",
+        "name": "HairX AI，Experiência  de Corte",
+        "developer": "小舟 陈",
+        "prev_rank": 96,
+        "curr_rank": 70,
+        "delta": 26
+      },
+      {
+        "country": "BR",
+        "name": "AI Catch: IA Vídeo Gerador",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 67,
+        "curr_rank": 54,
+        "delta": 13
       }
     ],
     "AU": [
@@ -98,23 +146,23 @@
         "name": "VidCraft - Photo to Video AI",
         "developer": "Mian saboor hussain Ali",
         "prev_rank": 84,
+        "curr_rank": 61,
+        "delta": 23
+      },
+      {
+        "country": "AU",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "CoNext Limited",
+        "prev_rank": 74,
         "curr_rank": 60,
-        "delta": 24
+        "delta": 14
       },
       {
         "country": "AU",
         "name": "Vids AI - Reels Video Editor",
         "developer": "Viral Vision Ltd.",
         "prev_rank": 75,
-        "curr_rank": 62,
-        "delta": 13
-      },
-      {
-        "country": "AU",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 93,
-        "curr_rank": 83,
+        "curr_rank": 65,
         "delta": 10
       }
     ],
@@ -124,8 +172,26 @@
         "name": "Glam KI, AI Bilder Bearbeiten",
         "developer": "Glam Labs, Inc.",
         "prev_rank": 57,
-        "curr_rank": 41,
+        "curr_rank": 37,
+        "delta": 20
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Ageroom - AI Photo Generator",
+        "developer": "HUIDING (HONG KONG) TECHNOLOGY LIMITED",
+        "prev_rank": 89,
+        "curr_rank": 73,
         "delta": 16
+      },
+      {
+        "country": "IN",
+        "name": "Scalio - AI Videos & Photos",
+        "developer": "Scalio Technology Private Limited",
+        "prev_rank": 53,
+        "curr_rank": 43,
+        "delta": 10
       }
     ],
     "KR": [
@@ -136,43 +202,61 @@
         "prev_rank": 56,
         "curr_rank": 42,
         "delta": 14
+      },
+      {
+        "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 58,
+        "curr_rank": 48,
+        "delta": 10
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 82,
-        "curr_rank": 71,
-        "delta": 11
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 83,
+        "curr_rank": 70,
+        "delta": 13
       },
       {
         "country": "US",
-        "name": "ReelMe AI: Daily Photo & Trend",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 98,
-        "curr_rank": 87,
+        "name": "AI Video Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 87,
+        "curr_rank": 76,
         "delta": 11
       }
     ],
-    "BR": [
+    "ID": [
       {
-        "country": "BR",
-        "name": "AI Catch: IA Vídeo Gerador",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 67,
-        "curr_rank": 56,
+        "country": "ID",
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 94,
+        "curr_rank": 82,
+        "delta": 12
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "VivaVideo - AI動画編集&動画作成&動画加工",
+        "developer": "Hangzhou Xiaoying Innovation Technology Co., Ltd.",
+        "prev_rank": 97,
+        "curr_rank": 86,
         "delta": 11
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 56,
-        "curr_rank": 46,
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 86,
+        "curr_rank": 76,
         "delta": 10
       }
     ]
@@ -181,7 +265,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Ageroom - AI Photo Generator leads with +24 jump in IN"
+      "text": "HairX AI，Experiência  de Corte leads with +26 jump in BR"
     },
     {
       "type": "market",
@@ -191,12 +275,7 @@
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Vids AI apps trending with 2 variants rising"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Vids AI - Reels Video Editor rising in 2 markets: AU, US"
+      "text": "AI Catch apps trending with 2 variants rising"
     }
   ],
   "meta": {
