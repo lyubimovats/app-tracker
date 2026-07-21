@@ -5,24 +5,48 @@
       "name": "Hf: AI Video & Image Generator",
       "developer": "Denis Zhesterev",
       "prev_rank": 77,
-      "curr_rank": 58,
-      "delta": 19
+      "curr_rank": 51,
+      "delta": 26
     },
     {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 72,
-      "curr_rank": 53,
-      "delta": 19
+      "country": "BR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 99,
+      "curr_rank": 77,
+      "delta": 22
     },
     {
       "country": "FR",
       "name": "Dance AI: Vidéos de Danse IA",
       "developer": "DeePix AI",
       "prev_rank": 78,
-      "curr_rank": 60,
+      "curr_rank": 58,
+      "delta": 20
+    },
+    {
+      "country": "BR",
+      "name": "HairX AI，Experiência  de Corte",
+      "developer": "小舟 陈",
+      "prev_rank": 77,
+      "curr_rank": 57,
+      "delta": 20
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 72,
+      "curr_rank": 54,
       "delta": 18
+    },
+    {
+      "country": "US",
+      "name": "Facelab: Face & Body Editor",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 63,
+      "curr_rank": 48,
+      "delta": 15
     },
     {
       "country": "BR",
@@ -33,44 +57,68 @@
       "delta": 14
     },
     {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 62,
-      "curr_rank": 49,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 63,
-      "curr_rank": 51,
-      "delta": 12
-    },
-    {
       "country": "DE",
       "name": "DeeVid - KI-Video-Generator",
       "developer": "ALWAYS RISING PTE. LTD.",
       "prev_rank": 100,
-      "curr_rank": 88,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 99,
-      "curr_rank": 88,
-      "delta": 11
+      "curr_rank": 87,
+      "delta": 13
     },
     {
       "country": "JP",
       "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
       "developer": "ALWAYS RISING PTE. LTD.",
       "prev_rank": 77,
-      "curr_rank": 66,
+      "curr_rank": 64,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 91,
+      "curr_rank": 79,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "mevu 미브 - AI 사진 & 증명사진",
+      "developer": "ESTaid Corp.",
+      "prev_rank": 76,
+      "curr_rank": 64,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Photica・Live Photo AI Animator",
+      "developer": "Comapps LLC",
+      "prev_rank": 82,
+      "curr_rank": 71,
       "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 74,
+      "curr_rank": 63,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "PrettyUp -Retouche video corps",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 60,
+      "curr_rank": 50,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "Lumy AI - Photo Editor",
+      "developer": "Ocean Float Mobile",
+      "prev_rank": 75,
+      "curr_rank": 65,
+      "delta": 10
     }
   ],
   "by_country": {
@@ -80,31 +128,35 @@
         "name": "Hf: AI Video & Image Generator",
         "developer": "Denis Zhesterev",
         "prev_rank": 77,
-        "curr_rank": 58,
-        "delta": 19
-      }
-    ],
-    "ID": [
+        "curr_rank": 51,
+        "delta": 26
+      },
       {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 72,
-        "curr_rank": 53,
-        "delta": 19
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 78,
-        "curr_rank": 60,
-        "delta": 18
+        "country": "KR",
+        "name": "mevu 미브 - AI 사진 & 증명사진",
+        "developer": "ESTaid Corp.",
+        "prev_rank": 76,
+        "curr_rank": 64,
+        "delta": 12
       }
     ],
     "BR": [
+      {
+        "country": "BR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 99,
+        "curr_rank": 77,
+        "delta": 22
+      },
+      {
+        "country": "BR",
+        "name": "HairX AI，Experiência  de Corte",
+        "developer": "小舟 陈",
+        "prev_rank": 77,
+        "curr_rank": 57,
+        "delta": 20
+      },
       {
         "country": "BR",
         "name": "Tezza: Aesthetic Photo Editor",
@@ -115,21 +167,39 @@
       },
       {
         "country": "BR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 99,
-        "curr_rank": 88,
-        "delta": 11
+        "name": "Lumy AI - Photo Editor",
+        "developer": "Ocean Float Mobile",
+        "prev_rank": 75,
+        "curr_rank": 65,
+        "delta": 10
       }
     ],
-    "AU": [
+    "FR": [
       {
-        "country": "AU",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 62,
-        "curr_rank": 49,
-        "delta": 13
+        "country": "FR",
+        "name": "Dance AI: Vidéos de Danse IA",
+        "developer": "DeePix AI",
+        "prev_rank": 78,
+        "curr_rank": 58,
+        "delta": 20
+      },
+      {
+        "country": "FR",
+        "name": "PrettyUp -Retouche video corps",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 60,
+        "curr_rank": 50,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 72,
+        "curr_rank": 54,
+        "delta": 18
       }
     ],
     "US": [
@@ -138,8 +208,8 @@
         "name": "Facelab: Face & Body Editor",
         "developer": "IRONTECH LIMITED",
         "prev_rank": 63,
-        "curr_rank": 51,
-        "delta": 12
+        "curr_rank": 48,
+        "delta": 15
       }
     ],
     "DE": [
@@ -148,8 +218,16 @@
         "name": "DeeVid - KI-Video-Generator",
         "developer": "ALWAYS RISING PTE. LTD.",
         "prev_rank": 100,
-        "curr_rank": 88,
-        "delta": 12
+        "curr_rank": 87,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 74,
+        "curr_rank": 63,
+        "delta": 11
       }
     ],
     "JP": [
@@ -158,7 +236,25 @@
         "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
         "developer": "ALWAYS RISING PTE. LTD.",
         "prev_rank": 77,
-        "curr_rank": 66,
+        "curr_rank": 64,
+        "delta": 13
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 91,
+        "curr_rank": 79,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Photica・Live Photo AI Animator",
+        "developer": "Comapps LLC",
+        "prev_rank": 82,
+        "curr_rank": 71,
         "delta": 11
       }
     ]
@@ -167,12 +263,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Hf: AI Video & Image Generator leads with +19 jump in KR"
+      "text": "Hf: AI Video & Image Generator leads with +26 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 2 rising apps - highest activity today"
+      "text": "BR has 4 rising apps - highest activity today"
     }
   ],
   "meta": {
