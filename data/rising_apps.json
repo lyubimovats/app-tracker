@@ -5,71 +5,95 @@
       "name": "BeautyCam-Beautify & AI Artist",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 69,
-      "curr_rank": 32,
-      "delta": 37
-    },
-    {
-      "country": "KR",
-      "name": "Hf: AI Video & Image Generator",
-      "developer": "Denis Zhesterev",
-      "prev_rank": 51,
-      "curr_rank": 33,
-      "delta": 18
+      "curr_rank": 29,
+      "delta": 40
     },
     {
       "country": "FR",
       "name": "AI Catch: AI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 74,
-      "curr_rank": 60,
-      "delta": 14
+      "curr_rank": 48,
+      "delta": 26
     },
     {
-      "country": "DE",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 75,
-      "curr_rank": 64,
-      "delta": 11
+      "country": "KR",
+      "name": "Hf: AI Video & Image Generator",
+      "developer": "Denis Zhesterev",
+      "prev_rank": 51,
+      "curr_rank": 29,
+      "delta": 22
     },
     {
-      "country": "DE",
-      "name": "DeeVid - KI-Video-Generator",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 77,
-      "delta": 10
-    },
-    {
-      "country": "FR",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 95,
-      "curr_rank": 85,
-      "delta": 10
-    },
-    {
-      "country": "FR",
-      "name": "BIGVU Prompteur Captions AI",
-      "developer": "BIGVU INC",
-      "prev_rank": 97,
-      "curr_rank": 87,
-      "delta": 10
+      "country": "KR",
+      "name": "Pollo AI(폴로 AI)- AI 비디오 생성기",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 40,
+      "curr_rank": 24,
+      "delta": 16
     },
     {
       "country": "IN",
       "name": "AIPhoto: Image Video Generator",
       "developer": "Le Anh Tuan",
       "prev_rank": 54,
-      "curr_rank": 44,
-      "delta": 10
+      "curr_rank": 38,
+      "delta": 16
+    },
+    {
+      "country": "DE",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 75,
+      "curr_rank": 62,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "DeeVid - KI-Video-Generator",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 87,
+      "curr_rank": 74,
+      "delta": 13
+    },
+    {
+      "country": "BR",
+      "name": "Flow AI: Criador De Video IA",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 99,
+      "curr_rank": 86,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "DeeVid - AI 영상 생성기",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 84,
+      "curr_rank": 71,
+      "delta": 13
     },
     {
       "country": "AU",
       "name": "PicCollage: Magic Photo Editor",
       "developer": "Cardinal Blue",
       "prev_rank": 53,
-      "curr_rank": 43,
+      "curr_rank": 41,
+      "delta": 12
+    },
+    {
+      "country": "IN",
+      "name": "FilmLook - AI Camera",
+      "developer": "Khanh Thong Le",
+      "prev_rank": 94,
+      "curr_rank": 83,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 52,
+      "curr_rank": 42,
       "delta": 10
     }
   ],
@@ -80,18 +104,16 @@
         "name": "BeautyCam-Beautify & AI Artist",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 69,
-        "curr_rank": 32,
-        "delta": 37
-      }
-    ],
-    "KR": [
+        "curr_rank": 29,
+        "delta": 40
+      },
       {
-        "country": "KR",
-        "name": "Hf: AI Video & Image Generator",
-        "developer": "Denis Zhesterev",
-        "prev_rank": 51,
-        "curr_rank": 33,
-        "delta": 18
+        "country": "BR",
+        "name": "Flow AI: Criador De Video IA",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 99,
+        "curr_rank": 86,
+        "delta": 13
       }
     ],
     "FR": [
@@ -100,42 +122,34 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 74,
-        "curr_rank": 60,
-        "delta": 14
-      },
-      {
-        "country": "FR",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
-        "prev_rank": 95,
-        "curr_rank": 85,
-        "delta": 10
-      },
-      {
-        "country": "FR",
-        "name": "BIGVU Prompteur Captions AI",
-        "developer": "BIGVU INC",
-        "prev_rank": 97,
-        "curr_rank": 87,
-        "delta": 10
+        "curr_rank": 48,
+        "delta": 26
       }
     ],
-    "DE": [
+    "KR": [
       {
-        "country": "DE",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 75,
-        "curr_rank": 64,
-        "delta": 11
+        "country": "KR",
+        "name": "Hf: AI Video & Image Generator",
+        "developer": "Denis Zhesterev",
+        "prev_rank": 51,
+        "curr_rank": 29,
+        "delta": 22
       },
       {
-        "country": "DE",
-        "name": "DeeVid - KI-Video-Generator",
+        "country": "KR",
+        "name": "Pollo AI(폴로 AI)- AI 비디오 생성기",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 40,
+        "curr_rank": 24,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "DeeVid - AI 영상 생성기",
         "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 87,
-        "curr_rank": 77,
-        "delta": 10
+        "prev_rank": 84,
+        "curr_rank": 71,
+        "delta": 13
       }
     ],
     "IN": [
@@ -144,8 +158,34 @@
         "name": "AIPhoto: Image Video Generator",
         "developer": "Le Anh Tuan",
         "prev_rank": 54,
-        "curr_rank": 44,
-        "delta": 10
+        "curr_rank": 38,
+        "delta": 16
+      },
+      {
+        "country": "IN",
+        "name": "FilmLook - AI Camera",
+        "developer": "Khanh Thong Le",
+        "prev_rank": 94,
+        "curr_rank": 83,
+        "delta": 11
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 75,
+        "curr_rank": 62,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "DeeVid - KI-Video-Generator",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 87,
+        "curr_rank": 74,
+        "delta": 13
       }
     ],
     "AU": [
@@ -154,7 +194,15 @@
         "name": "PicCollage: Magic Photo Editor",
         "developer": "Cardinal Blue",
         "prev_rank": 53,
-        "curr_rank": 43,
+        "curr_rank": 41,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 52,
+        "curr_rank": 42,
         "delta": 10
       }
     ]
@@ -163,12 +211,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "BeautyCam-Beautify & AI Artist leads with +37 jump in BR"
+      "text": "BeautyCam-Beautify & AI Artist leads with +40 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "FR has 3 rising apps - highest activity today"
+      "text": "KR has 3 rising apps - highest activity today"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "Cantina: AI Video & Characters rising in 2 markets: DE, AU"
     }
   ],
   "meta": {
