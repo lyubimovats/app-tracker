@@ -1,261 +1,161 @@
 {
   "rising": [
     {
+      "country": "BR",
+      "name": "BeautyCam-Beautify & AI Artist",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 69,
+      "curr_rank": 32,
+      "delta": 37
+    },
+    {
       "country": "KR",
       "name": "Hf: AI Video & Image Generator",
       "developer": "Denis Zhesterev",
-      "prev_rank": 77,
-      "curr_rank": 51,
-      "delta": 26
-    },
-    {
-      "country": "BR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 99,
-      "curr_rank": 77,
-      "delta": 22
-    },
-    {
-      "country": "FR",
-      "name": "Dance AI: Vidéos de Danse IA",
-      "developer": "DeePix AI",
-      "prev_rank": 78,
-      "curr_rank": 58,
-      "delta": 20
-    },
-    {
-      "country": "BR",
-      "name": "HairX AI，Experiência  de Corte",
-      "developer": "小舟 陈",
-      "prev_rank": 77,
-      "curr_rank": 57,
-      "delta": 20
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 72,
-      "curr_rank": 54,
+      "prev_rank": 51,
+      "curr_rank": 33,
       "delta": 18
     },
     {
-      "country": "US",
-      "name": "Facelab: Face & Body Editor",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 63,
-      "curr_rank": 48,
-      "delta": 15
+      "country": "FR",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 74,
+      "curr_rank": 60,
+      "delta": 14
     },
     {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 55,
-      "curr_rank": 41,
-      "delta": 14
+      "country": "DE",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 75,
+      "curr_rank": 64,
+      "delta": 11
     },
     {
       "country": "DE",
       "name": "DeeVid - KI-Video-Generator",
       "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 100,
-      "curr_rank": 87,
-      "delta": 13
-    },
-    {
-      "country": "JP",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 77,
-      "curr_rank": 64,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Passport Photo - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 91,
-      "curr_rank": 79,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 76,
-      "curr_rank": 64,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Photica・Live Photo AI Animator",
-      "developer": "Comapps LLC",
-      "prev_rank": 82,
-      "curr_rank": 71,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 74,
-      "curr_rank": 63,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "PrettyUp -Retouche video corps",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 60,
-      "curr_rank": 50,
+      "prev_rank": 87,
+      "curr_rank": 77,
       "delta": 10
     },
     {
-      "country": "BR",
-      "name": "Lumy AI - Photo Editor",
-      "developer": "Ocean Float Mobile",
-      "prev_rank": 75,
-      "curr_rank": 65,
+      "country": "FR",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 95,
+      "curr_rank": 85,
+      "delta": 10
+    },
+    {
+      "country": "FR",
+      "name": "BIGVU Prompteur Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 97,
+      "curr_rank": 87,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "AIPhoto: Image Video Generator",
+      "developer": "Le Anh Tuan",
+      "prev_rank": 54,
+      "curr_rank": 44,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "PicCollage: Magic Photo Editor",
+      "developer": "Cardinal Blue",
+      "prev_rank": 53,
+      "curr_rank": 43,
       "delta": 10
     }
   ],
   "by_country": {
+    "BR": [
+      {
+        "country": "BR",
+        "name": "BeautyCam-Beautify & AI Artist",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 69,
+        "curr_rank": 32,
+        "delta": 37
+      }
+    ],
     "KR": [
       {
         "country": "KR",
         "name": "Hf: AI Video & Image Generator",
         "developer": "Denis Zhesterev",
-        "prev_rank": 77,
-        "curr_rank": 51,
-        "delta": 26
-      },
-      {
-        "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 76,
-        "curr_rank": 64,
-        "delta": 12
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 99,
-        "curr_rank": 77,
-        "delta": 22
-      },
-      {
-        "country": "BR",
-        "name": "HairX AI，Experiência  de Corte",
-        "developer": "小舟 陈",
-        "prev_rank": 77,
-        "curr_rank": 57,
-        "delta": 20
-      },
-      {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 55,
-        "curr_rank": 41,
-        "delta": 14
-      },
-      {
-        "country": "BR",
-        "name": "Lumy AI - Photo Editor",
-        "developer": "Ocean Float Mobile",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
+        "prev_rank": 51,
+        "curr_rank": 33,
+        "delta": 18
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 78,
-        "curr_rank": 58,
-        "delta": 20
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 74,
+        "curr_rank": 60,
+        "delta": 14
       },
       {
         "country": "FR",
-        "name": "PrettyUp -Retouche video corps",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 60,
-        "curr_rank": 50,
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 95,
+        "curr_rank": 85,
         "delta": 10
-      }
-    ],
-    "ID": [
+      },
       {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 72,
-        "curr_rank": 54,
-        "delta": 18
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Facelab: Face & Body Editor",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 63,
-        "curr_rank": 48,
-        "delta": 15
+        "country": "FR",
+        "name": "BIGVU Prompteur Captions AI",
+        "developer": "BIGVU INC",
+        "prev_rank": 97,
+        "curr_rank": 87,
+        "delta": 10
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "DeeVid - KI-Video-Generator",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 100,
-        "curr_rank": 87,
-        "delta": 13
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 75,
+        "curr_rank": 64,
+        "delta": 11
       },
       {
         "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 74,
-        "curr_rank": 63,
-        "delta": 11
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "name": "DeeVid - KI-Video-Generator",
         "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 77,
-        "curr_rank": 64,
-        "delta": 13
+        "prev_rank": 87,
+        "curr_rank": 77,
+        "delta": 10
       }
     ],
-    "GB": [
+    "IN": [
       {
-        "country": "GB",
-        "name": "Passport Photo - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 91,
-        "curr_rank": 79,
-        "delta": 12
-      },
+        "country": "IN",
+        "name": "AIPhoto: Image Video Generator",
+        "developer": "Le Anh Tuan",
+        "prev_rank": 54,
+        "curr_rank": 44,
+        "delta": 10
+      }
+    ],
+    "AU": [
       {
-        "country": "GB",
-        "name": "Photica・Live Photo AI Animator",
-        "developer": "Comapps LLC",
-        "prev_rank": 82,
-        "curr_rank": 71,
-        "delta": 11
+        "country": "AU",
+        "name": "PicCollage: Magic Photo Editor",
+        "developer": "Cardinal Blue",
+        "prev_rank": 53,
+        "curr_rank": 43,
+        "delta": 10
       }
     ]
   },
@@ -263,17 +163,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Hf: AI Video & Image Generator leads with +26 jump in KR"
+      "text": "BeautyCam-Beautify & AI Artist leads with +37 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 4 rising apps - highest activity today"
+      "text": "FR has 3 rising apps - highest activity today"
     }
   ],
   "meta": {
-    "prev_date": "2026-07-20",
-    "curr_date": "2026-07-21",
+    "prev_date": "2026-07-21",
+    "curr_date": "2026-07-22",
     "days": 1
   }
 }
