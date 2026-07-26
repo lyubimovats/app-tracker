@@ -1,257 +1,339 @@
 {
   "rising": [
     {
-      "country": "AU",
+      "country": "IN",
+      "name": "LUT Photo Video Editor PeekLut",
+      "developer": "Lauper Labs",
+      "prev_rank": 98,
+      "curr_rank": 58,
+      "delta": 40
+    },
+    {
+      "country": "BR",
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 87,
+      "curr_rank": 60,
+      "delta": 27
+    },
+    {
+      "country": "IN",
+      "name": "Hailuo Al: Image Makerx",
+      "developer": "Muteeb Ali",
+      "prev_rank": 79,
+      "curr_rank": 54,
+      "delta": 25
+    },
+    {
+      "country": "AU",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
       "prev_rank": 97,
-      "curr_rank": 13,
-      "delta": 84
-    },
-    {
-      "country": "FR",
-      "name": "Airbrush - Éditeur Photo",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 95,
-      "curr_rank": 24,
-      "delta": 71
-    },
-    {
-      "country": "GB",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 65,
-      "curr_rank": 28,
-      "delta": 37
-    },
-    {
-      "country": "GB",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 38,
-      "curr_rank": 10,
-      "delta": 28
-    },
-    {
-      "country": "AU",
-      "name": "ReelMe AI: Daily Photo & Trend",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 76,
-      "curr_rank": 52,
+      "curr_rank": 73,
       "delta": 24
     },
     {
-      "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 66,
-      "curr_rank": 44,
-      "delta": 22
-    },
-    {
       "country": "AU",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 47,
-      "curr_rank": 25,
-      "delta": 22
-    },
-    {
-      "country": "IN",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 47,
-      "curr_rank": 26,
+      "name": "Setty: Photo Editor & Filters",
+      "developer": "A Color Story LLC",
+      "prev_rank": 65,
+      "curr_rank": 44,
       "delta": 21
     },
     {
-      "country": "IN",
-      "name": "AI Art-Photo&Face Editor",
-      "developer": "AHAJOY LIMITED",
-      "prev_rank": 83,
-      "curr_rank": 67,
-      "delta": 16
+      "country": "GB",
+      "name": "Muse AI: Photo to Video",
+      "developer": "志如 宋",
+      "prev_rank": 92,
+      "curr_rank": 72,
+      "delta": 20
     },
     {
-      "country": "AU",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 77,
-      "curr_rank": 61,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "Photica・Live Photo AI Animator",
-      "developer": "Comapps LLC",
-      "prev_rank": 88,
-      "curr_rank": 73,
-      "delta": 15
+      "country": "DE",
+      "name": "ARTA: KI-Bild-Generator",
+      "developer": "AIBY",
+      "prev_rank": 93,
+      "curr_rank": 74,
+      "delta": 19
     },
     {
       "country": "FR",
-      "name": "Dance AI: Vidéos de Danse IA",
-      "developer": "DeePix AI",
-      "prev_rank": 97,
-      "curr_rank": 82,
-      "delta": 15
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 100,
+      "curr_rank": 83,
+      "delta": 17
     },
     {
-      "country": "AU",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 67,
-      "curr_rank": 54,
-      "delta": 13
-    },
-    {
-      "country": "KR",
-      "name": "캐럿 - AI와 무엇이든 만드세요",
-      "developer": "Paradot Corp.",
-      "prev_rank": 62,
-      "curr_rank": 51,
-      "delta": 11
+      "country": "DE",
+      "name": "AI Catch: KI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 94,
+      "curr_rank": 80,
+      "delta": 14
     },
     {
       "country": "US",
-      "name": "Prequel: Photo & Video Editor",
-      "developer": "Prequel Inc.",
-      "prev_rank": 37,
-      "curr_rank": 27,
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "prev_rank": 70,
+      "curr_rank": 57,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "Remini - Einfach Bessere Fotos",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 57,
+      "curr_rank": 44,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "ReelMe AI: Photos & Tendances",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 91,
+      "curr_rank": 78,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 53,
+      "curr_rank": 40,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Editor, Remove Object",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 85,
+      "curr_rank": 72,
+      "delta": 13
+    },
+    {
+      "country": "US",
+      "name": "ReelMe AI: Daily Photo & Trend",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 80,
+      "curr_rank": 68,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Airbrush - Fotobearbeitung",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 45,
+      "curr_rank": 35,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 64,
+      "curr_rank": 54,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 79,
+      "curr_rank": 69,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "MIU AI - Gerador de foto IA",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 48,
+      "curr_rank": 38,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 49,
+      "curr_rank": 39,
       "delta": 10
     }
   ],
   "by_country": {
+    "IN": [
+      {
+        "country": "IN",
+        "name": "LUT Photo Video Editor PeekLut",
+        "developer": "Lauper Labs",
+        "prev_rank": 98,
+        "curr_rank": 58,
+        "delta": 40
+      },
+      {
+        "country": "IN",
+        "name": "Hailuo Al: Image Makerx",
+        "developer": "Muteeb Ali",
+        "prev_rank": 79,
+        "curr_rank": 54,
+        "delta": 25
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 87,
+        "curr_rank": 60,
+        "delta": 27
+      },
+      {
+        "country": "BR",
+        "name": "MIU AI - Gerador de foto IA",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 48,
+        "curr_rank": 38,
+        "delta": 10
+      }
+    ],
     "AU": [
       {
         "country": "AU",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
         "prev_rank": 97,
-        "curr_rank": 13,
-        "delta": 84
-      },
-      {
-        "country": "AU",
-        "name": "ReelMe AI: Daily Photo & Trend",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 76,
-        "curr_rank": 52,
+        "curr_rank": 73,
         "delta": 24
       },
       {
         "country": "AU",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 47,
-        "curr_rank": 25,
-        "delta": 22
+        "name": "Setty: Photo Editor & Filters",
+        "developer": "A Color Story LLC",
+        "prev_rank": 65,
+        "curr_rank": 44,
+        "delta": 21
       },
       {
         "country": "AU",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 77,
-        "curr_rank": 61,
-        "delta": 16
-      },
-      {
-        "country": "AU",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 67,
-        "curr_rank": 54,
-        "delta": 13
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Airbrush - Éditeur Photo",
+        "name": "Airbrush: Face Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 95,
-        "curr_rank": 24,
-        "delta": 71
+        "prev_rank": 53,
+        "curr_rank": 40,
+        "delta": 13
       },
       {
-        "country": "FR",
-        "name": "Dance AI: Vidéos de Danse IA",
-        "developer": "DeePix AI",
-        "prev_rank": 97,
-        "curr_rank": 82,
-        "delta": 15
+        "country": "AU",
+        "name": "AI Photo Editor, Remove Object",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 85,
+        "curr_rank": 72,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Retake AI Face & Selfie Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 49,
+        "curr_rank": 39,
+        "delta": 10
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 65,
-        "curr_rank": 28,
-        "delta": 37
-      },
-      {
-        "country": "GB",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 38,
-        "curr_rank": 10,
-        "delta": 28
+        "name": "Muse AI: Photo to Video",
+        "developer": "志如 宋",
+        "prev_rank": 92,
+        "curr_rank": 72,
+        "delta": 20
       }
     ],
-    "KR": [
+    "DE": [
       {
-        "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 66,
+        "country": "DE",
+        "name": "ARTA: KI-Bild-Generator",
+        "developer": "AIBY",
+        "prev_rank": 93,
+        "curr_rank": 74,
+        "delta": 19
+      },
+      {
+        "country": "DE",
+        "name": "AI Catch: KI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 94,
+        "curr_rank": 80,
+        "delta": 14
+      },
+      {
+        "country": "DE",
+        "name": "Remini - Einfach Bessere Fotos",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 57,
         "curr_rank": 44,
-        "delta": 22
+        "delta": 13
       },
       {
-        "country": "KR",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp.",
-        "prev_rank": 62,
-        "curr_rank": 51,
-        "delta": 11
+        "country": "DE",
+        "name": "Airbrush - Fotobearbeitung",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 45,
+        "curr_rank": 35,
+        "delta": 10
+      },
+      {
+        "country": "DE",
+        "name": "Meitu AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 64,
+        "curr_rank": 54,
+        "delta": 10
+      },
+      {
+        "country": "DE",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 79,
+        "curr_rank": 69,
+        "delta": 10
       }
     ],
-    "IN": [
+    "FR": [
       {
-        "country": "IN",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 47,
-        "curr_rank": 26,
-        "delta": 21
+        "country": "FR",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 100,
+        "curr_rank": 83,
+        "delta": 17
       },
       {
-        "country": "IN",
-        "name": "AI Art-Photo&Face Editor",
-        "developer": "AHAJOY LIMITED",
-        "prev_rank": 83,
-        "curr_rank": 67,
-        "delta": 16
+        "country": "FR",
+        "name": "ReelMe AI: Photos & Tendances",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 91,
+        "curr_rank": 78,
+        "delta": 13
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "Photica・Live Photo AI Animator",
-        "developer": "Comapps LLC",
-        "prev_rank": 88,
-        "curr_rank": 73,
-        "delta": 15
+        "name": "Aura Frames",
+        "developer": "Aura Home, Inc.",
+        "prev_rank": 70,
+        "curr_rank": 57,
+        "delta": 13
       },
       {
         "country": "US",
-        "name": "Prequel: Photo & Video Editor",
-        "developer": "Prequel Inc.",
-        "prev_rank": 37,
-        "curr_rank": 27,
-        "delta": 10
+        "name": "ReelMe AI: Daily Photo & Trend",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 80,
+        "curr_rank": 68,
+        "delta": 12
       }
     ]
   },
@@ -259,22 +341,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AgeEra - Face & Photo AI leads with +84 jump in AU"
+      "text": "LUT Photo Video Editor PeekLut leads with +40 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 5 rising apps - highest activity today"
+      "text": "DE has 6 rising apps - highest activity today"
     },
     {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "AgeEra - Face & Photo AI rising in 3 markets: AU, GB, IN"
+      "type": "app-note",
+      "icon": "📱",
+      "text": "Airbrush apps trending with 2 variants rising"
     }
   ],
   "meta": {
-    "prev_date": "2026-07-24",
-    "curr_date": "2026-07-25",
+    "prev_date": "2026-07-25",
+    "curr_date": "2026-07-26",
     "days": 1
   }
 }
