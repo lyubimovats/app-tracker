@@ -4,120 +4,96 @@
       "country": "AU",
       "name": "Zoombo: Nano AI Studio",
       "developer": "CoNext Limited",
-      "prev_rank": 86,
-      "curr_rank": 40,
-      "delta": 46
+      "prev_rank": 40,
+      "curr_rank": 17,
+      "delta": 23
     },
     {
       "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 93,
-      "curr_rank": 58,
-      "delta": 35
+      "name": "Glam KI, AI Bilder Bearbeiten",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 92,
+      "curr_rank": 72,
+      "delta": 20
     },
     {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 73,
-      "curr_rank": 46,
-      "delta": 27
+      "country": "GB",
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 93,
+      "curr_rank": 74,
+      "delta": 19
     },
     {
       "country": "FR",
-      "name": "Photo identité - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 100,
-      "curr_rank": 78,
-      "delta": 22
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 83,
+      "curr_rank": 67,
+      "delta": 16
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 84,
+      "curr_rank": 69,
+      "delta": 15
+    },
+    {
+      "country": "FR",
+      "name": "Facelab: Retouche Visage・Corps",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 68,
+      "curr_rank": 53,
+      "delta": 15
     },
     {
       "country": "ID",
       "name": "Timestamp Camera :AI Timestamp",
       "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 90,
-      "curr_rank": 68,
-      "delta": 22
-    },
-    {
-      "country": "BR",
-      "name": "Hela AI: Photo Video Generator",
-      "developer": "Hypernova Limited",
-      "prev_rank": 87,
-      "curr_rank": 69,
-      "delta": 18
-    },
-    {
-      "country": "AU",
-      "name": "Lumy AI - Photo Editor",
-      "developer": "Ocean Float Mobile",
-      "prev_rank": 88,
-      "curr_rank": 72,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 82,
-      "curr_rank": 67,
+      "prev_rank": 68,
+      "curr_rank": 53,
       "delta": 15
     },
     {
-      "country": "DE",
-      "name": "Clicked: AI Editor & Beautify",
-      "developer": "Clicked",
-      "prev_rank": 64,
-      "curr_rank": 52,
-      "delta": 12
+      "country": "BR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 87,
+      "curr_rank": 73,
+      "delta": 14
     },
     {
-      "country": "AU",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 68,
-      "curr_rank": 56,
-      "delta": 12
+      "country": "JP",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 82,
+      "curr_rank": 68,
+      "delta": 14
     },
     {
-      "country": "US",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 77,
-      "curr_rank": 66,
-      "delta": 11
+      "country": "ID",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 99,
+      "curr_rank": 85,
+      "delta": 14
     },
     {
-      "country": "GB",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 64,
-      "curr_rank": 53,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "Aura Frames",
-      "developer": "Aura Home, Inc.",
-      "prev_rank": 58,
-      "curr_rank": 48,
+      "country": "KR",
+      "name": "Muse: 릴스 동영상 편집 & AI",
+      "developer": "Bigrowth",
+      "prev_rank": 74,
+      "curr_rank": 64,
       "delta": 10
     },
     {
-      "country": "GB",
-      "name": "Setty: Photo Editor & Filters",
-      "developer": "A Color Story LLC",
-      "prev_rank": 94,
-      "curr_rank": 84,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 61,
-      "curr_rank": 51,
+      "country": "KR",
+      "name": "Adobe Premiere AI 비디오 에디터",
+      "developer": "Adobe Inc.",
+      "prev_rank": 97,
+      "curr_rank": 87,
       "delta": 10
     }
   ],
@@ -127,71 +103,57 @@
         "country": "AU",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
-        "prev_rank": 86,
-        "curr_rank": 40,
-        "delta": 46
-      },
-      {
-        "country": "AU",
-        "name": "Lumy AI - Photo Editor",
-        "developer": "Ocean Float Mobile",
-        "prev_rank": 88,
-        "curr_rank": 72,
-        "delta": 16
-      },
-      {
-        "country": "AU",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 68,
-        "curr_rank": 56,
-        "delta": 12
-      },
-      {
-        "country": "AU",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 61,
-        "curr_rank": 51,
-        "delta": 10
+        "prev_rank": 40,
+        "curr_rank": 17,
+        "delta": 23
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 93,
-        "curr_rank": 58,
-        "delta": 35
-      },
-      {
-        "country": "DE",
-        "name": "Clicked: AI Editor & Beautify",
-        "developer": "Clicked",
-        "prev_rank": 64,
-        "curr_rank": 52,
-        "delta": 12
+        "name": "Glam KI, AI Bilder Bearbeiten",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 92,
+        "curr_rank": 72,
+        "delta": 20
       }
     ],
-    "KR": [
+    "GB": [
       {
-        "country": "KR",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME",
-        "prev_rank": 73,
-        "curr_rank": 46,
-        "delta": 27
+        "country": "GB",
+        "name": "FaceEra – Age & Photo AI",
+        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+        "prev_rank": 93,
+        "curr_rank": 74,
+        "delta": 19
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "Photo identité - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 100,
-        "curr_rank": 78,
-        "delta": 22
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 83,
+        "curr_rank": 67,
+        "delta": 16
+      },
+      {
+        "country": "FR",
+        "name": "Facelab: Retouche Visage・Corps",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 68,
+        "curr_rank": 53,
+        "delta": 15
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 84,
+        "curr_rank": 69,
+        "delta": 15
       }
     ],
     "ID": [
@@ -199,62 +161,54 @@
         "country": "ID",
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 90,
-        "curr_rank": 68,
-        "delta": 22
+        "prev_rank": 68,
+        "curr_rank": 53,
+        "delta": 15
+      },
+      {
+        "country": "ID",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 99,
+        "curr_rank": 85,
+        "delta": 14
       }
     ],
     "BR": [
       {
         "country": "BR",
-        "name": "Hela AI: Photo Video Generator",
-        "developer": "Hypernova Limited",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
         "prev_rank": 87,
-        "curr_rank": 69,
-        "delta": 18
+        "curr_rank": 73,
+        "delta": 14
       }
     ],
-    "US": [
+    "JP": [
       {
-        "country": "US",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
+        "country": "JP",
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
         "prev_rank": 82,
-        "curr_rank": 67,
-        "delta": 15
-      },
-      {
-        "country": "US",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 77,
-        "curr_rank": 66,
-        "delta": 11
-      },
-      {
-        "country": "US",
-        "name": "Aura Frames",
-        "developer": "Aura Home, Inc.",
-        "prev_rank": 58,
-        "curr_rank": 48,
-        "delta": 10
+        "curr_rank": 68,
+        "delta": 14
       }
     ],
-    "GB": [
+    "KR": [
       {
-        "country": "GB",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 64,
-        "curr_rank": 53,
-        "delta": 11
+        "country": "KR",
+        "name": "Muse: 릴스 동영상 편집 & AI",
+        "developer": "Bigrowth",
+        "prev_rank": 74,
+        "curr_rank": 64,
+        "delta": 10
       },
       {
-        "country": "GB",
-        "name": "Setty: Photo Editor & Filters",
-        "developer": "A Color Story LLC",
-        "prev_rank": 94,
-        "curr_rank": 84,
+        "country": "KR",
+        "name": "Adobe Premiere AI 비디오 에디터",
+        "developer": "Adobe Inc.",
+        "prev_rank": 97,
+        "curr_rank": 87,
         "delta": 10
       }
     ]
@@ -263,22 +217,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Zoombo: Nano AI Studio leads with +46 jump in AU"
+      "text": "Zoombo: Nano AI Studio leads with +23 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 4 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Zoombo: Nano AI Studio rising in 2 markets: AU, US"
+      "text": "FR has 2 rising apps - highest activity today"
     }
   ],
   "meta": {
-    "prev_date": "2026-07-26",
-    "curr_date": "2026-07-27",
+    "prev_date": "2026-07-27",
+    "curr_date": "2026-07-28",
     "days": 1
   }
 }
