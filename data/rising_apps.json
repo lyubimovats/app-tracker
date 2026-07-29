@@ -1,209 +1,119 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "Airbrush - Éditeur Photo",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 50,
-      "curr_rank": 21,
-      "delta": 29
-    },
-    {
-      "country": "DE",
-      "name": "Glam KI, AI Bilder Bearbeiten",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 92,
-      "curr_rank": 69,
-      "delta": 23
-    },
-    {
-      "country": "AU",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 40,
-      "curr_rank": 17,
-      "delta": 23
-    },
-    {
-      "country": "US",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 84,
-      "curr_rank": 66,
-      "delta": 18
-    },
-    {
-      "country": "FR",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 83,
-      "curr_rank": 65,
-      "delta": 18
-    },
-    {
       "country": "BR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 87,
-      "curr_rank": 71,
-      "delta": 16
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 68,
-      "curr_rank": 54,
-      "delta": 14
+      "name": "Genie AI - AI Video Generator",
+      "developer": "发家 罗",
+      "prev_rank": 88,
+      "curr_rank": 58,
+      "delta": 30
     },
     {
       "country": "GB",
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 93,
-      "curr_rank": 80,
-      "delta": 13
+      "prev_rank": 80,
+      "curr_rank": 60,
+      "delta": 20
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 54,
+      "curr_rank": 35,
+      "delta": 19
+    },
+    {
+      "country": "ID",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 94,
+      "curr_rank": 76,
+      "delta": 18
+    },
+    {
+      "country": "US",
+      "name": "Glowify - AI Hairstyle Try On",
+      "developer": "Flarial Interactive",
+      "prev_rank": 77,
+      "curr_rank": 62,
+      "delta": 15
     },
     {
       "country": "BR",
-      "name": "Hela AI: Photo Video Generator",
-      "developer": "Hypernova Limited",
-      "prev_rank": 69,
-      "curr_rank": 56,
-      "delta": 13
-    },
-    {
-      "country": "JP",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 82,
-      "curr_rank": 69,
-      "delta": 13
+      "name": "Flow AI: Criador De Video IA",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 77,
+      "curr_rank": 62,
+      "delta": 15
     },
     {
       "country": "FR",
-      "name": "Facelab: Retouche Visage・Corps",
-      "developer": "IRONTECH LIMITED",
-      "prev_rank": 68,
-      "curr_rank": 57,
-      "delta": 11
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 65,
+      "curr_rank": 52,
+      "delta": 13
     },
     {
-      "country": "KR",
-      "name": "Adobe Premiere AI 비디오 에디터",
-      "developer": "Adobe Inc.",
-      "prev_rank": 97,
-      "curr_rank": 86,
-      "delta": 11
+      "country": "GB",
+      "name": "Photica・Live Photo AI Animator",
+      "developer": "Comapps LLC",
+      "prev_rank": 89,
+      "curr_rank": 77,
+      "delta": 12
     },
     {
       "country": "AU",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 56,
-      "curr_rank": 45,
+      "name": "Live Photo: AI Image Generator",
+      "developer": "Bosger LLC",
+      "prev_rank": 100,
+      "curr_rank": 88,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 67,
+      "curr_rank": 56,
       "delta": 11
     },
     {
       "country": "GB",
-      "name": "Passport Photo - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 89,
-      "curr_rank": 79,
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 39,
+      "curr_rank": 29,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Muse: Reels Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 71,
+      "curr_rank": 61,
       "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Airbrush - Éditeur Photo",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 50,
-        "curr_rank": 21,
-        "delta": 29
-      },
-      {
-        "country": "FR",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 83,
-        "curr_rank": 65,
-        "delta": 18
-      },
-      {
-        "country": "FR",
-        "name": "Facelab: Retouche Visage・Corps",
-        "developer": "IRONTECH LIMITED",
-        "prev_rank": 68,
-        "curr_rank": 57,
-        "delta": 11
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Glam KI, AI Bilder Bearbeiten",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 92,
-        "curr_rank": 69,
-        "delta": 23
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 40,
-        "curr_rank": 17,
-        "delta": 23
-      },
-      {
-        "country": "AU",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 56,
-        "curr_rank": 45,
-        "delta": 11
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 84,
-        "curr_rank": 66,
-        "delta": 18
-      }
-    ],
     "BR": [
       {
         "country": "BR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 87,
-        "curr_rank": 71,
-        "delta": 16
+        "name": "Genie AI - AI Video Generator",
+        "developer": "发家 罗",
+        "prev_rank": 88,
+        "curr_rank": 58,
+        "delta": 30
       },
       {
         "country": "BR",
-        "name": "Hela AI: Photo Video Generator",
-        "developer": "Hypernova Limited",
-        "prev_rank": 69,
-        "curr_rank": 56,
-        "delta": 13
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 68,
-        "curr_rank": 54,
-        "delta": 14
+        "name": "Flow AI: Criador De Video IA",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 77,
+        "curr_rank": 62,
+        "delta": 15
       }
     ],
     "GB": [
@@ -211,36 +121,88 @@
         "country": "GB",
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 93,
-        "curr_rank": 80,
-        "delta": 13
+        "prev_rank": 80,
+        "curr_rank": 60,
+        "delta": 20
       },
       {
         "country": "GB",
-        "name": "Passport Photo - PhotoAiD",
-        "developer": "Photo Aid",
+        "name": "Photica・Live Photo AI Animator",
+        "developer": "Comapps LLC",
         "prev_rank": 89,
-        "curr_rank": 79,
+        "curr_rank": 77,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 39,
+        "curr_rank": 29,
         "delta": 10
       }
     ],
-    "JP": [
+    "ID": [
       {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 82,
-        "curr_rank": 69,
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 54,
+        "curr_rank": 35,
+        "delta": 19
+      },
+      {
+        "country": "ID",
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 94,
+        "curr_rank": 76,
+        "delta": 18
+      },
+      {
+        "country": "ID",
+        "name": "Muse: Reels Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 71,
+        "curr_rank": 61,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Glowify - AI Hairstyle Try On",
+        "developer": "Flarial Interactive",
+        "prev_rank": 77,
+        "curr_rank": 62,
+        "delta": 15
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 65,
+        "curr_rank": 52,
         "delta": 13
       }
     ],
-    "KR": [
+    "AU": [
       {
-        "country": "KR",
-        "name": "Adobe Premiere AI 비디오 에디터",
+        "country": "AU",
+        "name": "Live Photo: AI Image Generator",
+        "developer": "Bosger LLC",
+        "prev_rank": 100,
+        "curr_rank": 88,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Adobe Premiere AI Video Editor",
         "developer": "Adobe Inc.",
-        "prev_rank": 97,
-        "curr_rank": 86,
+        "prev_rank": 67,
+        "curr_rank": 56,
         "delta": 11
       }
     ]
@@ -249,22 +211,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Airbrush - Éditeur Photo leads with +29 jump in FR"
+      "text": "Genie AI - AI Video Generator leads with +30 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "FR has 3 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Cantina: AI Video & Characters rising in 2 markets: FR, AU"
+      "text": "GB has 3 rising apps - highest activity today"
     }
   ],
   "meta": {
-    "prev_date": "2026-07-27",
-    "curr_date": "2026-07-28",
+    "prev_date": "2026-07-28",
+    "curr_date": "2026-07-29",
     "days": 1
   }
 }
