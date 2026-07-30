@@ -5,32 +5,32 @@
       "name": "AIPhoto: Image Video Generator",
       "developer": "Le Anh Tuan",
       "prev_rank": 90,
-      "curr_rank": 19,
-      "delta": 71
+      "curr_rank": 21,
+      "delta": 69
     },
     {
       "country": "BR",
       "name": "Facelab・Editor de Rosto, Corpo",
       "developer": "IRONTECH LIMITED",
       "prev_rank": 91,
+      "curr_rank": 72,
+      "delta": 19
+    },
+    {
+      "country": "AU",
+      "name": "Lumy AI - Photo Editor",
+      "developer": "Ocean Float Mobile",
+      "prev_rank": 89,
       "curr_rank": 71,
-      "delta": 20
+      "delta": 18
     },
     {
       "country": "JP",
       "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
       "developer": "ALWAYS RISING PTE. LTD.",
       "prev_rank": 74,
-      "curr_rank": 54,
-      "delta": 20
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Editor, Remove Object",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 96,
-      "curr_rank": 77,
-      "delta": 19
+      "curr_rank": 57,
+      "delta": 17
     },
     {
       "country": "US",
@@ -41,11 +41,19 @@
       "delta": 16
     },
     {
-      "country": "AU",
-      "name": "Lumy AI - Photo Editor",
-      "developer": "Ocean Float Mobile",
-      "prev_rank": 89,
+      "country": "KR",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 90,
       "curr_rank": 74,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "Blur Photo Editor & Mosaic",
+      "developer": "Yu Abe",
+      "prev_rank": 80,
+      "curr_rank": 65,
       "delta": 15
     },
     {
@@ -57,27 +65,11 @@
       "delta": 14
     },
     {
-      "country": "GB",
-      "name": "Blur Photo Editor & Mosaic",
-      "developer": "Yu Abe",
-      "prev_rank": 80,
-      "curr_rank": 66,
-      "delta": 14
-    },
-    {
       "country": "IN",
       "name": "KwaiCut - Video Editor",
       "developer": "Kwai Technology Limited",
       "prev_rank": 56,
       "curr_rank": 43,
-      "delta": 13
-    },
-    {
-      "country": "ID",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "prev_rank": 77,
-      "curr_rank": 64,
       "delta": 13
     },
     {
@@ -89,6 +81,14 @@
       "delta": 13
     },
     {
+      "country": "GB",
+      "name": "Muse: Reels Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 60,
+      "curr_rank": 48,
+      "delta": 12
+    },
+    {
       "country": "IN",
       "name": "AI Art-Photo&Face Editor",
       "developer": "AHAJOY LIMITED",
@@ -97,27 +97,51 @@
       "delta": 12
     },
     {
-      "country": "FR",
-      "name": "Muse AI: Photo to Video",
-      "developer": "志如 宋",
-      "prev_rank": 59,
-      "curr_rank": 48,
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 58,
+      "curr_rank": 46,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Retake AI: Foto & Gesicht",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 82,
+      "curr_rank": 71,
       "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Editor, Remove Object",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 96,
+      "curr_rank": 85,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Meitu AI Photo & Video Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 73,
+      "curr_rank": 63,
+      "delta": 10
     },
     {
       "country": "JP",
       "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
       "developer": "SNOW Corporation",
       "prev_rank": 64,
-      "curr_rank": 53,
-      "delta": 11
+      "curr_rank": 54,
+      "delta": 10
     },
     {
-      "country": "GB",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 60,
-      "curr_rank": 50,
+      "country": "KR",
+      "name": "Hf: AI Video & Image Generator",
+      "developer": "Denis Zhesterev",
+      "prev_rank": 66,
+      "curr_rank": 56,
       "delta": 10
     }
   ],
@@ -128,8 +152,8 @@
         "name": "AIPhoto: Image Video Generator",
         "developer": "Le Anh Tuan",
         "prev_rank": 90,
-        "curr_rank": 19,
-        "delta": 71
+        "curr_rank": 21,
+        "delta": 69
       },
       {
         "country": "IN",
@@ -154,44 +178,18 @@
         "name": "Facelab・Editor de Rosto, Corpo",
         "developer": "IRONTECH LIMITED",
         "prev_rank": 91,
-        "curr_rank": 71,
-        "delta": 20
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 74,
-        "curr_rank": 54,
-        "delta": 20
-      },
-      {
-        "country": "JP",
-        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-        "developer": "SNOW Corporation",
-        "prev_rank": 64,
-        "curr_rank": 53,
-        "delta": 11
+        "curr_rank": 72,
+        "delta": 19
       }
     ],
     "AU": [
       {
         "country": "AU",
-        "name": "AI Photo Editor, Remove Object",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 96,
-        "curr_rank": 77,
-        "delta": 19
-      },
-      {
-        "country": "AU",
         "name": "Lumy AI - Photo Editor",
         "developer": "Ocean Float Mobile",
         "prev_rank": 89,
-        "curr_rank": 74,
-        "delta": 15
+        "curr_rank": 71,
+        "delta": 18
       },
       {
         "country": "AU",
@@ -200,6 +198,40 @@
         "prev_rank": 34,
         "curr_rank": 21,
         "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 58,
+        "curr_rank": 46,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "AI Photo Editor, Remove Object",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 96,
+        "curr_rank": 85,
+        "delta": 11
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 74,
+        "curr_rank": 57,
+        "delta": 17
+      },
+      {
+        "country": "JP",
+        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+        "developer": "SNOW Corporation",
+        "prev_rank": 64,
+        "curr_rank": 54,
+        "delta": 10
       }
     ],
     "US": [
@@ -220,42 +252,58 @@
         "delta": 14
       }
     ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Remini - AI Photo Enhancer",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 90,
+        "curr_rank": 74,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "Hf: AI Video & Image Generator",
+        "developer": "Denis Zhesterev",
+        "prev_rank": 66,
+        "curr_rank": 56,
+        "delta": 10
+      }
+    ],
     "GB": [
       {
         "country": "GB",
         "name": "Blur Photo Editor & Mosaic",
         "developer": "Yu Abe",
         "prev_rank": 80,
-        "curr_rank": 66,
-        "delta": 14
+        "curr_rank": 65,
+        "delta": 15
       },
       {
         "country": "GB",
         "name": "Muse: Reels Video Editor",
         "developer": "Bigrowth",
         "prev_rank": 60,
-        "curr_rank": 50,
-        "delta": 10
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Fotura: AI PhotoKit",
-        "developer": "Thanh Nguyen Duy",
-        "prev_rank": 77,
-        "curr_rank": 64,
-        "delta": 13
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Muse AI: Photo to Video",
-        "developer": "志如 宋",
-        "prev_rank": 59,
         "curr_rank": 48,
+        "delta": 12
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Retake AI: Foto & Gesicht",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 82,
+        "curr_rank": 71,
         "delta": 11
+      },
+      {
+        "country": "DE",
+        "name": "Meitu AI Photo & Video Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 73,
+        "curr_rank": 63,
+        "delta": 10
       }
     ]
   },
@@ -263,12 +311,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AIPhoto: Image Video Generator leads with +71 jump in IN"
+      "text": "AIPhoto: Image Video Generator leads with +69 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "IN has 3 rising apps - highest activity today"
+      "text": "AU has 4 rising apps - highest activity today"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "AI Photo Video Editor, Enhance rising in 2 markets: US, AU"
     }
   ],
   "meta": {
