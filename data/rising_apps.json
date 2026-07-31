@@ -5,8 +5,16 @@
       "name": "WayShot:Aesthetic Photo Editor",
       "developer": "Romangic Lab LLC",
       "prev_rank": 50,
-      "curr_rank": 29,
-      "delta": 21
+      "curr_rank": 30,
+      "delta": 20
+    },
+    {
+      "country": "FR",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 80,
+      "curr_rank": 62,
+      "delta": 18
     },
     {
       "country": "ID",
@@ -17,43 +25,35 @@
       "delta": 16
     },
     {
-      "country": "GB",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 91,
-      "curr_rank": 79,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "AI Video – KI-Video-Generator",
-      "developer": "HUBX",
-      "prev_rank": 88,
-      "curr_rank": 76,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 80,
-      "curr_rank": 68,
-      "delta": 12
-    },
-    {
-      "country": "ID",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 73,
-      "curr_rank": 61,
-      "delta": 12
+      "country": "IN",
+      "name": "FilmLook - AI Camera",
+      "developer": "Khanh Thong Le",
+      "prev_rank": 62,
+      "curr_rank": 48,
+      "delta": 14
     },
     {
       "country": "GB",
       "name": "InShot - AI Video Editor",
       "developer": "SHANTANU PTE. LTD.",
       "prev_rank": 34,
-      "curr_rank": 23,
+      "curr_rank": 22,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "AI Photo Editor - BgMaster™",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 91,
+      "curr_rank": 80,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 91,
+      "curr_rank": 80,
       "delta": 11
     },
     {
@@ -65,11 +65,19 @@
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "AI Photo Editor - BgMaster™",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 91,
-      "curr_rank": 81,
+      "country": "KR",
+      "name": "Adobe Premiere AI 비디오 에디터",
+      "developer": "Adobe Inc.",
+      "prev_rank": 97,
+      "curr_rank": 86,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 80,
+      "curr_rank": 70,
       "delta": 10
     }
   ],
@@ -80,16 +88,26 @@
         "name": "WayShot:Aesthetic Photo Editor",
         "developer": "Romangic Lab LLC",
         "prev_rank": 50,
-        "curr_rank": 29,
-        "delta": 21
+        "curr_rank": 30,
+        "delta": 20
       },
       {
         "country": "US",
         "name": "AI Photo Editor - BgMaster™",
         "developer": "COOL SUMMER LIMITED",
         "prev_rank": 91,
-        "curr_rank": 81,
-        "delta": 10
+        "curr_rank": 80,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Fotura: AI PhotoKit",
+        "developer": "Thanh Nguyen Duy",
+        "prev_rank": 80,
+        "curr_rank": 62,
+        "delta": 18
       }
     ],
     "ID": [
@@ -100,52 +118,34 @@
         "prev_rank": 66,
         "curr_rank": 50,
         "delta": 16
-      },
+      }
+    ],
+    "IN": [
       {
-        "country": "ID",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 73,
-        "curr_rank": 61,
-        "delta": 12
+        "country": "IN",
+        "name": "FilmLook - AI Camera",
+        "developer": "Khanh Thong Le",
+        "prev_rank": 62,
+        "curr_rank": 48,
+        "delta": 14
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 91,
-        "curr_rank": 79,
+        "name": "InShot - AI Video Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 34,
+        "curr_rank": 22,
         "delta": 12
       },
       {
         "country": "GB",
-        "name": "InShot - AI Video Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 34,
-        "curr_rank": 23,
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 91,
+        "curr_rank": 80,
         "delta": 11
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "AI Video – KI-Video-Generator",
-        "developer": "HUBX",
-        "prev_rank": 88,
-        "curr_rank": 76,
-        "delta": 12
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 80,
-        "curr_rank": 68,
-        "delta": 12
       }
     ],
     "KR": [
@@ -156,6 +156,24 @@
         "prev_rank": 53,
         "curr_rank": 42,
         "delta": 11
+      },
+      {
+        "country": "KR",
+        "name": "Adobe Premiere AI 비디오 에디터",
+        "developer": "Adobe Inc.",
+        "prev_rank": 97,
+        "curr_rank": 86,
+        "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 80,
+        "curr_rank": 70,
+        "delta": 10
       }
     ]
   },
@@ -163,17 +181,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "WayShot:Aesthetic Photo Editor leads with +21 jump in US"
+      "text": "WayShot:Aesthetic Photo Editor leads with +20 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
       "text": "US has 2 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Tezza: Aesthetic Photo Editor rising in 2 markets: BR, ID"
     }
   ],
   "meta": {
