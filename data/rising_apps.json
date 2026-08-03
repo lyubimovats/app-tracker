@@ -1,20 +1,44 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 94,
-      "curr_rank": 71,
-      "delta": 23
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 84,
+      "curr_rank": 56,
+      "delta": 28
     },
     {
       "country": "KR",
       "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
       "developer": "PICME",
       "prev_rank": 57,
-      "curr_rank": 37,
-      "delta": 20
+      "curr_rank": 36,
+      "delta": 21
+    },
+    {
+      "country": "FR",
+      "name": "Photo identité - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 92,
+      "curr_rank": 73,
+      "delta": 19
+    },
+    {
+      "country": "FR",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 94,
+      "curr_rank": 77,
+      "delta": 17
+    },
+    {
+      "country": "AU",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 68,
+      "curr_rank": 51,
+      "delta": 17
     },
     {
       "country": "BR",
@@ -25,38 +49,6 @@
       "delta": 16
     },
     {
-      "country": "AU",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 68,
-      "curr_rank": 52,
-      "delta": 16
-    },
-    {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 84,
-      "curr_rank": 69,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 74,
-      "curr_rank": 60,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 65,
-      "curr_rank": 51,
-      "delta": 14
-    },
-    {
       "country": "US",
       "name": "AI Photo Video Editor, Enhance",
       "developer": "COOL SUMMER LIMITED",
@@ -65,36 +57,20 @@
       "delta": 13
     },
     {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 65,
+      "curr_rank": 52,
+      "delta": 13
+    },
+    {
       "country": "AU",
       "name": "MePic – AI Photo Video Gen",
       "developer": "Ocean Float Mobile",
       "prev_rank": 58,
-      "curr_rank": 45,
-      "delta": 13
-    },
-    {
-      "country": "FR",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Xiamen Meitu Technology Co., Ltd.",
-      "prev_rank": 77,
-      "curr_rank": 65,
+      "curr_rank": 46,
       "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Blur Photo Editor & Mosaic",
-      "developer": "Yu Abe",
-      "prev_rank": 89,
-      "curr_rank": 78,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 54,
-      "curr_rank": 44,
-      "delta": 10
     },
     {
       "country": "BR",
@@ -103,33 +79,17 @@
       "prev_rank": 89,
       "curr_rank": 79,
       "delta": 10
-    },
-    {
-      "country": "IN",
-      "name": "FilmLook - AI Camera",
-      "developer": "Khanh Thong Le",
-      "prev_rank": 45,
-      "curr_rank": 35,
-      "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
+    "DE": [
       {
-        "country": "FR",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 94,
-        "curr_rank": 71,
-        "delta": 23
-      },
-      {
-        "country": "FR",
-        "name": "Meitu AI Photo & Video Editor",
-        "developer": "Xiamen Meitu Technology Co., Ltd.",
-        "prev_rank": 77,
-        "curr_rank": 65,
-        "delta": 12
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 84,
+        "curr_rank": 56,
+        "delta": 28
       }
     ],
     "KR": [
@@ -138,8 +98,44 @@
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 57,
-        "curr_rank": 37,
-        "delta": 20
+        "curr_rank": 36,
+        "delta": 21
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Photo identité - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 92,
+        "curr_rank": 73,
+        "delta": 19
+      },
+      {
+        "country": "FR",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 94,
+        "curr_rank": 77,
+        "delta": 17
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 68,
+        "curr_rank": 51,
+        "delta": 17
+      },
+      {
+        "country": "AU",
+        "name": "MePic – AI Photo Video Gen",
+        "developer": "Ocean Float Mobile",
+        "prev_rank": 58,
+        "curr_rank": 46,
+        "delta": 12
       }
     ],
     "BR": [
@@ -160,70 +156,6 @@
         "delta": 10
       }
     ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 68,
-        "curr_rank": 52,
-        "delta": 16
-      },
-      {
-        "country": "AU",
-        "name": "MePic – AI Photo Video Gen",
-        "developer": "Ocean Float Mobile",
-        "prev_rank": 58,
-        "curr_rank": 45,
-        "delta": 13
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 84,
-        "curr_rank": 69,
-        "delta": 15
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 74,
-        "curr_rank": 60,
-        "delta": 14
-      },
-      {
-        "country": "GB",
-        "name": "Blur Photo Editor & Mosaic",
-        "developer": "Yu Abe",
-        "prev_rank": 89,
-        "curr_rank": 78,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 54,
-        "curr_rank": 44,
-        "delta": 10
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 65,
-        "curr_rank": 51,
-        "delta": 14
-      }
-    ],
     "US": [
       {
         "country": "US",
@@ -234,14 +166,14 @@
         "delta": 13
       }
     ],
-    "IN": [
+    "ID": [
       {
-        "country": "IN",
-        "name": "FilmLook - AI Camera",
-        "developer": "Khanh Thong Le",
-        "prev_rank": 45,
-        "curr_rank": 35,
-        "delta": 10
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 65,
+        "curr_rank": 52,
+        "delta": 13
       }
     ]
   },
@@ -249,17 +181,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Catch: AI Video Generator leads with +23 jump in FR"
+      "text": "Passfoto - PhotoAiD leads with +28 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 3 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "AI Photo Video Editor, Enhance rising in 2 markets: US, GB"
+      "text": "FR has 2 rising apps - highest activity today"
     }
   ],
   "meta": {
