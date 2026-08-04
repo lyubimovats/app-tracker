@@ -5,23 +5,31 @@
       "name": "Promptly - AI Video Editor",
       "developer": "zac libman",
       "prev_rank": 87,
-      "curr_rank": 43,
-      "delta": 44
+      "curr_rank": 42,
+      "delta": 45
     },
     {
       "country": "IN",
       "name": "AIPhoto: Image Video Generator",
       "developer": "Le Anh Tuan",
       "prev_rank": 99,
-      "curr_rank": 63,
-      "delta": 36
+      "curr_rank": 64,
+      "delta": 35
     },
     {
       "country": "BR",
       "name": "AI Catch: IA Vídeo Gerador",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 47,
-      "curr_rank": 21,
+      "curr_rank": 17,
+      "delta": 30
+    },
+    {
+      "country": "DE",
+      "name": "Clicked: AI Editor & Beautify",
+      "developer": "Clicked",
+      "prev_rank": 84,
+      "curr_rank": 58,
       "delta": 26
     },
     {
@@ -29,8 +37,8 @@
       "name": "Captions: AI Edits Your Video",
       "developer": "Captions, LLC (US)",
       "prev_rank": 68,
-      "curr_rank": 45,
-      "delta": 23
+      "curr_rank": 43,
+      "delta": 25
     },
     {
       "country": "BR",
@@ -41,28 +49,52 @@
       "delta": 16
     },
     {
-      "country": "GB",
-      "name": "Blur Photo Editor & Mosaic",
-      "developer": "Yu Abe",
-      "prev_rank": 80,
-      "curr_rank": 65,
-      "delta": 15
-    },
-    {
-      "country": "DE",
-      "name": "Clicked: AI Editor & Beautify",
-      "developer": "Clicked",
-      "prev_rank": 84,
-      "curr_rank": 69,
-      "delta": 15
-    },
-    {
       "country": "ID",
       "name": "AI Catch: AI Video Generator",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 100,
-      "curr_rank": 87,
+      "curr_rank": 85,
+      "delta": 15
+    },
+    {
+      "country": "GB",
+      "name": "Blur Photo Editor & Mosaic",
+      "developer": "Yu Abe",
+      "prev_rank": 80,
+      "curr_rank": 67,
       "delta": 13
+    },
+    {
+      "country": "JP",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 60,
+      "curr_rank": 47,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 59,
+      "curr_rank": 46,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 92,
+      "curr_rank": 80,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "FaceLab: Face Age, Hair Filter",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 83,
+      "curr_rank": 72,
+      "delta": 11
     },
     {
       "country": "BR",
@@ -73,35 +105,35 @@
       "delta": 11
     },
     {
-      "country": "KR",
-      "name": "Muse: 릴스 동영상 편집 & AI",
-      "developer": "Bigrowth",
-      "prev_rank": 70,
-      "curr_rank": 59,
-      "delta": 11
-    },
-    {
-      "country": "AU",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 87,
-      "curr_rank": 76,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "FaceLab: Face Age, Hair Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 83,
-      "curr_rank": 73,
-      "delta": 10
-    },
-    {
       "country": "AU",
       "name": "eCalendar - Daily Planner",
       "developer": "Shenzhen Fujia Technology Co., Ltd.",
       "prev_rank": 62,
-      "curr_rank": 52,
+      "curr_rank": 51,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "Muse: 릴스 동영상 편집 & AI",
+      "developer": "Bigrowth",
+      "prev_rank": 70,
+      "curr_rank": 60,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 35,
+      "curr_rank": 25,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "ReelMe AI: Daily Photo & Trend",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 77,
+      "curr_rank": 67,
       "delta": 10
     }
   ],
@@ -112,16 +144,24 @@
         "name": "Promptly - AI Video Editor",
         "developer": "zac libman",
         "prev_rank": 87,
-        "curr_rank": 43,
-        "delta": 44
+        "curr_rank": 42,
+        "delta": 45
       },
       {
         "country": "IN",
         "name": "AIPhoto: Image Video Generator",
         "developer": "Le Anh Tuan",
         "prev_rank": 99,
-        "curr_rank": 63,
-        "delta": 36
+        "curr_rank": 64,
+        "delta": 35
+      },
+      {
+        "country": "IN",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 35,
+        "curr_rank": 25,
+        "delta": 10
       }
     ],
     "BR": [
@@ -130,8 +170,8 @@
         "name": "AI Catch: IA Vídeo Gerador",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 47,
-        "curr_rank": 21,
-        "delta": 26
+        "curr_rank": 17,
+        "delta": 30
       },
       {
         "country": "BR",
@@ -150,32 +190,40 @@
         "delta": 11
       }
     ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 68,
-        "curr_rank": 45,
-        "delta": 23
-      },
-      {
-        "country": "GB",
-        "name": "Blur Photo Editor & Mosaic",
-        "developer": "Yu Abe",
-        "prev_rank": 80,
-        "curr_rank": 65,
-        "delta": 15
-      }
-    ],
     "DE": [
       {
         "country": "DE",
         "name": "Clicked: AI Editor & Beautify",
         "developer": "Clicked",
         "prev_rank": 84,
-        "curr_rank": 69,
-        "delta": 15
+        "curr_rank": 58,
+        "delta": 26
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 68,
+        "curr_rank": 43,
+        "delta": 25
+      },
+      {
+        "country": "GB",
+        "name": "Blur Photo Editor & Mosaic",
+        "developer": "Yu Abe",
+        "prev_rank": 80,
+        "curr_rank": 67,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 92,
+        "curr_rank": 80,
+        "delta": 12
       }
     ],
     "ID": [
@@ -184,35 +232,35 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 100,
-        "curr_rank": 87,
+        "curr_rank": 85,
+        "delta": 15
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 60,
+        "curr_rank": 47,
         "delta": 13
       }
     ],
     "KR": [
       {
         "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 59,
+        "curr_rank": 46,
+        "delta": 13
+      },
+      {
+        "country": "KR",
         "name": "Muse: 릴스 동영상 편집 & AI",
         "developer": "Bigrowth",
         "prev_rank": 70,
-        "curr_rank": 59,
-        "delta": 11
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 87,
-        "curr_rank": 76,
-        "delta": 11
-      },
-      {
-        "country": "AU",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 62,
-        "curr_rank": 52,
+        "curr_rank": 60,
         "delta": 10
       }
     ],
@@ -222,7 +270,25 @@
         "name": "FaceLab: Face Age, Hair Filter",
         "developer": "Lyrebird Studio",
         "prev_rank": 83,
-        "curr_rank": 73,
+        "curr_rank": 72,
+        "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "eCalendar - Daily Planner",
+        "developer": "Shenzhen Fujia Technology Co., Ltd.",
+        "prev_rank": 62,
+        "curr_rank": 51,
+        "delta": 11
+      },
+      {
+        "country": "AU",
+        "name": "ReelMe AI: Daily Photo & Trend",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 77,
+        "curr_rank": 67,
         "delta": 10
       }
     ]
@@ -231,12 +297,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Promptly - AI Video Editor leads with +44 jump in IN"
+      "text": "Promptly - AI Video Editor leads with +45 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 3 rising apps - highest activity today"
+      "text": "IN has 3 rising apps - highest activity today"
     },
     {
       "type": "app-note",
