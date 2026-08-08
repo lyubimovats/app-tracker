@@ -13,16 +13,16 @@
       "name": "Zoombo: Nano AI Studio",
       "developer": "CoNext Limited",
       "prev_rank": 80,
-      "curr_rank": 41,
-      "delta": 39
+      "curr_rank": 46,
+      "delta": 34
     },
     {
       "country": "IN",
       "name": "Promptly - AI Video Editor",
       "developer": "zac libman",
       "prev_rank": 97,
-      "curr_rank": 62,
-      "delta": 35
+      "curr_rank": 66,
+      "delta": 31
     },
     {
       "country": "BR",
@@ -37,32 +37,32 @@
       "name": "Setty: Photo Editor & Filters",
       "developer": "A Color Story LLC",
       "prev_rank": 72,
-      "curr_rank": 48,
-      "delta": 24
+      "curr_rank": 47,
+      "delta": 25
+    },
+    {
+      "country": "AU",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 99,
+      "curr_rank": 79,
+      "delta": 20
     },
     {
       "country": "GB",
       "name": "ReelMe: AI Photo & Video",
       "developer": "TPC INVEST PTE.LTD",
       "prev_rank": 98,
-      "curr_rank": 80,
-      "delta": 18
+      "curr_rank": 79,
+      "delta": 19
     },
     {
       "country": "KR",
-      "name": "mevu 미브 - AI 사진 & 증명사진",
-      "developer": "ESTaid Corp.",
-      "prev_rank": 88,
-      "curr_rank": 71,
+      "name": "Hf: AI Video & Image Generator",
+      "developer": "Denis Zhesterev",
+      "prev_rank": 67,
+      "curr_rank": 50,
       "delta": 17
-    },
-    {
-      "country": "GB",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 77,
-      "curr_rank": 61,
-      "delta": 16
     },
     {
       "country": "ID",
@@ -73,59 +73,19 @@
       "delta": 16
     },
     {
-      "country": "GB",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 99,
-      "curr_rank": 84,
-      "delta": 15
-    },
-    {
       "country": "KR",
-      "name": "Hf: AI Video & Image Generator",
-      "developer": "Denis Zhesterev",
-      "prev_rank": 67,
-      "curr_rank": 52,
-      "delta": 15
+      "name": "mevu 미브 - AI 사진 & 증명사진",
+      "developer": "ESTaid Corp.",
+      "prev_rank": 88,
+      "curr_rank": 74,
+      "delta": 14
     },
     {
       "country": "IN",
-      "name": "PicsRoom - AI Photo Generator",
-      "developer": "HAPPY TOOLS HK LIMITED",
-      "prev_rank": 90,
-      "curr_rank": 75,
-      "delta": 15
-    },
-    {
-      "country": "ID",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 85,
-      "curr_rank": 70,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Peachy - AI Face & Body Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 95,
-      "curr_rank": 82,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 76,
-      "curr_rank": 63,
-      "delta": 13
-    },
-    {
-      "country": "AU",
-      "name": "Airbrush: Face Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 99,
-      "curr_rank": 86,
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 92,
+      "curr_rank": 79,
       "delta": 13
     },
     {
@@ -138,42 +98,42 @@
     },
     {
       "country": "GB",
-      "name": "Muse AI: Photo to Video",
-      "developer": "志如 宋",
-      "prev_rank": 47,
-      "curr_rank": 35,
-      "delta": 12
-    },
-    {
-      "country": "ID",
-      "name": "Animator - AI photo dance",
-      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-      "prev_rank": 71,
-      "curr_rank": 59,
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 77,
+      "curr_rank": 65,
       "delta": 12
     },
     {
       "country": "GB",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 58,
-      "curr_rank": 48,
-      "delta": 10
-    },
-    {
-      "country": "IN",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 46,
-      "curr_rank": 36,
-      "delta": 10
-    },
-    {
-      "country": "AU",
       "name": "Muse AI: Photo to Video",
       "developer": "志如 宋",
-      "prev_rank": 91,
-      "curr_rank": 81,
+      "prev_rank": 47,
+      "curr_rank": 36,
+      "delta": 11
+    },
+    {
+      "country": "ID",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 85,
+      "curr_rank": 74,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Splice - Video Editor & Maker",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 72,
+      "curr_rank": 62,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 76,
+      "curr_rank": 66,
       "delta": 10
     }
   ],
@@ -189,19 +149,19 @@
       },
       {
         "country": "KR",
-        "name": "mevu 미브 - AI 사진 & 증명사진",
-        "developer": "ESTaid Corp.",
-        "prev_rank": 88,
-        "curr_rank": 71,
+        "name": "Hf: AI Video & Image Generator",
+        "developer": "Denis Zhesterev",
+        "prev_rank": 67,
+        "curr_rank": 50,
         "delta": 17
       },
       {
         "country": "KR",
-        "name": "Hf: AI Video & Image Generator",
-        "developer": "Denis Zhesterev",
-        "prev_rank": 67,
-        "curr_rank": 52,
-        "delta": 15
+        "name": "mevu 미브 - AI 사진 & 증명사진",
+        "developer": "ESTaid Corp.",
+        "prev_rank": 88,
+        "curr_rank": 74,
+        "delta": 14
       }
     ],
     "FR": [
@@ -210,8 +170,8 @@
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
         "prev_rank": 80,
-        "curr_rank": 41,
-        "delta": 39
+        "curr_rank": 46,
+        "delta": 34
       }
     ],
     "IN": [
@@ -220,24 +180,16 @@
         "name": "Promptly - AI Video Editor",
         "developer": "zac libman",
         "prev_rank": 97,
-        "curr_rank": 62,
-        "delta": 35
+        "curr_rank": 66,
+        "delta": 31
       },
       {
         "country": "IN",
-        "name": "PicsRoom - AI Photo Generator",
-        "developer": "HAPPY TOOLS HK LIMITED",
-        "prev_rank": 90,
-        "curr_rank": 75,
-        "delta": 15
-      },
-      {
-        "country": "IN",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 46,
-        "curr_rank": 36,
-        "delta": 10
+        "name": "AI Video Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 92,
+        "curr_rank": 79,
+        "delta": 13
       }
     ],
     "BR": [
@@ -256,24 +208,16 @@
         "name": "Setty: Photo Editor & Filters",
         "developer": "A Color Story LLC",
         "prev_rank": 72,
-        "curr_rank": 48,
-        "delta": 24
+        "curr_rank": 47,
+        "delta": 25
       },
       {
         "country": "AU",
         "name": "Airbrush: Face Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 99,
-        "curr_rank": 86,
-        "delta": 13
-      },
-      {
-        "country": "AU",
-        "name": "Muse AI: Photo to Video",
-        "developer": "志如 宋",
-        "prev_rank": 91,
-        "curr_rank": 81,
-        "delta": 10
+        "curr_rank": 79,
+        "delta": 20
       }
     ],
     "GB": [
@@ -282,48 +226,24 @@
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 98,
-        "curr_rank": 80,
-        "delta": 18
+        "curr_rank": 79,
+        "delta": 19
       },
       {
         "country": "GB",
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 77,
-        "curr_rank": 61,
-        "delta": 16
-      },
-      {
-        "country": "GB",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 99,
-        "curr_rank": 84,
-        "delta": 15
-      },
-      {
-        "country": "GB",
-        "name": "Peachy - AI Face & Body Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 95,
-        "curr_rank": 82,
-        "delta": 13
+        "curr_rank": 65,
+        "delta": 12
       },
       {
         "country": "GB",
         "name": "Muse AI: Photo to Video",
         "developer": "志如 宋",
         "prev_rank": 47,
-        "curr_rank": 35,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 58,
-        "curr_rank": 48,
-        "delta": 10
+        "curr_rank": 36,
+        "delta": 11
       }
     ],
     "ID": [
@@ -340,26 +260,8 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 85,
-        "curr_rank": 70,
-        "delta": 15
-      },
-      {
-        "country": "ID",
-        "name": "Animator - AI photo dance",
-        "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-        "prev_rank": 71,
-        "curr_rank": 59,
-        "delta": 12
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 76,
-        "curr_rank": 63,
-        "delta": 13
+        "curr_rank": 74,
+        "delta": 11
       }
     ],
     "US": [
@@ -370,6 +272,24 @@
         "prev_rank": 83,
         "curr_rank": 71,
         "delta": 12
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 72,
+        "curr_rank": 62,
+        "delta": 10
+      },
+      {
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 76,
+        "curr_rank": 66,
+        "delta": 10
       }
     ]
   },
@@ -382,12 +302,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 6 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "AgeEra - Face & Photo AI rising in 2 markets: GB, IN"
+      "text": "KR has 3 rising apps - highest activity today"
     }
   ],
   "meta": {
