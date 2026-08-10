@@ -5,8 +5,8 @@
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 90,
-      "curr_rank": 50,
-      "delta": 40
+      "curr_rank": 34,
+      "delta": 56
     },
     {
       "country": "ID",
@@ -25,6 +25,14 @@
       "delta": 26
     },
     {
+      "country": "AU",
+      "name": "Muse AI: Photo to Video",
+      "developer": "志如 宋",
+      "prev_rank": 79,
+      "curr_rank": 55,
+      "delta": 24
+    },
+    {
       "country": "DE",
       "name": "Hypic - Photo Editor & AI Art",
       "developer": "Bytedance Pte. Ltd",
@@ -34,26 +42,26 @@
     },
     {
       "country": "GB",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 55,
+      "curr_rank": 36,
+      "delta": 19
+    },
+    {
+      "country": "GB",
       "name": "Zoombo: Nano AI Studio",
       "developer": "CoNext Limited",
       "prev_rank": 89,
-      "curr_rank": 69,
-      "delta": 20
+      "curr_rank": 70,
+      "delta": 19
     },
     {
-      "country": "AU",
+      "country": "US",
       "name": "Muse AI: Photo to Video",
       "developer": "志如 宋",
-      "prev_rank": 79,
-      "curr_rank": 61,
-      "delta": 18
-    },
-    {
-      "country": "IN",
-      "name": "Animator - AI photo dance",
-      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
-      "prev_rank": 70,
-      "curr_rank": 53,
+      "prev_rank": 95,
+      "curr_rank": 78,
       "delta": 17
     },
     {
@@ -69,23 +77,23 @@
       "name": "EPIK - AI Photo & Video Editor",
       "developer": "SNOW Corporation",
       "prev_rank": 84,
-      "curr_rank": 70,
-      "delta": 14
+      "curr_rank": 69,
+      "delta": 15
+    },
+    {
+      "country": "IN",
+      "name": "Animator - AI photo dance",
+      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+      "prev_rank": 70,
+      "curr_rank": 55,
+      "delta": 15
     },
     {
       "country": "GB",
-      "name": "Hypic - Photo Editor & AI Art",
-      "developer": "Bytedance Pte. Ltd",
-      "prev_rank": 24,
-      "curr_rank": 12,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 55,
-      "curr_rank": 43,
+      "name": "Retake AI: Face & Photo Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 73,
+      "curr_rank": 61,
       "delta": 12
     },
     {
@@ -105,11 +113,11 @@
       "delta": 12
     },
     {
-      "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 75,
-      "curr_rank": 64,
+      "country": "GB",
+      "name": "Hypic - Photo Editor & AI Art",
+      "developer": "Bytedance Pte. Ltd",
+      "prev_rank": 24,
+      "curr_rank": 13,
       "delta": 11
     },
     {
@@ -129,41 +137,9 @@
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 73,
-      "curr_rank": 63,
-      "delta": 10
-    },
-    {
-      "country": "US",
-      "name": "Muse AI: Photo to Video",
-      "developer": "志如 宋",
-      "prev_rank": 95,
-      "curr_rank": 85,
-      "delta": 10
-    },
-    {
       "country": "FR",
       "name": "Muse AI: Photo to Video",
       "developer": "志如 宋",
-      "prev_rank": 66,
-      "curr_rank": 56,
-      "delta": 10
-    },
-    {
-      "country": "IN",
-      "name": "TrimCut - Video Editor",
-      "developer": "CLIPCUT TECHNOLOGY LIMITED",
-      "prev_rank": 90,
-      "curr_rank": 80,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
       "prev_rank": 66,
       "curr_rank": 56,
       "delta": 10
@@ -176,24 +152,16 @@
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 90,
-        "curr_rank": 50,
-        "delta": 40
+        "curr_rank": 34,
+        "delta": 56
       },
       {
         "country": "AU",
         "name": "Muse AI: Photo to Video",
         "developer": "志如 宋",
         "prev_rank": 79,
-        "curr_rank": 61,
-        "delta": 18
-      },
-      {
-        "country": "AU",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 66,
-        "curr_rank": 56,
-        "delta": 10
+        "curr_rank": 55,
+        "delta": 24
       }
     ],
     "ID": [
@@ -243,27 +211,53 @@
     "GB": [
       {
         "country": "GB",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 55,
+        "curr_rank": 36,
+        "delta": 19
+      },
+      {
+        "country": "GB",
         "name": "Zoombo: Nano AI Studio",
         "developer": "CoNext Limited",
         "prev_rank": 89,
-        "curr_rank": 69,
-        "delta": 20
+        "curr_rank": 70,
+        "delta": 19
+      },
+      {
+        "country": "GB",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 73,
+        "curr_rank": 61,
+        "delta": 12
       },
       {
         "country": "GB",
         "name": "Hypic - Photo Editor & AI Art",
         "developer": "Bytedance Pte. Ltd",
         "prev_rank": 24,
-        "curr_rank": 12,
-        "delta": 12
+        "curr_rank": 13,
+        "delta": 11
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Muse AI: Photo to Video",
+        "developer": "志如 宋",
+        "prev_rank": 95,
+        "curr_rank": 78,
+        "delta": 17
       },
       {
-        "country": "GB",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 55,
-        "curr_rank": 43,
-        "delta": 12
+        "country": "US",
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 84,
+        "curr_rank": 69,
+        "delta": 15
       }
     ],
     "IN": [
@@ -272,50 +266,8 @@
         "name": "Animator - AI photo dance",
         "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
         "prev_rank": 70,
-        "curr_rank": 53,
-        "delta": 17
-      },
-      {
-        "country": "IN",
-        "name": "TrimCut - Video Editor",
-        "developer": "CLIPCUT TECHNOLOGY LIMITED",
-        "prev_rank": 90,
-        "curr_rank": 80,
-        "delta": 10
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "EPIK - AI Photo & Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 84,
-        "curr_rank": 70,
-        "delta": 14
-      },
-      {
-        "country": "US",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 75,
-        "curr_rank": 64,
-        "delta": 11
-      },
-      {
-        "country": "US",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 73,
-        "curr_rank": 63,
-        "delta": 10
-      },
-      {
-        "country": "US",
-        "name": "Muse AI: Photo to Video",
-        "developer": "志如 宋",
-        "prev_rank": 95,
-        "curr_rank": 85,
-        "delta": 10
+        "curr_rank": 55,
+        "delta": 15
       }
     ],
     "KR": [
@@ -361,12 +313,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AgeEra - Face & Photo AI leads with +40 jump in AU"
+      "text": "AgeEra - Face & Photo AI leads with +56 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 4 rising apps - highest activity today"
+      "text": "GB has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
