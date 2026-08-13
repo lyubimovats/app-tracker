@@ -1,28 +1,44 @@
 {
   "rising": [
     {
+      "country": "AU",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Xiamen Meitu Technology Co., Ltd.",
+      "prev_rank": 71,
+      "curr_rank": 31,
+      "delta": 40
+    },
+    {
       "country": "IN",
       "name": "PicsRoom - AI Photo Generator",
       "developer": "HAPPY TOOLS HK LIMITED",
       "prev_rank": 64,
-      "curr_rank": 32,
-      "delta": 32
+      "curr_rank": 31,
+      "delta": 33
+    },
+    {
+      "country": "ID",
+      "name": "Zoombo: Nano AI Studio",
+      "developer": "CoNext Limited",
+      "prev_rank": 60,
+      "curr_rank": 36,
+      "delta": 24
     },
     {
       "country": "AU",
       "name": "CarMod - Car modification AI",
       "developer": "Gd Mobil ve Yazılım Hizmetleri Ltd STi",
       "prev_rank": 82,
-      "curr_rank": 54,
-      "delta": 28
+      "curr_rank": 58,
+      "delta": 24
     },
     {
       "country": "US",
       "name": "Movia AI: Photo to Video Maker",
       "developer": "DEEP LINK META LIMITED",
       "prev_rank": 87,
-      "curr_rank": 61,
-      "delta": 26
+      "curr_rank": 65,
+      "delta": 22
     },
     {
       "country": "GB",
@@ -33,145 +49,147 @@
       "delta": 18
     },
     {
-      "country": "ID",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 60,
-      "curr_rank": 43,
-      "delta": 17
-    },
-    {
       "country": "AU",
-      "name": "Prequel: Photo Editor, Filters",
-      "developer": "Prequel Inc.",
-      "prev_rank": 37,
-      "curr_rank": 21,
-      "delta": 16
-    },
-    {
-      "country": "GB",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 83,
-      "curr_rank": 68,
-      "delta": 15
-    },
-    {
-      "country": "FR",
-      "name": "Zoombo: Nano AI Studio",
-      "developer": "CoNext Limited",
-      "prev_rank": 83,
-      "curr_rank": 68,
-      "delta": 15
-    },
-    {
-      "country": "KR",
-      "name": "캐럿 - AI와 무엇이든 만드세요",
-      "developer": "Paradot Corp.",
-      "prev_rank": 71,
-      "curr_rank": 56,
-      "delta": 15
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 96,
+      "curr_rank": 79,
+      "delta": 17
     },
     {
       "country": "FR",
       "name": "Meitu AI Photo & Video Editor",
       "developer": "Xiamen Meitu Technology Co., Ltd.",
       "prev_rank": 96,
-      "curr_rank": 82,
-      "delta": 14
+      "curr_rank": 81,
+      "delta": 15
     },
     {
-      "country": "JP",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 82,
-      "curr_rank": 68,
-      "delta": 14
-    },
-    {
-      "country": "KR",
-      "name": "ElevenLabs: AI Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 85,
-      "curr_rank": 71,
-      "delta": 14
+      "country": "AU",
+      "name": "Prequel: Photo Editor, Filters",
+      "developer": "Prequel Inc.",
+      "prev_rank": 37,
+      "curr_rank": 22,
+      "delta": 15
     },
     {
       "country": "BR",
       "name": "invideo AI: AI video generator",
       "developer": "Invideo Inc",
       "prev_rank": 91,
-      "curr_rank": 79,
-      "delta": 12
+      "curr_rank": 78,
+      "delta": 13
     },
     {
-      "country": "AU",
-      "name": "ElevenLabs: AI Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 41,
-      "curr_rank": 29,
-      "delta": 12
+      "country": "KR",
+      "name": "캐럿 - AI와 무엇이든 만드세요",
+      "developer": "Paradot Corp.",
+      "prev_rank": 71,
+      "curr_rank": 58,
+      "delta": 13
     },
     {
       "country": "BR",
       "name": "AI Video - AI Video Generator",
       "developer": "HUBX",
       "prev_rank": 80,
-      "curr_rank": 70,
-      "delta": 10
+      "curr_rank": 69,
+      "delta": 11
     },
     {
-      "country": "IN",
-      "name": "AI Art-Photo&Face Editor",
-      "developer": "AHAJOY LIMITED",
-      "prev_rank": 28,
-      "curr_rank": 18,
+      "country": "ID",
+      "name": "Woola-AI photo intelligent",
+      "developer": "Beijing Tiger Creative Technology Co., Ltd",
+      "prev_rank": 95,
+      "curr_rank": 84,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "ElevenLabs: AI Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 41,
+      "curr_rank": 30,
+      "delta": 11
+    },
+    {
+      "country": "JP",
+      "name": "PowerDirector - AI動画編集アプリ",
+      "developer": "CyberLink",
+      "prev_rank": 93,
+      "curr_rank": 83,
       "delta": 10
     }
   ],
   "by_country": {
-    "IN": [
-      {
-        "country": "IN",
-        "name": "PicsRoom - AI Photo Generator",
-        "developer": "HAPPY TOOLS HK LIMITED",
-        "prev_rank": 64,
-        "curr_rank": 32,
-        "delta": 32
-      },
-      {
-        "country": "IN",
-        "name": "AI Art-Photo&Face Editor",
-        "developer": "AHAJOY LIMITED",
-        "prev_rank": 28,
-        "curr_rank": 18,
-        "delta": 10
-      }
-    ],
     "AU": [
+      {
+        "country": "AU",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Xiamen Meitu Technology Co., Ltd.",
+        "prev_rank": 71,
+        "curr_rank": 31,
+        "delta": 40
+      },
       {
         "country": "AU",
         "name": "CarMod - Car modification AI",
         "developer": "Gd Mobil ve Yazılım Hizmetleri Ltd STi",
         "prev_rank": 82,
-        "curr_rank": 54,
-        "delta": 28
+        "curr_rank": 58,
+        "delta": 24
+      },
+      {
+        "country": "AU",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 96,
+        "curr_rank": 79,
+        "delta": 17
       },
       {
         "country": "AU",
         "name": "Prequel: Photo Editor, Filters",
         "developer": "Prequel Inc.",
         "prev_rank": 37,
-        "curr_rank": 21,
-        "delta": 16
+        "curr_rank": 22,
+        "delta": 15
       },
       {
         "country": "AU",
         "name": "ElevenLabs: AI Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 41,
-        "curr_rank": 29,
-        "delta": 12
+        "curr_rank": 30,
+        "delta": 11
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "PicsRoom - AI Photo Generator",
+        "developer": "HAPPY TOOLS HK LIMITED",
+        "prev_rank": 64,
+        "curr_rank": 31,
+        "delta": 33
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Zoombo: Nano AI Studio",
+        "developer": "CoNext Limited",
+        "prev_rank": 60,
+        "curr_rank": 36,
+        "delta": 24
+      },
+      {
+        "country": "ID",
+        "name": "Woola-AI photo intelligent",
+        "developer": "Beijing Tiger Creative Technology Co., Ltd",
+        "prev_rank": 95,
+        "curr_rank": 84,
+        "delta": 11
       }
     ],
     "US": [
@@ -180,8 +198,8 @@
         "name": "Movia AI: Photo to Video Maker",
         "developer": "DEEP LINK META LIMITED",
         "prev_rank": 87,
-        "curr_rank": 61,
-        "delta": 26
+        "curr_rank": 65,
+        "delta": 22
       }
     ],
     "GB": [
@@ -192,70 +210,16 @@
         "prev_rank": 72,
         "curr_rank": 54,
         "delta": 18
-      },
-      {
-        "country": "GB",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 83,
-        "curr_rank": 68,
-        "delta": 15
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 60,
-        "curr_rank": 43,
-        "delta": 17
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "Zoombo: Nano AI Studio",
-        "developer": "CoNext Limited",
-        "prev_rank": 83,
-        "curr_rank": 68,
-        "delta": 15
-      },
-      {
-        "country": "FR",
         "name": "Meitu AI Photo & Video Editor",
         "developer": "Xiamen Meitu Technology Co., Ltd.",
         "prev_rank": 96,
-        "curr_rank": 82,
-        "delta": 14
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp.",
-        "prev_rank": 71,
-        "curr_rank": 56,
+        "curr_rank": 81,
         "delta": 15
-      },
-      {
-        "country": "KR",
-        "name": "ElevenLabs: AI Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 85,
-        "curr_rank": 71,
-        "delta": 14
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 82,
-        "curr_rank": 68,
-        "delta": 14
       }
     ],
     "BR": [
@@ -264,15 +228,35 @@
         "name": "invideo AI: AI video generator",
         "developer": "Invideo Inc",
         "prev_rank": 91,
-        "curr_rank": 79,
-        "delta": 12
+        "curr_rank": 78,
+        "delta": 13
       },
       {
         "country": "BR",
         "name": "AI Video - AI Video Generator",
         "developer": "HUBX",
         "prev_rank": 80,
-        "curr_rank": 70,
+        "curr_rank": 69,
+        "delta": 11
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 71,
+        "curr_rank": 58,
+        "delta": 13
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "PowerDirector - AI動画編集アプリ",
+        "developer": "CyberLink",
+        "prev_rank": 93,
+        "curr_rank": 83,
         "delta": 10
       }
     ]
@@ -281,17 +265,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "PicsRoom - AI Photo Generator leads with +32 jump in IN"
+      "text": "BeautyCam-Digicam&Photo Editor leads with +40 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 3 rising apps - highest activity today"
+      "text": "AU has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Zoombo: Nano AI Studio rising in 2 markets: ID, FR"
+      "text": "BeautyCam-Digicam&Photo Editor rising in 2 markets: AU, GB"
     }
   ],
   "meta": {
