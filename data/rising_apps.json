@@ -5,48 +5,88 @@
       "name": "AgePlay: AI Face Lab",
       "developer": "L3S ARIEL LIMITED",
       "prev_rank": 97,
-      "curr_rank": 57,
-      "delta": 40
-    },
-    {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 77,
-      "curr_rank": 42,
-      "delta": 35
+      "curr_rank": 44,
+      "delta": 53
     },
     {
       "country": "AU",
       "name": "AgePlay: AI Face Lab",
       "developer": "L3S ARIEL LIMITED",
       "prev_rank": 58,
-      "curr_rank": 26,
+      "curr_rank": 23,
+      "delta": 35
+    },
+    {
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 77,
+      "curr_rank": 45,
       "delta": 32
+    },
+    {
+      "country": "US",
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 75,
+      "curr_rank": 55,
+      "delta": 20
     },
     {
       "country": "KR",
       "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
       "developer": "PICME",
       "prev_rank": 58,
-      "curr_rank": 40,
-      "delta": 18
-    },
-    {
-      "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 82,
-      "curr_rank": 65,
-      "delta": 17
+      "curr_rank": 38,
+      "delta": 20
     },
     {
       "country": "DE",
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 30,
-      "curr_rank": 15,
+      "curr_rank": 13,
+      "delta": 17
+    },
+    {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 72,
+      "curr_rank": 55,
+      "delta": 17
+    },
+    {
+      "country": "KR",
+      "name": "타입캐스트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 82,
+      "curr_rank": 67,
       "delta": 15
+    },
+    {
+      "country": "FR",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 55,
+      "curr_rank": 41,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "AgePlay: AI Face Lab",
+      "developer": "L3S ARIEL LIMITED",
+      "prev_rank": 21,
+      "curr_rank": 7,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "Face Maker – AI Studio",
+      "developer": "C-JM LIMITED",
+      "prev_rank": 29,
+      "curr_rank": 15,
+      "delta": 14
     },
     {
       "country": "BR",
@@ -57,19 +97,19 @@
       "delta": 13
     },
     {
-      "country": "IN",
-      "name": "Face Maker – AI Studio",
-      "developer": "C-JM LIMITED",
-      "prev_rank": 29,
-      "curr_rank": 16,
-      "delta": 13
+      "country": "BR",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 82,
+      "curr_rank": 70,
+      "delta": 12
     },
     {
       "country": "US",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 75,
-      "curr_rank": 64,
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 55,
+      "curr_rank": 44,
       "delta": 11
     },
     {
@@ -81,20 +121,20 @@
       "delta": 11
     },
     {
-      "country": "BR",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 82,
-      "curr_rank": 71,
-      "delta": 11
+      "country": "FR",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 97,
+      "curr_rank": 87,
+      "delta": 10
     },
     {
-      "country": "IN",
-      "name": "AgePlay: AI Face Lab",
-      "developer": "L3S ARIEL LIMITED",
-      "prev_rank": 21,
-      "curr_rank": 10,
-      "delta": 11
+      "country": "JP",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 74,
+      "curr_rank": 64,
+      "delta": 10
     },
     {
       "country": "AU",
@@ -112,18 +152,8 @@
         "name": "AgePlay: AI Face Lab",
         "developer": "L3S ARIEL LIMITED",
         "prev_rank": 97,
-        "curr_rank": 57,
-        "delta": 40
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Timestamp Camera :AI Timestamp",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-        "prev_rank": 77,
-        "curr_rank": 42,
-        "delta": 35
+        "curr_rank": 44,
+        "delta": 53
       }
     ],
     "AU": [
@@ -132,8 +162,8 @@
         "name": "AgePlay: AI Face Lab",
         "developer": "L3S ARIEL LIMITED",
         "prev_rank": 58,
-        "curr_rank": 26,
-        "delta": 32
+        "curr_rank": 23,
+        "delta": 35
       },
       {
         "country": "AU",
@@ -144,22 +174,50 @@
         "delta": 10
       }
     ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 77,
+        "curr_rank": 45,
+        "delta": 32
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Citrus 1 Tap Photo Enhancer AI",
+        "developer": "Wemagine.ai LLP",
+        "prev_rank": 75,
+        "curr_rank": 55,
+        "delta": 20
+      },
+      {
+        "country": "US",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 55,
+        "curr_rank": 44,
+        "delta": 11
+      }
+    ],
     "KR": [
       {
         "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 58,
-        "curr_rank": 40,
-        "delta": 18
+        "curr_rank": 38,
+        "delta": 20
       },
       {
         "country": "KR",
         "name": "타입캐스트 - AI 음성 제작",
         "developer": "Neosapience, Inc.",
         "prev_rank": 82,
-        "curr_rank": 65,
-        "delta": 17
+        "curr_rank": 67,
+        "delta": 15
       }
     ],
     "DE": [
@@ -168,8 +226,52 @@
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 30,
+        "curr_rank": 13,
+        "delta": 17
+      },
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 72,
+        "curr_rank": 55,
+        "delta": 17
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 55,
+        "curr_rank": 41,
+        "delta": 14
+      },
+      {
+        "country": "FR",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 97,
+        "curr_rank": 87,
+        "delta": 10
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AgePlay: AI Face Lab",
+        "developer": "L3S ARIEL LIMITED",
+        "prev_rank": 21,
+        "curr_rank": 7,
+        "delta": 14
+      },
+      {
+        "country": "IN",
+        "name": "Face Maker – AI Studio",
+        "developer": "C-JM LIMITED",
+        "prev_rank": 29,
         "curr_rank": 15,
-        "delta": 15
+        "delta": 14
       }
     ],
     "BR": [
@@ -183,47 +285,29 @@
       },
       {
         "country": "BR",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 82,
+        "curr_rank": 70,
+        "delta": 12
+      },
+      {
+        "country": "BR",
         "name": "Flow AI: Criador De Video IA",
         "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
         "prev_rank": 72,
         "curr_rank": 61,
         "delta": 11
-      },
-      {
-        "country": "BR",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 82,
-        "curr_rank": 71,
-        "delta": 11
       }
     ],
-    "IN": [
+    "JP": [
       {
-        "country": "IN",
-        "name": "Face Maker – AI Studio",
-        "developer": "C-JM LIMITED",
-        "prev_rank": 29,
-        "curr_rank": 16,
-        "delta": 13
-      },
-      {
-        "country": "IN",
-        "name": "AgePlay: AI Face Lab",
-        "developer": "L3S ARIEL LIMITED",
-        "prev_rank": 21,
-        "curr_rank": 10,
-        "delta": 11
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 75,
+        "country": "JP",
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 74,
         "curr_rank": 64,
-        "delta": 11
+        "delta": 10
       }
     ]
   },
@@ -231,7 +315,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AgePlay: AI Face Lab leads with +40 jump in GB"
+      "text": "AgePlay: AI Face Lab leads with +53 jump in GB"
     },
     {
       "type": "market",
