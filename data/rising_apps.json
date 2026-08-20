@@ -13,80 +13,112 @@
       "name": "Winkit - AI Video Enhancer",
       "developer": "Starii Tech Pty Ltd",
       "prev_rank": 74,
-      "curr_rank": 36,
-      "delta": 38
+      "curr_rank": 38,
+      "delta": 36
     },
     {
       "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 52,
-      "curr_rank": 26,
-      "delta": 26
+      "curr_rank": 30,
+      "delta": 22
     },
     {
       "country": "ID",
       "name": "Timestamp Camera :AI Timestamp",
       "developer": "Shanghai Zongchong Information Technology Co., Ltd",
       "prev_rank": 56,
-      "curr_rank": 40,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "EPIK - AI Photo & Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 54,
       "curr_rank": 39,
-      "delta": 15
+      "delta": 17
     },
     {
       "country": "US",
       "name": "AI Photo Editor - BgMaster™",
       "developer": "COOL SUMMER LIMITED",
       "prev_rank": 84,
-      "curr_rank": 70,
+      "curr_rank": 69,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 54,
+      "curr_rank": 40,
       "delta": 14
     },
     {
-      "country": "KR",
-      "name": "ElevenLabs: AI Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 82,
-      "curr_rank": 69,
-      "delta": 13
-    },
-    {
       "country": "AU",
-      "name": "Airbrush: Face Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 97,
-      "curr_rank": 84,
-      "delta": 13
+      "name": "FilmLook - AI Camera",
+      "developer": "Khanh Thong Le",
+      "prev_rank": 54,
+      "curr_rank": 40,
+      "delta": 14
     },
     {
       "country": "GB",
       "name": "VN: Photo & Video Editor",
       "developer": "Ubiquiti Labs, LLC",
       "prev_rank": 56,
-      "curr_rank": 44,
-      "delta": 12
+      "curr_rank": 43,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "타입캐스트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 68,
+      "curr_rank": 55,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "캐럿 - AI와 무엇이든 만드세요",
+      "developer": "Paradot Corp.",
+      "prev_rank": 71,
+      "curr_rank": 58,
+      "delta": 13
     },
     {
       "country": "IN",
       "name": "AIPhoto: Image Video Generator",
       "developer": "Le Anh Tuan",
       "prev_rank": 37,
-      "curr_rank": 26,
+      "curr_rank": 24,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 70,
+      "curr_rank": 59,
       "delta": 11
     },
     {
-      "country": "US",
+      "country": "KR",
+      "name": "ElevenLabs: AI Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 82,
+      "curr_rank": 71,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 41,
+      "curr_rank": 30,
+      "delta": 11
+    },
+    {
+      "country": "AU",
       "name": "ReelMe: AI Photo & Video",
       "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 93,
-      "curr_rank": 83,
-      "delta": 10
+      "prev_rank": 60,
+      "curr_rank": 49,
+      "delta": 11
     },
     {
       "country": "FR",
@@ -94,6 +126,14 @@
       "developer": "Le Anh Tuan",
       "prev_rank": 55,
       "curr_rank": 45,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "Remini - Realçador de Fotos IA",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 50,
+      "curr_rank": 40,
       "delta": 10
     },
     {
@@ -114,6 +154,14 @@
         "prev_rank": 81,
         "curr_rank": 11,
         "delta": 70
+      },
+      {
+        "country": "BR",
+        "name": "Remini - Realçador de Fotos IA",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 50,
+        "curr_rank": 40,
+        "delta": 10
       }
     ],
     "IN": [
@@ -122,16 +170,16 @@
         "name": "Winkit - AI Video Enhancer",
         "developer": "Starii Tech Pty Ltd",
         "prev_rank": 74,
-        "curr_rank": 36,
-        "delta": 38
+        "curr_rank": 38,
+        "delta": 36
       },
       {
         "country": "IN",
         "name": "AIPhoto: Image Video Generator",
         "developer": "Le Anh Tuan",
         "prev_rank": 37,
-        "curr_rank": 26,
-        "delta": 11
+        "curr_rank": 24,
+        "delta": 13
       }
     ],
     "GB": [
@@ -140,16 +188,24 @@
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 52,
-        "curr_rank": 26,
-        "delta": 26
+        "curr_rank": 30,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "VN: Photo & Video Editor",
         "developer": "Ubiquiti Labs, LLC",
         "prev_rank": 56,
-        "curr_rank": 44,
-        "delta": 12
+        "curr_rank": 43,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Remini - AI Photo Enhancer",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 70,
+        "curr_rank": 59,
+        "delta": 11
       }
     ],
     "ID": [
@@ -158,44 +214,78 @@
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
         "prev_rank": 56,
-        "curr_rank": 40,
-        "delta": 16
+        "curr_rank": 39,
+        "delta": 17
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "EPIK - AI Photo & Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 54,
-        "curr_rank": 39,
+        "name": "AI Photo Editor - BgMaster™",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 84,
+        "curr_rank": 69,
         "delta": 15
       },
       {
         "country": "US",
-        "name": "AI Photo Editor - BgMaster™",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 84,
-        "curr_rank": 70,
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 54,
+        "curr_rank": 40,
+        "delta": 14
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "FilmLook - AI Camera",
+        "developer": "Khanh Thong Le",
+        "prev_rank": 54,
+        "curr_rank": 40,
         "delta": 14
       },
       {
-        "country": "US",
+        "country": "AU",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 41,
+        "curr_rank": 30,
+        "delta": 11
+      },
+      {
+        "country": "AU",
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 93,
-        "curr_rank": 83,
-        "delta": 10
+        "prev_rank": 60,
+        "curr_rank": 49,
+        "delta": 11
       }
     ],
     "KR": [
       {
         "country": "KR",
+        "name": "타입캐스트 - AI 음성 제작",
+        "developer": "Neosapience, Inc.",
+        "prev_rank": 68,
+        "curr_rank": 55,
+        "delta": 13
+      },
+      {
+        "country": "KR",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp.",
+        "prev_rank": 71,
+        "curr_rank": 58,
+        "delta": 13
+      },
+      {
+        "country": "KR",
         "name": "ElevenLabs: AI Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 82,
-        "curr_rank": 69,
-        "delta": 13
+        "curr_rank": 71,
+        "delta": 11
       },
       {
         "country": "KR",
@@ -204,16 +294,6 @@
         "prev_rank": 41,
         "curr_rank": 31,
         "delta": 10
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Airbrush: Face Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 97,
-        "curr_rank": 84,
-        "delta": 13
       }
     ],
     "FR": [
@@ -236,7 +316,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 3 rising apps - highest activity today"
+      "text": "KR has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
