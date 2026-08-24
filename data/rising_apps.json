@@ -1,6 +1,14 @@
 {
   "rising": [
     {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 94,
+      "curr_rank": 64,
+      "delta": 30
+    },
+    {
       "country": "ID",
       "name": "Timestamp Camera :AI Timestamp",
       "developer": "Shanghai Zongchong Information Technology Co., Ltd",
@@ -17,35 +25,27 @@
       "delta": 25
     },
     {
-      "country": "AU",
-      "name": "KwaiCut - Video Editor",
-      "developer": "Kwai Technology Limited",
-      "prev_rank": 76,
-      "curr_rank": 59,
-      "delta": 17
-    },
-    {
-      "country": "GB",
-      "name": "Blur Photo Editor & Mosaic",
-      "developer": "Yu Abe",
-      "prev_rank": 82,
-      "curr_rank": 67,
-      "delta": 15
+      "country": "US",
+      "name": "Muse AI: Photo to Video",
+      "developer": "志如 宋",
+      "prev_rank": 63,
+      "curr_rank": 47,
+      "delta": 16
     },
     {
       "country": "IN",
       "name": "Retake AI: Face & Photo Editor",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 48,
-      "curr_rank": 33,
-      "delta": 15
+      "curr_rank": 32,
+      "delta": 16
     },
     {
-      "country": "US",
-      "name": "Muse AI: Photo to Video",
-      "developer": "志如 宋",
-      "prev_rank": 63,
-      "curr_rank": 49,
+      "country": "DE",
+      "name": "Photoroom: KI Foto Editor",
+      "developer": "Photoroom",
+      "prev_rank": 66,
+      "curr_rank": 52,
       "delta": 14
     },
     {
@@ -69,71 +69,23 @@
       "name": "Retake AI: Face & Photo Editor",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 49,
-      "curr_rank": 36,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 54,
-      "curr_rank": 42,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 87,
-      "curr_rank": 75,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 94,
-      "curr_rank": 82,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 98,
-      "curr_rank": 86,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 97,
-      "curr_rank": 85,
+      "curr_rank": 37,
       "delta": 12
     },
     {
       "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 74,
-      "curr_rank": 63,
+      "name": "iFizz, AI Hair Try On & Dance",
+      "developer": "少涛 周",
+      "prev_rank": 99,
+      "curr_rank": 88,
       "delta": 11
     },
     {
-      "country": "DE",
-      "name": "Photoroom: KI Foto Editor",
-      "developer": "Photoroom",
-      "prev_rank": 66,
-      "curr_rank": 55,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Airbrush - Fotobearbeitung",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 68,
-      "curr_rank": 57,
+      "country": "GB",
+      "name": "ElevenLabs: AI Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 47,
+      "curr_rank": 36,
       "delta": 11
     },
     {
@@ -145,23 +97,57 @@
       "delta": 11
     },
     {
-      "country": "IN",
-      "name": "Vid+：AI  Video Generator",
-      "developer": "TIFFAI TECHNOLOGY LIMITED",
-      "prev_rank": 95,
-      "curr_rank": 84,
+      "country": "AU",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 86,
+      "curr_rank": 75,
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "iFizz, AI Hair Try On & Dance",
-      "developer": "少涛 周",
-      "prev_rank": 99,
-      "curr_rank": 89,
+      "country": "FR",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 98,
+      "curr_rank": 88,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Photoroom: AI Photo Editor",
+      "developer": "Photoroom",
+      "prev_rank": 67,
+      "curr_rank": 57,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Facetune: Video & Photo Editor",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 88,
+      "curr_rank": 78,
       "delta": 10
     }
   ],
   "by_country": {
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 94,
+        "curr_rank": 64,
+        "delta": 30
+      },
+      {
+        "country": "DE",
+        "name": "Photoroom: KI Foto Editor",
+        "developer": "Photoroom",
+        "prev_rank": 66,
+        "curr_rank": 52,
+        "delta": 14
+      }
+    ],
     "ID": [
       {
         "country": "ID",
@@ -170,6 +156,22 @@
         "prev_rank": 72,
         "curr_rank": 46,
         "delta": 26
+      },
+      {
+        "country": "ID",
+        "name": "Photoroom: AI Photo Editor",
+        "developer": "Photoroom",
+        "prev_rank": 67,
+        "curr_rank": 57,
+        "delta": 10
+      },
+      {
+        "country": "ID",
+        "name": "Facetune: Video & Photo Editor",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 88,
+        "curr_rank": 78,
+        "delta": 10
       }
     ],
     "KR": [
@@ -188,76 +190,6 @@
         "prev_rank": 36,
         "curr_rank": 22,
         "delta": 14
-      },
-      {
-        "country": "KR",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 97,
-        "curr_rank": 85,
-        "delta": 12
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "KwaiCut - Video Editor",
-        "developer": "Kwai Technology Limited",
-        "prev_rank": 76,
-        "curr_rank": 59,
-        "delta": 17
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Blur Photo Editor & Mosaic",
-        "developer": "Yu Abe",
-        "prev_rank": 82,
-        "curr_rank": 67,
-        "delta": 15
-      },
-      {
-        "country": "GB",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 49,
-        "curr_rank": 36,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 54,
-        "curr_rank": 42,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 87,
-        "curr_rank": 75,
-        "delta": 12
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 48,
-        "curr_rank": 33,
-        "delta": 15
-      },
-      {
-        "country": "IN",
-        "name": "Vid+：AI  Video Generator",
-        "developer": "TIFFAI TECHNOLOGY LIMITED",
-        "prev_rank": 95,
-        "curr_rank": 84,
-        "delta": 11
       }
     ],
     "US": [
@@ -266,8 +198,8 @@
         "name": "Muse AI: Photo to Video",
         "developer": "志如 宋",
         "prev_rank": 63,
-        "curr_rank": 49,
-        "delta": 14
+        "curr_rank": 47,
+        "delta": 16
       },
       {
         "country": "US",
@@ -279,55 +211,39 @@
       },
       {
         "country": "US",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 74,
-        "curr_rank": 63,
-        "delta": 11
-      },
-      {
-        "country": "US",
         "name": "iFizz, AI Hair Try On & Dance",
         "developer": "少涛 周",
         "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 94,
-        "curr_rank": 82,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Photoroom: KI Foto Editor",
-        "developer": "Photoroom",
-        "prev_rank": 66,
-        "curr_rank": 55,
-        "delta": 11
-      },
-      {
-        "country": "DE",
-        "name": "Airbrush - Fotobearbeitung",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 68,
-        "curr_rank": 57,
+        "curr_rank": 88,
         "delta": 11
       }
     ],
-    "FR": [
+    "IN": [
       {
-        "country": "FR",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 98,
-        "curr_rank": 86,
+        "country": "IN",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 48,
+        "curr_rank": 32,
+        "delta": 16
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Retake AI: Face & Photo Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 49,
+        "curr_rank": 37,
         "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "ElevenLabs: AI Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 47,
+        "curr_rank": 36,
+        "delta": 11
       }
     ],
     "BR": [
@@ -339,18 +255,38 @@
         "curr_rank": 62,
         "delta": 11
       }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 86,
+        "curr_rank": 75,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 98,
+        "curr_rank": 88,
+        "delta": 10
+      }
     ]
   },
   "insights": [
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Timestamp Camera :AI Timestamp leads with +26 jump in ID"
+      "text": "Passfoto - PhotoAiD leads with +30 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 4 rising apps - highest activity today"
+      "text": "ID has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
