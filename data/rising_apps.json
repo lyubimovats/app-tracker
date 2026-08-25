@@ -5,16 +5,32 @@
       "name": "ElevenLabs: AI Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 97,
-      "curr_rank": 79,
-      "delta": 18
+      "curr_rank": 78,
+      "delta": 19
     },
     {
       "country": "KR",
-      "name": "위닛 - AI이미지&영상생성",
-      "developer": "LumanLab Inc",
-      "prev_rank": 87,
-      "curr_rank": 69,
-      "delta": 18
+      "name": "ElevenLabs: AI Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 84,
+      "curr_rank": 67,
+      "delta": 17
+    },
+    {
+      "country": "GB",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 68,
+      "curr_rank": 52,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "Photoshop Express Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 93,
+      "curr_rank": 77,
+      "delta": 16
     },
     {
       "country": "BR",
@@ -34,43 +50,35 @@
     },
     {
       "country": "KR",
-      "name": "Photoroom: AI 사진 편집 및 디자인",
-      "developer": "Photoroom",
-      "prev_rank": 73,
-      "curr_rank": 58,
-      "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "ElevenLabs: AI Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 49,
-      "curr_rank": 34,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "Photoshop Express Photo Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 93,
-      "curr_rank": 79,
+      "name": "Runway: AI Image & Video",
+      "developer": "runwayml",
+      "prev_rank": 76,
+      "curr_rank": 62,
       "delta": 14
     },
     {
-      "country": "GB",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 68,
-      "curr_rank": 55,
-      "delta": 13
+      "country": "KR",
+      "name": "AI Video & Image Generator +",
+      "developer": "Denis Zhesterev",
+      "prev_rank": 71,
+      "curr_rank": 59,
+      "delta": 12
     },
     {
-      "country": "AU",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "prev_rank": 72,
-      "curr_rank": 60,
+      "country": "KR",
+      "name": "Photoroom: AI 사진 편집 및 디자인",
+      "developer": "Photoroom",
+      "prev_rank": 73,
+      "curr_rank": 61,
       "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "AI Avatar Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 99,
+      "curr_rank": 88,
+      "delta": 11
     },
     {
       "country": "BR",
@@ -81,27 +89,27 @@
       "delta": 11
     },
     {
-      "country": "KR",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "prev_rank": 76,
-      "curr_rank": 65,
+      "country": "IN",
+      "name": "Winkit - AI Video Enhancer",
+      "developer": "Starii Tech Pty Ltd",
+      "prev_rank": 67,
+      "curr_rank": 56,
       "delta": 11
     },
     {
-      "country": "GB",
-      "name": "Flow AI - Video Generator",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 98,
-      "curr_rank": 88,
-      "delta": 10
+      "country": "AU",
+      "name": "ElevenLabs: AI Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 49,
+      "curr_rank": 38,
+      "delta": 11
     },
     {
       "country": "DE",
-      "name": "YouCam Perfect AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 93,
-      "curr_rank": 83,
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 64,
+      "curr_rank": 54,
       "delta": 10
     },
     {
@@ -121,11 +129,11 @@
       "delta": 10
     },
     {
-      "country": "JP",
-      "name": "Filmora：AI動画生成 & 動画編集",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 77,
-      "curr_rank": 67,
+      "country": "KR",
+      "name": "위닛 - AI이미지&영상생성",
+      "developer": "LumanLab Inc",
+      "prev_rank": 87,
+      "curr_rank": 77,
       "delta": 10
     }
   ],
@@ -136,8 +144,8 @@
         "name": "ElevenLabs: AI Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 97,
-        "curr_rank": 79,
-        "delta": 18
+        "curr_rank": 78,
+        "delta": 19
       },
       {
         "country": "BR",
@@ -175,27 +183,61 @@
     "KR": [
       {
         "country": "KR",
-        "name": "위닛 - AI이미지&영상생성",
-        "developer": "LumanLab Inc",
-        "prev_rank": 87,
-        "curr_rank": 69,
-        "delta": 18
-      },
-      {
-        "country": "KR",
-        "name": "Photoroom: AI 사진 편집 및 디자인",
-        "developer": "Photoroom",
-        "prev_rank": 73,
-        "curr_rank": 58,
-        "delta": 15
+        "name": "ElevenLabs: AI Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 84,
+        "curr_rank": 67,
+        "delta": 17
       },
       {
         "country": "KR",
         "name": "Runway: AI Image & Video",
         "developer": "runwayml",
         "prev_rank": 76,
-        "curr_rank": 65,
-        "delta": 11
+        "curr_rank": 62,
+        "delta": 14
+      },
+      {
+        "country": "KR",
+        "name": "AI Video & Image Generator +",
+        "developer": "Denis Zhesterev",
+        "prev_rank": 71,
+        "curr_rank": 59,
+        "delta": 12
+      },
+      {
+        "country": "KR",
+        "name": "Photoroom: AI 사진 편집 및 디자인",
+        "developer": "Photoroom",
+        "prev_rank": 73,
+        "curr_rank": 61,
+        "delta": 12
+      },
+      {
+        "country": "KR",
+        "name": "위닛 - AI이미지&영상생성",
+        "developer": "LumanLab Inc",
+        "prev_rank": 87,
+        "curr_rank": 77,
+        "delta": 10
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 68,
+        "curr_rank": 52,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "Photoshop Express Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 93,
+        "curr_rank": 77,
+        "delta": 16
       }
     ],
     "US": [
@@ -206,6 +248,24 @@
         "prev_rank": 87,
         "curr_rank": 72,
         "delta": 15
+      },
+      {
+        "country": "US",
+        "name": "AI Avatar Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 99,
+        "curr_rank": 88,
+        "delta": 11
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Winkit - AI Video Enhancer",
+        "developer": "Starii Tech Pty Ltd",
+        "prev_rank": 67,
+        "curr_rank": 56,
+        "delta": 11
       }
     ],
     "AU": [
@@ -214,61 +274,17 @@
         "name": "ElevenLabs: AI Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 49,
-        "curr_rank": 34,
-        "delta": 15
-      },
-      {
-        "country": "AU",
-        "name": "Runway: AI Image & Video",
-        "developer": "runwayml",
-        "prev_rank": 72,
-        "curr_rank": 60,
-        "delta": 12
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Photoshop Express Photo Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 93,
-        "curr_rank": 79,
-        "delta": 14
-      },
-      {
-        "country": "GB",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 68,
-        "curr_rank": 55,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "Flow AI - Video Generator",
-        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-        "prev_rank": 98,
-        "curr_rank": 88,
-        "delta": 10
+        "curr_rank": 38,
+        "delta": 11
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "YouCam Perfect AI Photo Editor",
-        "developer": "PERFECT MOBILE CORP.",
-        "prev_rank": 93,
-        "curr_rank": 83,
-        "delta": 10
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Filmora：AI動画生成 & 動画編集",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 77,
-        "curr_rank": 67,
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 64,
+        "curr_rank": 54,
         "delta": 10
       }
     ]
@@ -277,7 +293,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "ElevenLabs: AI Generator leads with +18 jump in BR"
+      "text": "ElevenLabs: AI Generator leads with +19 jump in BR"
     },
     {
       "type": "market",
@@ -287,7 +303,7 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ElevenLabs: AI Generator rising in 2 markets: BR, AU"
+      "text": "ElevenLabs: AI Generator rising in 3 markets: BR, KR, AU"
     }
   ],
   "meta": {
