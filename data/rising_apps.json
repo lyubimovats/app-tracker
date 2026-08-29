@@ -5,71 +5,95 @@
       "name": "Dance AI: AI Dance Video Maker",
       "developer": "DeePix AI",
       "prev_rank": 91,
-      "curr_rank": 58,
-      "delta": 33
+      "curr_rank": 51,
+      "delta": 40
     },
     {
       "country": "US",
       "name": "Esti: Aesthetic Photo Editor",
       "developer": "Prequel Inc.",
       "prev_rank": 75,
-      "curr_rank": 54,
-      "delta": 21
+      "curr_rank": 56,
+      "delta": 19
     },
     {
       "country": "DE",
       "name": "AI Look: Face & Style Editor",
       "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
       "prev_rank": 99,
-      "curr_rank": 78,
-      "delta": 21
+      "curr_rank": 80,
+      "delta": 19
+    },
+    {
+      "country": "DE",
+      "name": "YouCam Perfect AI Photo Editor",
+      "developer": "PERFECT MOBILE CORP.",
+      "prev_rank": 92,
+      "curr_rank": 77,
+      "delta": 15
     },
     {
       "country": "AU",
       "name": "Setty: Photo Editor & Filters",
       "developer": "Midtone LLC",
       "prev_rank": 55,
-      "curr_rank": 37,
-      "delta": 18
-    },
-    {
-      "country": "GB",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 88,
-      "curr_rank": 73,
+      "curr_rank": 40,
       "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "iFizz, AI Hair Try On & Dance",
-      "developer": "少涛 周",
-      "prev_rank": 60,
-      "curr_rank": 46,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 78,
-      "curr_rank": 65,
-      "delta": 13
-    },
-    {
-      "country": "FR",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 96,
-      "curr_rank": 84,
-      "delta": 12
     },
     {
       "country": "GB",
       "name": "Retake AI: Face & Photo Editor",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 64,
-      "curr_rank": 53,
+      "curr_rank": 51,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 78,
+      "curr_rank": 66,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 100,
+      "curr_rank": 88,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 88,
+      "curr_rank": 77,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "Facetune: Editor de fotos IA",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 47,
+      "curr_rank": 36,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 59,
+      "curr_rank": 48,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "iFizz, AI Hair Try On & Dance",
+      "developer": "少涛 周",
+      "prev_rank": 60,
+      "curr_rank": 49,
       "delta": 11
     },
     {
@@ -81,19 +105,11 @@
       "delta": 10
     },
     {
-      "country": "DE",
-      "name": "YouCam Perfect AI Photo Editor",
-      "developer": "PERFECT MOBILE CORP.",
-      "prev_rank": 92,
-      "curr_rank": 82,
-      "delta": 10
-    },
-    {
       "country": "ID",
-      "name": "HairX AI, Hairstyle Try On Cut",
-      "developer": "小舟 陈",
-      "prev_rank": 41,
-      "curr_rank": 31,
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 72,
+      "curr_rank": 62,
       "delta": 10
     }
   ],
@@ -104,8 +120,8 @@
         "name": "Dance AI: AI Dance Video Maker",
         "developer": "DeePix AI",
         "prev_rank": 91,
-        "curr_rank": 58,
-        "delta": 33
+        "curr_rank": 51,
+        "delta": 40
       }
     ],
     "US": [
@@ -114,8 +130,8 @@
         "name": "Esti: Aesthetic Photo Editor",
         "developer": "Prequel Inc.",
         "prev_rank": 75,
-        "curr_rank": 54,
-        "delta": 21
+        "curr_rank": 56,
+        "delta": 19
       },
       {
         "country": "US",
@@ -132,16 +148,16 @@
         "name": "AI Look: Face & Style Editor",
         "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
         "prev_rank": 99,
-        "curr_rank": 78,
-        "delta": 21
+        "curr_rank": 80,
+        "delta": 19
       },
       {
         "country": "DE",
         "name": "YouCam Perfect AI Photo Editor",
         "developer": "PERFECT MOBILE CORP.",
         "prev_rank": 92,
-        "curr_rank": 82,
-        "delta": 10
+        "curr_rank": 77,
+        "delta": 15
       }
     ],
     "AU": [
@@ -150,61 +166,77 @@
         "name": "Setty: Photo Editor & Filters",
         "developer": "Midtone LLC",
         "prev_rank": 55,
-        "curr_rank": 37,
-        "delta": 18
-      },
-      {
-        "country": "AU",
-        "name": "iFizz, AI Hair Try On & Dance",
-        "developer": "少涛 周",
-        "prev_rank": 60,
-        "curr_rank": 46,
-        "delta": 14
+        "curr_rank": 40,
+        "delta": 15
       },
       {
         "country": "AU",
         "name": "Retake AI Face & Selfie Editor",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 78,
-        "curr_rank": 65,
-        "delta": 13
+        "curr_rank": 66,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 100,
+        "curr_rank": 88,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 59,
+        "curr_rank": 48,
+        "delta": 11
+      },
+      {
+        "country": "AU",
+        "name": "iFizz, AI Hair Try On & Dance",
+        "developer": "少涛 周",
+        "prev_rank": 60,
+        "curr_rank": 49,
+        "delta": 11
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 88,
-        "curr_rank": 73,
-        "delta": 15
-      },
-      {
-        "country": "GB",
         "name": "Retake AI: Face & Photo Editor",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 64,
-        "curr_rank": 53,
+        "curr_rank": 51,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 88,
+        "curr_rank": 77,
         "delta": 11
       }
     ],
-    "FR": [
+    "BR": [
       {
-        "country": "FR",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 96,
-        "curr_rank": 84,
-        "delta": 12
+        "country": "BR",
+        "name": "Facetune: Editor de fotos IA",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 47,
+        "curr_rank": 36,
+        "delta": 11
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "HairX AI, Hairstyle Try On Cut",
-        "developer": "小舟 陈",
-        "prev_rank": 41,
-        "curr_rank": 31,
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 72,
+        "curr_rank": 62,
         "delta": 10
       }
     ]
@@ -213,12 +245,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Dance AI: AI Dance Video Maker leads with +33 jump in KR"
+      "text": "Dance AI: AI Dance Video Maker leads with +40 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 3 rising apps - highest activity today"
+      "text": "AU has 5 rising apps - highest activity today"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "Meitu- AI Photo & Video Editor rising in 2 markets: GB, AU"
     }
   ],
   "meta": {
