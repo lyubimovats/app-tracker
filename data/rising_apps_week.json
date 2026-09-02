@@ -1,281 +1,301 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "Photo identité - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 79,
-      "curr_rank": 43,
-      "delta": 36
+      "country": "BR",
+      "name": "MIU AI - Gerador de foto IA",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 91,
+      "curr_rank": 14,
+      "delta": 77
     },
     {
       "country": "US",
-      "name": "Esti: Aesthetic Photo Editor",
-      "developer": "Prequel Inc.",
+      "name": "DanceHit: AI Dance Generator",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "prev_rank": 89,
+      "curr_rank": 33,
+      "delta": 56
+    },
+    {
+      "country": "AU",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 56,
+      "curr_rank": 16,
+      "delta": 40
+    },
+    {
+      "country": "US",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
       "prev_rank": 86,
-      "curr_rank": 55,
-      "delta": 31
+      "curr_rank": 51,
+      "delta": 35
+    },
+    {
+      "country": "US",
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 80,
+      "curr_rank": 54,
+      "delta": 26
+    },
+    {
+      "country": "JP",
+      "name": "EPIK エピック - AI写真＆動画編集",
+      "developer": "SNOW Corporation",
+      "prev_rank": 54,
+      "curr_rank": 28,
+      "delta": 26
     },
     {
       "country": "KR",
       "name": "Photoroom: AI 사진 편집 및 디자인",
       "developer": "Photoroom",
       "prev_rank": 61,
-      "curr_rank": 35,
-      "delta": 26
+      "curr_rank": 36,
+      "delta": 25
+    },
+    {
+      "country": "US",
+      "name": "Esti: Aesthetic Photo Editor",
+      "developer": "Prequel Inc.",
+      "prev_rank": 79,
+      "curr_rank": 55,
+      "delta": 24
     },
     {
       "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
       "prev_rank": 88,
       "curr_rank": 64,
       "delta": 24
     },
     {
-      "country": "JP",
-      "name": "iFizz, AI フォトダンス",
-      "developer": "少涛 周",
-      "prev_rank": 89,
-      "curr_rank": 66,
-      "delta": 23
-    },
-    {
-      "country": "AU",
-      "name": "iFizz, AI Hair Try On & Dance",
-      "developer": "少涛 周",
-      "prev_rank": 83,
-      "curr_rank": 60,
-      "delta": 23
-    },
-    {
       "country": "ID",
-      "name": "HairX AI, Hairstyle Try On Cut",
-      "developer": "小舟 陈",
-      "prev_rank": 67,
-      "curr_rank": 48,
-      "delta": 19
+      "name": "Muse: Reels Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 78,
+      "curr_rank": 58,
+      "delta": 20
     },
     {
       "country": "US",
-      "name": "Peachy - AI Face & Body Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 84,
-      "curr_rank": 67,
-      "delta": 17
+      "name": "Muse: Reels Video Editor",
+      "developer": "Bigrowth",
+      "prev_rank": 69,
+      "curr_rank": 50,
+      "delta": 19
     },
     {
       "country": "DE",
       "name": "ElevenLabs: AI Generator",
       "developer": "ElevenLabs, Inc.",
-      "prev_rank": 51,
-      "curr_rank": 34,
+      "prev_rank": 50,
+      "curr_rank": 31,
+      "delta": 19
+    },
+    {
+      "country": "FR",
+      "name": "Photo identité - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 60,
+      "curr_rank": 41,
+      "delta": 19
+    },
+    {
+      "country": "US",
+      "name": "Momo: AI Photo & Video Maker",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "prev_rank": 97,
+      "curr_rank": 79,
+      "delta": 18
+    },
+    {
+      "country": "IN",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 22,
+      "curr_rank": 5,
       "delta": 17
     },
     {
       "country": "FR",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 100,
-      "curr_rank": 83,
-      "delta": 17
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 58,
+      "curr_rank": 43,
+      "delta": 15
+    },
+    {
+      "country": "GB",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 39,
+      "curr_rank": 25,
+      "delta": 14
+    },
+    {
+      "country": "ID",
+      "name": "Flow AI - Video Generator",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 46,
+      "curr_rank": 33,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Splice - Video Editor & Maker",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 73,
+      "curr_rank": 61,
+      "delta": 12
+    },
+    {
+      "country": "JP",
+      "name": "iFizz, AI フォトダンス",
+      "developer": "少涛 周",
+      "prev_rank": 68,
+      "curr_rank": 56,
+      "delta": 12
     },
     {
       "country": "AU",
       "name": "Splice - Video Editor & Maker",
       "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 65,
-      "curr_rank": 50,
-      "delta": 15
+      "prev_rank": 68,
+      "curr_rank": 56,
+      "delta": 12
     },
     {
-      "country": "US",
+      "country": "GB",
       "name": "Citrus 1 Tap Photo Enhancer AI",
       "developer": "Wemagine.ai LLP",
-      "prev_rank": 76,
-      "curr_rank": 62,
-      "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 68,
-      "curr_rank": 54,
-      "delta": 14
-    },
-    {
-      "country": "KR",
-      "name": "AI Catch(AI 캐치): AI 영상 생성기",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 60,
-      "curr_rank": 46,
-      "delta": 14
-    },
-    {
-      "country": "JP",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 69,
-      "curr_rank": 56,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Photoroom: AI Photo Editor",
-      "developer": "Photoroom",
-      "prev_rank": 54,
-      "curr_rank": 42,
-      "delta": 12
+      "prev_rank": 85,
+      "curr_rank": 74,
+      "delta": 11
     },
     {
       "country": "GB",
       "name": "Passport Photo - PhotoAiD",
       "developer": "Photo Aid",
       "prev_rank": 91,
-      "curr_rank": 79,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "Meitu AI Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 88,
-      "curr_rank": 76,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "Adobe Premiere AI 비디오 에디터",
-      "developer": "Adobe Inc.",
-      "prev_rank": 98,
-      "curr_rank": 86,
-      "delta": 12
-    },
-    {
-      "country": "IN",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 96,
-      "curr_rank": 84,
-      "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 45,
-      "curr_rank": 34,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 55,
-      "curr_rank": 44,
-      "delta": 11
-    },
-    {
-      "country": "BR",
-      "name": "Photoroom - Editor de Fotos IA",
-      "developer": "Photoroom",
-      "prev_rank": 40,
-      "curr_rank": 29,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "Filmora: AI 영상 제작 & 동영상 편집",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 91,
       "curr_rank": 80,
       "delta": 11
     },
     {
-      "country": "DE",
-      "name": "FaceApp: Gesichtsbearbeitung",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 23,
-      "curr_rank": 13,
+      "country": "GB",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 68,
+      "curr_rank": 58,
       "delta": 10
     },
     {
-      "country": "DE",
-      "name": "Photoroom: KI Foto Editor",
-      "developer": "Photoroom",
-      "prev_rank": 43,
-      "curr_rank": 33,
-      "delta": 10
-    },
-    {
-      "country": "DE",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 92,
-      "curr_rank": 82,
+      "country": "KR",
+      "name": "Hypic - Photo Editor & AI Art",
+      "developer": "Bytedance Pte. Ltd",
+      "prev_rank": 63,
+      "curr_rank": 53,
       "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
+    "BR": [
       {
-        "country": "FR",
-        "name": "Photo identité - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 79,
-        "curr_rank": 43,
-        "delta": 36
-      },
-      {
-        "country": "FR",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 100,
-        "curr_rank": 83,
-        "delta": 17
+        "country": "BR",
+        "name": "MIU AI - Gerador de foto IA",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 91,
+        "curr_rank": 14,
+        "delta": 77
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "Esti: Aesthetic Photo Editor",
-        "developer": "Prequel Inc.",
-        "prev_rank": 86,
-        "curr_rank": 55,
-        "delta": 31
+        "name": "DanceHit: AI Dance Generator",
+        "developer": "SCALEUP YAZILIM HIZMETLERI",
+        "prev_rank": 89,
+        "curr_rank": 33,
+        "delta": 56
       },
       {
         "country": "US",
         "name": "Peachy - AI Face & Body Editor",
         "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 84,
-        "curr_rank": 67,
-        "delta": 17
+        "prev_rank": 86,
+        "curr_rank": 51,
+        "delta": 35
       },
       {
         "country": "US",
         "name": "Citrus 1 Tap Photo Enhancer AI",
         "developer": "Wemagine.ai LLP",
-        "prev_rank": 76,
-        "curr_rank": 62,
-        "delta": 14
+        "prev_rank": 80,
+        "curr_rank": 54,
+        "delta": 26
       },
       {
         "country": "US",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 45,
-        "curr_rank": 34,
-        "delta": 11
+        "name": "Esti: Aesthetic Photo Editor",
+        "developer": "Prequel Inc.",
+        "prev_rank": 79,
+        "curr_rank": 55,
+        "delta": 24
       },
       {
         "country": "US",
-        "name": "Remini - AI Photo Enhancer",
+        "name": "Muse: Reels Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 69,
+        "curr_rank": 50,
+        "delta": 19
+      },
+      {
+        "country": "US",
+        "name": "Momo: AI Photo & Video Maker",
+        "developer": "SCALEUP YAZILIM HIZMETLERI",
+        "prev_rank": 97,
+        "curr_rank": 79,
+        "delta": 18
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 56,
+        "curr_rank": 16,
+        "delta": 40
+      },
+      {
+        "country": "AU",
+        "name": "Splice - Video Editor & Maker",
         "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 55,
-        "curr_rank": 44,
-        "delta": 11
+        "prev_rank": 68,
+        "curr_rank": 56,
+        "delta": 12
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "EPIK エピック - AI写真＆動画編集",
+        "developer": "SNOW Corporation",
+        "prev_rank": 54,
+        "curr_rank": 28,
+        "delta": 26
+      },
+      {
+        "country": "JP",
+        "name": "iFizz, AI フォトダンス",
+        "developer": "少涛 周",
+        "prev_rank": 68,
+        "curr_rank": 56,
+        "delta": 12
       }
     ],
     "KR": [
@@ -284,112 +304,84 @@
         "name": "Photoroom: AI 사진 편집 및 디자인",
         "developer": "Photoroom",
         "prev_rank": 61,
-        "curr_rank": 35,
-        "delta": 26
+        "curr_rank": 36,
+        "delta": 25
       },
       {
         "country": "KR",
-        "name": "AI Catch(AI 캐치): AI 영상 생성기",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 60,
-        "curr_rank": 46,
-        "delta": 14
-      },
-      {
-        "country": "KR",
-        "name": "Adobe Premiere AI 비디오 에디터",
-        "developer": "Adobe Inc.",
-        "prev_rank": 98,
-        "curr_rank": 86,
-        "delta": 12
-      },
-      {
-        "country": "KR",
-        "name": "Filmora: AI 영상 제작 & 동영상 편집",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 91,
-        "curr_rank": 80,
-        "delta": 11
+        "name": "Hypic - Photo Editor & AI Art",
+        "developer": "Bytedance Pte. Ltd",
+        "prev_rank": 63,
+        "curr_rank": 53,
+        "delta": 10
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
         "prev_rank": 88,
         "curr_rank": 64,
         "delta": 24
       },
       {
         "country": "GB",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 68,
-        "curr_rank": 54,
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 39,
+        "curr_rank": 25,
         "delta": 14
       },
       {
         "country": "GB",
-        "name": "Photoroom: AI Photo Editor",
-        "developer": "Photoroom",
-        "prev_rank": 54,
-        "curr_rank": 42,
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 73,
+        "curr_rank": 61,
         "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Citrus 1 Tap Photo Enhancer AI",
+        "developer": "Wemagine.ai LLP",
+        "prev_rank": 85,
+        "curr_rank": 74,
+        "delta": 11
       },
       {
         "country": "GB",
         "name": "Passport Photo - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 91,
-        "curr_rank": 79,
-        "delta": 12
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "iFizz, AI フォトダンス",
-        "developer": "少涛 周",
-        "prev_rank": 89,
-        "curr_rank": 66,
-        "delta": 23
+        "curr_rank": 80,
+        "delta": 11
       },
       {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 69,
-        "curr_rank": 56,
-        "delta": 13
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "iFizz, AI Hair Try On & Dance",
-        "developer": "少涛 周",
-        "prev_rank": 83,
-        "curr_rank": 60,
-        "delta": 23
-      },
-      {
-        "country": "AU",
-        "name": "Splice - Video Editor & Maker",
+        "country": "GB",
+        "name": "Remini - AI Photo Enhancer",
         "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 65,
-        "curr_rank": 50,
-        "delta": 15
+        "prev_rank": 68,
+        "curr_rank": 58,
+        "delta": 10
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "HairX AI, Hairstyle Try On Cut",
-        "developer": "小舟 陈",
-        "prev_rank": 67,
-        "curr_rank": 48,
-        "delta": 19
+        "name": "Muse: Reels Video Editor",
+        "developer": "Bigrowth",
+        "prev_rank": 78,
+        "curr_rank": 58,
+        "delta": 20
+      },
+      {
+        "country": "ID",
+        "name": "Flow AI - Video Generator",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 46,
+        "curr_rank": 33,
+        "delta": 13
       }
     ],
     "DE": [
@@ -397,61 +389,37 @@
         "country": "DE",
         "name": "ElevenLabs: AI Generator",
         "developer": "ElevenLabs, Inc.",
-        "prev_rank": 51,
-        "curr_rank": 34,
-        "delta": 17
+        "prev_rank": 50,
+        "curr_rank": 31,
+        "delta": 19
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Photo identité - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 60,
+        "curr_rank": 41,
+        "delta": 19
       },
       {
-        "country": "DE",
-        "name": "Meitu AI Photo & Video Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 88,
-        "curr_rank": 76,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "FaceApp: Gesichtsbearbeitung",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 23,
-        "curr_rank": 13,
-        "delta": 10
-      },
-      {
-        "country": "DE",
-        "name": "Photoroom: KI Foto Editor",
-        "developer": "Photoroom",
-        "prev_rank": 43,
-        "curr_rank": 33,
-        "delta": 10
-      },
-      {
-        "country": "DE",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 92,
-        "curr_rank": 82,
-        "delta": 10
+        "country": "FR",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 58,
+        "curr_rank": 43,
+        "delta": 15
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 96,
-        "curr_rank": 84,
-        "delta": 12
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Photoroom - Editor de Fotos IA",
-        "developer": "Photoroom",
-        "prev_rank": 40,
-        "curr_rank": 29,
-        "delta": 11
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 22,
+        "curr_rank": 5,
+        "delta": 17
       }
     ]
   },
@@ -459,22 +427,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Photo identité - PhotoAiD leads with +36 jump in FR"
+      "text": "MIU AI - Gerador de foto IA leads with +77 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 5 rising apps - highest activity today"
+      "text": "US has 6 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Citrus 1 Tap Photo Enhancer AI rising in 2 markets: GB, US"
+      "text": "AgeEra - Face & Photo AI rising in 4 markets: AU, IN, FR, GB"
     }
   ],
   "meta": {
-    "prev_date": "2026-08-25",
-    "curr_date": "2026-09-01",
+    "prev_date": "2026-08-26",
+    "curr_date": "2026-09-02",
     "days": 7
   }
 }
