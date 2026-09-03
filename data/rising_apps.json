@@ -1,329 +1,211 @@
 {
   "rising": [
     {
-      "country": "JP",
-      "name": "EPIK エピック - AI写真＆動画編集",
-      "developer": "SNOW Corporation",
-      "prev_rank": 60,
-      "curr_rank": 28,
-      "delta": 32
+      "country": "BR",
+      "name": "PrettyUp-Video Portrait Editor",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 99,
+      "curr_rank": 73,
+      "delta": 26
     },
     {
-      "country": "JP",
-      "name": "Adobe Premiere - AI動画編集",
-      "developer": "Adobe Inc.",
-      "prev_rank": 91,
-      "curr_rank": 60,
-      "delta": 31
+      "country": "GB",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 71,
+      "curr_rank": 52,
+      "delta": 19
     },
     {
-      "country": "AU",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 45,
-      "curr_rank": 16,
-      "delta": 29
-    },
-    {
-      "country": "FR",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 64,
-      "curr_rank": 43,
-      "delta": 21
-    },
-    {
-      "country": "AU",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
+      "country": "GB",
+      "name": "SayPose:Live Chat",
+      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
       "prev_rank": 94,
-      "curr_rank": 76,
+      "curr_rank": 75,
+      "delta": 19
+    },
+    {
+      "country": "DE",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 78,
+      "curr_rank": 60,
       "delta": 18
     },
     {
       "country": "US",
-      "name": "Peachy - AI Face & Body Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 67,
-      "curr_rank": 51,
-      "delta": 16
-    },
-    {
-      "country": "JP",
-      "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 83,
-      "curr_rank": 67,
-      "delta": 16
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 80,
+      "curr_rank": 65,
+      "delta": 15
     },
     {
       "country": "GB",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 39,
-      "curr_rank": 25,
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 74,
+      "curr_rank": 60,
       "delta": 14
-    },
-    {
-      "country": "IN",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 19,
-      "curr_rank": 5,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 72,
-      "curr_rank": 58,
-      "delta": 14
-    },
-    {
-      "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 72,
-      "curr_rank": 59,
-      "delta": 13
     },
     {
       "country": "BR",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 88,
-      "curr_rank": 75,
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 77,
+      "curr_rank": 63,
+      "delta": 14
+    },
+    {
+      "country": "BR",
+      "name": "MIU AI - Gerador de foto IA",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 14,
+      "curr_rank": 1,
       "delta": 13
     },
     {
-      "country": "FR",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 81,
-      "curr_rank": 69,
+      "country": "JP",
+      "name": "KakaPic - AI動画作成と高画質AI写真館",
+      "developer": "盛河 徐",
+      "prev_rank": 50,
+      "curr_rank": 37,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 71,
+      "curr_rank": 59,
       "delta": 12
+    },
+    {
+      "country": "BR",
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 79,
+      "curr_rank": 69,
+      "delta": 10
     },
     {
       "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 89,
-      "curr_rank": 77,
-      "delta": 12
-    },
-    {
-      "country": "DE",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 82,
-      "curr_rank": 71,
-      "delta": 11
-    },
-    {
-      "country": "BR",
-      "name": "invideo AI: AI video generator",
-      "developer": "Invideo Inc",
+      "name": "Flow AI 비디오 필터 아트 생성기 애니메이션",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
       "prev_rank": 98,
-      "curr_rank": 87,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "prev_rank": 69,
-      "curr_rank": 59,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 74,
-      "curr_rank": 64,
-      "delta": 10
-    },
-    {
-      "country": "JP",
-      "name": "iFizz, AI フォトダンス",
-      "developer": "少涛 周",
-      "prev_rank": 66,
-      "curr_rank": 56,
+      "curr_rank": 88,
       "delta": 10
     }
   ],
   "by_country": {
-    "JP": [
+    "BR": [
       {
-        "country": "JP",
-        "name": "EPIK エピック - AI写真＆動画編集",
-        "developer": "SNOW Corporation",
-        "prev_rank": 60,
-        "curr_rank": 28,
-        "delta": 32
+        "country": "BR",
+        "name": "PrettyUp-Video Portrait Editor",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 99,
+        "curr_rank": 73,
+        "delta": 26
       },
       {
-        "country": "JP",
-        "name": "Adobe Premiere - AI動画編集",
-        "developer": "Adobe Inc.",
-        "prev_rank": 91,
-        "curr_rank": 60,
-        "delta": 31
+        "country": "BR",
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 77,
+        "curr_rank": 63,
+        "delta": 14
       },
       {
-        "country": "JP",
-        "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 83,
-        "curr_rank": 67,
-        "delta": 16
+        "country": "BR",
+        "name": "MIU AI - Gerador de foto IA",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 14,
+        "curr_rank": 1,
+        "delta": 13
       },
       {
-        "country": "JP",
-        "name": "iFizz, AI フォトダンス",
-        "developer": "少涛 周",
-        "prev_rank": 66,
-        "curr_rank": 56,
-        "delta": 10
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 45,
-        "curr_rank": 16,
-        "delta": 29
-      },
-      {
-        "country": "AU",
-        "name": "Instories: AI Photo & Video",
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
         "developer": "Ylee Studio LTD",
-        "prev_rank": 94,
-        "curr_rank": 76,
-        "delta": 18
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 64,
-        "curr_rank": 43,
-        "delta": 21
-      },
-      {
-        "country": "FR",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 81,
+        "prev_rank": 79,
         "curr_rank": 69,
-        "delta": 12
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Peachy - AI Face & Body Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 67,
-        "curr_rank": 51,
-        "delta": 16
+        "delta": 10
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 39,
-        "curr_rank": 25,
-        "delta": 14
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 71,
+        "curr_rank": 52,
+        "delta": 19
       },
       {
         "country": "GB",
-        "name": "Runway: AI Image & Video",
-        "developer": "runwayml",
-        "prev_rank": 69,
-        "curr_rank": 59,
-        "delta": 10
+        "name": "SayPose:Live Chat",
+        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+        "prev_rank": 94,
+        "curr_rank": 75,
+        "delta": 19
       },
       {
         "country": "GB",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
+        "name": "Citrus 1 Tap Photo Enhancer AI",
+        "developer": "Wemagine.ai LLP",
         "prev_rank": 74,
-        "curr_rank": 64,
-        "delta": 10
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 19,
-        "curr_rank": 5,
-        "delta": 14
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 72,
-        "curr_rank": 58,
+        "curr_rank": 60,
         "delta": 14
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 72,
-        "curr_rank": 59,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 82,
-        "curr_rank": 71,
-        "delta": 11
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 88,
-        "curr_rank": 75,
-        "delta": 13
-      },
+        "prev_rank": 78,
+        "curr_rank": 60,
+        "delta": 18
+      }
+    ],
+    "US": [
       {
-        "country": "BR",
-        "name": "invideo AI: AI video generator",
-        "developer": "Invideo Inc",
-        "prev_rank": 98,
-        "curr_rank": 87,
-        "delta": 11
+        "country": "US",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 80,
+        "curr_rank": 65,
+        "delta": 15
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "KakaPic - AI動画作成と高画質AI写真館",
+        "developer": "盛河 徐",
+        "prev_rank": 50,
+        "curr_rank": 37,
+        "delta": 13
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 71,
+        "curr_rank": 59,
+        "delta": 12
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "타입캐스트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 89,
-        "curr_rank": 77,
-        "delta": 12
+        "name": "Flow AI 비디오 필터 아트 생성기 애니메이션",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 98,
+        "curr_rank": 88,
+        "delta": 10
       }
     ]
   },
@@ -331,22 +213,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "EPIK エピック - AI写真＆動画編集 leads with +32 jump in JP"
+      "text": "PrettyUp-Video Portrait Editor leads with +26 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "JP has 4 rising apps - highest activity today"
+      "text": "BR has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AgeEra - Face & Photo AI rising in 5 markets: AU, FR, GB, IN, BR"
+      "text": "AgeEra - Face & Photo AI rising in 2 markets: DE, US"
     }
   ],
   "meta": {
-    "prev_date": "2026-09-01",
-    "curr_date": "2026-09-02",
+    "prev_date": "2026-09-02",
+    "curr_date": "2026-09-03",
     "days": 1
   }
 }
