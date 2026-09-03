@@ -1,59 +1,83 @@
 {
   "rising": [
     {
+      "country": "JP",
+      "name": "KakaPic - AI動画作成と高画質AI写真館",
+      "developer": "盛河 徐",
+      "prev_rank": 50,
+      "curr_rank": 21,
+      "delta": 29
+    },
+    {
       "country": "BR",
       "name": "PrettyUp-Video Portrait Editor",
       "developer": "Pixl Concerto Technology Limited",
       "prev_rank": 99,
-      "curr_rank": 73,
-      "delta": 26
+      "curr_rank": 75,
+      "delta": 24
     },
     {
       "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 71,
-      "curr_rank": 52,
-      "delta": 19
-    },
-    {
-      "country": "GB",
-      "name": "SayPose:Live Chat",
-      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-      "prev_rank": 94,
-      "curr_rank": 75,
-      "delta": 19
+      "curr_rank": 51,
+      "delta": 20
     },
     {
       "country": "DE",
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 78,
-      "curr_rank": 60,
-      "delta": 18
+      "curr_rank": 59,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 90,
+      "curr_rank": 73,
+      "delta": 17
     },
     {
       "country": "US",
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 80,
-      "curr_rank": 65,
-      "delta": 15
+      "curr_rank": 64,
+      "delta": 16
     },
     {
       "country": "GB",
-      "name": "Citrus 1 Tap Photo Enhancer AI",
-      "developer": "Wemagine.ai LLP",
-      "prev_rank": 74,
-      "curr_rank": 60,
+      "name": "SayPose:Live Chat",
+      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+      "prev_rank": 94,
+      "curr_rank": 78,
+      "delta": 16
+    },
+    {
+      "country": "DE",
+      "name": "Remini - Einfach Bessere Fotos",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 61,
+      "curr_rank": 47,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 43,
+      "curr_rank": 29,
       "delta": 14
     },
     {
       "country": "BR",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 77,
-      "curr_rank": 63,
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 79,
+      "curr_rank": 65,
       "delta": 14
     },
     {
@@ -65,11 +89,11 @@
       "delta": 13
     },
     {
-      "country": "JP",
-      "name": "KakaPic - AI動画作成と高画質AI写真館",
-      "developer": "盛河 徐",
-      "prev_rank": 50,
-      "curr_rank": 37,
+      "country": "BR",
+      "name": "AI Video - AI Video Generator",
+      "developer": "HUBX",
+      "prev_rank": 77,
+      "curr_rank": 64,
       "delta": 13
     },
     {
@@ -79,40 +103,34 @@
       "prev_rank": 71,
       "curr_rank": 59,
       "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "Instories: AI Fotos & Videos",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 79,
-      "curr_rank": 69,
-      "delta": 10
-    },
-    {
-      "country": "KR",
-      "name": "Flow AI 비디오 필터 아트 생성기 애니메이션",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 98,
-      "curr_rank": 88,
-      "delta": 10
     }
   ],
   "by_country": {
+    "JP": [
+      {
+        "country": "JP",
+        "name": "KakaPic - AI動画作成と高画質AI写真館",
+        "developer": "盛河 徐",
+        "prev_rank": 50,
+        "curr_rank": 21,
+        "delta": 29
+      }
+    ],
     "BR": [
       {
         "country": "BR",
         "name": "PrettyUp-Video Portrait Editor",
         "developer": "Pixl Concerto Technology Limited",
         "prev_rank": 99,
-        "curr_rank": 73,
-        "delta": 26
+        "curr_rank": 75,
+        "delta": 24
       },
       {
         "country": "BR",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 77,
-        "curr_rank": 63,
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 79,
+        "curr_rank": 65,
         "delta": 14
       },
       {
@@ -125,11 +143,11 @@
       },
       {
         "country": "BR",
-        "name": "Instories: AI Fotos & Videos",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 79,
-        "curr_rank": 69,
-        "delta": 10
+        "name": "AI Video - AI Video Generator",
+        "developer": "HUBX",
+        "prev_rank": 77,
+        "curr_rank": 64,
+        "delta": 13
       }
     ],
     "GB": [
@@ -138,24 +156,24 @@
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 71,
-        "curr_rank": 52,
-        "delta": 19
+        "curr_rank": 51,
+        "delta": 20
+      },
+      {
+        "country": "GB",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 90,
+        "curr_rank": 73,
+        "delta": 17
       },
       {
         "country": "GB",
         "name": "SayPose:Live Chat",
         "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
         "prev_rank": 94,
-        "curr_rank": 75,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "Citrus 1 Tap Photo Enhancer AI",
-        "developer": "Wemagine.ai LLP",
-        "prev_rank": 74,
-        "curr_rank": 60,
-        "delta": 14
+        "curr_rank": 78,
+        "delta": 16
       }
     ],
     "DE": [
@@ -164,8 +182,16 @@
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 78,
-        "curr_rank": 60,
-        "delta": 18
+        "curr_rank": 59,
+        "delta": 19
+      },
+      {
+        "country": "DE",
+        "name": "Remini - Einfach Bessere Fotos",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 61,
+        "curr_rank": 47,
+        "delta": 14
       }
     ],
     "US": [
@@ -174,18 +200,18 @@
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 80,
-        "curr_rank": 65,
-        "delta": 15
+        "curr_rank": 64,
+        "delta": 16
       }
     ],
-    "JP": [
+    "FR": [
       {
-        "country": "JP",
-        "name": "KakaPic - AI動画作成と高画質AI写真館",
-        "developer": "盛河 徐",
-        "prev_rank": 50,
-        "curr_rank": 37,
-        "delta": 13
+        "country": "FR",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 43,
+        "curr_rank": 29,
+        "delta": 14
       }
     ],
     "AU": [
@@ -197,23 +223,13 @@
         "curr_rank": 59,
         "delta": 12
       }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "Flow AI 비디오 필터 아트 생성기 애니메이션",
-        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-        "prev_rank": 98,
-        "curr_rank": 88,
-        "delta": 10
-      }
     ]
   },
   "insights": [
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "PrettyUp-Video Portrait Editor leads with +26 jump in BR"
+      "text": "KakaPic - AI動画作成と高画質AI写真館 leads with +29 jump in JP"
     },
     {
       "type": "market",
@@ -223,7 +239,7 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AgeEra - Face & Photo AI rising in 2 markets: DE, US"
+      "text": "AgeEra - Face & Photo AI rising in 3 markets: DE, US, FR"
     }
   ],
   "meta": {
