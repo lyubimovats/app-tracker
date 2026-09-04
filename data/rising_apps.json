@@ -1,197 +1,249 @@
 {
   "rising": [
     {
-      "country": "JP",
-      "name": "KakaPic - AI動画作成と高画質AI写真館",
-      "developer": "盛河 徐",
-      "prev_rank": 50,
-      "curr_rank": 21,
-      "delta": 29
-    },
-    {
-      "country": "BR",
-      "name": "PrettyUp-Video Portrait Editor",
-      "developer": "Pixl Concerto Technology Limited",
+      "country": "ID",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 99,
-      "curr_rank": 75,
-      "delta": 24
-    },
-    {
-      "country": "GB",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 71,
-      "curr_rank": 51,
-      "delta": 20
-    },
-    {
-      "country": "DE",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 78,
-      "curr_rank": 59,
-      "delta": 19
-    },
-    {
-      "country": "GB",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 90,
-      "curr_rank": 73,
-      "delta": 17
-    },
-    {
-      "country": "US",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 80,
-      "curr_rank": 64,
-      "delta": 16
+      "curr_rank": 61,
+      "delta": 38
     },
     {
       "country": "GB",
       "name": "SayPose:Live Chat",
       "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+      "prev_rank": 78,
+      "curr_rank": 50,
+      "delta": 28
+    },
+    {
+      "country": "DE",
+      "name": "Posely: KI Auto Foto & Video",
+      "developer": "Broverse",
+      "prev_rank": 70,
+      "curr_rank": 44,
+      "delta": 26
+    },
+    {
+      "country": "KR",
+      "name": "위닛 - AI이미지&영상생성",
+      "developer": "LumanLab Inc",
+      "prev_rank": 93,
+      "curr_rank": 70,
+      "delta": 23
+    },
+    {
+      "country": "BR",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 94,
-      "curr_rank": 78,
+      "curr_rank": 75,
+      "delta": 19
+    },
+    {
+      "country": "FR",
+      "name": "SayPose:Chat en direct",
+      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+      "prev_rank": 85,
+      "curr_rank": 67,
+      "delta": 18
+    },
+    {
+      "country": "US",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 64,
+      "curr_rank": 48,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "FaceLab: Aging, Haircut Filter",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 87,
+      "curr_rank": 71,
       "delta": 16
     },
     {
       "country": "DE",
-      "name": "Remini - Einfach Bessere Fotos",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 61,
-      "curr_rank": 47,
-      "delta": 14
-    },
-    {
-      "country": "FR",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 43,
-      "curr_rank": 29,
-      "delta": 14
-    },
-    {
-      "country": "BR",
-      "name": "Instories: AI Fotos & Videos",
-      "developer": "Ylee Studio LTD",
+      "name": "AI Catch: KI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 79,
-      "curr_rank": 65,
-      "delta": 14
-    },
-    {
-      "country": "BR",
-      "name": "MIU AI - Gerador de foto IA",
-      "developer": "Ivan Chapisptryak",
-      "prev_rank": 14,
-      "curr_rank": 1,
-      "delta": 13
-    },
-    {
-      "country": "BR",
-      "name": "AI Video - AI Video Generator",
-      "developer": "HUBX",
-      "prev_rank": 77,
-      "curr_rank": 64,
-      "delta": 13
+      "curr_rank": 63,
+      "delta": 16
     },
     {
       "country": "AU",
-      "name": "Meitu- AI Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 71,
-      "curr_rank": 59,
+      "name": "Splice - Video Editor & Maker",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 64,
+      "curr_rank": 50,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "AgeEra - Face & Photo AI",
+      "developer": "Yuenhe Innovations Co., Ltd.",
+      "prev_rank": 59,
+      "curr_rank": 47,
       "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Facetune: Éditeur Photo/Vidéo",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 60,
+      "curr_rank": 48,
+      "delta": 12
+    },
+    {
+      "country": "JP",
+      "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 73,
+      "curr_rank": 61,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "Filmora: AI 영상 제작 & 동영상 편집",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 87,
+      "curr_rank": 76,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "Facetune: Editor de fotos IA",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 40,
+      "curr_rank": 30,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "Runway: AI Image & Video",
+      "developer": "runwayml",
+      "prev_rank": 64,
+      "curr_rank": 54,
+      "delta": 10
     }
   ],
   "by_country": {
-    "JP": [
+    "ID": [
       {
-        "country": "JP",
-        "name": "KakaPic - AI動画作成と高画質AI写真館",
-        "developer": "盛河 徐",
-        "prev_rank": 50,
-        "curr_rank": 21,
-        "delta": 29
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "PrettyUp-Video Portrait Editor",
-        "developer": "Pixl Concerto Technology Limited",
+        "country": "ID",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 99,
-        "curr_rank": 75,
-        "delta": 24
-      },
-      {
-        "country": "BR",
-        "name": "Instories: AI Fotos & Videos",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 79,
-        "curr_rank": 65,
-        "delta": 14
-      },
-      {
-        "country": "BR",
-        "name": "MIU AI - Gerador de foto IA",
-        "developer": "Ivan Chapisptryak",
-        "prev_rank": 14,
-        "curr_rank": 1,
-        "delta": 13
-      },
-      {
-        "country": "BR",
-        "name": "AI Video - AI Video Generator",
-        "developer": "HUBX",
-        "prev_rank": 77,
-        "curr_rank": 64,
-        "delta": 13
+        "curr_rank": 61,
+        "delta": 38
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 71,
-        "curr_rank": 51,
-        "delta": 20
-      },
-      {
-        "country": "GB",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 90,
-        "curr_rank": 73,
-        "delta": 17
-      },
-      {
-        "country": "GB",
         "name": "SayPose:Live Chat",
         "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-        "prev_rank": 94,
-        "curr_rank": 78,
+        "prev_rank": 78,
+        "curr_rank": 50,
+        "delta": 28
+      },
+      {
+        "country": "GB",
+        "name": "FaceLab: Aging, Haircut Filter",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 87,
+        "curr_rank": 71,
         "delta": 16
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 78,
-        "curr_rank": 59,
-        "delta": 19
+        "name": "Posely: KI Auto Foto & Video",
+        "developer": "Broverse",
+        "prev_rank": 70,
+        "curr_rank": 44,
+        "delta": 26
       },
       {
         "country": "DE",
-        "name": "Remini - Einfach Bessere Fotos",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 61,
+        "name": "AI Catch: KI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 79,
+        "curr_rank": 63,
+        "delta": 16
+      },
+      {
+        "country": "DE",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 59,
         "curr_rank": 47,
-        "delta": 14
+        "delta": 12
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "위닛 - AI이미지&영상생성",
+        "developer": "LumanLab Inc",
+        "prev_rank": 93,
+        "curr_rank": 70,
+        "delta": 23
+      },
+      {
+        "country": "KR",
+        "name": "Filmora: AI 영상 제작 & 동영상 편집",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 87,
+        "curr_rank": 76,
+        "delta": 11
+      },
+      {
+        "country": "KR",
+        "name": "Runway: AI Image & Video",
+        "developer": "runwayml",
+        "prev_rank": 64,
+        "curr_rank": 54,
+        "delta": 10
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "AgeEra - Face & Photo AI",
+        "developer": "Yuenhe Innovations Co., Ltd.",
+        "prev_rank": 94,
+        "curr_rank": 75,
+        "delta": 19
+      },
+      {
+        "country": "BR",
+        "name": "Facetune: Editor de fotos IA",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 40,
+        "curr_rank": 30,
+        "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "SayPose:Chat en direct",
+        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+        "prev_rank": 85,
+        "curr_rank": 67,
+        "delta": 18
+      },
+      {
+        "country": "FR",
+        "name": "Facetune: Éditeur Photo/Vidéo",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 60,
+        "curr_rank": 48,
+        "delta": 12
       }
     ],
     "US": [
@@ -199,28 +251,28 @@
         "country": "US",
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 80,
-        "curr_rank": 64,
+        "prev_rank": 64,
+        "curr_rank": 48,
         "delta": 16
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 43,
-        "curr_rank": 29,
-        "delta": 14
       }
     ],
     "AU": [
       {
         "country": "AU",
-        "name": "Meitu- AI Photo & Video Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 71,
-        "curr_rank": 59,
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 64,
+        "curr_rank": 50,
+        "delta": 14
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 73,
+        "curr_rank": 61,
         "delta": 12
       }
     ]
@@ -229,22 +281,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "KakaPic - AI動画作成と高画質AI写真館 leads with +29 jump in JP"
+      "text": "AI Catch: AI Video Generator leads with +38 jump in ID"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 4 rising apps - highest activity today"
+      "text": "DE has 3 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "AI Catch apps trending with 3 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AgeEra - Face & Photo AI rising in 3 markets: DE, US, FR"
+      "text": "AgeEra - Face & Photo AI rising in 3 markets: BR, US, DE"
     }
   ],
   "meta": {
-    "prev_date": "2026-09-02",
-    "curr_date": "2026-09-03",
+    "prev_date": "2026-09-03",
+    "curr_date": "2026-09-04",
     "days": 1
   }
 }
