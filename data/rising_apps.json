@@ -5,31 +5,15 @@
       "name": "VSCO: Photo & Video Editor",
       "developer": "Visual Supply Company",
       "prev_rank": 83,
-      "curr_rank": 54,
-      "delta": 29
+      "curr_rank": 51,
+      "delta": 32
     },
     {
       "country": "FR",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
       "prev_rank": 70,
-      "curr_rank": 47,
-      "delta": 23
-    },
-    {
-      "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 85,
-      "curr_rank": 67,
-      "delta": 18
-    },
-    {
-      "country": "AU",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 88,
-      "curr_rank": 70,
+      "curr_rank": 52,
       "delta": 18
     },
     {
@@ -41,59 +25,83 @@
       "delta": 16
     },
     {
-      "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 57,
-      "curr_rank": 42,
+      "country": "JP",
+      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+      "developer": "SNOW Corporation",
+      "prev_rank": 94,
+      "curr_rank": 79,
       "delta": 15
-    },
-    {
-      "country": "IN",
-      "name": "KwaiCut - Video Editor",
-      "developer": "Kwai Technology Limited",
-      "prev_rank": 50,
-      "curr_rank": 35,
-      "delta": 15
-    },
-    {
-      "country": "ID",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 63,
-      "curr_rank": 49,
-      "delta": 14
     },
     {
       "country": "AU",
       "name": "Setty: Photo Editor & Filters",
       "developer": "Midtone LLC",
       "prev_rank": 65,
-      "curr_rank": 51,
+      "curr_rank": 50,
+      "delta": 15
+    },
+    {
+      "country": "GB",
+      "name": "Facelab: Face & Body Editor",
+      "developer": "IRONTECH LIMITED",
+      "prev_rank": 94,
+      "curr_rank": 80,
       "delta": 14
     },
     {
-      "country": "US",
-      "name": "EPIK - AI Photo & Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 58,
-      "curr_rank": 45,
-      "delta": 13
+      "country": "IN",
+      "name": "KwaiCut - Video Editor",
+      "developer": "Kwai Technology Limited",
+      "prev_rank": 50,
+      "curr_rank": 36,
+      "delta": 14
     },
     {
-      "country": "JP",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "prev_rank": 94,
-      "curr_rank": 82,
-      "delta": 12
+      "country": "AU",
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 88,
+      "curr_rank": 74,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 85,
+      "curr_rank": 72,
+      "delta": 13
     },
     {
       "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 54,
-      "curr_rank": 43,
+      "curr_rank": 42,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 58,
+      "curr_rank": 47,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 55,
+      "curr_rank": 44,
+      "delta": 11
+    },
+    {
+      "country": "AU",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 84,
+      "curr_rank": 73,
       "delta": 11
     },
     {
@@ -101,23 +109,23 @@
       "name": "Vids AI - Reels Video Editor",
       "developer": "Viral Vision Ltd.",
       "prev_rank": 81,
-      "curr_rank": 70,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 100,
-      "curr_rank": 90,
+      "curr_rank": 71,
       "delta": 10
     },
     {
       "country": "BR",
-      "name": "Instories: AI Fotos & Videos",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 64,
-      "curr_rank": 54,
+      "name": "AI Catch: IA Vídeo Gerador",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 29,
+      "curr_rank": 19,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "SNOW スノー - AIプロフィール",
+      "developer": "SNOW Corporation",
+      "prev_rank": 35,
+      "curr_rank": 25,
       "delta": 10
     }
   ],
@@ -128,24 +136,16 @@
         "name": "VSCO: Photo & Video Editor",
         "developer": "Visual Supply Company",
         "prev_rank": 83,
-        "curr_rank": 54,
-        "delta": 29
+        "curr_rank": 51,
+        "delta": 32
       },
       {
         "country": "US",
         "name": "EPIK - AI Photo & Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 58,
-        "curr_rank": 45,
-        "delta": 13
-      },
-      {
-        "country": "US",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 100,
-        "curr_rank": 90,
-        "delta": 10
+        "curr_rank": 47,
+        "delta": 11
       }
     ],
     "FR": [
@@ -154,52 +154,8 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 70,
-        "curr_rank": 47,
-        "delta": 23
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 85,
-        "curr_rank": 67,
+        "curr_rank": 52,
         "delta": 18
-      },
-      {
-        "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 57,
-        "curr_rank": 42,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 81,
-        "curr_rank": 70,
-        "delta": 11
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Retake AI Face & Selfie Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 88,
-        "curr_rank": 70,
-        "delta": 18
-      },
-      {
-        "country": "AU",
-        "name": "Setty: Photo Editor & Filters",
-        "developer": "Midtone LLC",
-        "prev_rank": 65,
-        "curr_rank": 51,
-        "delta": 14
       }
     ],
     "ID": [
@@ -210,24 +166,6 @@
         "prev_rank": 59,
         "curr_rank": 43,
         "delta": 16
-      },
-      {
-        "country": "ID",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 63,
-        "curr_rank": 49,
-        "delta": 14
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "KwaiCut - Video Editor",
-        "developer": "Kwai Technology Limited",
-        "prev_rank": 50,
-        "curr_rank": 35,
-        "delta": 15
       }
     ],
     "JP": [
@@ -236,27 +174,107 @@
         "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
         "developer": "SNOW Corporation",
         "prev_rank": 94,
-        "curr_rank": 82,
-        "delta": 12
+        "curr_rank": 79,
+        "delta": 15
+      },
+      {
+        "country": "JP",
+        "name": "SNOW スノー - AIプロフィール",
+        "developer": "SNOW Corporation",
+        "prev_rank": 35,
+        "curr_rank": 25,
+        "delta": 10
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Setty: Photo Editor & Filters",
+        "developer": "Midtone LLC",
+        "prev_rank": 65,
+        "curr_rank": 50,
+        "delta": 15
+      },
+      {
+        "country": "AU",
+        "name": "Retake AI Face & Selfie Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 88,
+        "curr_rank": 74,
+        "delta": 14
+      },
+      {
+        "country": "AU",
+        "name": "Airbrush: Face Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 84,
+        "curr_rank": 73,
+        "delta": 11
       }
     ],
     "GB": [
       {
         "country": "GB",
+        "name": "Facelab: Face & Body Editor",
+        "developer": "IRONTECH LIMITED",
+        "prev_rank": 94,
+        "curr_rank": 80,
+        "delta": 14
+      },
+      {
+        "country": "GB",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 54,
-        "curr_rank": 43,
+        "curr_rank": 42,
+        "delta": 12
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "KwaiCut - Video Editor",
+        "developer": "Kwai Technology Limited",
+        "prev_rank": 50,
+        "curr_rank": 36,
+        "delta": 14
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 85,
+        "curr_rank": 72,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 81,
+        "curr_rank": 71,
+        "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 55,
+        "curr_rank": 44,
         "delta": 11
       }
     ],
     "BR": [
       {
         "country": "BR",
-        "name": "Instories: AI Fotos & Videos",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 64,
-        "curr_rank": 54,
+        "name": "AI Catch: IA Vídeo Gerador",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 29,
+        "curr_rank": 19,
         "delta": 10
       }
     ]
@@ -265,17 +283,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "VSCO: Photo & Video Editor leads with +29 jump in US"
+      "text": "VSCO: Photo & Video Editor leads with +32 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 3 rising apps - highest activity today"
+      "text": "AU has 3 rising apps - highest activity today"
     },
     {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Instories: AI Photo & Video rising in 3 markets: FR, DE, ID"
+      "type": "app-note",
+      "icon": "📱",
+      "text": "AI Catch apps trending with 2 variants rising"
     }
   ],
   "meta": {
