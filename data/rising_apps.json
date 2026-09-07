@@ -5,64 +5,80 @@
       "name": "ElevenLabs: AI Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 100,
-      "curr_rank": 81,
-      "delta": 19
-    },
-    {
-      "country": "JP",
-      "name": "KakaPic - AI動画作成と高画質AI写真館",
-      "developer": "盛河 徐",
-      "prev_rank": 52,
-      "curr_rank": 35,
-      "delta": 17
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 48,
-      "curr_rank": 31,
-      "delta": 17
+      "curr_rank": 78,
+      "delta": 22
     },
     {
       "country": "AU",
       "name": "Adobe Premiere AI Video Editor",
       "developer": "Adobe Inc.",
       "prev_rank": 92,
-      "curr_rank": 76,
-      "delta": 16
-    },
-    {
-      "country": "FR",
-      "name": "Photo identité - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 86,
       "curr_rank": 71,
-      "delta": 15
+      "delta": 21
     },
     {
       "country": "DE",
       "name": "Hypic - Photo Editor & AI Art",
       "developer": "Bytedance Pte. Ltd",
       "prev_rank": 30,
-      "curr_rank": 17,
-      "delta": 13
+      "curr_rank": 10,
+      "delta": 20
+    },
+    {
+      "country": "FR",
+      "name": "Photo identité - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 86,
+      "curr_rank": 67,
+      "delta": 19
     },
     {
       "country": "FR",
       "name": "HeyGen: AI Video Generator",
       "developer": "HeyGen Technology Inc",
       "prev_rank": 99,
-      "curr_rank": 86,
-      "delta": 13
+      "curr_rank": 81,
+      "delta": 18
     },
     {
-      "country": "BR",
-      "name": "Blow Up AI: Viralize",
-      "developer": "Mountains Studio LLC",
-      "prev_rank": 92,
-      "curr_rank": 79,
-      "delta": 13
+      "country": "JP",
+      "name": "KakaPic - AI動画作成と高画質AI写真館",
+      "developer": "盛河 徐",
+      "prev_rank": 52,
+      "curr_rank": 34,
+      "delta": 18
+    },
+    {
+      "country": "GB",
+      "name": "Remini - AI Photo Enhancer",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 69,
+      "curr_rank": 52,
+      "delta": 17
+    },
+    {
+      "country": "US",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 91,
+      "curr_rank": 75,
+      "delta": 16
+    },
+    {
+      "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 48,
+      "curr_rank": 33,
+      "delta": 15
+    },
+    {
+      "country": "KR",
+      "name": "Runway: AI Image & Video",
+      "developer": "runwayml",
+      "prev_rank": 60,
+      "curr_rank": 46,
+      "delta": 14
     },
     {
       "country": "AU",
@@ -73,28 +89,20 @@
       "delta": 13
     },
     {
-      "country": "DE",
-      "name": "Retake AI: Foto & Gesicht",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 97,
-      "curr_rank": 85,
+      "country": "GB",
+      "name": "ReelMe: AI Photo & Video",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 79,
+      "curr_rank": 67,
       "delta": 12
     },
     {
-      "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 91,
-      "curr_rank": 80,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 69,
-      "curr_rank": 58,
-      "delta": 11
+      "country": "JP",
+      "name": "Adobe Premiere - AI動画編集",
+      "developer": "Adobe Inc.",
+      "prev_rank": 77,
+      "curr_rank": 65,
+      "delta": 12
     },
     {
       "country": "DE",
@@ -105,19 +113,35 @@
       "delta": 11
     },
     {
-      "country": "KR",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "prev_rank": 60,
-      "curr_rank": 49,
+      "country": "BR",
+      "name": "Blow Up AI: Viralize",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 92,
+      "curr_rank": 81,
       "delta": 11
     },
     {
-      "country": "JP",
-      "name": "Adobe Premiere - AI動画編集",
-      "developer": "Adobe Inc.",
-      "prev_rank": 77,
-      "curr_rank": 67,
+      "country": "KR",
+      "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
+      "developer": "ImgBase, Inc.",
+      "prev_rank": 58,
+      "curr_rank": 47,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Flow AI - Video Generator",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 95,
+      "curr_rank": 85,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "ElevenLabs: AI Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 58,
+      "curr_rank": 48,
       "delta": 10
     }
   ],
@@ -128,42 +152,32 @@
         "name": "ElevenLabs: AI Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 100,
-        "curr_rank": 81,
-        "delta": 19
+        "curr_rank": 78,
+        "delta": 22
       },
       {
         "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 48,
-        "curr_rank": 31,
-        "delta": 17
+        "curr_rank": 33,
+        "delta": 15
       },
       {
         "country": "KR",
         "name": "Runway: AI Image & Video",
         "developer": "runwayml",
         "prev_rank": 60,
-        "curr_rank": 49,
-        "delta": 11
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "KakaPic - AI動画作成と高画質AI写真館",
-        "developer": "盛河 徐",
-        "prev_rank": 52,
-        "curr_rank": 35,
-        "delta": 17
+        "curr_rank": 46,
+        "delta": 14
       },
       {
-        "country": "JP",
-        "name": "Adobe Premiere - AI動画編集",
-        "developer": "Adobe Inc.",
-        "prev_rank": 77,
-        "curr_rank": 67,
-        "delta": 10
+        "country": "KR",
+        "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
+        "developer": "ImgBase, Inc.",
+        "prev_rank": 58,
+        "curr_rank": 47,
+        "delta": 11
       }
     ],
     "AU": [
@@ -172,8 +186,8 @@
         "name": "Adobe Premiere AI Video Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 92,
-        "curr_rank": 76,
-        "delta": 16
+        "curr_rank": 71,
+        "delta": 21
       },
       {
         "country": "AU",
@@ -182,24 +196,14 @@
         "prev_rank": 27,
         "curr_rank": 14,
         "delta": 13
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Photo identité - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 86,
-        "curr_rank": 71,
-        "delta": 15
       },
       {
-        "country": "FR",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 99,
-        "curr_rank": 86,
-        "delta": 13
+        "country": "AU",
+        "name": "ElevenLabs: AI Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 58,
+        "curr_rank": 48,
+        "delta": 10
       }
     ],
     "DE": [
@@ -208,16 +212,8 @@
         "name": "Hypic - Photo Editor & AI Art",
         "developer": "Bytedance Pte. Ltd",
         "prev_rank": 30,
-        "curr_rank": 17,
-        "delta": 13
-      },
-      {
-        "country": "DE",
-        "name": "Retake AI: Foto & Gesicht",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 97,
-        "curr_rank": 85,
-        "delta": 12
+        "curr_rank": 10,
+        "delta": 20
       },
       {
         "country": "DE",
@@ -228,24 +224,40 @@
         "delta": 11
       }
     ],
-    "BR": [
+    "FR": [
       {
-        "country": "BR",
-        "name": "Blow Up AI: Viralize",
-        "developer": "Mountains Studio LLC",
-        "prev_rank": 92,
-        "curr_rank": 79,
-        "delta": 13
+        "country": "FR",
+        "name": "Photo identité - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 86,
+        "curr_rank": 67,
+        "delta": 19
+      },
+      {
+        "country": "FR",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 99,
+        "curr_rank": 81,
+        "delta": 18
       }
     ],
-    "US": [
+    "JP": [
       {
-        "country": "US",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 91,
-        "curr_rank": 80,
-        "delta": 11
+        "country": "JP",
+        "name": "KakaPic - AI動画作成と高画質AI写真館",
+        "developer": "盛河 徐",
+        "prev_rank": 52,
+        "curr_rank": 34,
+        "delta": 18
+      },
+      {
+        "country": "JP",
+        "name": "Adobe Premiere - AI動画編集",
+        "developer": "Adobe Inc.",
+        "prev_rank": 77,
+        "curr_rank": 65,
+        "delta": 12
       }
     ],
     "GB": [
@@ -254,7 +266,43 @@
         "name": "Remini - AI Photo Enhancer",
         "developer": "Bending Spoons Apps ApS",
         "prev_rank": 69,
-        "curr_rank": 58,
+        "curr_rank": 52,
+        "delta": 17
+      },
+      {
+        "country": "GB",
+        "name": "ReelMe: AI Photo & Video",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 79,
+        "curr_rank": 67,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "Flow AI - Video Generator",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 95,
+        "curr_rank": 85,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 91,
+        "curr_rank": 75,
+        "delta": 16
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Blow Up AI: Viralize",
+        "developer": "Mountains Studio LLC",
+        "prev_rank": 92,
+        "curr_rank": 81,
         "delta": 11
       }
     ]
@@ -263,17 +311,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "ElevenLabs: AI Generator leads with +19 jump in KR"
+      "text": "ElevenLabs: AI Generator leads with +22 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "KR has 3 rising apps - highest activity today"
+      "text": "KR has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Hypic - Photo Editor & AI Art rising in 2 markets: DE, AU"
+      "text": "ElevenLabs: AI Generator rising in 2 markets: KR, AU"
     }
   ],
   "meta": {
