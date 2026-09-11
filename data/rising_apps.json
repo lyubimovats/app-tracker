@@ -37,8 +37,8 @@
       "name": "AI 80's Retro Photo Generator",
       "developer": "Kuldip Ladva",
       "prev_rank": 51,
-      "curr_rank": 25,
-      "delta": 26
+      "curr_rank": 26,
+      "delta": 25
     },
     {
       "country": "KR",
@@ -63,14 +63,6 @@
       "prev_rank": 63,
       "curr_rank": 47,
       "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "AI Face Maker & Dance Video",
-      "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
-      "prev_rank": 76,
-      "curr_rank": 61,
-      "delta": 15
     },
     {
       "country": "GB",
@@ -106,10 +98,26 @@
     },
     {
       "country": "US",
+      "name": "AI Face Maker & Dance Video",
+      "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+      "prev_rank": 76,
+      "curr_rank": 63,
+      "delta": 13
+    },
+    {
+      "country": "US",
       "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 43,
       "curr_rank": 31,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 47,
+      "curr_rank": 35,
       "delta": 12
     },
     {
@@ -119,22 +127,6 @@
       "prev_rank": 78,
       "curr_rank": 66,
       "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 47,
-      "curr_rank": 36,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 93,
-      "curr_rank": 82,
-      "delta": 11
     },
     {
       "country": "FR",
@@ -214,8 +206,8 @@
         "name": "AI 80's Retro Photo Generator",
         "developer": "Kuldip Ladva",
         "prev_rank": 51,
-        "curr_rank": 25,
-        "delta": 26
+        "curr_rank": 26,
+        "delta": 25
       }
     ],
     "KR": [
@@ -244,40 +236,6 @@
         "delta": 12
       }
     ],
-    "US": [
-      {
-        "country": "US",
-        "name": "AI Face Maker & Dance Video",
-        "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
-        "prev_rank": 76,
-        "curr_rank": 61,
-        "delta": 15
-      },
-      {
-        "country": "US",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 43,
-        "curr_rank": 31,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 47,
-        "curr_rank": 36,
-        "delta": 11
-      },
-      {
-        "country": "US",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 93,
-        "curr_rank": 82,
-        "delta": 11
-      }
-    ],
     "GB": [
       {
         "country": "GB",
@@ -296,6 +254,32 @@
         "prev_rank": 41,
         "curr_rank": 27,
         "delta": 14
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Face Maker & Dance Video",
+        "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+        "prev_rank": 76,
+        "curr_rank": 63,
+        "delta": 13
+      },
+      {
+        "country": "US",
+        "name": "BeautyPlus-Selfie Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 43,
+        "curr_rank": 31,
+        "delta": 12
+      },
+      {
+        "country": "US",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 47,
+        "curr_rank": 35,
+        "delta": 12
       }
     ],
     "FR": [
@@ -318,7 +302,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 4 rising apps - highest activity today"
+      "text": "ID has 3 rising apps - highest activity today"
     },
     {
       "type": "app-note",
