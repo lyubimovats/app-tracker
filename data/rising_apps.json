@@ -1,295 +1,457 @@
 {
   "rising": [
     {
-      "country": "JP",
-      "name": "Momo: AI写真・動画作成",
-      "developer": "SCALEUP YAZILIM HIZMETLERI",
-      "prev_rank": 73,
-      "curr_rank": 28,
-      "delta": 45
+      "country": "ID",
+      "name": "Hype AI - AI Photo & Video",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 100,
+      "curr_rank": 40,
+      "delta": 60
+    },
+    {
+      "country": "US",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 89,
+      "curr_rank": 47,
+      "delta": 42
+    },
+    {
+      "country": "BR",
+      "name": "Blow Up AI: Viralize",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 79,
+      "curr_rank": 42,
+      "delta": 37
+    },
+    {
+      "country": "GB",
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 98,
+      "curr_rank": 65,
+      "delta": 33
+    },
+    {
+      "country": "DE",
+      "name": "AI Mirror: Gesichtsfoto-Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 77,
+      "curr_rank": 45,
+      "delta": 32
     },
     {
       "country": "AU",
-      "name": "CarMod - Car modification AI",
-      "developer": "Gd Mobil ve Yazılım Hizmetleri Ltd STi",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 49,
+      "curr_rank": 19,
+      "delta": 30
+    },
+    {
+      "country": "DE",
+      "name": "Remini - Einfach Bessere Fotos",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 41,
+      "curr_rank": 12,
+      "delta": 29
+    },
+    {
+      "country": "JP",
+      "name": "Hype AI - AI フォト & ビデオ",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 59,
+      "curr_rank": 30,
+      "delta": 29
+    },
+    {
+      "country": "GB",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 51,
+      "curr_rank": 24,
+      "delta": 27
+    },
+    {
+      "country": "JP",
+      "name": "Animator: 写真が動く！AI動画メーカー",
+      "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+      "prev_rank": 99,
+      "curr_rank": 75,
+      "delta": 24
+    },
+    {
+      "country": "IN",
+      "name": "AI Mirror: AI Photo Editor",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 61,
+      "curr_rank": 37,
+      "delta": 24
+    },
+    {
+      "country": "BR",
+      "name": "Remini - Realçador de Fotos IA",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 44,
+      "curr_rank": 21,
+      "delta": 23
+    },
+    {
+      "country": "FR",
+      "name": "AI Mirror: Éditeur de visage",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 91,
+      "curr_rank": 70,
+      "delta": 21
+    },
+    {
+      "country": "US",
+      "name": "Hype AI - AI Photo & Video",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 62,
-      "curr_rank": 20,
-      "delta": 42
+      "curr_rank": 42,
+      "delta": 20
     },
     {
       "country": "ID",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
-      "prev_rank": 87,
-      "curr_rank": 57,
-      "delta": 30
-    },
-    {
-      "country": "ID",
-      "name": "GIO: AI Headshot Generator Pro",
-      "developer": "Prequel Inc.",
-      "prev_rank": 93,
-      "curr_rank": 64,
-      "delta": 29
-    },
-    {
-      "country": "IN",
-      "name": "AI 80's Retro Photo Generator",
-      "developer": "Kuldip Ladva",
-      "prev_rank": 51,
-      "curr_rank": 26,
-      "delta": 25
-    },
-    {
-      "country": "KR",
-      "name": "Evoto – AI 사진 편집 및 리터칭",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 67,
-      "curr_rank": 44,
-      "delta": 23
-    },
-    {
-      "country": "KR",
-      "name": "AI 비디오 및 사진 생성기⁣",
-      "developer": "N.B. Corporation LLC",
-      "prev_rank": 58,
-      "curr_rank": 42,
-      "delta": 16
-    },
-    {
-      "country": "AU",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 63,
-      "curr_rank": 47,
-      "delta": 16
-    },
-    {
-      "country": "GB",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 54,
-      "curr_rank": 39,
-      "delta": 15
-    },
-    {
-      "country": "JP",
-      "name": "AI Video - AIビデオジェネレーター",
-      "developer": "HUBX",
-      "prev_rank": 67,
-      "curr_rank": 52,
-      "delta": 15
-    },
-    {
-      "country": "BR",
-      "name": "Vids AI - Cria Reels e Stories",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 41,
-      "curr_rank": 27,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 18,
-      "curr_rank": 4,
-      "delta": 14
+      "prev_rank": 57,
+      "curr_rank": 38,
+      "delta": 19
     },
     {
       "country": "US",
-      "name": "AI Face Maker & Dance Video",
-      "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 85,
+      "curr_rank": 69,
+      "delta": 16
+    },
+    {
+      "country": "DE",
+      "name": "Zoombo: AI Image&Video Editor",
+      "developer": "CoNext Limited",
+      "prev_rank": 99,
+      "curr_rank": 85,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Hype AI - AI Photo & Video",
+      "developer": "POLYVERSE ENTERTAINMENT INC.",
+      "prev_rank": 42,
+      "curr_rank": 29,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "Mosaik&Gesicht verpixeln/blur",
+      "developer": "Yu Abe",
+      "prev_rank": 43,
+      "curr_rank": 30,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "AIPhoto: Image Video Generator",
+      "developer": "Le Anh Tuan",
+      "prev_rank": 96,
+      "curr_rank": 83,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "BeautyCam - 고화질 카메라 & AI 사진",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 25,
+      "curr_rank": 12,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "Zoombo: AI Image&Video Editor",
+      "developer": "CoNext Limited",
       "prev_rank": 76,
       "curr_rank": 63,
       "delta": 13
     },
     {
-      "country": "US",
-      "name": "BeautyPlus-Selfie Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 43,
-      "curr_rank": 31,
+      "country": "BR",
+      "name": "Meitu: Editor de Fotos IA",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 49,
+      "curr_rank": 37,
       "delta": 12
     },
     {
-      "country": "US",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 47,
-      "curr_rank": 35,
+      "country": "AU",
+      "name": "Prequel: Photo Editor, Filters",
+      "developer": "Prequel Inc.",
+      "prev_rank": 55,
+      "curr_rank": 43,
       "delta": 12
     },
     {
-      "country": "KR",
-      "name": "AI Video - AI 동영상 생성기",
-      "developer": "HUBX",
-      "prev_rank": 78,
-      "curr_rank": 66,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Blow Up AI: Deviens Viral",
-      "developer": "Mountains Studio LLC",
-      "prev_rank": 46,
-      "curr_rank": 35,
+      "country": "GB",
+      "name": "ReelMe: AI Photo & Video",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 84,
+      "curr_rank": 73,
       "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Splice - Video Editor & Maker",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 88,
+      "curr_rank": 78,
+      "delta": 10
+    },
+    {
+      "country": "IN",
+      "name": "Winkit - AI Video Enhancer",
+      "developer": "Starii Tech Pty Ltd",
+      "prev_rank": 87,
+      "curr_rank": 77,
+      "delta": 10
     }
   ],
   "by_country": {
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Momo: AI写真・動画作成",
-        "developer": "SCALEUP YAZILIM HIZMETLERI",
-        "prev_rank": 73,
-        "curr_rank": 28,
-        "delta": 45
-      },
-      {
-        "country": "JP",
-        "name": "AI Video - AIビデオジェネレーター",
-        "developer": "HUBX",
-        "prev_rank": 67,
-        "curr_rank": 52,
-        "delta": 15
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "CarMod - Car modification AI",
-        "developer": "Gd Mobil ve Yazılım Hizmetleri Ltd STi",
-        "prev_rank": 62,
-        "curr_rank": 20,
-        "delta": 42
-      },
-      {
-        "country": "AU",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 63,
-        "curr_rank": 47,
-        "delta": 16
-      }
-    ],
     "ID": [
+      {
+        "country": "ID",
+        "name": "Hype AI - AI Photo & Video",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 100,
+        "curr_rank": 40,
+        "delta": 60
+      },
       {
         "country": "ID",
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
-        "prev_rank": 87,
-        "curr_rank": 57,
-        "delta": 30
-      },
-      {
-        "country": "ID",
-        "name": "GIO: AI Headshot Generator Pro",
-        "developer": "Prequel Inc.",
-        "prev_rank": 93,
-        "curr_rank": 64,
-        "delta": 29
-      },
-      {
-        "country": "ID",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 18,
-        "curr_rank": 4,
-        "delta": 14
+        "prev_rank": 57,
+        "curr_rank": 38,
+        "delta": 19
       }
     ],
-    "IN": [
+    "US": [
       {
-        "country": "IN",
-        "name": "AI 80's Retro Photo Generator",
-        "developer": "Kuldip Ladva",
-        "prev_rank": 51,
-        "curr_rank": 26,
-        "delta": 25
+        "country": "US",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 89,
+        "curr_rank": 47,
+        "delta": 42
+      },
+      {
+        "country": "US",
+        "name": "Hype AI - AI Photo & Video",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 62,
+        "curr_rank": 42,
+        "delta": 20
+      },
+      {
+        "country": "US",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 85,
+        "curr_rank": 69,
+        "delta": 16
       }
     ],
-    "KR": [
+    "BR": [
       {
-        "country": "KR",
-        "name": "Evoto – AI 사진 편집 및 리터칭",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 67,
-        "curr_rank": 44,
+        "country": "BR",
+        "name": "Blow Up AI: Viralize",
+        "developer": "Mountains Studio LLC",
+        "prev_rank": 79,
+        "curr_rank": 42,
+        "delta": 37
+      },
+      {
+        "country": "BR",
+        "name": "Remini - Realçador de Fotos IA",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 44,
+        "curr_rank": 21,
         "delta": 23
       },
       {
-        "country": "KR",
-        "name": "AI 비디오 및 사진 생성기⁣",
-        "developer": "N.B. Corporation LLC",
-        "prev_rank": 58,
-        "curr_rank": 42,
-        "delta": 16
-      },
-      {
-        "country": "KR",
-        "name": "AI Video - AI 동영상 생성기",
-        "developer": "HUBX",
-        "prev_rank": 78,
-        "curr_rank": 66,
+        "country": "BR",
+        "name": "Meitu: Editor de Fotos IA",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 49,
+        "curr_rank": 37,
         "delta": 12
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 54,
-        "curr_rank": 39,
-        "delta": 15
+        "name": "FaceEra – Age & Photo AI",
+        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+        "prev_rank": 98,
+        "curr_rank": 65,
+        "delta": 33
+      },
+      {
+        "country": "GB",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 51,
+        "curr_rank": 24,
+        "delta": 27
+      },
+      {
+        "country": "GB",
+        "name": "Hype AI - AI Photo & Video",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 42,
+        "curr_rank": 29,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "ReelMe: AI Photo & Video",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 84,
+        "curr_rank": 73,
+        "delta": 11
+      },
+      {
+        "country": "GB",
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 88,
+        "curr_rank": 78,
+        "delta": 10
       }
     ],
-    "BR": [
+    "DE": [
       {
-        "country": "BR",
-        "name": "Vids AI - Cria Reels e Stories",
-        "developer": "Viral Vision Ltd.",
+        "country": "DE",
+        "name": "AI Mirror: Gesichtsfoto-Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 77,
+        "curr_rank": 45,
+        "delta": 32
+      },
+      {
+        "country": "DE",
+        "name": "Remini - Einfach Bessere Fotos",
+        "developer": "Bending Spoons Apps ApS",
         "prev_rank": 41,
-        "curr_rank": 27,
+        "curr_rank": 12,
+        "delta": 29
+      },
+      {
+        "country": "DE",
+        "name": "Zoombo: AI Image&Video Editor",
+        "developer": "CoNext Limited",
+        "prev_rank": 99,
+        "curr_rank": 85,
         "delta": 14
+      },
+      {
+        "country": "DE",
+        "name": "Mosaik&Gesicht verpixeln/blur",
+        "developer": "Yu Abe",
+        "prev_rank": 43,
+        "curr_rank": 30,
+        "delta": 13
       }
     ],
-    "US": [
+    "AU": [
       {
-        "country": "US",
-        "name": "AI Face Maker & Dance Video",
-        "developer": "M2R TEKNOLOJI ANONIM SIRKETI",
+        "country": "AU",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 49,
+        "curr_rank": 19,
+        "delta": 30
+      },
+      {
+        "country": "AU",
+        "name": "Zoombo: AI Image&Video Editor",
+        "developer": "CoNext Limited",
         "prev_rank": 76,
         "curr_rank": 63,
         "delta": 13
       },
       {
-        "country": "US",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 43,
-        "curr_rank": 31,
+        "country": "AU",
+        "name": "Prequel: Photo Editor, Filters",
+        "developer": "Prequel Inc.",
+        "prev_rank": 55,
+        "curr_rank": 43,
         "delta": 12
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Hype AI - AI フォト & ビデオ",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 59,
+        "curr_rank": 30,
+        "delta": 29
       },
       {
-        "country": "US",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 47,
-        "curr_rank": 35,
-        "delta": 12
+        "country": "JP",
+        "name": "Animator: 写真が動く！AI動画メーカー",
+        "developer": "Shenzhen RenRenLian Technology Co., Ltd.",
+        "prev_rank": 99,
+        "curr_rank": 75,
+        "delta": 24
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AI Mirror: AI Photo Editor",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 61,
+        "curr_rank": 37,
+        "delta": 24
+      },
+      {
+        "country": "IN",
+        "name": "Winkit - AI Video Enhancer",
+        "developer": "Starii Tech Pty Ltd",
+        "prev_rank": 87,
+        "curr_rank": 77,
+        "delta": 10
       }
     ],
     "FR": [
       {
         "country": "FR",
-        "name": "Blow Up AI: Deviens Viral",
-        "developer": "Mountains Studio LLC",
-        "prev_rank": 46,
-        "curr_rank": 35,
-        "delta": 11
+        "name": "AI Mirror: Éditeur de visage",
+        "developer": "POLYVERSE ENTERTAINMENT INC.",
+        "prev_rank": 91,
+        "curr_rank": 70,
+        "delta": 21
+      },
+      {
+        "country": "FR",
+        "name": "AIPhoto: Image Video Generator",
+        "developer": "Le Anh Tuan",
+        "prev_rank": 96,
+        "curr_rank": 83,
+        "delta": 13
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "BeautyCam - 고화질 카메라 & AI 사진",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 25,
+        "curr_rank": 12,
+        "delta": 13
       }
     ]
   },
@@ -297,27 +459,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Momo: AI写真・動画作成 leads with +45 jump in JP"
+      "text": "Hype AI - AI Photo & Video leads with +60 jump in ID"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "ID has 3 rising apps - highest activity today"
-    },
-    {
-      "type": "app-note",
-      "icon": "📱",
-      "text": "AI Catch apps trending with 4 variants rising"
+      "text": "GB has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AI Catch: AI Video Generator rising in 4 markets: AU, GB, ID, US"
+      "text": "AI Mirror: AI Photo Editor rising in 4 markets: US, AU, GB, IN"
     }
   ],
   "meta": {
-    "prev_date": "2026-09-10",
-    "curr_date": "2026-09-11",
+    "prev_date": "2026-09-11",
+    "curr_date": "2026-09-12",
     "days": 1
   }
 }
