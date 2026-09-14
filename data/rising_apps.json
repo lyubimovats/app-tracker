@@ -1,12 +1,28 @@
 {
   "rising": [
     {
+      "country": "FR",
+      "name": "SayPose:Chat en direct",
+      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+      "prev_rank": 74,
+      "curr_rank": 51,
+      "delta": 23
+    },
+    {
       "country": "KR",
       "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
       "developer": "PICME",
       "prev_rank": 66,
-      "curr_rank": 40,
-      "delta": 26
+      "curr_rank": 43,
+      "delta": 23
+    },
+    {
+      "country": "GB",
+      "name": "SayPose:Live Chat",
+      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+      "prev_rank": 85,
+      "curr_rank": 63,
+      "delta": 22
     },
     {
       "country": "GB",
@@ -17,27 +33,27 @@
       "delta": 21
     },
     {
-      "country": "IN",
-      "name": "Video Upscaler AI Enhancer 16K",
-      "developer": "Sergii Koval",
-      "prev_rank": 55,
-      "curr_rank": 36,
-      "delta": 19
-    },
-    {
       "country": "US",
       "name": "Retake AI Face & Selfie Editor",
       "developer": "DEEP FLOW SOFTWARE SERVICES",
       "prev_rank": 62,
-      "curr_rank": 45,
+      "curr_rank": 42,
+      "delta": 20
+    },
+    {
+      "country": "US",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 94,
+      "curr_rank": 77,
       "delta": 17
     },
     {
-      "country": "FR",
-      "name": "SayPose:Chat en direct",
-      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-      "prev_rank": 74,
-      "curr_rank": 57,
+      "country": "BR",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 75,
+      "curr_rank": 58,
       "delta": 17
     },
     {
@@ -49,19 +65,19 @@
       "delta": 17
     },
     {
-      "country": "GB",
-      "name": "SayPose:Live Chat",
-      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-      "prev_rank": 85,
-      "curr_rank": 69,
-      "delta": 16
+      "country": "IN",
+      "name": "ReelU - AI Video Generator",
+      "developer": "Khanh Thong Le",
+      "prev_rank": 49,
+      "curr_rank": 34,
+      "delta": 15
     },
     {
-      "country": "US",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 94,
-      "curr_rank": 79,
+      "country": "IN",
+      "name": "Video Upscaler AI Enhancer 16K",
+      "developer": "Sergii Koval",
+      "prev_rank": 55,
+      "curr_rank": 40,
       "delta": 15
     },
     {
@@ -73,11 +89,11 @@
       "delta": 14
     },
     {
-      "country": "IN",
-      "name": "ReelU - AI Video Generator",
-      "developer": "Khanh Thong Le",
-      "prev_rank": 49,
-      "curr_rank": 35,
+      "country": "GB",
+      "name": "ReelMe: AI Photo & Video",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 65,
+      "curr_rank": 51,
       "delta": 14
     },
     {
@@ -85,7 +101,23 @@
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
       "prev_rank": 80,
-      "curr_rank": 67,
+      "curr_rank": 66,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "YouCut - Video Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 89,
+      "curr_rank": 75,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "SayPose:Live-Chat",
+      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+      "prev_rank": 63,
+      "curr_rank": 50,
       "delta": 13
     },
     {
@@ -97,51 +129,19 @@
       "delta": 13
     },
     {
-      "country": "BR",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 75,
-      "curr_rank": 62,
-      "delta": 13
-    },
-    {
-      "country": "IN",
-      "name": "YouCut - Video Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 89,
-      "curr_rank": 76,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "Aura Frames",
-      "developer": "Aura Home, Inc.",
-      "prev_rank": 70,
-      "curr_rank": 58,
+      "country": "AU",
+      "name": "Remini - AI Photo Editor",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 66,
+      "curr_rank": 54,
       "delta": 12
     },
     {
       "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 81,
-      "curr_rank": 70,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 65,
-      "curr_rank": 54,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 66,
-      "curr_rank": 55,
+      "name": "Splice - Video Editor & Maker",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 85,
+      "curr_rank": 74,
       "delta": 11
     },
     {
@@ -161,47 +161,89 @@
       "delta": 11
     },
     {
+      "country": "US",
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "prev_rank": 70,
+      "curr_rank": 60,
+      "delta": 10
+    },
+    {
+      "country": "US",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 81,
+      "curr_rank": 71,
+      "delta": 10
+    },
+    {
+      "country": "US",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 99,
+      "curr_rank": 89,
+      "delta": 10
+    },
+    {
       "country": "JP",
       "name": "Runway: AI Image & Video",
       "developer": "runwayml",
       "prev_rank": 92,
-      "curr_rank": 81,
-      "delta": 11
+      "curr_rank": 82,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
+      "developer": "ImgBase, Inc.",
+      "prev_rank": 61,
+      "curr_rank": 51,
+      "delta": 10
     },
     {
       "country": "AU",
       "name": "Photoroom: AI Photo Editor",
       "developer": "Photoroom",
       "prev_rank": 71,
-      "curr_rank": 60,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "InShot - AI Video Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 46,
-      "curr_rank": 36,
-      "delta": 10
-    },
-    {
-      "country": "DE",
-      "name": "SayPose:Live-Chat",
-      "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-      "prev_rank": 63,
-      "curr_rank": 53,
+      "curr_rank": 61,
       "delta": 10
     }
   ],
   "by_country": {
+    "FR": [
+      {
+        "country": "FR",
+        "name": "SayPose:Chat en direct",
+        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+        "prev_rank": 74,
+        "curr_rank": 51,
+        "delta": 23
+      },
+      {
+        "country": "FR",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 80,
+        "curr_rank": 66,
+        "delta": 14
+      },
+      {
+        "country": "FR",
+        "name": "AIPhoto: Image Video Generator",
+        "developer": "Le Anh Tuan",
+        "prev_rank": 76,
+        "curr_rank": 65,
+        "delta": 11
+      }
+    ],
     "KR": [
       {
         "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 66,
-        "curr_rank": 40,
-        "delta": 26
+        "curr_rank": 43,
+        "delta": 23
       },
       {
         "country": "KR",
@@ -210,9 +252,25 @@
         "prev_rank": 49,
         "curr_rank": 32,
         "delta": 17
+      },
+      {
+        "country": "KR",
+        "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
+        "developer": "ImgBase, Inc.",
+        "prev_rank": 61,
+        "curr_rank": 51,
+        "delta": 10
       }
     ],
     "GB": [
+      {
+        "country": "GB",
+        "name": "SayPose:Live Chat",
+        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+        "prev_rank": 85,
+        "curr_rank": 63,
+        "delta": 22
+      },
       {
         "country": "GB",
         "name": "Muse: Reels Video Editor",
@@ -223,53 +281,11 @@
       },
       {
         "country": "GB",
-        "name": "SayPose:Live Chat",
-        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-        "prev_rank": 85,
-        "curr_rank": 69,
-        "delta": 16
-      },
-      {
-        "country": "GB",
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 65,
-        "curr_rank": 54,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "InShot - AI Video Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 46,
-        "curr_rank": 36,
-        "delta": 10
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Video Upscaler AI Enhancer 16K",
-        "developer": "Sergii Koval",
-        "prev_rank": 55,
-        "curr_rank": 36,
-        "delta": 19
-      },
-      {
-        "country": "IN",
-        "name": "ReelU - AI Video Generator",
-        "developer": "Khanh Thong Le",
-        "prev_rank": 49,
-        "curr_rank": 35,
+        "curr_rank": 51,
         "delta": 14
-      },
-      {
-        "country": "IN",
-        "name": "YouCut - Video Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 89,
-        "curr_rank": 76,
-        "delta": 13
       }
     ],
     "US": [
@@ -278,16 +294,16 @@
         "name": "Retake AI Face & Selfie Editor",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 62,
-        "curr_rank": 45,
-        "delta": 17
+        "curr_rank": 42,
+        "delta": 20
       },
       {
         "country": "US",
         "name": "Adobe Premiere AI Video Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 94,
-        "curr_rank": 79,
-        "delta": 15
+        "curr_rank": 77,
+        "delta": 17
       },
       {
         "country": "US",
@@ -299,48 +315,46 @@
       },
       {
         "country": "US",
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 85,
+        "curr_rank": 74,
+        "delta": 11
+      },
+      {
+        "country": "US",
         "name": "Aura Frames",
         "developer": "Aura Home, Inc.",
         "prev_rank": 70,
-        "curr_rank": 58,
-        "delta": 12
+        "curr_rank": 60,
+        "delta": 10
       },
       {
         "country": "US",
         "name": "AI Photo Video Editor, Enhance",
         "developer": "COOL SUMMER LIMITED",
         "prev_rank": 81,
-        "curr_rank": 70,
-        "delta": 11
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "SayPose:Chat en direct",
-        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-        "prev_rank": 74,
-        "curr_rank": 57,
-        "delta": 17
+        "curr_rank": 71,
+        "delta": 10
       },
       {
-        "country": "FR",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 80,
-        "curr_rank": 67,
-        "delta": 13
-      },
-      {
-        "country": "FR",
-        "name": "AIPhoto: Image Video Generator",
-        "developer": "Le Anh Tuan",
-        "prev_rank": 76,
-        "curr_rank": 65,
-        "delta": 11
+        "country": "US",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 99,
+        "curr_rank": 89,
+        "delta": 10
       }
     ],
     "BR": [
+      {
+        "country": "BR",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 75,
+        "curr_rank": 58,
+        "delta": 17
+      },
       {
         "country": "BR",
         "name": "BIGVU Teleprompter Captions AI",
@@ -348,24 +362,42 @@
         "prev_rank": 67,
         "curr_rank": 54,
         "delta": 13
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "ReelU - AI Video Generator",
+        "developer": "Khanh Thong Le",
+        "prev_rank": 49,
+        "curr_rank": 34,
+        "delta": 15
       },
       {
-        "country": "BR",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 75,
-        "curr_rank": 62,
-        "delta": 13
+        "country": "IN",
+        "name": "Video Upscaler AI Enhancer 16K",
+        "developer": "Sergii Koval",
+        "prev_rank": 55,
+        "curr_rank": 40,
+        "delta": 15
+      },
+      {
+        "country": "IN",
+        "name": "YouCut - Video Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 89,
+        "curr_rank": 75,
+        "delta": 14
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 66,
-        "curr_rank": 55,
-        "delta": 11
+        "name": "SayPose:Live-Chat",
+        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
+        "prev_rank": 63,
+        "curr_rank": 50,
+        "delta": 13
       },
       {
         "country": "DE",
@@ -374,13 +406,23 @@
         "prev_rank": 93,
         "curr_rank": 82,
         "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Remini - AI Photo Editor",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 66,
+        "curr_rank": 54,
+        "delta": 12
       },
       {
-        "country": "DE",
-        "name": "SayPose:Live-Chat",
-        "developer": "Wuhan Yongaoxin Technology Co.,Ltd.",
-        "prev_rank": 63,
-        "curr_rank": 53,
+        "country": "AU",
+        "name": "Photoroom: AI Photo Editor",
+        "developer": "Photoroom",
+        "prev_rank": 71,
+        "curr_rank": 61,
         "delta": 10
       }
     ],
@@ -390,18 +432,8 @@
         "name": "Runway: AI Image & Video",
         "developer": "runwayml",
         "prev_rank": 92,
-        "curr_rank": 81,
-        "delta": 11
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Photoroom: AI Photo Editor",
-        "developer": "Photoroom",
-        "prev_rank": 71,
-        "curr_rank": 60,
-        "delta": 11
+        "curr_rank": 82,
+        "delta": 10
       }
     ]
   },
@@ -409,12 +441,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플 leads with +26 jump in KR"
+      "text": "SayPose:Chat en direct leads with +23 jump in FR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 5 rising apps - highest activity today"
+      "text": "US has 7 rising apps - highest activity today"
     },
     {
       "type": "trending",
