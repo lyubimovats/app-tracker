@@ -57,20 +57,20 @@
       "delta": 20
     },
     {
+      "country": "US",
+      "name": "Prequel: Photo & Video Editor",
+      "developer": "Prequel Inc.",
+      "prev_rank": 70,
+      "curr_rank": 52,
+      "delta": 18
+    },
+    {
       "country": "JP",
       "name": "PowerDirector - AI動画編集アプリ",
       "developer": "CyberLink",
       "prev_rank": 100,
       "curr_rank": 82,
       "delta": 18
-    },
-    {
-      "country": "US",
-      "name": "Prequel: Photo & Video Editor",
-      "developer": "Prequel Inc.",
-      "prev_rank": 70,
-      "curr_rank": 53,
-      "delta": 17
     },
     {
       "country": "DE",
@@ -162,10 +162,34 @@
     },
     {
       "country": "US",
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 50,
+      "curr_rank": 39,
+      "delta": 11
+    },
+    {
+      "country": "US",
       "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 56,
       "curr_rank": 45,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "VSCO: Photo & Video Editor",
+      "developer": "Visual Supply Company",
+      "prev_rank": 73,
+      "curr_rank": 62,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "Citrus 1 Tap Photo Enhancer AI",
+      "developer": "Wemagine.ai LLP",
+      "prev_rank": 77,
+      "curr_rank": 66,
       "delta": 11
     },
     {
@@ -191,38 +215,6 @@
       "prev_rank": 47,
       "curr_rank": 36,
       "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 38,
-      "curr_rank": 28,
-      "delta": 10
-    },
-    {
-      "country": "US",
-      "name": "Retake AI Face & Selfie Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 50,
-      "curr_rank": 40,
-      "delta": 10
-    },
-    {
-      "country": "US",
-      "name": "VSCO: Photo & Video Editor",
-      "developer": "Visual Supply Company",
-      "prev_rank": 73,
-      "curr_rank": 63,
-      "delta": 10
-    },
-    {
-      "country": "US",
-      "name": "Aura Frames",
-      "developer": "Aura Home, Inc.",
-      "prev_rank": 75,
-      "curr_rank": 65,
-      "delta": 10
     },
     {
       "country": "GB",
@@ -372,6 +364,56 @@
         "delta": 12
       }
     ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Prequel: Photo & Video Editor",
+        "developer": "Prequel Inc.",
+        "prev_rank": 70,
+        "curr_rank": 52,
+        "delta": 18
+      },
+      {
+        "country": "US",
+        "name": "FaceEra – Age & Photo AI",
+        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+        "prev_rank": 27,
+        "curr_rank": 15,
+        "delta": 12
+      },
+      {
+        "country": "US",
+        "name": "Retake AI Face & Selfie Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 50,
+        "curr_rank": 39,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "BeautyPlus-Selfie Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 56,
+        "curr_rank": 45,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "VSCO: Photo & Video Editor",
+        "developer": "Visual Supply Company",
+        "prev_rank": 73,
+        "curr_rank": 62,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "Citrus 1 Tap Photo Enhancer AI",
+        "developer": "Wemagine.ai LLP",
+        "prev_rank": 77,
+        "curr_rank": 66,
+        "delta": 11
+      }
+    ],
     "JP": [
       {
         "country": "JP",
@@ -388,64 +430,6 @@
         "prev_rank": 91,
         "curr_rank": 79,
         "delta": 12
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Prequel: Photo & Video Editor",
-        "developer": "Prequel Inc.",
-        "prev_rank": 70,
-        "curr_rank": 53,
-        "delta": 17
-      },
-      {
-        "country": "US",
-        "name": "FaceEra – Age & Photo AI",
-        "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-        "prev_rank": 27,
-        "curr_rank": 15,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "BeautyPlus-Selfie Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 56,
-        "curr_rank": 45,
-        "delta": 11
-      },
-      {
-        "country": "US",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 38,
-        "curr_rank": 28,
-        "delta": 10
-      },
-      {
-        "country": "US",
-        "name": "Retake AI Face & Selfie Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 50,
-        "curr_rank": 40,
-        "delta": 10
-      },
-      {
-        "country": "US",
-        "name": "VSCO: Photo & Video Editor",
-        "developer": "Visual Supply Company",
-        "prev_rank": 73,
-        "curr_rank": 63,
-        "delta": 10
-      },
-      {
-        "country": "US",
-        "name": "Aura Frames",
-        "developer": "Aura Home, Inc.",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
       }
     ],
     "AU": [
@@ -528,7 +512,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 7 rising apps - highest activity today"
+      "text": "US has 6 rising apps - highest activity today"
     },
     {
       "type": "app-note",
@@ -538,7 +522,7 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "WayShot:Aesthetic Photo Editor rising in 3 markets: DE, GB, US"
+      "text": "Vids AI - Reels Video Editor rising in 2 markets: DE, AU"
     }
   ],
   "meta": {
