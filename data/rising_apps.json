@@ -5,8 +5,8 @@
       "name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
       "prev_rank": 98,
-      "curr_rank": 8,
-      "delta": 90
+      "curr_rank": 6,
+      "delta": 92
     },
     {
       "country": "GB",
@@ -17,28 +17,28 @@
       "delta": 76
     },
     {
-      "country": "DE",
-      "name": "Dance AI - Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 94,
-      "curr_rank": 35,
-      "delta": 59
-    },
-    {
       "country": "FR",
       "name": "Dance AI - Générateur Vidéo",
       "developer": "DeePix AI",
       "prev_rank": 95,
-      "curr_rank": 38,
-      "delta": 57
+      "curr_rank": 27,
+      "delta": 68
+    },
+    {
+      "country": "DE",
+      "name": "Dance AI - Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 94,
+      "curr_rank": 32,
+      "delta": 62
     },
     {
       "country": "KR",
       "name": "Muse: 릴스 동영상 편집 & AI",
       "developer": "Bigrowth",
       "prev_rank": 98,
-      "curr_rank": 47,
-      "delta": 51
+      "curr_rank": 44,
+      "delta": 54
     },
     {
       "country": "GB",
@@ -49,6 +49,14 @@
       "delta": 50
     },
     {
+      "country": "DE",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 77,
+      "curr_rank": 38,
+      "delta": 39
+    },
+    {
       "country": "AU",
       "name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
@@ -57,20 +65,12 @@
       "delta": 36
     },
     {
-      "country": "DE",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 77,
-      "curr_rank": 51,
-      "delta": 26
-    },
-    {
       "country": "BR",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 95,
-      "curr_rank": 73,
-      "delta": 22
+      "curr_rank": 72,
+      "delta": 23
     },
     {
       "country": "KR",
@@ -93,32 +93,16 @@
       "name": "invideo AI: AI video generator",
       "developer": "Invideo Inc",
       "prev_rank": 98,
-      "curr_rank": 81,
-      "delta": 17
-    },
-    {
-      "country": "BR",
-      "name": "PrettyUp-Video Portrait Editor",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 100,
-      "curr_rank": 84,
-      "delta": 16
-    },
-    {
-      "country": "GB",
-      "name": "FaceEra – Age & Photo AI",
-      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
-      "prev_rank": 60,
-      "curr_rank": 45,
-      "delta": 15
+      "curr_rank": 80,
+      "delta": 18
     },
     {
       "country": "BR",
       "name": "AI Video - AI Video Generator",
       "developer": "HUBX",
       "prev_rank": 55,
-      "curr_rank": 40,
-      "delta": 15
+      "curr_rank": 38,
+      "delta": 17
     },
     {
       "country": "ID",
@@ -129,11 +113,19 @@
       "delta": 15
     },
     {
-      "country": "AU",
-      "name": "iFizz, AI Hair Try On & Dance",
-      "developer": "少涛 周",
-      "prev_rank": 96,
-      "curr_rank": 83,
+      "country": "IN",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 86,
+      "curr_rank": 72,
+      "delta": 14
+    },
+    {
+      "country": "FR",
+      "name": "Runway: AI Image & Video",
+      "developer": "runwayml",
+      "prev_rank": 37,
+      "curr_rank": 24,
       "delta": 13
     },
     {
@@ -141,24 +133,48 @@
       "name": "AI Catch: IA Vídeo Gerador",
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 58,
-      "curr_rank": 46,
-      "delta": 12
+      "curr_rank": 45,
+      "delta": 13
     },
     {
-      "country": "IN",
-      "name": "Adobe Photoshop: Photo Editor",
+      "country": "BR",
+      "name": "PrettyUp-Video Portrait Editor",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 100,
+      "curr_rank": 87,
+      "delta": 13
+    },
+    {
+      "country": "JP",
+      "name": "Adobe Premiere - AI動画編集",
       "developer": "Adobe Inc.",
-      "prev_rank": 86,
-      "curr_rank": 74,
+      "prev_rank": 74,
+      "curr_rank": 62,
       "delta": 12
     },
     {
       "country": "JP",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "prev_rank": 89,
-      "curr_rank": 78,
+      "name": "Runway: AI Image & Video",
+      "developer": "runwayml",
+      "prev_rank": 100,
+      "curr_rank": 88,
+      "delta": 12
+    },
+    {
+      "country": "BR",
+      "name": "Flow AI: Criador De Video IA",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 72,
+      "curr_rank": 61,
       "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "FaceEra – Age & Photo AI",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "prev_rank": 60,
+      "curr_rank": 50,
+      "delta": 10
     },
     {
       "country": "DE",
@@ -169,11 +185,27 @@
       "delta": 10
     },
     {
-      "country": "FR",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "prev_rank": 37,
-      "curr_rank": 27,
+      "country": "JP",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 95,
+      "curr_rank": 85,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 25,
+      "curr_rank": 15,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "Filmora: AI 영상 제작 & 동영상 편집",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 92,
+      "curr_rank": 82,
       "delta": 10
     }
   ],
@@ -184,8 +216,8 @@
         "name": "Shots: Photo & Video Generator",
         "developer": "DeePix AI",
         "prev_rank": 98,
-        "curr_rank": 8,
-        "delta": 90
+        "curr_rank": 6,
+        "delta": 92
       }
     ],
     "GB": [
@@ -210,8 +242,26 @@
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 60,
-        "curr_rank": 45,
-        "delta": 15
+        "curr_rank": 50,
+        "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Dance AI - Générateur Vidéo",
+        "developer": "DeePix AI",
+        "prev_rank": 95,
+        "curr_rank": 27,
+        "delta": 68
+      },
+      {
+        "country": "FR",
+        "name": "Runway: AI Image & Video",
+        "developer": "runwayml",
+        "prev_rank": 37,
+        "curr_rank": 24,
+        "delta": 13
       }
     ],
     "DE": [
@@ -220,16 +270,16 @@
         "name": "Dance AI - Video Generator",
         "developer": "DeePix AI",
         "prev_rank": 94,
-        "curr_rank": 35,
-        "delta": 59
+        "curr_rank": 32,
+        "delta": 62
       },
       {
         "country": "DE",
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 77,
-        "curr_rank": 51,
-        "delta": 26
+        "curr_rank": 38,
+        "delta": 39
       },
       {
         "country": "DE",
@@ -240,32 +290,14 @@
         "delta": 10
       }
     ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Dance AI - Générateur Vidéo",
-        "developer": "DeePix AI",
-        "prev_rank": 95,
-        "curr_rank": 38,
-        "delta": 57
-      },
-      {
-        "country": "FR",
-        "name": "Runway: AI Image & Video",
-        "developer": "runwayml",
-        "prev_rank": 37,
-        "curr_rank": 27,
-        "delta": 10
-      }
-    ],
     "KR": [
       {
         "country": "KR",
         "name": "Muse: 릴스 동영상 편집 & AI",
         "developer": "Bigrowth",
         "prev_rank": 98,
-        "curr_rank": 47,
-        "delta": 51
+        "curr_rank": 44,
+        "delta": 54
       },
       {
         "country": "KR",
@@ -274,6 +306,22 @@
         "prev_rank": 49,
         "curr_rank": 29,
         "delta": 20
+      },
+      {
+        "country": "KR",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 25,
+        "curr_rank": 15,
+        "delta": 10
+      },
+      {
+        "country": "KR",
+        "name": "Filmora: AI 영상 제작 & 동영상 편집",
+        "developer": "Shenzhen Wondershare Software Co., Ltd",
+        "prev_rank": 92,
+        "curr_rank": 82,
+        "delta": 10
       }
     ],
     "AU": [
@@ -284,14 +332,6 @@
         "prev_rank": 40,
         "curr_rank": 4,
         "delta": 36
-      },
-      {
-        "country": "AU",
-        "name": "iFizz, AI Hair Try On & Dance",
-        "developer": "少涛 周",
-        "prev_rank": 96,
-        "curr_rank": 83,
-        "delta": 13
       }
     ],
     "BR": [
@@ -300,40 +340,48 @@
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 95,
-        "curr_rank": 73,
-        "delta": 22
+        "curr_rank": 72,
+        "delta": 23
       },
       {
         "country": "BR",
         "name": "invideo AI: AI video generator",
         "developer": "Invideo Inc",
         "prev_rank": 98,
-        "curr_rank": 81,
-        "delta": 17
-      },
-      {
-        "country": "BR",
-        "name": "PrettyUp-Video Portrait Editor",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 100,
-        "curr_rank": 84,
-        "delta": 16
+        "curr_rank": 80,
+        "delta": 18
       },
       {
         "country": "BR",
         "name": "AI Video - AI Video Generator",
         "developer": "HUBX",
         "prev_rank": 55,
-        "curr_rank": 40,
-        "delta": 15
+        "curr_rank": 38,
+        "delta": 17
       },
       {
         "country": "BR",
         "name": "AI Catch: IA Vídeo Gerador",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 58,
-        "curr_rank": 46,
-        "delta": 12
+        "curr_rank": 45,
+        "delta": 13
+      },
+      {
+        "country": "BR",
+        "name": "PrettyUp-Video Portrait Editor",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 100,
+        "curr_rank": 87,
+        "delta": 13
+      },
+      {
+        "country": "BR",
+        "name": "Flow AI: Criador De Video IA",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 72,
+        "curr_rank": 61,
+        "delta": 11
       }
     ],
     "IN": [
@@ -350,8 +398,8 @@
         "name": "Adobe Photoshop: Photo Editor",
         "developer": "Adobe Inc.",
         "prev_rank": 86,
-        "curr_rank": 74,
-        "delta": 12
+        "curr_rank": 72,
+        "delta": 14
       }
     ],
     "ID": [
@@ -367,11 +415,27 @@
     "JP": [
       {
         "country": "JP",
-        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-        "developer": "SNOW Corporation",
-        "prev_rank": 89,
-        "curr_rank": 78,
-        "delta": 11
+        "name": "Adobe Premiere - AI動画編集",
+        "developer": "Adobe Inc.",
+        "prev_rank": 74,
+        "curr_rank": 62,
+        "delta": 12
+      },
+      {
+        "country": "JP",
+        "name": "Runway: AI Image & Video",
+        "developer": "runwayml",
+        "prev_rank": 100,
+        "curr_rank": 88,
+        "delta": 12
+      },
+      {
+        "country": "JP",
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 95,
+        "curr_rank": 85,
+        "delta": 10
       }
     ]
   },
@@ -379,12 +443,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Shots: Photo & Video Generator leads with +90 jump in US"
+      "text": "Shots: Photo & Video Generator leads with +92 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 5 rising apps - highest activity today"
+      "text": "BR has 6 rising apps - highest activity today"
     },
     {
       "type": "app-note",
@@ -394,7 +458,7 @@
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Shots: Photo & Video Generator rising in 3 markets: US, GB, AU"
+      "text": "Shots: Photo & Video Generator rising in 4 markets: US, GB, AU, KR"
     }
   ],
   "meta": {
