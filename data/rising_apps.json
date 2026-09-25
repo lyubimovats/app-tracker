@@ -5,16 +5,24 @@
       "name": "AI Mirror: AI Photo Editor",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 85,
-      "curr_rank": 35,
-      "delta": 50
+      "curr_rank": 36,
+      "delta": 49
     },
     {
       "country": "FR",
       "name": "FaceLab Cheveux, Filtre Visage",
       "developer": "Lyrebird Studio",
       "prev_rank": 90,
-      "curr_rank": 62,
-      "delta": 28
+      "curr_rank": 59,
+      "delta": 31
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 91,
+      "curr_rank": 64,
+      "delta": 27
     },
     {
       "country": "GB",
@@ -26,27 +34,11 @@
     },
     {
       "country": "US",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 91,
-      "curr_rank": 68,
-      "delta": 23
-    },
-    {
-      "country": "US",
       "name": "Toonapp: AI Photo & Video Art",
       "developer": "Lyrebird Studio",
       "prev_rank": 48,
-      "curr_rank": 26,
-      "delta": 22
-    },
-    {
-      "country": "US",
-      "name": "LightX: AI Generator & Editor",
-      "developer": "Andor Communications Private Limited",
-      "prev_rank": 99,
-      "curr_rank": 77,
-      "delta": 22
+      "curr_rank": 25,
+      "delta": 23
     },
     {
       "country": "BR",
@@ -73,20 +65,20 @@
       "delta": 21
     },
     {
+      "country": "US",
+      "name": "LightX: AI Generator & Editor",
+      "developer": "Andor Communications Private Limited",
+      "prev_rank": 99,
+      "curr_rank": 78,
+      "delta": 21
+    },
+    {
       "country": "KR",
       "name": "Hype AI - AI 포토 & 비디오",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 93,
-      "curr_rank": 73,
-      "delta": 20
-    },
-    {
-      "country": "FR",
-      "name": "Facetune: Éditeur Photo/Vidéo",
-      "developer": "Lightricks Ltd.",
-      "prev_rank": 78,
-      "curr_rank": 59,
-      "delta": 19
+      "curr_rank": 72,
+      "delta": 21
     },
     {
       "country": "FR",
@@ -94,6 +86,14 @@
       "developer": "Prominent Fortune PTE. LTD",
       "prev_rank": 75,
       "curr_rank": 57,
+      "delta": 18
+    },
+    {
+      "country": "FR",
+      "name": "Facetune: Éditeur Photo/Vidéo",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 78,
+      "curr_rank": 60,
       "delta": 18
     },
     {
@@ -113,6 +113,14 @@
       "delta": 16
     },
     {
+      "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 87,
+      "curr_rank": 73,
+      "delta": 14
+    },
+    {
       "country": "DE",
       "name": "Facetune: KI Foto Video Editor",
       "developer": "Lightricks Ltd.",
@@ -130,34 +138,26 @@
     },
     {
       "country": "GB",
-      "name": "FaceLab: Aging, Haircut Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 50,
-      "curr_rank": 38,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 87,
-      "curr_rank": 75,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 75,
-      "curr_rank": 64,
+      "name": "Meitu- AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 93,
+      "curr_rank": 82,
       "delta": 11
     },
     {
-      "country": "AU",
-      "name": "eCalendar - Daily Planner",
-      "developer": "Shenzhen Fujia Technology Co., Ltd.",
-      "prev_rank": 91,
-      "curr_rank": 81,
+      "country": "DE",
+      "name": "Genie AI - AI Video Generator",
+      "developer": "发家 罗",
+      "prev_rank": 90,
+      "curr_rank": 80,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 67,
+      "curr_rank": 57,
       "delta": 10
     }
   ],
@@ -168,8 +168,8 @@
         "name": "AI Mirror: AI Photo Editor",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 85,
-        "curr_rank": 35,
-        "delta": 50
+        "curr_rank": 36,
+        "delta": 49
       },
       {
         "country": "AU",
@@ -178,14 +178,6 @@
         "prev_rank": 63,
         "curr_rank": 47,
         "delta": 16
-      },
-      {
-        "country": "AU",
-        "name": "eCalendar - Daily Planner",
-        "developer": "Shenzhen Fujia Technology Co., Ltd.",
-        "prev_rank": 91,
-        "curr_rank": 81,
-        "delta": 10
       }
     ],
     "FR": [
@@ -194,16 +186,8 @@
         "name": "FaceLab Cheveux, Filtre Visage",
         "developer": "Lyrebird Studio",
         "prev_rank": 90,
-        "curr_rank": 62,
-        "delta": 28
-      },
-      {
-        "country": "FR",
-        "name": "Facetune: Éditeur Photo/Vidéo",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 78,
         "curr_rank": 59,
-        "delta": 19
+        "delta": 31
       },
       {
         "country": "FR",
@@ -212,6 +196,56 @@
         "prev_rank": 75,
         "curr_rank": 57,
         "delta": 18
+      },
+      {
+        "country": "FR",
+        "name": "Facetune: Éditeur Photo/Vidéo",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 78,
+        "curr_rank": 60,
+        "delta": 18
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 91,
+        "curr_rank": 64,
+        "delta": 27
+      },
+      {
+        "country": "US",
+        "name": "Toonapp: AI Photo & Video Art",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 48,
+        "curr_rank": 25,
+        "delta": 23
+      },
+      {
+        "country": "US",
+        "name": "FaceLab: Face Age, Hair Filter",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 66,
+        "curr_rank": 45,
+        "delta": 21
+      },
+      {
+        "country": "US",
+        "name": "LightX: AI Generator & Editor",
+        "developer": "Andor Communications Private Limited",
+        "prev_rank": 99,
+        "curr_rank": 78,
+        "delta": 21
+      },
+      {
+        "country": "US",
+        "name": "Starrd - AI Video Generator",
+        "developer": "Ian Brillantes",
+        "prev_rank": 65,
+        "curr_rank": 49,
+        "delta": 16
       }
     ],
     "GB": [
@@ -225,61 +259,11 @@
       },
       {
         "country": "GB",
-        "name": "FaceLab: Aging, Haircut Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 50,
-        "curr_rank": 38,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 75,
-        "curr_rank": 64,
+        "name": "Meitu- AI Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 93,
+        "curr_rank": 82,
         "delta": 11
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 91,
-        "curr_rank": 68,
-        "delta": 23
-      },
-      {
-        "country": "US",
-        "name": "Toonapp: AI Photo & Video Art",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 48,
-        "curr_rank": 26,
-        "delta": 22
-      },
-      {
-        "country": "US",
-        "name": "LightX: AI Generator & Editor",
-        "developer": "Andor Communications Private Limited",
-        "prev_rank": 99,
-        "curr_rank": 77,
-        "delta": 22
-      },
-      {
-        "country": "US",
-        "name": "FaceLab: Face Age, Hair Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 66,
-        "curr_rank": 45,
-        "delta": 21
-      },
-      {
-        "country": "US",
-        "name": "Starrd - AI Video Generator",
-        "developer": "Ian Brillantes",
-        "prev_rank": 65,
-        "curr_rank": 49,
-        "delta": 16
       }
     ],
     "BR": [
@@ -306,16 +290,16 @@
         "name": "Hype AI - AI 포토 & 비디오",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 93,
-        "curr_rank": 73,
-        "delta": 20
+        "curr_rank": 72,
+        "delta": 21
       },
       {
         "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 87,
-        "curr_rank": 75,
-        "delta": 12
+        "curr_rank": 73,
+        "delta": 14
       }
     ],
     "DE": [
@@ -334,6 +318,24 @@
         "prev_rank": 78,
         "curr_rank": 65,
         "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Genie AI - AI Video Generator",
+        "developer": "发家 罗",
+        "prev_rank": 90,
+        "curr_rank": 80,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 67,
+        "curr_rank": 57,
+        "delta": 10
       }
     ]
   },
@@ -341,7 +343,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Mirror: AI Photo Editor leads with +50 jump in AU"
+      "text": "AI Mirror: AI Photo Editor leads with +49 jump in AU"
     },
     {
       "type": "market",
@@ -351,7 +353,7 @@
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "FaceLab apps trending with 3 variants rising"
+      "text": "FaceLab apps trending with 2 variants rising"
     },
     {
       "type": "trending",
