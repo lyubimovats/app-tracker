@@ -5,56 +5,24 @@
       "name": "Passfoto - PhotoAiD",
       "developer": "Photo Aid",
       "prev_rank": 97,
-      "curr_rank": 64,
-      "delta": 33
+      "curr_rank": 63,
+      "delta": 34
     },
     {
       "country": "KR",
       "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
       "developer": "PICME",
       "prev_rank": 58,
-      "curr_rank": 35,
-      "delta": 23
+      "curr_rank": 36,
+      "delta": 22
     },
     {
-      "country": "GB",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
+      "country": "IN",
+      "name": "Unreels: AI Reels Video Editor",
+      "developer": "StoryPath Apps Ltd",
       "prev_rank": 75,
       "curr_rank": 59,
       "delta": 16
-    },
-    {
-      "country": "FR",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 78,
-      "curr_rank": 62,
-      "delta": 16
-    },
-    {
-      "country": "ID",
-      "name": "AI Teleprompter: PromptOne",
-      "developer": "Hong Kong Muguang Technology Co., Limited",
-      "prev_rank": 78,
-      "curr_rank": 62,
-      "delta": 16
-    },
-    {
-      "country": "JP",
-      "name": "Luma Style AI",
-      "developer": "GEORGE GRANT",
-      "prev_rank": 75,
-      "curr_rank": 60,
-      "delta": 15
-    },
-    {
-      "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 94,
-      "curr_rank": 79,
-      "delta": 15
     },
     {
       "country": "US",
@@ -65,27 +33,43 @@
       "delta": 14
     },
     {
-      "country": "IN",
-      "name": "Unreels: AI Reels Video Editor",
-      "developer": "StoryPath Apps Ltd",
-      "prev_rank": 75,
-      "curr_rank": 61,
+      "country": "US",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 81,
+      "curr_rank": 67,
       "delta": 14
+    },
+    {
+      "country": "ID",
+      "name": "AI Teleprompter: PromptOne",
+      "developer": "Hong Kong Muguang Technology Co., Limited",
+      "prev_rank": 78,
+      "curr_rank": 64,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 94,
+      "curr_rank": 80,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 75,
+      "curr_rank": 62,
+      "delta": 13
     },
     {
       "country": "US",
       "name": "Face Magic - AI Photo Editor",
       "developer": "App Studio Yazılım Hizmetleri LTD STI",
       "prev_rank": 96,
-      "curr_rank": 83,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 66,
-      "curr_rank": 54,
+      "curr_rank": 84,
       "delta": 12
     },
     {
@@ -105,11 +89,43 @@
       "delta": 12
     },
     {
+      "country": "GB",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 66,
+      "curr_rank": 55,
+      "delta": 11
+    },
+    {
       "country": "DE",
-      "name": "Pollo AI: KI-Video & KI-Bilder",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 76,
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 68,
+      "curr_rank": 57,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 78,
+      "curr_rank": 67,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "Flow AI: Criador De Video IA",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 77,
+      "curr_rank": 66,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "Criador de Video IA - Vimo AI",
+      "developer": "Mobile Ocean",
+      "prev_rank": 82,
+      "curr_rank": 71,
       "delta": 11
     },
     {
@@ -129,27 +145,27 @@
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "PicCollage: Magic Photo Editor",
-      "developer": "Cardinal Blue",
-      "prev_rank": 71,
-      "curr_rank": 61,
-      "delta": 10
-    },
-    {
-      "country": "US",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 81,
-      "curr_rank": 71,
-      "delta": 10
-    },
-    {
       "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 71,
-      "curr_rank": 61,
+      "name": "Pollo AI: KI-Video & KI-Bilder",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 87,
+      "curr_rank": 77,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "Luma Style AI",
+      "developer": "GEORGE GRANT",
+      "prev_rank": 75,
+      "curr_rank": 65,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+      "developer": "ALWAYS RISING PTE. LTD.",
+      "prev_rank": 96,
+      "curr_rank": 86,
       "delta": 10
     }
   ],
@@ -160,23 +176,23 @@
         "name": "Passfoto - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 97,
-        "curr_rank": 64,
-        "delta": 33
+        "curr_rank": 63,
+        "delta": 34
+      },
+      {
+        "country": "DE",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 68,
+        "curr_rank": 57,
+        "delta": 11
       },
       {
         "country": "DE",
         "name": "Pollo AI: KI-Video & KI-Bilder",
         "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
         "prev_rank": 87,
-        "curr_rank": 76,
-        "delta": 11
-      },
-      {
-        "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 71,
-        "curr_rank": 61,
+        "curr_rank": 77,
         "delta": 10
       }
     ],
@@ -186,8 +202,8 @@
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 58,
-        "curr_rank": 35,
-        "delta": 23
+        "curr_rank": 36,
+        "delta": 22
       },
       {
         "country": "KR",
@@ -206,70 +222,22 @@
         "delta": 11
       }
     ],
-    "GB": [
+    "IN": [
       {
-        "country": "GB",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
+        "country": "IN",
+        "name": "Unreels: AI Reels Video Editor",
+        "developer": "StoryPath Apps Ltd",
         "prev_rank": 75,
         "curr_rank": 59,
         "delta": 16
       },
       {
-        "country": "GB",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 66,
-        "curr_rank": 54,
+        "country": "IN",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 84,
+        "curr_rank": 72,
         "delta": 12
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 78,
-        "curr_rank": 62,
-        "delta": 16
-      },
-      {
-        "country": "FR",
-        "name": "Retake IA: Éditeur de photos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 82,
-        "curr_rank": 70,
-        "delta": 12
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "AI Teleprompter: PromptOne",
-        "developer": "Hong Kong Muguang Technology Co., Limited",
-        "prev_rank": 78,
-        "curr_rank": 62,
-        "delta": 16
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Luma Style AI",
-        "developer": "GEORGE GRANT",
-        "prev_rank": 75,
-        "curr_rank": 60,
-        "delta": 15
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 94,
-        "curr_rank": 79,
-        "delta": 15
       }
     ],
     "US": [
@@ -283,45 +251,111 @@
       },
       {
         "country": "US",
-        "name": "Face Magic - AI Photo Editor",
-        "developer": "App Studio Yazılım Hizmetleri LTD STI",
-        "prev_rank": 96,
-        "curr_rank": 83,
-        "delta": 13
-      },
-      {
-        "country": "US",
-        "name": "PicCollage: Magic Photo Editor",
-        "developer": "Cardinal Blue",
-        "prev_rank": 71,
-        "curr_rank": 61,
-        "delta": 10
-      },
-      {
-        "country": "US",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 81,
-        "curr_rank": 71,
-        "delta": 10
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Unreels: AI Reels Video Editor",
-        "developer": "StoryPath Apps Ltd",
-        "prev_rank": 75,
-        "curr_rank": 61,
+        "curr_rank": 67,
         "delta": 14
       },
       {
-        "country": "IN",
-        "name": "Adobe Photoshop: Photo Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 84,
-        "curr_rank": 72,
+        "country": "US",
+        "name": "Face Magic - AI Photo Editor",
+        "developer": "App Studio Yazılım Hizmetleri LTD STI",
+        "prev_rank": 96,
+        "curr_rank": 84,
         "delta": 12
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "AI Teleprompter: PromptOne",
+        "developer": "Hong Kong Muguang Technology Co., Limited",
+        "prev_rank": 78,
+        "curr_rank": 64,
+        "delta": 14
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 94,
+        "curr_rank": 80,
+        "delta": 14
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 75,
+        "curr_rank": 62,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Retake IA: Éditeur de photos",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 82,
+        "curr_rank": 70,
+        "delta": 12
+      },
+      {
+        "country": "FR",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 78,
+        "curr_rank": 67,
+        "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Flow AI: Criador De Video IA",
+        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+        "prev_rank": 77,
+        "curr_rank": 66,
+        "delta": 11
+      },
+      {
+        "country": "BR",
+        "name": "Criador de Video IA - Vimo AI",
+        "developer": "Mobile Ocean",
+        "prev_rank": 82,
+        "curr_rank": 71,
+        "delta": 11
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Luma Style AI",
+        "developer": "GEORGE GRANT",
+        "prev_rank": 75,
+        "curr_rank": 65,
+        "delta": 10
+      },
+      {
+        "country": "JP",
+        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+        "developer": "ALWAYS RISING PTE. LTD.",
+        "prev_rank": 96,
+        "curr_rank": 86,
+        "delta": 10
       }
     ]
   },
@@ -329,17 +363,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Passfoto - PhotoAiD leads with +33 jump in DE"
+      "text": "Passfoto - PhotoAiD leads with +34 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 4 rising apps - highest activity today"
+      "text": "DE has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Instories: AI Photo & Video rising in 2 markets: FR, DE"
+      "text": "ElevenLabs: AI Voice Generator rising in 3 markets: US, GB, DE"
     }
   ],
   "meta": {
