@@ -1,360 +1,388 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 97,
-      "curr_rank": 63,
-      "delta": 34
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 58,
-      "curr_rank": 36,
-      "delta": 22
-    },
-    {
-      "country": "IN",
-      "name": "Unreels: AI Reels Video Editor",
-      "developer": "StoryPath Apps Ltd",
-      "prev_rank": 75,
-      "curr_rank": 59,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "FaceLab: Face Age, Hair Filter",
-      "developer": "Lyrebird Studio",
-      "prev_rank": 47,
-      "curr_rank": 33,
-      "delta": 14
-    },
-    {
-      "country": "US",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 81,
+      "country": "GB",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 99,
       "curr_rank": 67,
-      "delta": 14
-    },
-    {
-      "country": "ID",
-      "name": "AI Teleprompter: PromptOne",
-      "developer": "Hong Kong Muguang Technology Co., Limited",
-      "prev_rank": 78,
-      "curr_rank": 64,
-      "delta": 14
+      "delta": 32
     },
     {
       "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 94,
-      "curr_rank": 80,
-      "delta": 14
-    },
-    {
-      "country": "GB",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 75,
-      "curr_rank": 62,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "Face Magic - AI Photo Editor",
-      "developer": "App Studio Yazılım Hizmetleri LTD STI",
-      "prev_rank": 96,
-      "curr_rank": 84,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Retake IA: Éditeur de photos",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 82,
-      "curr_rank": 70,
-      "delta": 12
-    },
-    {
-      "country": "IN",
-      "name": "Adobe Photoshop: Photo Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 84,
-      "curr_rank": 72,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 66,
-      "curr_rank": 55,
-      "delta": 11
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 81,
+      "curr_rank": 52,
+      "delta": 29
     },
     {
       "country": "DE",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 68,
+      "name": "AI Catch: KI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 46,
+      "curr_rank": 19,
+      "delta": 27
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 54,
+      "curr_rank": 29,
+      "delta": 25
+    },
+    {
+      "country": "FR",
+      "name": "AI Catch: Générateur vidéo IA",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 54,
+      "curr_rank": 34,
+      "delta": 20
+    },
+    {
+      "country": "JP",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 94,
+      "curr_rank": 76,
+      "delta": 18
+    },
+    {
+      "country": "GB",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 78,
+      "curr_rank": 61,
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 74,
       "curr_rank": 57,
-      "delta": 11
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 86,
+      "curr_rank": 69,
+      "delta": 17
+    },
+    {
+      "country": "BR",
+      "name": "invideo AI: AI video generator",
+      "developer": "Invideo Inc",
+      "prev_rank": 91,
+      "curr_rank": 74,
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "MIU AI - Photo Video Generator",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 99,
+      "curr_rank": 83,
+      "delta": 16
+    },
+    {
+      "country": "KR",
+      "name": "AI Catch(AI 캐치): AI 영상 생성기",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 48,
+      "curr_rank": 32,
+      "delta": 16
+    },
+    {
+      "country": "AU",
+      "name": "Toonapp: AI Photo & Video Art",
+      "developer": "Lyrebird Studio",
+      "prev_rank": 77,
+      "curr_rank": 62,
+      "delta": 15
     },
     {
       "country": "FR",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
-      "prev_rank": 78,
-      "curr_rank": 67,
-      "delta": 11
+      "prev_rank": 67,
+      "curr_rank": 54,
+      "delta": 13
     },
     {
-      "country": "BR",
-      "name": "Flow AI: Criador De Video IA",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 77,
-      "curr_rank": 66,
-      "delta": 11
+      "country": "US",
+      "name": "FaceAI: AI Photo Video Editor",
+      "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "prev_rank": 88,
+      "curr_rank": 76,
+      "delta": 12
     },
     {
-      "country": "BR",
-      "name": "Criador de Video IA - Vimo AI",
-      "developer": "Mobile Ocean",
-      "prev_rank": 82,
-      "curr_rank": 71,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "AI 비디오 및 사진 생성기⁣",
-      "developer": "N.B. Corporation LLC",
-      "prev_rank": 50,
-      "curr_rank": 39,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "Filmora: AI 영상 제작 & 동영상 편집",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 97,
-      "curr_rank": 86,
+      "country": "US",
+      "name": "Face Magic - AI Photo Editor",
+      "developer": "App Studio Yazılım Hizmetleri LTD STI",
+      "prev_rank": 84,
+      "curr_rank": 73,
       "delta": 11
     },
     {
       "country": "DE",
-      "name": "Pollo AI: KI-Video & KI-Bilder",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 77,
+      "name": "Dance AI - Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 48,
+      "curr_rank": 37,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 84,
+      "curr_rank": 73,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "AI Avatar Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 98,
+      "curr_rank": 88,
       "delta": 10
     },
     {
-      "country": "JP",
-      "name": "Luma Style AI",
-      "developer": "GEORGE GRANT",
-      "prev_rank": 75,
-      "curr_rank": 65,
+      "country": "DE",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 83,
+      "curr_rank": 73,
       "delta": 10
     },
     {
-      "country": "JP",
-      "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-      "developer": "ALWAYS RISING PTE. LTD.",
-      "prev_rank": 96,
-      "curr_rank": 86,
+      "country": "BR",
+      "name": "MIU AI - Gerador de foto IA",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 52,
+      "curr_rank": 42,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 91,
+      "curr_rank": 81,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 86,
+      "curr_rank": 76,
       "delta": 10
     }
   ],
   "by_country": {
+    "GB": [
+      {
+        "country": "GB",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 99,
+        "curr_rank": 67,
+        "delta": 32
+      },
+      {
+        "country": "GB",
+        "name": "Captions: AI Edits Your Video",
+        "developer": "Captions, LLC (US)",
+        "prev_rank": 78,
+        "curr_rank": 61,
+        "delta": 17
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 81,
+        "curr_rank": 52,
+        "delta": 29
+      },
+      {
+        "country": "AU",
+        "name": "Toonapp: AI Photo & Video Art",
+        "developer": "Lyrebird Studio",
+        "prev_rank": 77,
+        "curr_rank": 62,
+        "delta": 15
+      },
+      {
+        "country": "AU",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 86,
+        "curr_rank": 76,
+        "delta": 10
+      }
+    ],
     "DE": [
       {
         "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 97,
-        "curr_rank": 63,
-        "delta": 34
+        "name": "AI Catch: KI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 46,
+        "curr_rank": 19,
+        "delta": 27
       },
       {
         "country": "DE",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 68,
-        "curr_rank": 57,
+        "name": "Dance AI - Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 48,
+        "curr_rank": 37,
         "delta": 11
       },
       {
         "country": "DE",
-        "name": "Pollo AI: KI-Video & KI-Bilder",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 87,
-        "curr_rank": 77,
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 83,
+        "curr_rank": 73,
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 54,
+        "curr_rank": 29,
+        "delta": 25
+      },
+      {
+        "country": "US",
+        "name": "FaceAI: AI Photo Video Editor",
+        "developer": "DOFA TECH YAZILIM HIZMETLERI ANONIM SIRKETI",
+        "prev_rank": 88,
+        "curr_rank": 76,
+        "delta": 12
+      },
+      {
+        "country": "US",
+        "name": "Face Magic - AI Photo Editor",
+        "developer": "App Studio Yazılım Hizmetleri LTD STI",
+        "prev_rank": 84,
+        "curr_rank": 73,
+        "delta": 11
+      },
+      {
+        "country": "US",
+        "name": "AI Avatar Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 98,
+        "curr_rank": 88,
+        "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "AI Catch: Générateur vidéo IA",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 54,
+        "curr_rank": 34,
+        "delta": 20
+      },
+      {
+        "country": "FR",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 74,
+        "curr_rank": 57,
+        "delta": 17
+      },
+      {
+        "country": "FR",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 86,
+        "curr_rank": 69,
+        "delta": 17
+      },
+      {
+        "country": "FR",
+        "name": "MIU AI - Photo Video Generator",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 99,
+        "curr_rank": 83,
+        "delta": 16
+      },
+      {
+        "country": "FR",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 67,
+        "curr_rank": 54,
+        "delta": 13
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 94,
+        "curr_rank": 76,
+        "delta": 18
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "invideo AI: AI video generator",
+        "developer": "Invideo Inc",
+        "prev_rank": 91,
+        "curr_rank": 74,
+        "delta": 17
+      },
+      {
+        "country": "BR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 84,
+        "curr_rank": 73,
+        "delta": 11
+      },
+      {
+        "country": "BR",
+        "name": "MIU AI - Gerador de foto IA",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 52,
+        "curr_rank": 42,
         "delta": 10
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME",
-        "prev_rank": 58,
-        "curr_rank": 36,
-        "delta": 22
-      },
-      {
-        "country": "KR",
-        "name": "AI 비디오 및 사진 생성기⁣",
-        "developer": "N.B. Corporation LLC",
-        "prev_rank": 50,
-        "curr_rank": 39,
-        "delta": 11
-      },
-      {
-        "country": "KR",
-        "name": "Filmora: AI 영상 제작 & 동영상 편집",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 97,
-        "curr_rank": 86,
-        "delta": 11
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Unreels: AI Reels Video Editor",
-        "developer": "StoryPath Apps Ltd",
-        "prev_rank": 75,
-        "curr_rank": 59,
+        "name": "AI Catch(AI 캐치): AI 영상 생성기",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 48,
+        "curr_rank": 32,
         "delta": 16
       },
       {
-        "country": "IN",
-        "name": "Adobe Photoshop: Photo Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 84,
-        "curr_rank": 72,
-        "delta": 12
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "FaceLab: Face Age, Hair Filter",
-        "developer": "Lyrebird Studio",
-        "prev_rank": 47,
-        "curr_rank": 33,
-        "delta": 14
-      },
-      {
-        "country": "US",
+        "country": "KR",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
-        "prev_rank": 81,
-        "curr_rank": 67,
-        "delta": 14
-      },
-      {
-        "country": "US",
-        "name": "Face Magic - AI Photo Editor",
-        "developer": "App Studio Yazılım Hizmetleri LTD STI",
-        "prev_rank": 96,
-        "curr_rank": 84,
-        "delta": 12
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "AI Teleprompter: PromptOne",
-        "developer": "Hong Kong Muguang Technology Co., Limited",
-        "prev_rank": 78,
-        "curr_rank": 64,
-        "delta": 14
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 94,
-        "curr_rank": 80,
-        "delta": 14
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 75,
-        "curr_rank": 62,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 66,
-        "curr_rank": 55,
-        "delta": 11
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Retake IA: Éditeur de photos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 82,
-        "curr_rank": 70,
-        "delta": 12
-      },
-      {
-        "country": "FR",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 78,
-        "curr_rank": 67,
-        "delta": 11
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Flow AI: Criador De Video IA",
-        "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-        "prev_rank": 77,
-        "curr_rank": 66,
-        "delta": 11
-      },
-      {
-        "country": "BR",
-        "name": "Criador de Video IA - Vimo AI",
-        "developer": "Mobile Ocean",
-        "prev_rank": 82,
-        "curr_rank": 71,
-        "delta": 11
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Luma Style AI",
-        "developer": "GEORGE GRANT",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
-      },
-      {
-        "country": "JP",
-        "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
-        "developer": "ALWAYS RISING PTE. LTD.",
-        "prev_rank": 96,
-        "curr_rank": 86,
+        "prev_rank": 91,
+        "curr_rank": 81,
         "delta": 10
       }
     ]
@@ -363,22 +391,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Passfoto - PhotoAiD leads with +34 jump in DE"
+      "text": "AI Catch: AI Video Generator leads with +32 jump in GB"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 3 rising apps - highest activity today"
+      "text": "FR has 5 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "AI Catch apps trending with 6 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ElevenLabs: AI Voice Generator rising in 3 markets: US, GB, DE"
+      "text": "AI Catch: AI Video Generator rising in 3 markets: GB, AU, US"
     }
   ],
   "meta": {
-    "prev_date": "2026-09-27",
-    "curr_date": "2026-09-28",
+    "prev_date": "2026-09-28",
+    "curr_date": "2026-09-29",
     "days": 1
   }
 }
