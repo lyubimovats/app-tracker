@@ -5,55 +5,39 @@
       "name": "FaceEra – Age & Photo AI",
       "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
       "prev_rank": 99,
-      "curr_rank": 22,
-      "delta": 77
-    },
-    {
-      "country": "AU",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 59,
-      "curr_rank": 30,
-      "delta": 29
-    },
-    {
-      "country": "US",
-      "name": "Glam AI: Video & Photo Editor",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 87,
-      "curr_rank": 60,
-      "delta": 27
+      "curr_rank": 28,
+      "delta": 71
     },
     {
       "country": "IN",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 96,
-      "curr_rank": 73,
-      "delta": 23
+      "curr_rank": 64,
+      "delta": 32
     },
     {
-      "country": "JP",
-      "name": "Luma Style AI",
-      "developer": "GEORGE GRANT",
-      "prev_rank": 67,
-      "curr_rank": 48,
-      "delta": 19
+      "country": "US",
+      "name": "Glam AI: Video & Photo Editor",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 87,
+      "curr_rank": 57,
+      "delta": 30
     },
     {
-      "country": "GB",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 77,
-      "curr_rank": 59,
-      "delta": 18
+      "country": "AU",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 59,
+      "curr_rank": 29,
+      "delta": 30
     },
     {
-      "country": "GB",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 66,
-      "curr_rank": 51,
+      "country": "KR",
+      "name": "Muse: 릴스 동영상 편집 & AI",
+      "developer": "Bigrowth",
+      "prev_rank": 96,
+      "curr_rank": 81,
       "delta": 15
     },
     {
@@ -65,19 +49,35 @@
       "delta": 15
     },
     {
-      "country": "ID",
-      "name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 44,
-      "curr_rank": 30,
+      "country": "GB",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 66,
+      "curr_rank": 52,
       "delta": 14
     },
     {
-      "country": "GB",
-      "name": "Dance AI - Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 36,
-      "curr_rank": 23,
+      "country": "DE",
+      "name": "Glam KI, AI Bilder Bearbeiten",
+      "developer": "Glam Labs, Inc.",
+      "prev_rank": 90,
+      "curr_rank": 76,
+      "delta": 14
+    },
+    {
+      "country": "BR",
+      "name": "Flow AI: Criador De Video IA",
+      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
+      "prev_rank": 65,
+      "curr_rank": 51,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 77,
+      "curr_rank": 64,
       "delta": 13
     },
     {
@@ -89,68 +89,44 @@
       "delta": 13
     },
     {
-      "country": "AU",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 94,
-      "curr_rank": 81,
-      "delta": 13
+      "country": "GB",
+      "name": "ReelMe: AI Photo & Video",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 81,
+      "curr_rank": 69,
+      "delta": 12
     },
     {
-      "country": "US",
-      "name": "AI Photo Video Editor, Enhance",
-      "developer": "COOL SUMMER LIMITED",
-      "prev_rank": 77,
-      "curr_rank": 65,
+      "country": "ID",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 44,
+      "curr_rank": 32,
       "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Dance AI - Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 36,
+      "curr_rank": 25,
+      "delta": 11
     },
     {
       "country": "DE",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 48,
-      "curr_rank": 36,
-      "delta": 12
+      "curr_rank": 38,
+      "delta": 10
     },
     {
       "country": "DE",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 100,
-      "curr_rank": 88,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "Flow AI: Criador De Video IA",
-      "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
-      "prev_rank": 65,
-      "curr_rank": 53,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "Muse: 릴스 동영상 편집 & AI",
-      "developer": "Bigrowth",
-      "prev_rank": 96,
-      "curr_rank": 84,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 81,
-      "curr_rank": 70,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "Dance AI - Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 38,
-      "curr_rank": 27,
-      "delta": 11
+      "name": "MIU AI - KI Bild Generator",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 71,
+      "curr_rank": 61,
+      "delta": 10
     },
     {
       "country": "AU",
@@ -176,8 +152,36 @@
         "name": "FaceEra – Age & Photo AI",
         "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
         "prev_rank": 99,
-        "curr_rank": 22,
-        "delta": 77
+        "curr_rank": 28,
+        "delta": 71
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 96,
+        "curr_rank": 64,
+        "delta": 32
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Glam AI: Video & Photo Editor",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 87,
+        "curr_rank": 57,
+        "delta": 30
+      },
+      {
+        "country": "US",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 77,
+        "curr_rank": 64,
+        "delta": 13
       }
     ],
     "AU": [
@@ -186,8 +190,8 @@
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 59,
-        "curr_rank": 30,
-        "delta": 29
+        "curr_rank": 29,
+        "delta": 30
       },
       {
         "country": "AU",
@@ -196,14 +200,6 @@
         "prev_rank": 91,
         "curr_rank": 76,
         "delta": 15
-      },
-      {
-        "country": "AU",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 94,
-        "curr_rank": 81,
-        "delta": 13
       },
       {
         "country": "AU",
@@ -222,120 +218,66 @@
         "delta": 10
       }
     ],
-    "US": [
+    "KR": [
       {
-        "country": "US",
-        "name": "Glam AI: Video & Photo Editor",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 87,
-        "curr_rank": 60,
-        "delta": 27
-      },
-      {
-        "country": "US",
-        "name": "AI Photo Video Editor, Enhance",
-        "developer": "COOL SUMMER LIMITED",
-        "prev_rank": 77,
-        "curr_rank": 65,
-        "delta": 12
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
+        "country": "KR",
+        "name": "Muse: 릴스 동영상 편집 & AI",
+        "developer": "Bigrowth",
         "prev_rank": 96,
-        "curr_rank": 73,
-        "delta": 23
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Luma Style AI",
-        "developer": "GEORGE GRANT",
-        "prev_rank": 67,
-        "curr_rank": 48,
-        "delta": 19
+        "curr_rank": 81,
+        "delta": 15
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 77,
-        "curr_rank": 59,
-        "delta": 18
-      },
-      {
-        "country": "GB",
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 66,
-        "curr_rank": 51,
-        "delta": 15
-      },
-      {
-        "country": "GB",
-        "name": "Dance AI - Video Generator",
-        "developer": "DeePix AI",
-        "prev_rank": 36,
-        "curr_rank": 23,
-        "delta": 13
+        "curr_rank": 52,
+        "delta": 14
       },
       {
         "country": "GB",
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 81,
-        "curr_rank": 70,
-        "delta": 11
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Shots: Photo & Video Generator",
-        "developer": "DeePix AI",
-        "prev_rank": 44,
-        "curr_rank": 30,
-        "delta": 14
+        "curr_rank": 69,
+        "delta": 12
       },
       {
-        "country": "ID",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 57,
-        "curr_rank": 44,
-        "delta": 13
+        "country": "GB",
+        "name": "Dance AI - Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 36,
+        "curr_rank": 25,
+        "delta": 11
       }
     ],
     "DE": [
       {
         "country": "DE",
+        "name": "Glam KI, AI Bilder Bearbeiten",
+        "developer": "Glam Labs, Inc.",
+        "prev_rank": 90,
+        "curr_rank": 76,
+        "delta": 14
+      },
+      {
+        "country": "DE",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 48,
-        "curr_rank": 36,
-        "delta": 12
+        "curr_rank": 38,
+        "delta": 10
       },
       {
         "country": "DE",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
-        "prev_rank": 100,
-        "curr_rank": 88,
-        "delta": 12
-      },
-      {
-        "country": "DE",
-        "name": "Dance AI - Video Generator",
-        "developer": "DeePix AI",
-        "prev_rank": 38,
-        "curr_rank": 27,
-        "delta": 11
+        "name": "MIU AI - KI Bild Generator",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 71,
+        "curr_rank": 61,
+        "delta": 10
       }
     ],
     "BR": [
@@ -344,17 +286,25 @@
         "name": "Flow AI: Criador De Video IA",
         "developer": "UNIVERLIST TEKNOLOJI SANAYI VE TICARET ANONIM SIRKETI",
         "prev_rank": 65,
-        "curr_rank": 53,
-        "delta": 12
+        "curr_rank": 51,
+        "delta": 14
       }
     ],
-    "KR": [
+    "ID": [
       {
-        "country": "KR",
-        "name": "Muse: 릴스 동영상 편집 & AI",
+        "country": "ID",
+        "name": "Muse: Reels Video Editor",
         "developer": "Bigrowth",
-        "prev_rank": 96,
-        "curr_rank": 84,
+        "prev_rank": 57,
+        "curr_rank": 44,
+        "delta": 13
+      },
+      {
+        "country": "ID",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 44,
+        "curr_rank": 32,
         "delta": 12
       }
     ]
@@ -363,22 +313,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "FaceEra – Age & Photo AI leads with +77 jump in FR"
+      "text": "FaceEra – Age & Photo AI leads with +71 jump in FR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 5 rising apps - highest activity today"
-    },
-    {
-      "type": "app-note",
-      "icon": "📱",
-      "text": "Dance AI apps trending with 2 variants rising"
+      "text": "AU has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Dance AI - Video Generator rising in 2 markets: GB, DE"
+      "text": "ReelMe: AI Photo & Video rising in 2 markets: GB, AU"
     }
   ],
   "meta": {
