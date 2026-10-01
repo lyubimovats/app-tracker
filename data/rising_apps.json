@@ -17,12 +17,12 @@
       "delta": 22
     },
     {
-      "country": "GB",
-      "name": "Glam AI: Video & Photo Editor",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 100,
-      "curr_rank": 81,
-      "delta": 19
+      "country": "AU",
+      "name": "PrettyUp - Body Editor Video",
+      "developer": "Pixl Concerto Technology Limited",
+      "prev_rank": 89,
+      "curr_rank": 69,
+      "delta": 20
     },
     {
       "country": "FR",
@@ -30,14 +30,6 @@
       "developer": "Ivan Chapisptryak",
       "prev_rank": 98,
       "curr_rank": 79,
-      "delta": 19
-    },
-    {
-      "country": "AU",
-      "name": "PrettyUp - Body Editor Video",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 89,
-      "curr_rank": 70,
       "delta": 19
     },
     {
@@ -73,14 +65,6 @@
       "delta": 16
     },
     {
-      "country": "AU",
-      "name": "Glam AI: Video & Photo Editor",
-      "developer": "Glam Labs, Inc.",
-      "prev_rank": 75,
-      "curr_rank": 59,
-      "delta": 16
-    },
-    {
       "country": "BR",
       "name": "GoPhoto:AI Photo/Video Creator",
       "developer": "AIX Studio",
@@ -97,19 +81,19 @@
       "delta": 14
     },
     {
+      "country": "DE",
+      "name": "Airbrush - Fotobearbeitung",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 100,
+      "curr_rank": 86,
+      "delta": 14
+    },
+    {
       "country": "GB",
       "name": "PrettyUp - Body Editor Video",
       "developer": "Pixl Concerto Technology Limited",
       "prev_rank": 90,
       "curr_rank": 77,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "Airbrush - Fotobearbeitung",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 100,
-      "curr_rank": 87,
       "delta": 13
     },
     {
@@ -137,6 +121,14 @@
       "delta": 12
     },
     {
+      "country": "US",
+      "name": "AI Avatar Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 80,
+      "curr_rank": 69,
+      "delta": 11
+    },
+    {
       "country": "JP",
       "name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
@@ -153,11 +145,11 @@
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "AI Avatar Generator - HeyGen",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 80,
-      "curr_rank": 70,
+      "country": "DE",
+      "name": "Splice - Video Editor & Maker",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 97,
+      "curr_rank": 87,
       "delta": 10
     },
     {
@@ -174,6 +166,14 @@
       "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
       "prev_rank": 97,
       "curr_rank": 87,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 86,
+      "curr_rank": 76,
       "delta": 10
     }
   ],
@@ -196,46 +196,30 @@
         "delta": 22
       }
     ],
-    "GB": [
+    "AU": [
       {
-        "country": "GB",
-        "name": "Glam AI: Video & Photo Editor",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 100,
-        "curr_rank": 81,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "AI Video Generator - HeyGen",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 97,
-        "curr_rank": 80,
-        "delta": 17
-      },
-      {
-        "country": "GB",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 69,
-        "curr_rank": 53,
-        "delta": 16
-      },
-      {
-        "country": "GB",
+        "country": "AU",
         "name": "PrettyUp - Body Editor Video",
         "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 90,
-        "curr_rank": 77,
-        "delta": 13
+        "prev_rank": 89,
+        "curr_rank": 69,
+        "delta": 20
       },
       {
-        "country": "GB",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "Bending Spoons Apps ApS",
-        "prev_rank": 74,
-        "curr_rank": 62,
-        "delta": 12
+        "country": "AU",
+        "name": "ReelMe: AI Photo & Video",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 55,
+        "curr_rank": 44,
+        "delta": 11
+      },
+      {
+        "country": "AU",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 86,
+        "curr_rank": 76,
+        "delta": 10
       }
     ],
     "FR": [
@@ -280,32 +264,6 @@
         "delta": 10
       }
     ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "PrettyUp - Body Editor Video",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 89,
-        "curr_rank": 70,
-        "delta": 19
-      },
-      {
-        "country": "AU",
-        "name": "Glam AI: Video & Photo Editor",
-        "developer": "Glam Labs, Inc.",
-        "prev_rank": 75,
-        "curr_rank": 59,
-        "delta": 16
-      },
-      {
-        "country": "AU",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 55,
-        "curr_rank": 44,
-        "delta": 11
-      }
-    ],
     "IN": [
       {
         "country": "IN",
@@ -314,6 +272,40 @@
         "prev_rank": 64,
         "curr_rank": 46,
         "delta": 18
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "AI Video Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 97,
+        "curr_rank": 80,
+        "delta": 17
+      },
+      {
+        "country": "GB",
+        "name": "ReelMe: AI Photo & Video",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 69,
+        "curr_rank": 53,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "PrettyUp - Body Editor Video",
+        "developer": "Pixl Concerto Technology Limited",
+        "prev_rank": 90,
+        "curr_rank": 77,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Remini - AI Photo Enhancer",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 74,
+        "curr_rank": 62,
+        "delta": 12
       }
     ],
     "BR": [
@@ -348,8 +340,26 @@
         "name": "Airbrush - Fotobearbeitung",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 100,
+        "curr_rank": 86,
+        "delta": 14
+      },
+      {
+        "country": "DE",
+        "name": "Splice - Video Editor & Maker",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 97,
         "curr_rank": 87,
-        "delta": 13
+        "delta": 10
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "AI Avatar Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 80,
+        "curr_rank": 69,
+        "delta": 11
       }
     ],
     "JP": [
@@ -360,16 +370,6 @@
         "prev_rank": 71,
         "curr_rank": 60,
         "delta": 11
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "AI Avatar Generator - HeyGen",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 80,
-        "curr_rank": 70,
-        "delta": 10
       }
     ]
   },
@@ -382,12 +382,12 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 5 rising apps - highest activity today"
+      "text": "FR has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Glam AI: Video & Photo Editor rising in 2 markets: GB, AU"
+      "text": "PrettyUp - Body Editor Video rising in 2 markets: AU, GB"
     }
   ],
   "meta": {
