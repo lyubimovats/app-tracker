@@ -1,44 +1,36 @@
 {
   "rising": [
     {
-      "country": "ID",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 56,
-      "curr_rank": 22,
-      "delta": 34
-    },
-    {
       "country": "BR",
       "name": "Hailuo AI: Gerador de Vídeos",
       "developer": "Oleh Iskrenko",
       "prev_rank": 81,
-      "curr_rank": 50,
-      "delta": 31
+      "curr_rank": 47,
+      "delta": 34
+    },
+    {
+      "country": "ID",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 56,
+      "curr_rank": 23,
+      "delta": 33
     },
     {
       "country": "KR",
       "name": "Highfield Video AI",
       "developer": "Metro Air Service Inc.",
       "prev_rank": 64,
-      "curr_rank": 35,
-      "delta": 29
-    },
-    {
-      "country": "GB",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 99,
-      "curr_rank": 75,
-      "delta": 24
+      "curr_rank": 32,
+      "delta": 32
     },
     {
       "country": "IN",
-      "name": "PosePal: AI Photo Pose Guide",
-      "developer": "Sattvik Tripathy",
-      "prev_rank": 99,
-      "curr_rank": 78,
-      "delta": 21
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 97,
+      "curr_rank": 74,
+      "delta": 23
     },
     {
       "country": "AU",
@@ -49,27 +41,27 @@
       "delta": 21
     },
     {
-      "country": "IN",
-      "name": "AirPlay Cast",
-      "developer": "Taro Aso",
-      "prev_rank": 97,
-      "curr_rank": 77,
-      "delta": 20
+      "country": "GB",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 99,
+      "curr_rank": 80,
+      "delta": 19
     },
     {
-      "country": "US",
-      "name": "AI Look: Face & Style Editor",
-      "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
-      "prev_rank": 92,
-      "curr_rank": 74,
+      "country": "IN",
+      "name": "PosePal: AI Photo Pose Guide",
+      "developer": "Sattvik Tripathy",
+      "prev_rank": 99,
+      "curr_rank": 81,
       "delta": 18
     },
     {
-      "country": "IN",
-      "name": "AI Video Generator - Openart",
-      "developer": "88 Tech",
-      "prev_rank": 86,
-      "curr_rank": 69,
+      "country": "ID",
+      "name": "MIU AI: Photo Video Generator",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 82,
+      "curr_rank": 65,
       "delta": 17
     },
     {
@@ -81,22 +73,6 @@
       "delta": 16
     },
     {
-      "country": "ID",
-      "name": "MIU AI: Photo Video Generator",
-      "developer": "Ivan Chapisptryak",
-      "prev_rank": 82,
-      "curr_rank": 66,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 95,
-      "curr_rank": 80,
-      "delta": 15
-    },
-    {
       "country": "KR",
       "name": "AI Catch(AI 캐치): AI 영상 생성기",
       "developer": "Prominent Fortune PTE. LTD",
@@ -105,12 +81,28 @@
       "delta": 15
     },
     {
-      "country": "DE",
+      "country": "US",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
-      "prev_rank": 68,
-      "curr_rank": 54,
+      "prev_rank": 95,
+      "curr_rank": 81,
       "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "AI Video Generator - Openart",
+      "developer": "88 Tech",
+      "prev_rank": 86,
+      "curr_rank": 72,
+      "delta": 14
+    },
+    {
+      "country": "DE",
+      "name": "WayShot:Aesthetic Photo Editor",
+      "developer": "Romangic Lab LLC",
+      "prev_rank": 95,
+      "curr_rank": 82,
+      "delta": 13
     },
     {
       "country": "KR",
@@ -118,14 +110,6 @@
       "developer": "Bigrowth",
       "prev_rank": 100,
       "curr_rank": 87,
-      "delta": 13
-    },
-    {
-      "country": "IN",
-      "name": "AI Look: Face & Style Editor",
-      "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
-      "prev_rank": 89,
-      "curr_rank": 76,
       "delta": 13
     },
     {
@@ -137,27 +121,19 @@
       "delta": 13
     },
     {
-      "country": "KR",
-      "name": "Filmora: AI 영상 제작 & 동영상 편집",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 89,
-      "curr_rank": 77,
-      "delta": 12
-    },
-    {
-      "country": "AU",
-      "name": "AI Look: Face & Style Editor",
-      "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
-      "prev_rank": 73,
-      "curr_rank": 61,
-      "delta": 12
+      "country": "GB",
+      "name": "AI Photo Video Editor, Enhance",
+      "developer": "COOL SUMMER LIMITED",
+      "prev_rank": 78,
+      "curr_rank": 67,
+      "delta": 11
     },
     {
       "country": "DE",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 95,
-      "curr_rank": 84,
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 68,
+      "curr_rank": 57,
       "delta": 11
     },
     {
@@ -167,41 +143,35 @@
       "prev_rank": 67,
       "curr_rank": 56,
       "delta": 11
-    },
-    {
-      "country": "JP",
-      "name": "MENS AI - 男性向けマッチングアプリ写真加工",
-      "developer": "Santa Takahashi",
-      "prev_rank": 76,
-      "curr_rank": 65,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 83,
-      "curr_rank": 73,
-      "delta": 10
     }
   ],
   "by_country": {
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Hailuo AI: Gerador de Vídeos",
+        "developer": "Oleh Iskrenko",
+        "prev_rank": 81,
+        "curr_rank": 47,
+        "delta": 34
+      }
+    ],
     "ID": [
       {
         "country": "ID",
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 56,
-        "curr_rank": 22,
-        "delta": 34
+        "curr_rank": 23,
+        "delta": 33
       },
       {
         "country": "ID",
         "name": "MIU AI: Photo Video Generator",
         "developer": "Ivan Chapisptryak",
         "prev_rank": 82,
-        "curr_rank": 66,
-        "delta": 16
+        "curr_rank": 65,
+        "delta": 17
       },
       {
         "country": "ID",
@@ -212,24 +182,14 @@
         "delta": 13
       }
     ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Hailuo AI: Gerador de Vídeos",
-        "developer": "Oleh Iskrenko",
-        "prev_rank": 81,
-        "curr_rank": 50,
-        "delta": 31
-      }
-    ],
     "KR": [
       {
         "country": "KR",
         "name": "Highfield Video AI",
         "developer": "Metro Air Service Inc.",
         "prev_rank": 64,
-        "curr_rank": 35,
-        "delta": 29
+        "curr_rank": 32,
+        "delta": 32
       },
       {
         "country": "KR",
@@ -246,58 +206,32 @@
         "prev_rank": 100,
         "curr_rank": 87,
         "delta": 13
-      },
-      {
-        "country": "KR",
-        "name": "Filmora: AI 영상 제작 & 동영상 편집",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 89,
-        "curr_rank": 77,
-        "delta": 12
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 99,
-        "curr_rank": 75,
-        "delta": 24
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "PosePal: AI Photo Pose Guide",
-        "developer": "Sattvik Tripathy",
-        "prev_rank": 99,
-        "curr_rank": 78,
-        "delta": 21
-      },
-      {
-        "country": "IN",
         "name": "AirPlay Cast",
         "developer": "Taro Aso",
         "prev_rank": 97,
-        "curr_rank": 77,
-        "delta": 20
+        "curr_rank": 74,
+        "delta": 23
+      },
+      {
+        "country": "IN",
+        "name": "PosePal: AI Photo Pose Guide",
+        "developer": "Sattvik Tripathy",
+        "prev_rank": 99,
+        "curr_rank": 81,
+        "delta": 18
       },
       {
         "country": "IN",
         "name": "AI Video Generator - Openart",
         "developer": "88 Tech",
         "prev_rank": 86,
-        "curr_rank": 69,
-        "delta": 17
-      },
-      {
-        "country": "IN",
-        "name": "AI Look: Face & Style Editor",
-        "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
-        "prev_rank": 89,
-        "curr_rank": 76,
-        "delta": 13
+        "curr_rank": 72,
+        "delta": 14
       }
     ],
     "AU": [
@@ -308,32 +242,24 @@
         "prev_rank": 99,
         "curr_rank": 78,
         "delta": 21
-      },
-      {
-        "country": "AU",
-        "name": "AI Look: Face & Style Editor",
-        "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
-        "prev_rank": 73,
-        "curr_rank": 61,
-        "delta": 12
       }
     ],
-    "US": [
+    "GB": [
       {
-        "country": "US",
-        "name": "AI Look: Face & Style Editor",
-        "developer": "Shenzhen Wuhe Network Technology Co.Ltd",
-        "prev_rank": 92,
-        "curr_rank": 74,
-        "delta": 18
-      },
-      {
-        "country": "US",
+        "country": "GB",
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
-        "prev_rank": 95,
+        "prev_rank": 99,
         "curr_rank": 80,
-        "delta": 15
+        "delta": 19
+      },
+      {
+        "country": "GB",
+        "name": "AI Photo Video Editor, Enhance",
+        "developer": "COOL SUMMER LIMITED",
+        "prev_rank": 78,
+        "curr_rank": 67,
+        "delta": 11
       }
     ],
     "DE": [
@@ -347,19 +273,29 @@
       },
       {
         "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 68,
-        "curr_rank": 54,
-        "delta": 14
-      },
-      {
-        "country": "DE",
         "name": "WayShot:Aesthetic Photo Editor",
         "developer": "Romangic Lab LLC",
         "prev_rank": 95,
-        "curr_rank": 84,
+        "curr_rank": 82,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 68,
+        "curr_rank": 57,
         "delta": 11
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 95,
+        "curr_rank": 81,
+        "delta": 14
       }
     ],
     "JP": [
@@ -370,24 +306,6 @@
         "prev_rank": 67,
         "curr_rank": 56,
         "delta": 11
-      },
-      {
-        "country": "JP",
-        "name": "MENS AI - 男性向けマッチングアプリ写真加工",
-        "developer": "Santa Takahashi",
-        "prev_rank": 76,
-        "curr_rank": 65,
-        "delta": 11
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 83,
-        "curr_rank": 73,
-        "delta": 10
       }
     ]
   },
@@ -395,17 +313,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Empose: Aesthetic Poses leads with +34 jump in ID"
+      "text": "Hailuo AI: Gerador de Vídeos leads with +34 jump in BR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "KR has 4 rising apps - highest activity today"
+      "text": "ID has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Instories: AI Photo & Video rising in 4 markets: GB, AU, US, DE"
+      "text": "Instories: AI Photo & Video rising in 4 markets: AU, GB, US, DE"
     }
   ],
   "meta": {
