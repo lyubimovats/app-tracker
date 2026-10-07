@@ -3646,15 +3646,15 @@
       },
       {
         "rank": 6,
-        "id": "897446215",
-        "name": "Canva(캔바): 디자인, 사진편집, 동영상 편집",
-        "developer": "Canva"
-      },
-      {
-        "rank": 7,
         "id": "6745820631",
         "name": "Shots: Photo & Video Generator",
         "developer": "DeePix AI"
+      },
+      {
+        "rank": 7,
+        "id": "897446215",
+        "name": "Canva(캔바): 디자인, 사진편집, 동영상 편집",
+        "developer": "Canva"
       },
       {
         "rank": 8,
@@ -3664,51 +3664,51 @@
       },
       {
         "rank": 9,
-        "id": "6747059622",
-        "name": "PHOTOISM - 포토이즘",
-        "developer": "Seobuk"
-      },
-      {
-        "rank": 10,
-        "id": "6793780560",
-        "name": "Highfield Video AI",
-        "developer": "Metro Air Service Inc."
-      },
-      {
-        "rank": 11,
-        "id": "1227687362",
-        "name": "매일 조용한 카메라!",
-        "developer": "hanul gang"
-      },
-      {
-        "rank": 12,
         "id": "389801252",
         "name": "Instagram",
         "developer": "Instagram, Inc."
       },
       {
-        "rank": 13,
-        "id": "962194608",
-        "name": "Google 포토",
-        "developer": "Google"
+        "rank": 10,
+        "id": "6747059622",
+        "name": "PHOTOISM - 포토이즘",
+        "developer": "Seobuk"
       },
       {
-        "rank": 14,
-        "id": "952050883",
-        "name": "VLLO 블로, 나의 첫 동영상 편집기",
-        "developer": "vimosoft"
+        "rank": 11,
+        "id": "6793780560",
+        "name": "Highfield Video AI",
+        "developer": "Metro Air Service Inc."
       },
       {
-        "rank": 15,
+        "rank": 12,
         "id": "6758041184",
         "name": "Dance AI - AI 비디오 생성기",
         "developer": "DeePix AI"
       },
       {
+        "rank": 13,
+        "id": "1227687362",
+        "name": "매일 조용한 카메라!",
+        "developer": "hanul gang"
+      },
+      {
+        "rank": 14,
+        "id": "544007664",
+        "name": "YouTube",
+        "developer": "Google"
+      },
+      {
+        "rank": 15,
+        "id": "962194608",
+        "name": "Google 포토",
+        "developer": "Google"
+      },
+      {
         "rank": 16,
-        "id": "1115974495",
-        "name": "타임스탬프 - 인증샷 카메라",
-        "developer": "Artify Inc."
+        "id": "952050883",
+        "name": "VLLO 블로, 나의 첫 동영상 편집기",
+        "developer": "vimosoft"
       },
       {
         "rank": 17,
@@ -3718,27 +3718,27 @@
       },
       {
         "rank": 18,
+        "id": "1115974495",
+        "name": "타임스탬프 - 인증샷 카메라",
+        "developer": "Artify Inc."
+      },
+      {
+        "rank": 19,
         "id": "622434129",
         "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD."
       },
       {
-        "rank": 19,
+        "rank": 20,
         "id": "1431720653",
         "name": "DJI Mimo",
         "developer": "DJI"
       },
       {
-        "rank": 20,
+        "rank": 21,
         "id": "1577705074",
         "name": "EPIK 에픽 - AI 사진 & 영상 편집",
         "developer": "SNOW Corporation"
-      },
-      {
-        "rank": 21,
-        "id": "1422471180",
-        "name": "Dazz - 필름카메라 & 사진 편집",
-        "developer": "DAZZ PTE. LTD."
       },
       {
         "rank": 22,
@@ -3748,9 +3748,9 @@
       },
       {
         "rank": 23,
-        "id": "544007664",
-        "name": "YouTube",
-        "developer": "Google"
+        "id": "1422471180",
+        "name": "Dazz - 필름카메라 & 사진 편집",
+        "developer": "DAZZ PTE. LTD."
       },
       {
         "rank": 24,
@@ -3832,27 +3832,27 @@
       },
       {
         "rank": 37,
-        "id": "6744095828",
-        "name": "Crsel: Сarousel, Video Сollage",
-        "developer": "Crsel Sp. z o.o."
-      },
-      {
-        "rank": 38,
-        "id": "6446071834",
-        "name": "타임마크: 신뢰의 타임스탬프 카메라（Timemark）",
-        "developer": "OCEAN GALAXY PTE. LTD."
-      },
-      {
-        "rank": 39,
         "id": "964220645",
         "name": "사진 흐림 및 모자이크",
         "developer": "Yu Abe"
       },
       {
-        "rank": 40,
+        "rank": 38,
         "id": "587366035",
         "name": "Picsart 픽스아트 AI 사진 & 동영상 편집",
         "developer": "PicsArt, Inc."
+      },
+      {
+        "rank": 39,
+        "id": "6739505769",
+        "name": "Shardee 샤디 | mini vlog camera",
+        "developer": "DIARO"
+      },
+      {
+        "rank": 40,
+        "id": "6744095828",
+        "name": "Crsel: Сarousel, Video Сollage",
+        "developer": "Crsel Sp. z o.o."
       },
       {
         "rank": 41,
@@ -3862,9 +3862,9 @@
       },
       {
         "rank": 42,
-        "id": "6739505769",
-        "name": "Shardee 샤디 | mini vlog camera",
-        "developer": "DIARO"
+        "id": "6446071834",
+        "name": "타임마크: 신뢰의 타임스탬프 카메라（Timemark）",
+        "developer": "OCEAN GALAXY PTE. LTD."
       },
       {
         "rank": 43,
@@ -3874,39 +3874,39 @@
       },
       {
         "rank": 44,
-        "id": "1060016122",
-        "name": "퍼블로그 굿즈 포토북 사진인화 포토카드 스티커 달력",
-        "developer": "(주)아비즈"
-      },
-      {
-        "rank": 45,
-        "id": "1483868574",
-        "name": "증명사진 애플리케이션",
-        "developer": "siranet GK"
-      },
-      {
-        "rank": 46,
         "id": "1665024375",
         "name": "Runway: AI Image & Video",
         "developer": "runwayml"
       },
       {
+        "rank": 45,
+        "id": "1060016122",
+        "name": "퍼블로그 굿즈 포토북 사진인화 포토카드 스티커 달력",
+        "developer": "(주)아비즈"
+      },
+      {
+        "rank": 46,
+        "id": "650377962",
+        "name": "VLC media player",
+        "developer": "VideoLAN"
+      },
+      {
         "rank": 47,
-        "id": "6781959351",
-        "name": "bake: AI 숏폼 만들기, 릴스·쇼츠·동영상·편집",
-        "developer": "Sooyeon Yeom"
+        "id": "6749844980",
+        "name": "Picchi",
+        "developer": "Meitu Technology Co., Ltd."
       },
       {
         "rank": 48,
-        "id": "1644042837",
-        "name": "Hypic - Photo Editor & AI Art",
-        "developer": "Bytedance Pte. Ltd"
+        "id": "1483868574",
+        "name": "증명사진 애플리케이션",
+        "developer": "siranet GK"
       },
       {
         "rank": 49,
-        "id": "6789430666",
-        "name": "Dual Shot Recorder : Yugma",
-        "developer": "RETRYTECH LLP"
+        "id": "1644042837",
+        "name": "Hypic - Photo Editor & AI Art",
+        "developer": "Bytedance Pte. Ltd"
       },
       {
         "rank": 50,
@@ -3916,45 +3916,45 @@
       },
       {
         "rank": 51,
-        "id": "650377962",
-        "name": "VLC media player",
-        "developer": "VideoLAN"
+        "id": "6781959351",
+        "name": "bake: AI 숏폼 만들기, 릴스·쇼츠·동영상·편집",
+        "developer": "Sooyeon Yeom"
       },
       {
         "rank": 52,
-        "id": "6749844980",
-        "name": "Picchi",
-        "developer": "Meitu Technology Co., Ltd."
-      },
-      {
-        "rank": 53,
         "id": "1494276528",
         "name": "Bebememo - 아기의 스마트 사진 앨범",
         "developer": "Bebememo, Inc."
       },
       {
-        "rank": 54,
+        "rank": 53,
         "id": "6767802142",
         "name": "PixVerse Lite",
         "developer": "AIVORA PTE. LTD."
       },
       {
+        "rank": 54,
+        "id": "6789430666",
+        "name": "Dual Shot Recorder : Yugma",
+        "developer": "RETRYTECH LLP"
+      },
+      {
         "rank": 55,
-        "id": "1551528149",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME"
+        "id": "1600191019",
+        "name": "캐럿 - AI와 무엇이든 만드세요",
+        "developer": "Paradot Corp."
       },
       {
         "rank": 56,
-        "id": "6770336562",
-        "name": "서브 카메라",
-        "developer": "DAIN JUN"
+        "id": "6765649669",
+        "name": "N x N: 당신이 사랑한 순간들",
+        "developer": "Pepper Factory"
       },
       {
         "rank": 57,
-        "id": "1465035530",
-        "name": "[셀프증명] 여권사진,운전면허증사진,증명사진 만들기",
-        "developer": "Digital Photo Corp."
+        "id": "1551528149",
+        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+        "developer": "PICME"
       },
       {
         "rank": 58,
@@ -3964,9 +3964,9 @@
       },
       {
         "rank": 59,
-        "id": "1600191019",
-        "name": "캐럿 - AI와 무엇이든 만드세요",
-        "developer": "Paradot Corp."
+        "id": "1465035530",
+        "name": "[셀프증명] 여권사진,운전면허증사진,증명사진 만들기",
+        "developer": "Digital Photo Corp."
       },
       {
         "rank": 60,
@@ -3976,99 +3976,99 @@
       },
       {
         "rank": 61,
-        "id": "6765649669",
-        "name": "N x N: 당신이 사랑한 순간들",
-        "developer": "Pepper Factory"
-      },
-      {
-        "rank": 62,
-        "id": "6769776776",
-        "name": "Prettier(프리티어) - 더 예쁘게 찍히는 카메라",
-        "developer": "Dongwoo Ha"
-      },
-      {
-        "rank": 63,
-        "id": "6756606000",
-        "name": "MIU AI: Photo Video Generator",
-        "developer": "Ivan Chapisptryak"
-      },
-      {
-        "rank": 64,
         "id": "1349015402",
         "name": "SELPHY Photo Layout",
         "developer": "Canon Inc."
       },
       {
-        "rank": 65,
-        "id": "6740798708",
-        "name": "위닛 - AI이미지&영상생성",
-        "developer": "LumanLab Inc"
-      },
-      {
-        "rank": 66,
+        "rank": 62,
         "id": "1555650275",
         "name": "KODAK Photo Printer",
         "developer": "Prinics Co., Ltd"
       },
       {
-        "rank": 67,
-        "id": "6753267167",
-        "name": "Nanaba AI 나나바 - AI 이미지 & 보정",
-        "developer": "Dongwon Ahn"
+        "rank": 63,
+        "id": "6770336562",
+        "name": "서브 카메라",
+        "developer": "DAIN JUN"
       },
       {
-        "rank": 68,
+        "rank": 64,
+        "id": "6740798708",
+        "name": "위닛 - AI이미지&영상생성",
+        "developer": "LumanLab Inc"
+      },
+      {
+        "rank": 65,
         "id": "1491299654",
         "name": "Insta360",
         "developer": "Insta360"
       },
       {
+        "rank": 66,
+        "id": "6756606000",
+        "name": "MIU AI: Photo Video Generator",
+        "developer": "Ivan Chapisptryak"
+      },
+      {
+        "rank": 67,
+        "id": "6769776776",
+        "name": "Prettier(프리티어) - 더 예쁘게 찍히는 카메라",
+        "developer": "Dongwoo Ha"
+      },
+      {
+        "rank": 68,
+        "id": "6753267167",
+        "name": "Nanaba AI 나나바 - AI 이미지 & 보정",
+        "developer": "Dongwon Ahn"
+      },
+      {
         "rank": 69,
-        "id": "6444888896",
-        "name": "AI Mirror: AI 애니메 스타일 사진 에디터 앱",
-        "developer": "POLYVERSE ENTERTAINMENT INC."
-      },
-      {
-        "rank": 70,
-        "id": "1503293015",
-        "name": "젤리뷰",
-        "developer": "I&NA inc."
-      },
-      {
-        "rank": 71,
         "id": "1483410865",
         "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
         "developer": "ImgBase, Inc."
       },
       {
-        "rank": 72,
+        "rank": 70,
+        "id": "6444888896",
+        "name": "AI Mirror: AI 애니메 스타일 사진 에디터 앱",
+        "developer": "POLYVERSE ENTERTAINMENT INC."
+      },
+      {
+        "rank": 71,
         "id": "904209370",
         "name": "B612 Camera&Photo/Video Editor",
         "developer": "SNOW Corporation"
       },
       {
+        "rank": 72,
+        "id": "1503293015",
+        "name": "젤리뷰",
+        "developer": "I&NA inc."
+      },
+      {
         "rank": 73,
-        "id": "425194759",
-        "name": "Vimeo",
-        "developer": "Vimeo.com, Inc."
-      },
-      {
-        "rank": 74,
-        "id": "6742746964",
-        "name": "타임스탬프 - 타임스탬프카메라",
-        "developer": "Shanghai Zongchong Information Technology Co., Ltd"
-      },
-      {
-        "rank": 75,
         "id": "6761393678",
         "name": "ReFrame: 듀얼카메라 브이로그",
         "developer": "DAMIEN, NATHANAEL ELLEDGE"
       },
       {
+        "rank": 74,
+        "id": "425194759",
+        "name": "Vimeo",
+        "developer": "Vimeo.com, Inc."
+      },
+      {
+        "rank": 75,
+        "id": "944097177",
+        "name": "Canon Camera Connect",
+        "developer": "Canon Inc."
+      },
+      {
         "rank": 76,
-        "id": "1588597672",
-        "name": "Muon - 고화질 무음 카메라",
-        "developer": "Rakko Inc."
+        "id": "6742746964",
+        "name": "타임스탬프 - 타임스탬프카메라",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd"
       },
       {
         "rank": 77,
@@ -4084,15 +4084,15 @@
       },
       {
         "rank": 79,
-        "id": "944097177",
-        "name": "Canon Camera Connect",
-        "developer": "Canon Inc."
+        "id": "1588597672",
+        "name": "Muon - 고화질 무음 카메라",
+        "developer": "Rakko Inc."
       },
       {
         "rank": 80,
-        "id": "1638320348",
-        "name": "Muse: 릴스 동영상 편집 & AI",
-        "developer": "Bigrowth"
+        "id": "1415496382",
+        "name": "화면녹화 : 화면 녹화 & 스크린 녹화",
+        "developer": "OCO Inc."
       },
       {
         "rank": 81,
@@ -4102,117 +4102,117 @@
       },
       {
         "rank": 82,
-        "id": "1343581380",
-        "name": "VN: 사진 및 동영상 편집기",
-        "developer": "Ubiquiti Labs, LLC"
+        "id": "1638320348",
+        "name": "Muse: 릴스 동영상 편집 & AI",
+        "developer": "Bigrowth"
       },
       {
         "rank": 83,
-        "id": "1019382747",
-        "name": "Filmora: AI 영상 제작 & 동영상 편집",
-        "developer": "Shenzhen Wondershare Software Co., Ltd"
-      },
-      {
-        "rank": 84,
-        "id": "6756597066",
-        "name": "타임스탬프 - 임스탬프 카메라",
-        "developer": "MEETFIRE LIMITED"
-      },
-      {
-        "rank": 85,
-        "id": "840110184",
-        "name": "Timestamp Camera Basic",
-        "developer": "玉彬 陈"
-      },
-      {
-        "rank": 86,
         "id": "997362197",
         "name": "InShot - Vlog 동영상 편집 어플",
         "developer": "SHANTANU PTE. LTD."
       },
       {
-        "rank": 87,
+        "rank": 84,
         "id": "6773551771",
         "name": "카메라 SE",
         "developer": "sangwoo song"
       },
       {
-        "rank": 88,
-        "id": "1500098621",
-        "name": "유튜브 비디오 마스터",
-        "developer": "Haruki Daunrodo"
-      },
-      {
-        "rank": 89,
-        "id": "6469552837",
-        "name": "Final Cut Camera",
-        "developer": "Apple"
-      },
-      {
-        "rank": 90,
-        "id": "1415496382",
-        "name": "화면녹화 : 화면 녹화 & 스크린 녹화",
-        "developer": "OCO Inc."
-      },
-      {
-        "rank": 91,
-        "id": "6743162587",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc."
-      },
-      {
-        "rank": 92,
+        "rank": 85,
         "id": "331975235",
         "name": "Photoshop Express: 사진 편집 어플",
         "developer": "Adobe Inc."
       },
       {
-        "rank": 93,
+        "rank": 86,
+        "id": "1343581380",
+        "name": "VN: 사진 및 동영상 편집기",
+        "developer": "Ubiquiti Labs, LLC"
+      },
+      {
+        "rank": 87,
+        "id": "1019382747",
+        "name": "Filmora: AI 영상 제작 & 동영상 편집",
+        "developer": "Shenzhen Wondershare Software Co., Ltd"
+      },
+      {
+        "rank": 88,
         "id": "1398796436",
         "name": "Ulike유라이크",
         "developer": "Bytedance Pte. Ltd"
       },
       {
-        "rank": 94,
+        "rank": 89,
         "id": "6639600226",
         "name": "WristTube for YouTube",
         "developer": "WRISTTECH STUDIO COMPANY LIMITED"
       },
       {
-        "rank": 95,
-        "id": "877984137",
-        "name": "미라카메라 (매일 조용한 촬영)",
-        "developer": "AppMadang"
+        "rank": 90,
+        "id": "6743162587",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc."
       },
       {
-        "rank": 96,
-        "id": "1076859004",
-        "name": "Foodie 푸디 - 필름 카메라 & 필터 레시피",
-        "developer": "SNOW Corporation"
-      },
-      {
-        "rank": 97,
-        "id": "1477796092",
-        "name": "Epson Smart Panel",
-        "developer": "Seiko Epson Corporation"
-      },
-      {
-        "rank": 98,
-        "id": "6804425289",
-        "name": "Timeline Visualize: 여행 지도 영상",
-        "developer": "Mert Can Kasapoglu"
-      },
-      {
-        "rank": 99,
+        "rank": 91,
         "id": "984305203",
         "name": "Slidebox: 사진 정리 앱",
         "developer": "Slidebox LLC"
       },
       {
+        "rank": 92,
+        "id": "1500098621",
+        "name": "유튜브 비디오 마스터",
+        "developer": "Haruki Daunrodo"
+      },
+      {
+        "rank": 93,
+        "id": "1076859004",
+        "name": "Foodie 푸디 - 필름 카메라 & 필터 레시피",
+        "developer": "SNOW Corporation"
+      },
+      {
+        "rank": 94,
+        "id": "6469552837",
+        "name": "Final Cut Camera",
+        "developer": "Apple"
+      },
+      {
+        "rank": 95,
+        "id": "1477796092",
+        "name": "Epson Smart Panel",
+        "developer": "Seiko Epson Corporation"
+      },
+      {
+        "rank": 96,
+        "id": "6478151677",
+        "name": "TikTok Studio",
+        "developer": "TikTok Ltd."
+      },
+      {
+        "rank": 97,
+        "id": "840110184",
+        "name": "Timestamp Camera Basic",
+        "developer": "玉彬 陈"
+      },
+      {
+        "rank": 98,
+        "id": "6756597066",
+        "name": "타임스탬프 - 임스탬프 카메라",
+        "developer": "MEETFIRE LIMITED"
+      },
+      {
+        "rank": 99,
+        "id": "877984137",
+        "name": "미라카메라 (매일 조용한 촬영)",
+        "developer": "AppMadang"
+      },
+      {
         "rank": 100,
-        "id": "1616113199",
-        "name": "ProCCD - 레트로 디지털 필름 카메라",
-        "developer": "亚玲 查"
+        "id": "1579215073",
+        "name": "모자이크 배경 흐림 및 흐림 처리 모자이크 +",
+        "developer": "Shiho Sadamizu"
       }
     ],
     "in": [
