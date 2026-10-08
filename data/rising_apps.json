@@ -13,8 +13,8 @@
       "name": "Clicked: AI Editor & Beautify",
       "developer": "Clicked",
       "prev_rank": 78,
-      "curr_rank": 26,
-      "delta": 52
+      "curr_rank": 25,
+      "delta": 53
     },
     {
       "country": "FR",
@@ -25,20 +25,20 @@
       "delta": 34
     },
     {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 83,
+      "curr_rank": 52,
+      "delta": 31
+    },
+    {
       "country": "GB",
       "name": "Dance AI - Video Generator",
       "developer": "DeePix AI",
       "prev_rank": 41,
       "curr_rank": 11,
       "delta": 30
-    },
-    {
-      "country": "US",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 83,
-      "curr_rank": 54,
-      "delta": 29
     },
     {
       "country": "AU",
@@ -53,16 +53,8 @@
       "name": "ClawDance: AI Video Generator",
       "developer": "BEGAMOB GLOBAL LIMITED",
       "prev_rank": 94,
-      "curr_rank": 72,
-      "delta": 22
-    },
-    {
-      "country": "FR",
-      "name": "Highfield Video AI",
-      "developer": "Metro Air Service Inc.",
-      "prev_rank": 97,
-      "curr_rank": 78,
-      "delta": 19
+      "curr_rank": 67,
+      "delta": 27
     },
     {
       "country": "DE",
@@ -81,11 +73,11 @@
       "delta": 18
     },
     {
-      "country": "ID",
-      "name": "Timestamp Camera :AI Timestamp",
-      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
-      "prev_rank": 92,
-      "curr_rank": 75,
+      "country": "FR",
+      "name": "Highfield Video AI",
+      "developer": "Metro Air Service Inc.",
+      "prev_rank": 97,
+      "curr_rank": 80,
       "delta": 17
     },
     {
@@ -97,20 +89,20 @@
       "delta": 16
     },
     {
+      "country": "US",
+      "name": "AI Video Generator - Vixel",
+      "developer": "FENIX MOBILE YAZILIM A.S.",
+      "prev_rank": 78,
+      "curr_rank": 63,
+      "delta": 15
+    },
+    {
       "country": "BR",
       "name": "Dance AI - Gerador de Vídeo",
       "developer": "DeePix AI",
       "prev_rank": 38,
-      "curr_rank": 22,
-      "delta": 16
-    },
-    {
-      "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 90,
-      "curr_rank": 74,
-      "delta": 16
+      "curr_rank": 23,
+      "delta": 15
     },
     {
       "country": "US",
@@ -121,11 +113,11 @@
       "delta": 13
     },
     {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 57,
-      "curr_rank": 44,
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 92,
+      "curr_rank": 79,
       "delta": 13
     },
     {
@@ -138,10 +130,42 @@
     },
     {
       "country": "AU",
+      "name": "Remini - AI Photo Editor",
+      "developer": "Bending Spoons Apps ApS",
+      "prev_rank": 75,
+      "curr_rank": 63,
+      "delta": 12
+    },
+    {
+      "country": "AU",
       "name": "Momo: AI Photo & Video Maker",
       "developer": "SCALEUP YAZILIM HIZMETLERI",
       "prev_rank": 85,
-      "curr_rank": 75,
+      "curr_rank": 73,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 95,
+      "curr_rank": 83,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "AI Avatar Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 67,
+      "curr_rank": 57,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 90,
+      "curr_rank": 80,
       "delta": 10
     }
   ],
@@ -160,8 +184,16 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 83,
-        "curr_rank": 54,
-        "delta": 29
+        "curr_rank": 52,
+        "delta": 31
+      },
+      {
+        "country": "US",
+        "name": "AI Video Generator - Vixel",
+        "developer": "FENIX MOBILE YAZILIM A.S.",
+        "prev_rank": 78,
+        "curr_rank": 63,
+        "delta": 15
       },
       {
         "country": "US",
@@ -170,6 +202,14 @@
         "prev_rank": 61,
         "curr_rank": 48,
         "delta": 13
+      },
+      {
+        "country": "US",
+        "name": "AI Avatar Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 67,
+        "curr_rank": 57,
+        "delta": 10
       }
     ],
     "DE": [
@@ -178,8 +218,8 @@
         "name": "Clicked: AI Editor & Beautify",
         "developer": "Clicked",
         "prev_rank": 78,
-        "curr_rank": 26,
-        "delta": 52
+        "curr_rank": 25,
+        "delta": 53
       },
       {
         "country": "DE",
@@ -204,8 +244,8 @@
         "name": "Highfield Video AI",
         "developer": "Metro Air Service Inc.",
         "prev_rank": 97,
-        "curr_rank": 78,
-        "delta": 19
+        "curr_rank": 80,
+        "delta": 17
       },
       {
         "country": "FR",
@@ -237,11 +277,27 @@
       },
       {
         "country": "AU",
+        "name": "Remini - AI Photo Editor",
+        "developer": "Bending Spoons Apps ApS",
+        "prev_rank": 75,
+        "curr_rank": 63,
+        "delta": 12
+      },
+      {
+        "country": "AU",
         "name": "Momo: AI Photo & Video Maker",
         "developer": "SCALEUP YAZILIM HIZMETLERI",
         "prev_rank": 85,
-        "curr_rank": 75,
-        "delta": 10
+        "curr_rank": 73,
+        "delta": 12
+      },
+      {
+        "country": "AU",
+        "name": "Airbrush: Face Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 95,
+        "curr_rank": 83,
+        "delta": 12
       }
     ],
     "BR": [
@@ -250,16 +306,16 @@
         "name": "ClawDance: AI Video Generator",
         "developer": "BEGAMOB GLOBAL LIMITED",
         "prev_rank": 94,
-        "curr_rank": 72,
-        "delta": 22
+        "curr_rank": 67,
+        "delta": 27
       },
       {
         "country": "BR",
         "name": "Dance AI - Gerador de Vídeo",
         "developer": "DeePix AI",
         "prev_rank": 38,
-        "curr_rank": 22,
-        "delta": 16
+        "curr_rank": 23,
+        "delta": 15
       }
     ],
     "KR": [
@@ -276,16 +332,8 @@
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 90,
-        "curr_rank": 74,
-        "delta": 16
-      },
-      {
-        "country": "KR",
-        "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-        "developer": "PICME",
-        "prev_rank": 57,
-        "curr_rank": 44,
-        "delta": 13
+        "curr_rank": 80,
+        "delta": 10
       }
     ],
     "ID": [
@@ -294,8 +342,8 @@
         "name": "Timestamp Camera :AI Timestamp",
         "developer": "Shanghai Zongchong Information Technology Co., Ltd",
         "prev_rank": 92,
-        "curr_rank": 75,
-        "delta": 17
+        "curr_rank": 79,
+        "delta": 13
       }
     ],
     "JP": [
@@ -318,7 +366,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 3 rising apps - highest activity today"
+      "text": "US has 5 rising apps - highest activity today"
     },
     {
       "type": "app-note",
