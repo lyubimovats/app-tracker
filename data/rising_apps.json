@@ -13,16 +13,16 @@
       "name": "Passfoto - PhotoAiD",
       "developer": "Photo Aid",
       "prev_rank": 90,
-      "curr_rank": 59,
-      "delta": 31
+      "curr_rank": 60,
+      "delta": 30
     },
     {
       "country": "JP",
       "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
       "developer": "Photoroom",
       "prev_rank": 58,
-      "curr_rank": 29,
-      "delta": 29
+      "curr_rank": 30,
+      "delta": 28
     },
     {
       "country": "DE",
@@ -34,43 +34,43 @@
     },
     {
       "country": "KR",
+      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
+      "developer": "PICME",
+      "prev_rank": 73,
+      "curr_rank": 48,
+      "delta": 25
+    },
+    {
+      "country": "KR",
       "name": "타입캐스트 - AI 음성 제작",
       "developer": "Neosapience, Inc.",
       "prev_rank": 96,
-      "curr_rank": 69,
-      "delta": 27
+      "curr_rank": 71,
+      "delta": 25
     },
     {
       "country": "US",
       "name": "Toonapp: AI Video & Toon Photo",
       "developer": "Lyrebird Studio",
       "prev_rank": 96,
-      "curr_rank": 70,
-      "delta": 26
-    },
-    {
-      "country": "KR",
-      "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
-      "developer": "PICME",
-      "prev_rank": 73,
-      "curr_rank": 47,
-      "delta": 26
+      "curr_rank": 72,
+      "delta": 24
     },
     {
       "country": "GB",
       "name": "AI Mirror: AI Photo Editor",
       "developer": "POLYVERSE ENTERTAINMENT INC.",
       "prev_rank": 76,
-      "curr_rank": 58,
-      "delta": 18
+      "curr_rank": 54,
+      "delta": 22
     },
     {
-      "country": "GB",
-      "name": "Evoto: Photo Editor & Retouch",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 68,
-      "curr_rank": 53,
-      "delta": 15
+      "country": "DE",
+      "name": "AI Catch: KI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 56,
+      "curr_rank": 38,
+      "delta": 18
     },
     {
       "country": "JP",
@@ -85,7 +85,23 @@
       "name": "MIU AI: Photo Video Generator",
       "developer": "Ivan Chapisptryak",
       "prev_rank": 63,
-      "curr_rank": 51,
+      "curr_rank": 49,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 61,
+      "curr_rank": 48,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Evoto: Photo Editor & Retouch",
+      "developer": "TRUESIGHT PTE. LTD.",
+      "prev_rank": 68,
+      "curr_rank": 56,
       "delta": 12
     },
     {
@@ -97,19 +113,27 @@
       "delta": 11
     },
     {
+      "country": "FR",
+      "name": "MIU AI - Photo Video Generator",
+      "developer": "Ivan Chapisptryak",
+      "prev_rank": 90,
+      "curr_rank": 79,
+      "delta": 11
+    },
+    {
+      "country": "JP",
+      "name": "Retake AI 写真、顔 & セルフィーエディター",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 76,
+      "curr_rank": 65,
+      "delta": 11
+    },
+    {
       "country": "DE",
       "name": "HeyGen: AI Video Generator",
       "developer": "HeyGen Technology Inc",
       "prev_rank": 91,
-      "curr_rank": 80,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 99,
-      "curr_rank": 89,
+      "curr_rank": 81,
       "delta": 10
     },
     {
@@ -121,19 +145,11 @@
       "delta": 10
     },
     {
-      "country": "JP",
-      "name": "Retake AI 写真、顔 & セルフィーエディター",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 76,
-      "curr_rank": 66,
-      "delta": 10
-    },
-    {
-      "country": "AU",
+      "country": "KR",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
-      "prev_rank": 60,
-      "curr_rank": 50,
+      "prev_rank": 91,
+      "curr_rank": 81,
       "delta": 10
     },
     {
@@ -157,11 +173,11 @@
       },
       {
         "country": "AU",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 60,
-        "curr_rank": 50,
-        "delta": 10
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 61,
+        "curr_rank": 48,
+        "delta": 13
       },
       {
         "country": "AU",
@@ -178,8 +194,8 @@
         "name": "Passfoto - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 90,
-        "curr_rank": 59,
-        "delta": 31
+        "curr_rank": 60,
+        "delta": 30
       },
       {
         "country": "DE",
@@ -191,11 +207,19 @@
       },
       {
         "country": "DE",
+        "name": "AI Catch: KI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 56,
+        "curr_rank": 38,
+        "delta": 18
+      },
+      {
+        "country": "DE",
         "name": "HeyGen: AI Video Generator",
         "developer": "HeyGen Technology Inc",
         "prev_rank": 91,
-        "curr_rank": 80,
-        "delta": 11
+        "curr_rank": 81,
+        "delta": 10
       }
     ],
     "JP": [
@@ -204,8 +228,8 @@
         "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
         "developer": "Photoroom",
         "prev_rank": 58,
-        "curr_rank": 29,
-        "delta": 29
+        "curr_rank": 30,
+        "delta": 28
       },
       {
         "country": "JP",
@@ -220,26 +244,34 @@
         "name": "Retake AI 写真、顔 & セルフィーエディター",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 76,
-        "curr_rank": 66,
-        "delta": 10
+        "curr_rank": 65,
+        "delta": 11
       }
     ],
     "KR": [
       {
         "country": "KR",
-        "name": "타입캐스트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 96,
-        "curr_rank": 69,
-        "delta": 27
-      },
-      {
-        "country": "KR",
         "name": "픽미 - 여권사진 운전면허증사진 AI 증명사진어플",
         "developer": "PICME",
         "prev_rank": 73,
-        "curr_rank": 47,
-        "delta": 26
+        "curr_rank": 48,
+        "delta": 25
+      },
+      {
+        "country": "KR",
+        "name": "타입캐스트 - AI 음성 제작",
+        "developer": "Neosapience, Inc.",
+        "prev_rank": 96,
+        "curr_rank": 71,
+        "delta": 25
+      },
+      {
+        "country": "KR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 91,
+        "curr_rank": 81,
+        "delta": 10
       }
     ],
     "US": [
@@ -248,8 +280,8 @@
         "name": "Toonapp: AI Video & Toon Photo",
         "developer": "Lyrebird Studio",
         "prev_rank": 96,
-        "curr_rank": 70,
-        "delta": 26
+        "curr_rank": 72,
+        "delta": 24
       },
       {
         "country": "US",
@@ -266,24 +298,16 @@
         "name": "AI Mirror: AI Photo Editor",
         "developer": "POLYVERSE ENTERTAINMENT INC.",
         "prev_rank": 76,
-        "curr_rank": 58,
-        "delta": 18
+        "curr_rank": 54,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "Evoto: Photo Editor & Retouch",
         "developer": "TRUESIGHT PTE. LTD.",
         "prev_rank": 68,
-        "curr_rank": 53,
-        "delta": 15
-      },
-      {
-        "country": "GB",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
+        "curr_rank": 56,
+        "delta": 12
       }
     ],
     "ID": [
@@ -292,11 +316,19 @@
         "name": "MIU AI: Photo Video Generator",
         "developer": "Ivan Chapisptryak",
         "prev_rank": 63,
-        "curr_rank": 51,
-        "delta": 12
+        "curr_rank": 49,
+        "delta": 14
       }
     ],
     "FR": [
+      {
+        "country": "FR",
+        "name": "MIU AI - Photo Video Generator",
+        "developer": "Ivan Chapisptryak",
+        "prev_rank": 90,
+        "curr_rank": 79,
+        "delta": 11
+      },
       {
         "country": "FR",
         "name": "Pollo AI : Vidéo et image IA",
@@ -316,7 +348,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 3 rising apps - highest activity today"
+      "text": "DE has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
