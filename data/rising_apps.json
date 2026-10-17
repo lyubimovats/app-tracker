@@ -1,259 +1,221 @@
 {
   "rising": [
     {
-      "country": "KR",
-      "name": "B612 Camera&Photo/Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 66,
-      "curr_rank": 26,
-      "delta": 40
-    },
-    {
       "country": "GB",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
+      "name": "Blur Photo Editor & Mosaic",
+      "developer": "Yu Abe",
       "prev_rank": 90,
-      "curr_rank": 54,
-      "delta": 36
-    },
-    {
-      "country": "KR",
-      "name": "Pollo AI: AI 동영상 및 이미지",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 83,
-      "curr_rank": 54,
-      "delta": 29
-    },
-    {
-      "country": "AU",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 36,
-      "curr_rank": 11,
+      "curr_rank": 65,
       "delta": 25
     },
     {
-      "country": "KR",
-      "name": "Muse: 릴스 동영상 편집 & AI",
-      "developer": "Bigrowth",
-      "prev_rank": 99,
-      "curr_rank": 83,
+      "country": "DE",
+      "name": "Highfield Video AI",
+      "developer": "Metro Air Service Inc.",
+      "prev_rank": 90,
+      "curr_rank": 68,
+      "delta": 22
+    },
+    {
+      "country": "JP",
+      "name": "KakaPic - AI動画作成と高画質AI写真館",
+      "developer": "盛河 徐",
+      "prev_rank": 53,
+      "curr_rank": 37,
       "delta": 16
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 26,
+      "curr_rank": 10,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "FaceApp: Perfect Face Editor",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 85,
+      "curr_rank": 71,
+      "delta": 14
     },
     {
       "country": "FR",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
-      "prev_rank": 66,
-      "curr_rank": 51,
-      "delta": 15
-    },
-    {
-      "country": "US",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 72,
-      "curr_rank": 60,
-      "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "Bending Spoons Apps ApS",
-      "prev_rank": 75,
-      "curr_rank": 63,
-      "delta": 12
-    },
-    {
-      "country": "JP",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "prev_rank": 91,
-      "curr_rank": 79,
-      "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "Vids AI - Reels Video Editor",
-      "developer": "Viral Vision Ltd.",
-      "prev_rank": 53,
-      "curr_rank": 42,
-      "delta": 11
+      "prev_rank": 51,
+      "curr_rank": 37,
+      "delta": 14
     },
     {
       "country": "GB",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 33,
-      "curr_rank": 22,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "ClawDance: Dance AI Video Edit",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "prev_rank": 78,
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 80,
       "curr_rank": 67,
+      "delta": 13
+    },
+    {
+      "country": "AU",
+      "name": "AI Video Generator - Vixel",
+      "developer": "FENIX MOBILE YAZILIM A.S.",
+      "prev_rank": 58,
+      "curr_rank": 45,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "FaceApp: Editor facial idéal",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 64,
+      "curr_rank": 52,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "prev_rank": 75,
+      "curr_rank": 64,
+      "delta": 11
+    },
+    {
+      "country": "FR",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 88,
+      "curr_rank": 77,
       "delta": 11
     },
     {
       "country": "KR",
       "name": "Highfield Genjutsu AI",
       "developer": "Passio Technology Limited",
-      "prev_rank": 41,
-      "curr_rank": 30,
+      "prev_rank": 30,
+      "curr_rank": 19,
       "delta": 11
     },
     {
-      "country": "ID",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 80,
-      "curr_rank": 69,
+      "country": "IN",
+      "name": "Deco - AI Home Design",
+      "developer": "DeePix AI",
+      "prev_rank": 62,
+      "curr_rank": 51,
       "delta": 11
     },
     {
       "country": "AU",
-      "name": "ClawDance: Dance AI Video Edit",
-      "developer": "BEGAMOB GLOBAL LIMITED",
-      "prev_rank": 84,
+      "name": "Photoroom: AI Photo Editor",
+      "developer": "Photoroom",
+      "prev_rank": 83,
+      "curr_rank": 72,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "VSCO: Photo & Video Editor",
+      "developer": "Visual Supply Company",
+      "prev_rank": 85,
+      "curr_rank": 75,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 83,
       "curr_rank": 73,
-      "delta": 11
-    },
-    {
-      "country": "FR",
-      "name": "PrettyUp -Retouche video corps",
-      "developer": "Pixl Concerto Technology Limited",
-      "prev_rank": 75,
-      "curr_rank": 65,
       "delta": 10
     },
     {
-      "country": "KR",
-      "name": "Runway: AI Image & Video",
-      "developer": "runwayml",
-      "prev_rank": 54,
-      "curr_rank": 44,
-      "delta": 10
-    },
-    {
-      "country": "KR",
-      "name": "Hypic - Photo Editor & AI Art",
-      "developer": "Bytedance Pte. Ltd",
-      "prev_rank": 56,
-      "curr_rank": 46,
-      "delta": 10
-    },
-    {
-      "country": "AU",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 53,
-      "curr_rank": 43,
+      "country": "GB",
+      "name": "SorAI - AI Video Generator",
+      "developer": "DES GRADNJE d.o.o.",
+      "prev_rank": 84,
+      "curr_rank": 74,
       "delta": 10
     }
   ],
   "by_country": {
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Blur Photo Editor & Mosaic",
+        "developer": "Yu Abe",
+        "prev_rank": 90,
+        "curr_rank": 65,
+        "delta": 25
+      },
+      {
+        "country": "GB",
+        "name": "FaceApp: Perfect Face Editor",
+        "developer": "FaceApp Technology Limited",
+        "prev_rank": 85,
+        "curr_rank": 71,
+        "delta": 14
+      },
+      {
+        "country": "GB",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 80,
+        "curr_rank": 67,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 83,
+        "curr_rank": 73,
+        "delta": 10
+      },
+      {
+        "country": "GB",
+        "name": "SorAI - AI Video Generator",
+        "developer": "DES GRADNJE d.o.o.",
+        "prev_rank": 84,
+        "curr_rank": 74,
+        "delta": 10
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Highfield Video AI",
+        "developer": "Metro Air Service Inc.",
+        "prev_rank": 90,
+        "curr_rank": 68,
+        "delta": 22
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "KakaPic - AI動画作成と高画質AI写真館",
+        "developer": "盛河 徐",
+        "prev_rank": 53,
+        "curr_rank": 37,
+        "delta": 16
+      }
+    ],
     "KR": [
       {
         "country": "KR",
         "name": "B612 Camera&Photo/Video Editor",
         "developer": "SNOW Corporation",
-        "prev_rank": 66,
-        "curr_rank": 26,
-        "delta": 40
-      },
-      {
-        "country": "KR",
-        "name": "Pollo AI: AI 동영상 및 이미지",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 83,
-        "curr_rank": 54,
-        "delta": 29
-      },
-      {
-        "country": "KR",
-        "name": "Muse: 릴스 동영상 편집 & AI",
-        "developer": "Bigrowth",
-        "prev_rank": 99,
-        "curr_rank": 83,
+        "prev_rank": 26,
+        "curr_rank": 10,
         "delta": 16
       },
       {
         "country": "KR",
         "name": "Highfield Genjutsu AI",
         "developer": "Passio Technology Limited",
-        "prev_rank": 41,
-        "curr_rank": 30,
+        "prev_rank": 30,
+        "curr_rank": 19,
         "delta": 11
-      },
-      {
-        "country": "KR",
-        "name": "Runway: AI Image & Video",
-        "developer": "runwayml",
-        "prev_rank": 54,
-        "curr_rank": 44,
-        "delta": 10
-      },
-      {
-        "country": "KR",
-        "name": "Hypic - Photo Editor & AI Art",
-        "developer": "Bytedance Pte. Ltd",
-        "prev_rank": 56,
-        "curr_rank": 46,
-        "delta": 10
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 90,
-        "curr_rank": 54,
-        "delta": 36
-      },
-      {
-        "country": "GB",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 33,
-        "curr_rank": 22,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "ClawDance: Dance AI Video Edit",
-        "developer": "BEGAMOB GLOBAL LIMITED",
-        "prev_rank": 78,
-        "curr_rank": 67,
-        "delta": 11
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 36,
-        "curr_rank": 11,
-        "delta": 25
-      },
-      {
-        "country": "AU",
-        "name": "ClawDance: Dance AI Video Edit",
-        "developer": "BEGAMOB GLOBAL LIMITED",
-        "prev_rank": 84,
-        "curr_rank": 73,
-        "delta": 11
-      },
-      {
-        "country": "AU",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 53,
-        "curr_rank": 43,
-        "delta": 10
       }
     ],
     "FR": [
@@ -261,62 +223,70 @@
         "country": "FR",
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
-        "prev_rank": 66,
-        "curr_rank": 51,
-        "delta": 15
+        "prev_rank": 51,
+        "curr_rank": 37,
+        "delta": 14
       },
       {
         "country": "FR",
-        "name": "PrettyUp -Retouche video corps",
-        "developer": "Pixl Concerto Technology Limited",
-        "prev_rank": 75,
-        "curr_rank": 65,
-        "delta": 10
+        "name": "FaceApp: Editor facial idéal",
+        "developer": "FaceApp Technology Limited",
+        "prev_rank": 64,
+        "curr_rank": 52,
+        "delta": 12
+      },
+      {
+        "country": "FR",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 88,
+        "curr_rank": 77,
+        "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AI Video Generator - Vixel",
+        "developer": "FENIX MOBILE YAZILIM A.S.",
+        "prev_rank": 58,
+        "curr_rank": 45,
+        "delta": 13
+      },
+      {
+        "country": "AU",
+        "name": "Photoroom: AI Photo Editor",
+        "developer": "Photoroom",
+        "prev_rank": 83,
+        "curr_rank": 72,
+        "delta": 11
       }
     ],
     "US": [
       {
         "country": "US",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 72,
-        "curr_rank": 60,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "Bending Spoons Apps ApS",
+        "name": "Aura Frames",
+        "developer": "Aura Home, Inc.",
         "prev_rank": 75,
-        "curr_rank": 63,
-        "delta": 12
+        "curr_rank": 64,
+        "delta": 11
       },
       {
         "country": "US",
-        "name": "Vids AI - Reels Video Editor",
-        "developer": "Viral Vision Ltd.",
-        "prev_rank": 53,
-        "curr_rank": 42,
-        "delta": 11
+        "name": "VSCO: Photo & Video Editor",
+        "developer": "Visual Supply Company",
+        "prev_rank": 85,
+        "curr_rank": 75,
+        "delta": 10
       }
     ],
-    "JP": [
+    "IN": [
       {
-        "country": "JP",
-        "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-        "developer": "SNOW Corporation",
-        "prev_rank": 91,
-        "curr_rank": 79,
-        "delta": 12
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 80,
-        "curr_rank": 69,
+        "country": "IN",
+        "name": "Deco - AI Home Design",
+        "developer": "DeePix AI",
+        "prev_rank": 62,
+        "curr_rank": 51,
         "delta": 11
       }
     ]
@@ -325,27 +295,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "B612 Camera&Photo/Video Editor leads with +40 jump in KR"
+      "text": "Blur Photo Editor & Mosaic leads with +25 jump in GB"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "KR has 6 rising apps - highest activity today"
-    },
-    {
-      "type": "app-note",
-      "icon": "📱",
-      "text": "Dance AI apps trending with 2 variants rising"
+      "text": "GB has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ReelMe: AI Photo & Video rising in 3 markets: GB, US, AU"
+      "text": "Instories: AI Photo & Video rising in 2 markets: FR, GB"
     }
   ],
   "meta": {
-    "prev_date": "2026-10-15",
-    "curr_date": "2026-10-16",
+    "prev_date": "2026-10-16",
+    "curr_date": "2026-10-17",
     "days": 1
   }
 }
