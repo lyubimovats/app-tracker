@@ -1,52 +1,52 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "AI Catch: Générateur vidéo IA",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 86,
-      "curr_rank": 51,
-      "delta": 35
-    },
-    {
       "country": "DE",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
       "prev_rank": 44,
-      "curr_rank": 12,
-      "delta": 32
+      "curr_rank": 11,
+      "delta": 33
     },
     {
-      "country": "US",
-      "name": "AI Catch: AI Video Generator",
+      "country": "FR",
+      "name": "AI Catch: Générateur vidéo IA",
       "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 79,
-      "curr_rank": 58,
-      "delta": 21
-    },
-    {
-      "country": "DE",
-      "name": "AI Catch: KI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 80,
-      "curr_rank": 59,
-      "delta": 21
-    },
-    {
-      "country": "KR",
-      "name": "위닛 - AI이미지&영상생성",
-      "developer": "LumanLab Inc",
-      "prev_rank": 89,
-      "curr_rank": 69,
-      "delta": 20
+      "prev_rank": 86,
+      "curr_rank": 53,
+      "delta": 33
     },
     {
       "country": "ID",
       "name": "EPIK - AI Photo & Video Editor",
       "developer": "SNOW Corporation",
       "prev_rank": 74,
-      "curr_rank": 54,
-      "delta": 20
+      "curr_rank": 49,
+      "delta": 25
+    },
+    {
+      "country": "DE",
+      "name": "AI Catch: KI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 80,
+      "curr_rank": 56,
+      "delta": 24
+    },
+    {
+      "country": "US",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 79,
+      "curr_rank": 56,
+      "delta": 23
+    },
+    {
+      "country": "KR",
+      "name": "위닛 - AI이미지&영상생성",
+      "developer": "LumanLab Inc",
+      "prev_rank": 89,
+      "curr_rank": 68,
+      "delta": 21
     },
     {
       "country": "US",
@@ -54,14 +54,6 @@
       "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
       "prev_rank": 100,
       "curr_rank": 81,
-      "delta": 19
-    },
-    {
-      "country": "AU",
-      "name": "Prequel: Photo Editor, Filters",
-      "developer": "Prequel Inc.",
-      "prev_rank": 37,
-      "curr_rank": 18,
       "delta": 19
     },
     {
@@ -73,6 +65,22 @@
       "delta": 18
     },
     {
+      "country": "KR",
+      "name": "Highfield Video AI",
+      "developer": "Metro Air Service Inc.",
+      "prev_rank": 77,
+      "curr_rank": 59,
+      "delta": 18
+    },
+    {
+      "country": "AU",
+      "name": "Prequel: Photo Editor, Filters",
+      "developer": "Prequel Inc.",
+      "prev_rank": 37,
+      "curr_rank": 19,
+      "delta": 18
+    },
+    {
       "country": "BR",
       "name": "Criador de Video IA - Vimo AI",
       "developer": "Mobile Ocean",
@@ -81,35 +89,35 @@
       "delta": 16
     },
     {
-      "country": "KR",
-      "name": "Highfield Video AI",
-      "developer": "Metro Air Service Inc.",
-      "prev_rank": 77,
-      "curr_rank": 62,
-      "delta": 15
-    },
-    {
-      "country": "ID",
-      "name": "AI Catch: AI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 89,
-      "curr_rank": 74,
-      "delta": 15
-    },
-    {
       "country": "AU",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 63,
-      "curr_rank": 48,
-      "delta": 15
+      "curr_rank": 47,
+      "delta": 16
     },
     {
       "country": "GB",
       "name": "Evoto: Photo Editor & Retouch",
       "developer": "TRUESIGHT PTE. LTD.",
       "prev_rank": 69,
-      "curr_rank": 56,
+      "curr_rank": 55,
+      "delta": 14
+    },
+    {
+      "country": "ID",
+      "name": "AI Catch: AI Video Generator",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 89,
+      "curr_rank": 75,
+      "delta": 14
+    },
+    {
+      "country": "JP",
+      "name": "YouCam Video：AI動画・動画編集・動画加工アプリ",
+      "developer": "PERFECT MOBILE CORP.",
+      "prev_rank": 94,
+      "curr_rank": 81,
       "delta": 13
     },
     {
@@ -117,61 +125,79 @@
       "name": "Evoto: Photo Editor & Retouch",
       "developer": "TRUESIGHT PTE. LTD.",
       "prev_rank": 58,
-      "curr_rank": 47,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 67,
-      "curr_rank": 56,
-      "delta": 11
+      "curr_rank": 46,
+      "delta": 12
     },
     {
       "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 98,
-      "curr_rank": 87,
-      "delta": 11
+      "curr_rank": 86,
+      "delta": 12
     },
     {
       "country": "AU",
       "name": "Evoto: Photo Editor & Retouch",
       "developer": "TRUESIGHT PTE. LTD.",
       "prev_rank": 57,
-      "curr_rank": 47,
+      "curr_rank": 45,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "ReelMe: AI Photo & Video",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 67,
+      "curr_rank": 57,
       "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
-      {
-        "country": "FR",
-        "name": "AI Catch: Générateur vidéo IA",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 86,
-        "curr_rank": 51,
-        "delta": 35
-      }
-    ],
     "DE": [
       {
         "country": "DE",
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 44,
-        "curr_rank": 12,
-        "delta": 32
+        "curr_rank": 11,
+        "delta": 33
       },
       {
         "country": "DE",
         "name": "AI Catch: KI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 80,
-        "curr_rank": 59,
-        "delta": 21
+        "curr_rank": 56,
+        "delta": 24
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "AI Catch: Générateur vidéo IA",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 86,
+        "curr_rank": 53,
+        "delta": 33
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 74,
+        "curr_rank": 49,
+        "delta": 25
+      },
+      {
+        "country": "ID",
+        "name": "AI Catch: AI Video Generator",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 89,
+        "curr_rank": 75,
+        "delta": 14
       }
     ],
     "US": [
@@ -180,8 +206,8 @@
         "name": "AI Catch: AI Video Generator",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 79,
-        "curr_rank": 58,
-        "delta": 21
+        "curr_rank": 56,
+        "delta": 23
       },
       {
         "country": "US",
@@ -196,16 +222,16 @@
         "name": "Evoto: Photo Editor & Retouch",
         "developer": "TRUESIGHT PTE. LTD.",
         "prev_rank": 58,
-        "curr_rank": 47,
-        "delta": 11
+        "curr_rank": 46,
+        "delta": 12
       },
       {
         "country": "US",
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 67,
-        "curr_rank": 56,
-        "delta": 11
+        "curr_rank": 57,
+        "delta": 10
       }
     ],
     "KR": [
@@ -214,60 +240,16 @@
         "name": "위닛 - AI이미지&영상생성",
         "developer": "LumanLab Inc",
         "prev_rank": 89,
-        "curr_rank": 69,
-        "delta": 20
+        "curr_rank": 68,
+        "delta": 21
       },
       {
         "country": "KR",
         "name": "Highfield Video AI",
         "developer": "Metro Air Service Inc.",
         "prev_rank": 77,
-        "curr_rank": 62,
-        "delta": 15
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "EPIK - AI Photo & Video Editor",
-        "developer": "SNOW Corporation",
-        "prev_rank": 74,
-        "curr_rank": 54,
-        "delta": 20
-      },
-      {
-        "country": "ID",
-        "name": "AI Catch: AI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 89,
-        "curr_rank": 74,
-        "delta": 15
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Prequel: Photo Editor, Filters",
-        "developer": "Prequel Inc.",
-        "prev_rank": 37,
-        "curr_rank": 18,
-        "delta": 19
-      },
-      {
-        "country": "AU",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 63,
-        "curr_rank": 48,
-        "delta": 15
-      },
-      {
-        "country": "AU",
-        "name": "Evoto: Photo Editor & Retouch",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 57,
-        "curr_rank": 47,
-        "delta": 10
+        "curr_rank": 59,
+        "delta": 18
       }
     ],
     "JP": [
@@ -278,6 +260,40 @@
         "prev_rank": 48,
         "curr_rank": 30,
         "delta": 18
+      },
+      {
+        "country": "JP",
+        "name": "YouCam Video：AI動画・動画編集・動画加工アプリ",
+        "developer": "PERFECT MOBILE CORP.",
+        "prev_rank": 94,
+        "curr_rank": 81,
+        "delta": 13
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Prequel: Photo Editor, Filters",
+        "developer": "Prequel Inc.",
+        "prev_rank": 37,
+        "curr_rank": 19,
+        "delta": 18
+      },
+      {
+        "country": "AU",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 63,
+        "curr_rank": 47,
+        "delta": 16
+      },
+      {
+        "country": "AU",
+        "name": "Evoto: Photo Editor & Retouch",
+        "developer": "TRUESIGHT PTE. LTD.",
+        "prev_rank": 57,
+        "curr_rank": 45,
+        "delta": 12
       }
     ],
     "BR": [
@@ -296,16 +312,16 @@
         "name": "Evoto: Photo Editor & Retouch",
         "developer": "TRUESIGHT PTE. LTD.",
         "prev_rank": 69,
-        "curr_rank": 56,
-        "delta": 13
+        "curr_rank": 55,
+        "delta": 14
       },
       {
         "country": "GB",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 98,
-        "curr_rank": 87,
-        "delta": 11
+        "curr_rank": 86,
+        "delta": 12
       }
     ]
   },
@@ -313,7 +329,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "AI Catch: Générateur vidéo IA leads with +35 jump in FR"
+      "text": "Empose: Aesthetic Poses leads with +33 jump in DE"
     },
     {
       "type": "market",
