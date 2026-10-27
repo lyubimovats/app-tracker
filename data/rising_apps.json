@@ -5,8 +5,8 @@
       "name": "VideoGPT - AI Video Generator",
       "developer": "ElevenThirteen LLC",
       "prev_rank": 98,
-      "curr_rank": 75,
-      "delta": 23
+      "curr_rank": 78,
+      "delta": 20
     },
     {
       "country": "FR",
@@ -21,16 +21,16 @@
       "name": "AI Trendy Photo Editor",
       "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
       "prev_rank": 86,
-      "curr_rank": 70,
-      "delta": 16
+      "curr_rank": 69,
+      "delta": 17
     },
     {
       "country": "KR",
       "name": "타입캐스트 - AI 음성 제작",
       "developer": "Neosapience, Inc.",
       "prev_rank": 87,
-      "curr_rank": 71,
-      "delta": 16
+      "curr_rank": 70,
+      "delta": 17
     },
     {
       "country": "DE",
@@ -38,6 +38,14 @@
       "developer": "Ylee Studio LTD",
       "prev_rank": 100,
       "curr_rank": 85,
+      "delta": 15
+    },
+    {
+      "country": "IN",
+      "name": "Deco - AI Home Design",
+      "developer": "DeePix AI",
+      "prev_rank": 76,
+      "curr_rank": 61,
       "delta": 15
     },
     {
@@ -58,6 +66,14 @@
     },
     {
       "country": "US",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 55,
+      "curr_rank": 42,
+      "delta": 13
+    },
+    {
+      "country": "US",
       "name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
       "prev_rank": 70,
@@ -65,27 +81,27 @@
       "delta": 13
     },
     {
+      "country": "FR",
+      "name": "Retake IA: Éditeur de photos",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 78,
+      "curr_rank": 65,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 52,
+      "curr_rank": 40,
+      "delta": 12
+    },
+    {
       "country": "KR",
       "name": "ElevenLabs: AI Voice Generator",
       "developer": "ElevenLabs, Inc.",
       "prev_rank": 90,
-      "curr_rank": 77,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 55,
-      "curr_rank": 43,
-      "delta": 12
-    },
-    {
-      "country": "ID",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 48,
-      "curr_rank": 36,
+      "curr_rank": 78,
       "delta": 12
     },
     {
@@ -93,31 +109,23 @@
       "name": "Muse: Reels Video Editor",
       "developer": "Bigrowth",
       "prev_rank": 65,
-      "curr_rank": 55,
-      "delta": 10
+      "curr_rank": 54,
+      "delta": 11
     },
     {
-      "country": "US",
-      "name": "Genie AI - AI Video Generator",
-      "developer": "发家 罗",
-      "prev_rank": 96,
-      "curr_rank": 86,
-      "delta": 10
+      "country": "AU",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 63,
+      "curr_rank": 52,
+      "delta": 11
     },
     {
-      "country": "FR",
-      "name": "Retake IA: Éditeur de photos",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 78,
-      "curr_rank": 68,
-      "delta": 10
-    },
-    {
-      "country": "FR",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 81,
-      "curr_rank": 71,
+      "country": "ID",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 48,
+      "curr_rank": 38,
       "delta": 10
     }
   ],
@@ -128,8 +136,8 @@
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
         "prev_rank": 98,
-        "curr_rank": 75,
-        "delta": 23
+        "curr_rank": 78,
+        "delta": 20
       },
       {
         "country": "DE",
@@ -162,16 +170,8 @@
         "name": "Retake IA: Éditeur de photos",
         "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 78,
-        "curr_rank": 68,
-        "delta": 10
-      },
-      {
-        "country": "FR",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
-        "prev_rank": 81,
-        "curr_rank": 71,
-        "delta": 10
+        "curr_rank": 65,
+        "delta": 13
       }
     ],
     "GB": [
@@ -180,8 +180,16 @@
         "name": "AI Trendy Photo Editor",
         "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
         "prev_rank": 86,
-        "curr_rank": 70,
-        "delta": 16
+        "curr_rank": 69,
+        "delta": 17
+      },
+      {
+        "country": "GB",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 52,
+        "curr_rank": 40,
+        "delta": 12
       }
     ],
     "KR": [
@@ -190,16 +198,26 @@
         "name": "타입캐스트 - AI 음성 제작",
         "developer": "Neosapience, Inc.",
         "prev_rank": 87,
-        "curr_rank": 71,
-        "delta": 16
+        "curr_rank": 70,
+        "delta": 17
       },
       {
         "country": "KR",
         "name": "ElevenLabs: AI Voice Generator",
         "developer": "ElevenLabs, Inc.",
         "prev_rank": 90,
-        "curr_rank": 77,
-        "delta": 13
+        "curr_rank": 78,
+        "delta": 12
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Deco - AI Home Design",
+        "developer": "DeePix AI",
+        "prev_rank": 76,
+        "curr_rank": 61,
+        "delta": 15
       }
     ],
     "US": [
@@ -213,6 +231,14 @@
       },
       {
         "country": "US",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 55,
+        "curr_rank": 42,
+        "delta": 13
+      },
+      {
+        "country": "US",
         "name": "Shots: Photo & Video Generator",
         "developer": "DeePix AI",
         "prev_rank": 70,
@@ -221,27 +247,21 @@
       },
       {
         "country": "US",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
-        "prev_rank": 55,
-        "curr_rank": 43,
-        "delta": 12
-      },
-      {
-        "country": "US",
         "name": "Muse: Reels Video Editor",
         "developer": "Bigrowth",
         "prev_rank": 65,
-        "curr_rank": 55,
-        "delta": 10
-      },
+        "curr_rank": 54,
+        "delta": 11
+      }
+    ],
+    "AU": [
       {
-        "country": "US",
-        "name": "Genie AI - AI Video Generator",
-        "developer": "发家 罗",
-        "prev_rank": 96,
-        "curr_rank": 86,
-        "delta": 10
+        "country": "AU",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 63,
+        "curr_rank": 52,
+        "delta": 11
       }
     ],
     "ID": [
@@ -250,8 +270,8 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 48,
-        "curr_rank": 36,
-        "delta": 12
+        "curr_rank": 38,
+        "delta": 10
       }
     ]
   },
@@ -259,17 +279,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "VideoGPT - AI Video Generator leads with +23 jump in DE"
+      "text": "VideoGPT - AI Video Generator leads with +20 jump in DE"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 5 rising apps - highest activity today"
+      "text": "US has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "VideoGPT - AI Video Generator rising in 3 markets: DE, US, FR"
+      "text": "VideoGPT - AI Video Generator rising in 2 markets: DE, US"
     }
   ],
   "meta": {
