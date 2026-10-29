@@ -5,24 +5,16 @@
       "name": "ReelMe: AI Photo & Video",
       "developer": "TPC INVEST PTE.LTD",
       "prev_rank": 60,
-      "curr_rank": 41,
-      "delta": 19
+      "curr_rank": 42,
+      "delta": 18
     },
     {
       "country": "DE",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
       "prev_rank": 86,
-      "curr_rank": 68,
-      "delta": 18
-    },
-    {
-      "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 88,
-      "curr_rank": 70,
-      "delta": 18
+      "curr_rank": 69,
+      "delta": 17
     },
     {
       "country": "GB",
@@ -34,34 +26,66 @@
     },
     {
       "country": "KR",
-      "name": "KineMaster - AI 동영상 편집 어플",
-      "developer": "KineMaster Corporation",
-      "prev_rank": 87,
-      "curr_rank": 74,
-      "delta": 13
+      "name": "미우 AI (MeeAww): AI 동영상·이미지 생성기",
+      "developer": "COUNTDN AI Corp.",
+      "prev_rank": 60,
+      "curr_rank": 44,
+      "delta": 16
     },
     {
       "country": "GB",
       "name": "ReelMe: AI Photo & Video",
       "developer": "TPC INVEST PTE.LTD",
       "prev_rank": 72,
-      "curr_rank": 60,
-      "delta": 12
+      "curr_rank": 59,
+      "delta": 13
     },
     {
       "country": "GB",
       "name": "Highfield Genjutsu AI",
       "developer": "Passio Technology Limited",
       "prev_rank": 99,
-      "curr_rank": 87,
+      "curr_rank": 86,
+      "delta": 13
+    },
+    {
+      "country": "KR",
+      "name": "KineMaster - AI 동영상 편집 어플",
+      "developer": "KineMaster Corporation",
+      "prev_rank": 87,
+      "curr_rank": 75,
       "delta": 12
     },
     {
-      "country": "DE",
-      "name": "AI Catch: KI Video Generator",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 72,
-      "curr_rank": 62,
+      "country": "BR",
+      "name": "GoPhoto:AI Photo/Video Creator",
+      "developer": "AIX Studio",
+      "prev_rank": 49,
+      "curr_rank": 38,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "타입캐스트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 88,
+      "curr_rank": 77,
+      "delta": 11
+    },
+    {
+      "country": "ID",
+      "name": "SNOW - AI Profile",
+      "developer": "SNOW Corporation",
+      "prev_rank": 61,
+      "curr_rank": 50,
+      "delta": 11
+    },
+    {
+      "country": "BR",
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 93,
+      "curr_rank": 83,
       "delta": 10
     }
   ],
@@ -72,8 +96,8 @@
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 60,
-        "curr_rank": 41,
-        "delta": 19
+        "curr_rank": 42,
+        "delta": 18
       }
     ],
     "DE": [
@@ -82,34 +106,8 @@
         "name": "Instories: AI Photo & Video",
         "developer": "Ylee Studio LTD",
         "prev_rank": 86,
-        "curr_rank": 68,
-        "delta": 18
-      },
-      {
-        "country": "DE",
-        "name": "AI Catch: KI Video Generator",
-        "developer": "Prominent Fortune PTE. LTD",
-        "prev_rank": 72,
-        "curr_rank": 62,
-        "delta": 10
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "타입캐스트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 88,
-        "curr_rank": 70,
-        "delta": 18
-      },
-      {
-        "country": "KR",
-        "name": "KineMaster - AI 동영상 편집 어플",
-        "developer": "KineMaster Corporation",
-        "prev_rank": 87,
-        "curr_rank": 74,
-        "delta": 13
+        "curr_rank": 69,
+        "delta": 17
       }
     ],
     "GB": [
@@ -126,16 +124,70 @@
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 72,
-        "curr_rank": 60,
-        "delta": 12
+        "curr_rank": 59,
+        "delta": 13
       },
       {
         "country": "GB",
         "name": "Highfield Genjutsu AI",
         "developer": "Passio Technology Limited",
         "prev_rank": 99,
-        "curr_rank": 87,
+        "curr_rank": 86,
+        "delta": 13
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "미우 AI (MeeAww): AI 동영상·이미지 생성기",
+        "developer": "COUNTDN AI Corp.",
+        "prev_rank": 60,
+        "curr_rank": 44,
+        "delta": 16
+      },
+      {
+        "country": "KR",
+        "name": "KineMaster - AI 동영상 편집 어플",
+        "developer": "KineMaster Corporation",
+        "prev_rank": 87,
+        "curr_rank": 75,
         "delta": 12
+      },
+      {
+        "country": "KR",
+        "name": "타입캐스트 - AI 음성 제작",
+        "developer": "Neosapience, Inc.",
+        "prev_rank": 88,
+        "curr_rank": 77,
+        "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "GoPhoto:AI Photo/Video Creator",
+        "developer": "AIX Studio",
+        "prev_rank": 49,
+        "curr_rank": 38,
+        "delta": 11
+      },
+      {
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 93,
+        "curr_rank": 83,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "SNOW - AI Profile",
+        "developer": "SNOW Corporation",
+        "prev_rank": 61,
+        "curr_rank": 50,
+        "delta": 11
       }
     ]
   },
@@ -143,7 +195,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "ReelMe: AI Photo & Video leads with +19 jump in AU"
+      "text": "ReelMe: AI Photo & Video leads with +18 jump in AU"
     },
     {
       "type": "market",
