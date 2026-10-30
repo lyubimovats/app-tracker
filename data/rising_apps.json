@@ -1,139 +1,257 @@
 {
   "rising": [
     {
-      "country": "AU",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 60,
-      "curr_rank": 42,
+      "country": "GB",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 97,
+      "curr_rank": 75,
+      "delta": 22
+    },
+    {
+      "country": "BR",
+      "name": "Hailuo AI: Gerador de Vídeos",
+      "developer": "Oleh Iskrenko",
+      "prev_rank": 96,
+      "curr_rank": 77,
+      "delta": 19
+    },
+    {
+      "country": "IN",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 84,
+      "curr_rank": 66,
       "delta": 18
     },
     {
-      "country": "DE",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 86,
-      "curr_rank": 69,
+      "country": "AU",
+      "name": "Airbrush: Face Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 90,
+      "curr_rank": 73,
       "delta": 17
     },
     {
+      "country": "AU",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 85,
+      "curr_rank": 70,
+      "delta": 15
+    },
+    {
+      "country": "US",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 72,
+      "curr_rank": 58,
+      "delta": 14
+    },
+    {
       "country": "GB",
-      "name": "AI Video Generator - HeyGen",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 100,
-      "curr_rank": 84,
-      "delta": 16
+      "name": "Facetune: Video & Photo Editor",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 43,
+      "curr_rank": 30,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 89,
+      "curr_rank": 77,
+      "delta": 12
+    },
+    {
+      "country": "IN",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 73,
+      "curr_rank": 61,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 80,
+      "curr_rank": 69,
+      "delta": 11
+    },
+    {
+      "country": "DE",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 54,
+      "curr_rank": 43,
+      "delta": 11
     },
     {
       "country": "KR",
       "name": "미우 AI (MeeAww): AI 동영상·이미지 생성기",
       "developer": "COUNTDN AI Corp.",
-      "prev_rank": 60,
-      "curr_rank": 44,
-      "delta": 16
+      "prev_rank": 44,
+      "curr_rank": 33,
+      "delta": 11
     },
     {
       "country": "GB",
       "name": "ReelMe: AI Photo & Video",
       "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 72,
-      "curr_rank": 59,
-      "delta": 13
+      "prev_rank": 59,
+      "curr_rank": 49,
+      "delta": 10
     },
     {
       "country": "GB",
-      "name": "Highfield Genjutsu AI",
-      "developer": "Passio Technology Limited",
-      "prev_rank": 99,
-      "curr_rank": 86,
-      "delta": 13
+      "name": "Splice - Video Editor & Maker",
+      "developer": "BENDING SPOONS OPERATIONS SPA",
+      "prev_rank": 94,
+      "curr_rank": 84,
+      "delta": 10
+    },
+    {
+      "country": "DE",
+      "name": "Airbrush - Fotobearbeitung",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 91,
+      "curr_rank": 81,
+      "delta": 10
     },
     {
       "country": "KR",
-      "name": "KineMaster - AI 동영상 편집 어플",
-      "developer": "KineMaster Corporation",
-      "prev_rank": 87,
-      "curr_rank": 75,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "GoPhoto:AI Photo/Video Creator",
-      "developer": "AIX Studio",
-      "prev_rank": 49,
-      "curr_rank": 38,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 88,
-      "curr_rank": 77,
-      "delta": 11
-    },
-    {
-      "country": "ID",
-      "name": "SNOW - AI Profile",
-      "developer": "SNOW Corporation",
-      "prev_rank": 61,
-      "curr_rank": 50,
-      "delta": 11
-    },
-    {
-      "country": "BR",
-      "name": "Instories: AI Fotos & Videos",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 93,
-      "curr_rank": 83,
+      "name": "Photoroom(포토룸): AI 사진 & 동영상",
+      "developer": "Photoroom",
+      "prev_rank": 47,
+      "curr_rank": 37,
       "delta": 10
     }
   ],
   "by_country": {
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 97,
+        "curr_rank": 75,
+        "delta": 22
+      },
+      {
+        "country": "GB",
+        "name": "Facetune: Video & Photo Editor",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 43,
+        "curr_rank": 30,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 89,
+        "curr_rank": 77,
+        "delta": 12
+      },
+      {
+        "country": "GB",
+        "name": "ReelMe: AI Photo & Video",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 59,
+        "curr_rank": 49,
+        "delta": 10
+      },
+      {
+        "country": "GB",
+        "name": "Splice - Video Editor & Maker",
+        "developer": "BENDING SPOONS OPERATIONS SPA",
+        "prev_rank": 94,
+        "curr_rank": 84,
+        "delta": 10
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Hailuo AI: Gerador de Vídeos",
+        "developer": "Oleh Iskrenko",
+        "prev_rank": 96,
+        "curr_rank": 77,
+        "delta": 19
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 84,
+        "curr_rank": 66,
+        "delta": 18
+      },
+      {
+        "country": "IN",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 73,
+        "curr_rank": 61,
+        "delta": 12
+      }
+    ],
     "AU": [
       {
         "country": "AU",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 60,
-        "curr_rank": 42,
-        "delta": 18
+        "name": "Airbrush: Face Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 90,
+        "curr_rank": 73,
+        "delta": 17
+      },
+      {
+        "country": "AU",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 85,
+        "curr_rank": 70,
+        "delta": 15
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 72,
+        "curr_rank": 58,
+        "delta": 14
+      },
+      {
+        "country": "US",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 80,
+        "curr_rank": 69,
+        "delta": 11
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 86,
-        "curr_rank": 69,
-        "delta": 17
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
-        "name": "AI Video Generator - HeyGen",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 100,
-        "curr_rank": 84,
-        "delta": 16
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 54,
+        "curr_rank": 43,
+        "delta": 11
       },
       {
-        "country": "GB",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 72,
-        "curr_rank": 59,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "Highfield Genjutsu AI",
-        "developer": "Passio Technology Limited",
-        "prev_rank": 99,
-        "curr_rank": 86,
-        "delta": 13
+        "country": "DE",
+        "name": "Airbrush - Fotobearbeitung",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 91,
+        "curr_rank": 81,
+        "delta": 10
       }
     ],
     "KR": [
@@ -141,53 +259,17 @@
         "country": "KR",
         "name": "미우 AI (MeeAww): AI 동영상·이미지 생성기",
         "developer": "COUNTDN AI Corp.",
-        "prev_rank": 60,
-        "curr_rank": 44,
-        "delta": 16
-      },
-      {
-        "country": "KR",
-        "name": "KineMaster - AI 동영상 편집 어플",
-        "developer": "KineMaster Corporation",
-        "prev_rank": 87,
-        "curr_rank": 75,
-        "delta": 12
-      },
-      {
-        "country": "KR",
-        "name": "타입캐스트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 88,
-        "curr_rank": 77,
-        "delta": 11
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "GoPhoto:AI Photo/Video Creator",
-        "developer": "AIX Studio",
-        "prev_rank": 49,
-        "curr_rank": 38,
+        "prev_rank": 44,
+        "curr_rank": 33,
         "delta": 11
       },
       {
-        "country": "BR",
-        "name": "Instories: AI Fotos & Videos",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 93,
-        "curr_rank": 83,
+        "country": "KR",
+        "name": "Photoroom(포토룸): AI 사진 & 동영상",
+        "developer": "Photoroom",
+        "prev_rank": 47,
+        "curr_rank": 37,
         "delta": 10
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "SNOW - AI Profile",
-        "developer": "SNOW Corporation",
-        "prev_rank": 61,
-        "curr_rank": 50,
-        "delta": 11
       }
     ]
   },
@@ -195,22 +277,27 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "ReelMe: AI Photo & Video leads with +18 jump in AU"
+      "text": "Shots: Photo & Video Generator leads with +22 jump in GB"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 3 rising apps - highest activity today"
+      "text": "GB has 5 rising apps - highest activity today"
+    },
+    {
+      "type": "app-note",
+      "icon": "📱",
+      "text": "Airbrush apps trending with 2 variants rising"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "ReelMe: AI Photo & Video rising in 2 markets: AU, GB"
+      "text": "Peachy - AI Face & Body Editor rising in 3 markets: GB, IN, US"
     }
   ],
   "meta": {
-    "prev_date": "2026-10-28",
-    "curr_date": "2026-10-29",
+    "prev_date": "2026-10-29",
+    "curr_date": "2026-10-30",
     "days": 1
   }
 }
