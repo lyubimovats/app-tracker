@@ -1,281 +1,449 @@
 {
   "rising": [
     {
-      "country": "FR",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 98,
-      "curr_rank": 50,
-      "delta": 48
-    },
-    {
-      "country": "DE",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 85,
-      "curr_rank": 40,
-      "delta": 45
-    },
-    {
-      "country": "GB",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 86,
-      "curr_rank": 52,
-      "delta": 34
+      "country": "KR",
+      "name": "Adobe Premiere AI 비디오 에디터",
+      "developer": "Adobe Inc.",
+      "prev_rank": 93,
+      "curr_rank": 26,
+      "delta": 67
     },
     {
       "country": "US",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
       "prev_rank": 96,
-      "curr_rank": 66,
+      "curr_rank": 64,
+      "delta": 32
+    },
+    {
+      "country": "ID",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 65,
+      "curr_rank": 33,
+      "delta": 32
+    },
+    {
+      "country": "IN",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 89,
+      "curr_rank": 59,
+      "delta": 30
+    },
+    {
+      "country": "AU",
+      "name": "Retake AI Face & Selfie Editor",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 83,
+      "curr_rank": 53,
       "delta": 30
     },
     {
       "country": "US",
       "name": "AI Trend Photo Editor & Maker",
       "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
-      "prev_rank": 81,
-      "curr_rank": 59,
-      "delta": 22
-    },
-    {
-      "country": "GB",
-      "name": "Blur Photo Editor & Mosaic",
-      "developer": "GIGABUBBLE INC.",
-      "prev_rank": 84,
-      "curr_rank": 62,
-      "delta": 22
-    },
-    {
-      "country": "ID",
-      "name": "SNOW - AI Profile",
-      "developer": "SNOW Corporation",
-      "prev_rank": 71,
-      "curr_rank": 50,
-      "delta": 21
+      "prev_rank": 79,
+      "curr_rank": 55,
+      "delta": 24
     },
     {
       "country": "US",
-      "name": "Instories: AI Photo & Video",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 78,
-      "curr_rank": 62,
-      "delta": 16
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 83,
+      "curr_rank": 61,
+      "delta": 22
     },
     {
       "country": "DE",
       "name": "Meitu: Photo & Video Editor",
       "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 97,
-      "curr_rank": 81,
-      "delta": 16
-    },
-    {
-      "country": "DE",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 64,
-      "curr_rank": 49,
-      "delta": 15
-    },
-    {
-      "country": "GB",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 61,
-      "curr_rank": 48,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Retake AI: Face & Photo Editor",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 66,
-      "curr_rank": 53,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 86,
+      "prev_rank": 94,
       "curr_rank": 73,
-      "delta": 13
+      "delta": 21
     },
     {
-      "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 90,
-      "curr_rank": 77,
-      "delta": 13
-    },
-    {
-      "country": "US",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 49,
-      "curr_rank": 37,
-      "delta": 12
+      "country": "DE",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 63,
+      "curr_rank": 45,
+      "delta": 18
     },
     {
       "country": "US",
       "name": "Peachy - AI Face & Body Editor",
       "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 92,
-      "curr_rank": 80,
-      "delta": 12
+      "prev_rank": 87,
+      "curr_rank": 70,
+      "delta": 17
     },
     {
       "country": "GB",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 63,
+      "curr_rank": 46,
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "Retake IA: Éditeur de photos",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "prev_rank": 95,
+      "curr_rank": 78,
+      "delta": 17
+    },
+    {
+      "country": "BR",
+      "name": "Vids AI - Cria Reels e Stories",
+      "developer": "Viral Vision Ltd.",
       "prev_rank": 69,
-      "curr_rank": 57,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
-      "prev_rank": 79,
-      "curr_rank": 67,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Facetune: Éditeur Photo/Vidéo",
-      "developer": "Lightricks Ltd.",
-      "prev_rank": 99,
-      "curr_rank": 87,
-      "delta": 12
-    },
-    {
-      "country": "JP",
-      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
-      "developer": "SNOW Corporation",
-      "prev_rank": 77,
-      "curr_rank": 65,
-      "delta": 12
+      "curr_rank": 52,
+      "delta": 17
     },
     {
       "country": "ID",
       "name": "Instories: AI Photo & Video",
       "developer": "Ylee Studio LTD",
-      "prev_rank": 46,
-      "curr_rank": 34,
-      "delta": 12
-    },
-    {
-      "country": "AU",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
       "prev_rank": 52,
-      "curr_rank": 40,
-      "delta": 12
+      "curr_rank": 35,
+      "delta": 17
     },
     {
-      "country": "US",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 75,
+      "country": "JP",
+      "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+      "developer": "SNOW Corporation",
+      "prev_rank": 79,
       "curr_rank": 64,
-      "delta": 11
+      "delta": 15
+    },
+    {
+      "country": "KR",
+      "name": "Wink：AI 영상 화질 개선 및 편집",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 30,
+      "curr_rank": 15,
+      "delta": 15
     },
     {
       "country": "IN",
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
-      "prev_rank": 95,
-      "curr_rank": 84,
-      "delta": 11
+      "prev_rank": 82,
+      "curr_rank": 67,
+      "delta": 15
     },
     {
       "country": "DE",
-      "name": "Mosaik+ Unschärfe Foto",
-      "developer": "Shiho Sadamizu",
-      "prev_rank": 68,
-      "curr_rank": 58,
-      "delta": 10
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 85,
+      "curr_rank": 71,
+      "delta": 14
+    },
+    {
+      "country": "JP",
+      "name": "EPIK エピック - AI写真＆動画編集",
+      "developer": "SNOW Corporation",
+      "prev_rank": 61,
+      "curr_rank": 47,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 53,
+      "curr_rank": 39,
+      "delta": 14
+    },
+    {
+      "country": "AU",
+      "name": "eCalendar - Daily Planner",
+      "developer": "Shenzhen Fujia Technology Co., Ltd.",
+      "prev_rank": 84,
+      "curr_rank": 70,
+      "delta": 14
+    },
+    {
+      "country": "US",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 48,
+      "curr_rank": 36,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "PicCollage: Magic Photo Editor",
+      "developer": "Cardinal Blue",
+      "prev_rank": 55,
+      "curr_rank": 43,
+      "delta": 12
+    },
+    {
+      "country": "US",
+      "name": "Genie AI - AI Video Generator",
+      "developer": "发家 罗",
+      "prev_rank": 91,
+      "curr_rank": 79,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 56,
+      "curr_rank": 44,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Blur Photo Editor & Mosaic",
+      "developer": "GIGABUBBLE INC.",
+      "prev_rank": 66,
+      "curr_rank": 54,
+      "delta": 12
     },
     {
       "country": "KR",
-      "name": "Picsart 픽스아트 AI 사진 & 동영상 편집",
-      "developer": "PicsArt, Inc.",
-      "prev_rank": 41,
-      "curr_rank": 31,
+      "name": "위닛 - AI이미지&영상생성",
+      "developer": "LumanLab Inc",
+      "prev_rank": 80,
+      "curr_rank": 68,
+      "delta": 12
+    },
+    {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 66,
+      "curr_rank": 55,
+      "delta": 11
+    },
+    {
+      "country": "ID",
+      "name": "SNOW - AI Profile",
+      "developer": "SNOW Corporation",
+      "prev_rank": 64,
+      "curr_rank": 53,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "FaceApp: Perfect Face Editor",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 73,
+      "curr_rank": 63,
+      "delta": 10
+    },
+    {
+      "country": "BR",
+      "name": "Editor de Fotos AI Trend",
+      "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
+      "prev_rank": 20,
+      "curr_rank": 10,
       "delta": 10
     }
   ],
   "by_country": {
-    "FR": [
+    "KR": [
       {
-        "country": "FR",
+        "country": "KR",
+        "name": "Adobe Premiere AI 비디오 에디터",
+        "developer": "Adobe Inc.",
+        "prev_rank": 93,
+        "curr_rank": 26,
+        "delta": 67
+      },
+      {
+        "country": "KR",
+        "name": "Wink：AI 영상 화질 개선 및 편집",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 30,
+        "curr_rank": 15,
+        "delta": 15
+      },
+      {
+        "country": "KR",
+        "name": "위닛 - AI이미지&영상생성",
+        "developer": "LumanLab Inc",
+        "prev_rank": 80,
+        "curr_rank": 68,
+        "delta": 12
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 96,
+        "curr_rank": 64,
+        "delta": 32
+      },
+      {
+        "country": "US",
+        "name": "AI Trend Photo Editor & Maker",
+        "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
+        "prev_rank": 79,
+        "curr_rank": 55,
+        "delta": 24
+      },
+      {
+        "country": "US",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 98,
-        "curr_rank": 50,
-        "delta": 48
+        "prev_rank": 83,
+        "curr_rank": 61,
+        "delta": 22
       },
       {
-        "country": "FR",
+        "country": "US",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 87,
+        "curr_rank": 70,
+        "delta": 17
+      },
+      {
+        "country": "US",
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
-        "prev_rank": 79,
-        "curr_rank": 67,
+        "prev_rank": 48,
+        "curr_rank": 36,
         "delta": 12
       },
       {
-        "country": "FR",
-        "name": "Facetune: Éditeur Photo/Vidéo",
-        "developer": "Lightricks Ltd.",
-        "prev_rank": 99,
-        "curr_rank": 87,
+        "country": "US",
+        "name": "PicCollage: Magic Photo Editor",
+        "developer": "Cardinal Blue",
+        "prev_rank": 55,
+        "curr_rank": 43,
         "delta": 12
+      },
+      {
+        "country": "US",
+        "name": "Genie AI - AI Video Generator",
+        "developer": "发家 罗",
+        "prev_rank": 91,
+        "curr_rank": 79,
+        "delta": 12
+      },
+      {
+        "country": "US",
+        "name": "FaceApp: Perfect Face Editor",
+        "developer": "FaceApp Technology Limited",
+        "prev_rank": 73,
+        "curr_rank": 63,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 65,
+        "curr_rank": 33,
+        "delta": 32
+      },
+      {
+        "country": "ID",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 52,
+        "curr_rank": 35,
+        "delta": 17
+      },
+      {
+        "country": "ID",
+        "name": "SNOW - AI Profile",
+        "developer": "SNOW Corporation",
+        "prev_rank": 64,
+        "curr_rank": 53,
+        "delta": 11
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 89,
+        "curr_rank": 59,
+        "delta": 30
+      },
+      {
+        "country": "IN",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 82,
+        "curr_rank": 67,
+        "delta": 15
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Retake AI Face & Selfie Editor",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 83,
+        "curr_rank": 53,
+        "delta": 30
+      },
+      {
+        "country": "AU",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 53,
+        "curr_rank": 39,
+        "delta": 14
+      },
+      {
+        "country": "AU",
+        "name": "eCalendar - Daily Planner",
+        "developer": "Shenzhen Fujia Technology Co., Ltd.",
+        "prev_rank": 84,
+        "curr_rank": 70,
+        "delta": 14
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 85,
-        "curr_rank": 40,
-        "delta": 45
-      },
-      {
-        "country": "DE",
         "name": "Meitu: Photo & Video Editor",
         "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 97,
-        "curr_rank": 81,
-        "delta": 16
+        "prev_rank": 94,
+        "curr_rank": 73,
+        "delta": 21
       },
       {
         "country": "DE",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 64,
-        "curr_rank": 49,
-        "delta": 15
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 63,
+        "curr_rank": 45,
+        "delta": 18
       },
       {
         "country": "DE",
         "name": "VideoGPT - AI Video Generator",
         "developer": "ElevenThirteen LLC",
-        "prev_rank": 86,
-        "curr_rank": 73,
-        "delta": 13
+        "prev_rank": 85,
+        "curr_rank": 71,
+        "delta": 14
       },
       {
         "country": "DE",
-        "name": "Mosaik+ Unschärfe Foto",
-        "developer": "Shiho Sadamizu",
-        "prev_rank": 68,
-        "curr_rank": 58,
-        "delta": 10
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
       }
     ],
     "GB": [
@@ -283,126 +451,52 @@
         "country": "GB",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 86,
-        "curr_rank": 52,
-        "delta": 34
+        "prev_rank": 63,
+        "curr_rank": 46,
+        "delta": 17
+      },
+      {
+        "country": "GB",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 56,
+        "curr_rank": 44,
+        "delta": 12
       },
       {
         "country": "GB",
         "name": "Blur Photo Editor & Mosaic",
         "developer": "GIGABUBBLE INC.",
-        "prev_rank": 84,
-        "curr_rank": 62,
-        "delta": 22
-      },
-      {
-        "country": "GB",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
-        "prev_rank": 61,
-        "curr_rank": 48,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "Retake AI: Face & Photo Editor",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
         "prev_rank": 66,
-        "curr_rank": 53,
-        "delta": 13
-      },
+        "curr_rank": 54,
+        "delta": 12
+      }
+    ],
+    "FR": [
       {
-        "country": "GB",
-        "name": "FaceApp: Perfect Face Editor",
-        "developer": "FaceApp Technology Limited",
+        "country": "FR",
+        "name": "Retake IA: Éditeur de photos",
+        "developer": "DEEP FLOW SOFTWARE SERVICES",
+        "prev_rank": 95,
+        "curr_rank": 78,
+        "delta": 17
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Vids AI - Cria Reels e Stories",
+        "developer": "Viral Vision Ltd.",
         "prev_rank": 69,
-        "curr_rank": 57,
-        "delta": 12
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 96,
-        "curr_rank": 66,
-        "delta": 30
+        "curr_rank": 52,
+        "delta": 17
       },
       {
-        "country": "US",
-        "name": "AI Trend Photo Editor & Maker",
+        "country": "BR",
+        "name": "Editor de Fotos AI Trend",
         "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
-        "prev_rank": 81,
-        "curr_rank": 59,
-        "delta": 22
-      },
-      {
-        "country": "US",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 78,
-        "curr_rank": 62,
-        "delta": 16
-      },
-      {
-        "country": "US",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
-        "prev_rank": 49,
-        "curr_rank": 37,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "Peachy - AI Face & Body Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 92,
-        "curr_rank": 80,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "FaceApp: Perfect Face Editor",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 75,
-        "curr_rank": 64,
-        "delta": 11
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "SNOW - AI Profile",
-        "developer": "SNOW Corporation",
-        "prev_rank": 71,
-        "curr_rank": 50,
-        "delta": 21
-      },
-      {
-        "country": "ID",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 46,
-        "curr_rank": 34,
-        "delta": 12
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "타입캐스트 - AI 음성 제작",
-        "developer": "Neosapience, Inc.",
-        "prev_rank": 90,
-        "curr_rank": 77,
-        "delta": 13
-      },
-      {
-        "country": "KR",
-        "name": "Picsart 픽스아트 AI 사진 & 동영상 편집",
-        "developer": "PicsArt, Inc.",
-        "prev_rank": 41,
-        "curr_rank": 31,
+        "prev_rank": 20,
+        "curr_rank": 10,
         "delta": 10
       }
     ],
@@ -411,29 +505,17 @@
         "country": "JP",
         "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
         "developer": "SNOW Corporation",
-        "prev_rank": 77,
-        "curr_rank": 65,
-        "delta": 12
-      }
-    ],
-    "AU": [
+        "prev_rank": 79,
+        "curr_rank": 64,
+        "delta": 15
+      },
       {
-        "country": "AU",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 52,
-        "curr_rank": 40,
-        "delta": 12
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 95,
-        "curr_rank": 84,
-        "delta": 11
+        "country": "JP",
+        "name": "EPIK エピック - AI写真＆動画編集",
+        "developer": "SNOW Corporation",
+        "prev_rank": 61,
+        "curr_rank": 47,
+        "delta": 14
       }
     ]
   },
@@ -441,22 +523,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "BeautyCam-Digicam&Photo Editor leads with +48 jump in FR"
+      "text": "Adobe Premiere AI 비디오 에디터 leads with +67 jump in KR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 6 rising apps - highest activity today"
+      "text": "US has 8 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "BeautyCam-Digicam&Photo Editor rising in 4 markets: FR, DE, GB, US"
+      "text": "VideoGPT - AI Video Generator rising in 3 markets: DE, US, GB"
     }
   ],
   "meta": {
-    "prev_date": "2026-10-22",
-    "curr_date": "2026-10-29",
+    "prev_date": "2026-10-23",
+    "curr_date": "2026-10-30",
     "days": 7
   }
 }
