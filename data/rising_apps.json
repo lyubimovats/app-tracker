@@ -1,312 +1,190 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Passfoto - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 90,
-      "curr_rank": 53,
-      "delta": 37
+      "country": "US",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 67,
+      "curr_rank": 44,
+      "delta": 23
     },
     {
-      "country": "DE",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 92,
-      "curr_rank": 64,
-      "delta": 28
-    },
-    {
-      "country": "BR",
-      "name": "Retake AI: Editor de Fotos",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 57,
-      "curr_rank": 35,
+      "country": "ID",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 58,
+      "curr_rank": 36,
       "delta": 22
     },
     {
-      "country": "FR",
-      "name": "Pollo AI : Vidéo et image IA",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 98,
-      "curr_rank": 80,
-      "delta": 18
+      "country": "AU",
+      "name": "eCalendar - Daily Planner",
+      "developer": "Shenzhen Fujia Technology Co., Ltd.",
+      "prev_rank": 84,
+      "curr_rank": 64,
+      "delta": 20
     },
     {
-      "country": "FR",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 73,
-      "curr_rank": 58,
-      "delta": 15
+      "country": "ID",
+      "name": "Timestamp Camera :AI Timestamp",
+      "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+      "prev_rank": 86,
+      "curr_rank": 69,
+      "delta": 17
     },
     {
-      "country": "JP",
-      "name": "Filmora：AI動画作成・動画編集",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 90,
-      "curr_rank": 75,
+      "country": "AU",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 80,
+      "curr_rank": 63,
+      "delta": 17
+    },
+    {
+      "country": "US",
+      "name": "Captions: AI Edits Your Video",
+      "developer": "Captions, LLC (US)",
+      "prev_rank": 66,
+      "curr_rank": 51,
       "delta": 15
     },
     {
       "country": "AU",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 59,
-      "curr_rank": 44,
-      "delta": 15
-    },
-    {
-      "country": "JP",
-      "name": "Runway: AI動画・画像生成",
-      "developer": "runwayml",
-      "prev_rank": 87,
-      "curr_rank": 73,
+      "name": "AI Trendy Photo Editor",
+      "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
+      "prev_rank": 75,
+      "curr_rank": 61,
       "delta": 14
     },
     {
       "country": "IN",
-      "name": "Dance AI - Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 59,
-      "curr_rank": 45,
-      "delta": 14
-    },
-    {
-      "country": "JP",
-      "name": "Adobe Premiere - AI動画編集",
-      "developer": "Adobe Inc.",
-      "prev_rank": 80,
-      "curr_rank": 67,
+      "name": "FaceAlly: AI Baby & Age Editor",
+      "developer": "Chengdu Dance Elephant Technology Co., LTD.",
+      "prev_rank": 57,
+      "curr_rank": 44,
       "delta": 13
     },
     {
       "country": "US",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 78,
-      "curr_rank": 66,
-      "delta": 12
+      "name": "AI Avatar Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 90,
+      "curr_rank": 79,
+      "delta": 11
     },
     {
-      "country": "GB",
-      "name": "Captions: AI Edits Your Video",
-      "developer": "Captions, LLC (US)",
-      "prev_rank": 98,
-      "curr_rank": 87,
+      "country": "AU",
+      "name": "WayShot:Aesthetic Photo Editor",
+      "developer": "Romangic Lab LLC",
+      "prev_rank": 57,
+      "curr_rank": 46,
       "delta": 11
     },
     {
       "country": "KR",
-      "name": "ElevenLabs: AI Voice Generator",
-      "developer": "ElevenLabs, Inc.",
-      "prev_rank": 77,
-      "curr_rank": 66,
-      "delta": 11
-    },
-    {
-      "country": "US",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 87,
-      "curr_rank": 77,
-      "delta": 10
-    },
-    {
-      "country": "FR",
-      "name": "WayShot:Aesthetic Photo Editor",
-      "developer": "Romangic Lab LLC",
-      "prev_rank": 60,
-      "curr_rank": 50,
-      "delta": 10
-    },
-    {
-      "country": "JP",
-      "name": "VLLO - AI動画編集アプリ",
-      "developer": "vimosoft",
-      "prev_rank": 54,
-      "curr_rank": 44,
-      "delta": 10
-    },
-    {
-      "country": "JP",
-      "name": "Photoroom（フォトルーム）：AI写真＆動画",
-      "developer": "Photoroom",
-      "prev_rank": 59,
-      "curr_rank": 49,
-      "delta": 10
-    },
-    {
-      "country": "ID",
-      "name": "AI Teleprompter: PromptOne",
-      "developer": "Hong Kong Muguang Technology Co., Limited",
-      "prev_rank": 100,
-      "curr_rank": 90,
+      "name": "KineMaster - AI 동영상 편집 어플",
+      "developer": "KineMaster Corporation",
+      "prev_rank": 78,
+      "curr_rank": 68,
       "delta": 10
     }
   ],
   "by_country": {
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Passfoto - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 90,
-        "curr_rank": 53,
-        "delta": 37
-      },
-      {
-        "country": "DE",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 92,
-        "curr_rank": 64,
-        "delta": 28
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Retake AI: Editor de Fotos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 57,
-        "curr_rank": 35,
-        "delta": 22
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Pollo AI : Vidéo et image IA",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 98,
-        "curr_rank": 80,
-        "delta": 18
-      },
-      {
-        "country": "FR",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 73,
-        "curr_rank": 58,
-        "delta": 15
-      },
-      {
-        "country": "FR",
-        "name": "WayShot:Aesthetic Photo Editor",
-        "developer": "Romangic Lab LLC",
-        "prev_rank": 60,
-        "curr_rank": 50,
-        "delta": 10
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Filmora：AI動画作成・動画編集",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 90,
-        "curr_rank": 75,
-        "delta": 15
-      },
-      {
-        "country": "JP",
-        "name": "Runway: AI動画・画像生成",
-        "developer": "runwayml",
-        "prev_rank": 87,
-        "curr_rank": 73,
-        "delta": 14
-      },
-      {
-        "country": "JP",
-        "name": "Adobe Premiere - AI動画編集",
-        "developer": "Adobe Inc.",
-        "prev_rank": 80,
-        "curr_rank": 67,
-        "delta": 13
-      },
-      {
-        "country": "JP",
-        "name": "VLLO - AI動画編集アプリ",
-        "developer": "vimosoft",
-        "prev_rank": 54,
-        "curr_rank": 44,
-        "delta": 10
-      },
-      {
-        "country": "JP",
-        "name": "Photoroom（フォトルーム）：AI写真＆動画",
-        "developer": "Photoroom",
-        "prev_rank": 59,
-        "curr_rank": 49,
-        "delta": 10
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 59,
-        "curr_rank": 44,
-        "delta": 15
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Dance AI - Video Generator",
-        "developer": "DeePix AI",
-        "prev_rank": 59,
-        "curr_rank": 45,
-        "delta": 14
-      }
-    ],
     "US": [
       {
         "country": "US",
-        "name": "Captions: AI Edits Your Video",
-        "developer": "Captions, LLC (US)",
-        "prev_rank": 78,
-        "curr_rank": 66,
-        "delta": 12
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 67,
+        "curr_rank": 44,
+        "delta": 23
       },
       {
         "country": "US",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 87,
-        "curr_rank": 77,
-        "delta": 10
-      }
-    ],
-    "GB": [
-      {
-        "country": "GB",
         "name": "Captions: AI Edits Your Video",
         "developer": "Captions, LLC (US)",
-        "prev_rank": 98,
-        "curr_rank": 87,
-        "delta": 11
-      }
-    ],
-    "KR": [
+        "prev_rank": 66,
+        "curr_rank": 51,
+        "delta": 15
+      },
       {
-        "country": "KR",
-        "name": "ElevenLabs: AI Voice Generator",
-        "developer": "ElevenLabs, Inc.",
-        "prev_rank": 77,
-        "curr_rank": 66,
+        "country": "US",
+        "name": "AI Avatar Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 90,
+        "curr_rank": 79,
         "delta": 11
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "AI Teleprompter: PromptOne",
-        "developer": "Hong Kong Muguang Technology Co., Limited",
-        "prev_rank": 100,
-        "curr_rank": 90,
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 58,
+        "curr_rank": 36,
+        "delta": 22
+      },
+      {
+        "country": "ID",
+        "name": "Timestamp Camera :AI Timestamp",
+        "developer": "Shanghai Zongchong Information Technology Co., Ltd",
+        "prev_rank": 86,
+        "curr_rank": 69,
+        "delta": 17
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "eCalendar - Daily Planner",
+        "developer": "Shenzhen Fujia Technology Co., Ltd.",
+        "prev_rank": 84,
+        "curr_rank": 64,
+        "delta": 20
+      },
+      {
+        "country": "AU",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 80,
+        "curr_rank": 63,
+        "delta": 17
+      },
+      {
+        "country": "AU",
+        "name": "AI Trendy Photo Editor",
+        "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
+        "prev_rank": 75,
+        "curr_rank": 61,
+        "delta": 14
+      },
+      {
+        "country": "AU",
+        "name": "WayShot:Aesthetic Photo Editor",
+        "developer": "Romangic Lab LLC",
+        "prev_rank": 57,
+        "curr_rank": 46,
+        "delta": 11
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "FaceAlly: AI Baby & Age Editor",
+        "developer": "Chengdu Dance Elephant Technology Co., LTD.",
+        "prev_rank": 57,
+        "curr_rank": 44,
+        "delta": 13
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "KineMaster - AI 동영상 편집 어플",
+        "developer": "KineMaster Corporation",
+        "prev_rank": 78,
+        "curr_rank": 68,
         "delta": 10
       }
     ]
@@ -315,22 +193,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Passfoto - PhotoAiD leads with +37 jump in DE"
+      "text": "Shots: Photo & Video Generator leads with +23 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "JP has 5 rising apps - highest activity today"
+      "text": "AU has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "WayShot:Aesthetic Photo Editor rising in 2 markets: DE, FR"
+      "text": "Shots: Photo & Video Generator rising in 2 markets: US, ID"
     }
   ],
   "meta": {
-    "prev_date": "2026-11-01",
-    "curr_date": "2026-11-02",
+    "prev_date": "2026-11-02",
+    "curr_date": "2026-11-03",
     "days": 1
   }
 }
