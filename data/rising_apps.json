@@ -5,56 +5,72 @@
       "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 69,
-      "curr_rank": 42,
-      "delta": 27
+      "curr_rank": 36,
+      "delta": 33
     },
     {
       "country": "DE",
       "name": "WayShot:Aesthetic Photo Editor",
       "developer": "Romangic Lab LLC",
       "prev_rank": 54,
-      "curr_rank": 30,
-      "delta": 24
+      "curr_rank": 28,
+      "delta": 26
     },
     {
       "country": "US",
       "name": "FaceAlly: AI Baby & Age Editor",
       "developer": "Chengdu Dance Elephant Technology Co., LTD.",
       "prev_rank": 71,
-      "curr_rank": 48,
-      "delta": 23
-    },
-    {
-      "country": "GB",
-      "name": "Blur Photo Editor & Mosaic",
-      "developer": "GIGABUBBLE INC.",
-      "prev_rank": 83,
-      "curr_rank": 60,
-      "delta": 23
+      "curr_rank": 46,
+      "delta": 25
     },
     {
       "country": "DE",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 93,
-      "curr_rank": 74,
-      "delta": 19
+      "curr_rank": 69,
+      "delta": 24
+    },
+    {
+      "country": "GB",
+      "name": "Blur Photo Editor & Mosaic",
+      "developer": "GIGABUBBLE INC.",
+      "prev_rank": 83,
+      "curr_rank": 61,
+      "delta": 22
     },
     {
       "country": "GB",
       "name": "FaceApp: Perfect Face Editor",
       "developer": "FaceApp Technology Limited",
       "prev_rank": 70,
-      "curr_rank": 54,
-      "delta": 16
+      "curr_rank": 53,
+      "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "AI Catch: Générateur vidéo IA",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 79,
+      "curr_rank": 64,
+      "delta": 15
     },
     {
       "country": "GB",
       "name": "ReelMe: AI Photo & Video",
       "developer": "TPC INVEST PTE.LTD",
       "prev_rank": 80,
-      "curr_rank": 64,
-      "delta": 16
+      "curr_rank": 66,
+      "delta": 14
+    },
+    {
+      "country": "IN",
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 82,
+      "curr_rank": 68,
+      "delta": 14
     },
     {
       "country": "ID",
@@ -65,35 +81,35 @@
       "delta": 14
     },
     {
-      "country": "GB",
-      "name": "Peachy - AI Face & Body Editor",
-      "developer": "SHANTANU PTE. LTD.",
-      "prev_rank": 91,
-      "curr_rank": 78,
+      "country": "KR",
+      "name": "Evoto 이보토 - 사진 편집 & AI 보정",
+      "developer": "TRUESIGHT PTE. LTD.",
+      "prev_rank": 87,
+      "curr_rank": 74,
       "delta": 13
     },
     {
-      "country": "FR",
-      "name": "AI Catch: Générateur vidéo IA",
-      "developer": "Prominent Fortune PTE. LTD",
-      "prev_rank": 79,
-      "curr_rank": 68,
-      "delta": 11
+      "country": "GB",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 93,
+      "curr_rank": 81,
+      "delta": 12
     },
     {
       "country": "KR",
       "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 32,
-      "curr_rank": 21,
-      "delta": 11
+      "curr_rank": 20,
+      "delta": 12
     },
     {
-      "country": "AU",
-      "name": "AI Trendy Photo Editor",
-      "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
-      "prev_rank": 50,
-      "curr_rank": 39,
+      "country": "DE",
+      "name": "Mosaik&Gesicht verpixeln/blur",
+      "developer": "GIGABUBBLE INC.",
+      "prev_rank": 30,
+      "curr_rank": 19,
       "delta": 11
     },
     {
@@ -105,19 +121,19 @@
       "delta": 11
     },
     {
-      "country": "GB",
-      "name": "Meitu: AI Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 82,
-      "curr_rank": 72,
+      "country": "US",
+      "name": "Prequel: Photo & Video Editor",
+      "developer": "Prequel Inc.",
+      "prev_rank": 70,
+      "curr_rank": 60,
       "delta": 10
     },
     {
-      "country": "IN",
+      "country": "FR",
       "name": "AirPlay Cast",
       "developer": "Taro Aso",
-      "prev_rank": 82,
-      "curr_rank": 72,
+      "prev_rank": 93,
+      "curr_rank": 83,
       "delta": 10
     }
   ],
@@ -128,8 +144,8 @@
         "name": "BeautyPlus-Selfie Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 69,
-        "curr_rank": 42,
-        "delta": 27
+        "curr_rank": 36,
+        "delta": 33
       },
       {
         "country": "ID",
@@ -146,16 +162,24 @@
         "name": "WayShot:Aesthetic Photo Editor",
         "developer": "Romangic Lab LLC",
         "prev_rank": 54,
-        "curr_rank": 30,
-        "delta": 24
+        "curr_rank": 28,
+        "delta": 26
       },
       {
         "country": "DE",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 93,
-        "curr_rank": 74,
-        "delta": 19
+        "curr_rank": 69,
+        "delta": 24
+      },
+      {
+        "country": "DE",
+        "name": "Mosaik&Gesicht verpixeln/blur",
+        "developer": "GIGABUBBLE INC.",
+        "prev_rank": 30,
+        "curr_rank": 19,
+        "delta": 11
       }
     ],
     "US": [
@@ -164,8 +188,16 @@
         "name": "FaceAlly: AI Baby & Age Editor",
         "developer": "Chengdu Dance Elephant Technology Co., LTD.",
         "prev_rank": 71,
-        "curr_rank": 48,
-        "delta": 23
+        "curr_rank": 46,
+        "delta": 25
+      },
+      {
+        "country": "US",
+        "name": "Prequel: Photo & Video Editor",
+        "developer": "Prequel Inc.",
+        "prev_rank": 70,
+        "curr_rank": 60,
+        "delta": 10
       }
     ],
     "GB": [
@@ -174,40 +206,32 @@
         "name": "Blur Photo Editor & Mosaic",
         "developer": "GIGABUBBLE INC.",
         "prev_rank": 83,
-        "curr_rank": 60,
-        "delta": 23
+        "curr_rank": 61,
+        "delta": 22
       },
       {
         "country": "GB",
         "name": "FaceApp: Perfect Face Editor",
         "developer": "FaceApp Technology Limited",
         "prev_rank": 70,
-        "curr_rank": 54,
-        "delta": 16
+        "curr_rank": 53,
+        "delta": 17
       },
       {
         "country": "GB",
         "name": "ReelMe: AI Photo & Video",
         "developer": "TPC INVEST PTE.LTD",
         "prev_rank": 80,
-        "curr_rank": 64,
-        "delta": 16
+        "curr_rank": 66,
+        "delta": 14
       },
       {
         "country": "GB",
-        "name": "Peachy - AI Face & Body Editor",
-        "developer": "SHANTANU PTE. LTD.",
-        "prev_rank": 91,
-        "curr_rank": 78,
-        "delta": 13
-      },
-      {
-        "country": "GB",
-        "name": "Meitu: AI Photo & Video Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 82,
-        "curr_rank": 72,
-        "delta": 10
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 93,
+        "curr_rank": 81,
+        "delta": 12
       }
     ],
     "FR": [
@@ -216,36 +240,16 @@
         "name": "AI Catch: Générateur vidéo IA",
         "developer": "Prominent Fortune PTE. LTD",
         "prev_rank": 79,
-        "curr_rank": 68,
-        "delta": 11
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 32,
-        "curr_rank": 21,
-        "delta": 11
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "AI Trendy Photo Editor",
-        "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
-        "prev_rank": 50,
-        "curr_rank": 39,
-        "delta": 11
+        "curr_rank": 64,
+        "delta": 15
       },
       {
-        "country": "AU",
-        "name": "Instories: AI Photo & Video",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 66,
-        "curr_rank": 55,
-        "delta": 11
+        "country": "FR",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 93,
+        "curr_rank": 83,
+        "delta": 10
       }
     ],
     "IN": [
@@ -254,8 +258,36 @@
         "name": "AirPlay Cast",
         "developer": "Taro Aso",
         "prev_rank": 82,
-        "curr_rank": 72,
-        "delta": 10
+        "curr_rank": 68,
+        "delta": 14
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "Evoto 이보토 - 사진 편집 & AI 보정",
+        "developer": "TRUESIGHT PTE. LTD.",
+        "prev_rank": 87,
+        "curr_rank": 74,
+        "delta": 13
+      },
+      {
+        "country": "KR",
+        "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 32,
+        "curr_rank": 20,
+        "delta": 12
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
       }
     ]
   },
@@ -263,12 +295,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "BeautyPlus-Selfie Photo Editor leads with +27 jump in ID"
+      "text": "BeautyPlus-Selfie Photo Editor leads with +33 jump in ID"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 5 rising apps - highest activity today"
+      "text": "GB has 4 rising apps - highest activity today"
+    },
+    {
+      "type": "trending",
+      "icon": "🚀",
+      "text": "AirPlay Cast rising in 2 markets: IN, FR"
     }
   ],
   "meta": {
