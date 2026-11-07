@@ -1,159 +1,261 @@
 {
   "rising": [
     {
-      "country": "IN",
-      "name": "Zeemo: AI Video&Auto Captions",
-      "developer": "Bluepulse INC.",
-      "prev_rank": 80,
-      "curr_rank": 46,
-      "delta": 34
-    },
-    {
-      "country": "AU",
-      "name": "Airbrush: Face Photo Editor",
+      "country": "ID",
+      "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 85,
-      "curr_rank": 65,
-      "delta": 20
-    },
-    {
-      "country": "JP",
-      "name": "Runway: AI動画・画像生成",
-      "developer": "runwayml",
-      "prev_rank": 68,
-      "curr_rank": 49,
-      "delta": 19
-    },
-    {
-      "country": "ID",
-      "name": "AI Teleprompter: PromptOne",
-      "developer": "Hong Kong Muguang Technology Co., Limited",
-      "prev_rank": 87,
-      "curr_rank": 72,
-      "delta": 15
-    },
-    {
-      "country": "ID",
-      "name": "Tezza: Aesthetic Photo Editor",
-      "developer": "Tezza App LLC",
-      "prev_rank": 88,
-      "curr_rank": 74,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "ReelMe: AI Photo & Video",
-      "developer": "TPC INVEST PTE.LTD",
-      "prev_rank": 80,
-      "curr_rank": 68,
-      "delta": 12
+      "prev_rank": 69,
+      "curr_rank": 42,
+      "delta": 27
     },
     {
       "country": "DE",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 57,
-      "curr_rank": 46,
+      "name": "WayShot:Aesthetic Photo Editor",
+      "developer": "Romangic Lab LLC",
+      "prev_rank": 54,
+      "curr_rank": 30,
+      "delta": 24
+    },
+    {
+      "country": "US",
+      "name": "FaceAlly: AI Baby & Age Editor",
+      "developer": "Chengdu Dance Elephant Technology Co., LTD.",
+      "prev_rank": 71,
+      "curr_rank": 48,
+      "delta": 23
+    },
+    {
+      "country": "GB",
+      "name": "Blur Photo Editor & Mosaic",
+      "developer": "GIGABUBBLE INC.",
+      "prev_rank": 83,
+      "curr_rank": 60,
+      "delta": 23
+    },
+    {
+      "country": "DE",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 93,
+      "curr_rank": 74,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "FaceApp: Perfect Face Editor",
+      "developer": "FaceApp Technology Limited",
+      "prev_rank": 70,
+      "curr_rank": 54,
+      "delta": 16
+    },
+    {
+      "country": "GB",
+      "name": "ReelMe: AI Photo & Video",
+      "developer": "TPC INVEST PTE.LTD",
+      "prev_rank": 80,
+      "curr_rank": 64,
+      "delta": 16
+    },
+    {
+      "country": "ID",
+      "name": "Vids AI - Reels Video Editor",
+      "developer": "Viral Vision Ltd.",
+      "prev_rank": 62,
+      "curr_rank": 48,
+      "delta": 14
+    },
+    {
+      "country": "GB",
+      "name": "Peachy - AI Face & Body Editor",
+      "developer": "SHANTANU PTE. LTD.",
+      "prev_rank": 91,
+      "curr_rank": 78,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "AI Catch: Générateur vidéo IA",
+      "developer": "Prominent Fortune PTE. LTD",
+      "prev_rank": 79,
+      "curr_rank": 68,
+      "delta": 11
+    },
+    {
+      "country": "KR",
+      "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 32,
+      "curr_rank": 21,
       "delta": 11
     },
     {
       "country": "AU",
       "name": "AI Trendy Photo Editor",
       "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
-      "prev_rank": 61,
-      "curr_rank": 50,
+      "prev_rank": 50,
+      "curr_rank": 39,
       "delta": 11
     },
     {
+      "country": "AU",
+      "name": "Instories: AI Photo & Video",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 66,
+      "curr_rank": 55,
+      "delta": 11
+    },
+    {
+      "country": "GB",
+      "name": "Meitu: AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 82,
+      "curr_rank": 72,
+      "delta": 10
+    },
+    {
       "country": "IN",
-      "name": "FaceAlly: AI Baby & Age Editor",
-      "developer": "Chengdu Dance Elephant Technology Co., LTD.",
-      "prev_rank": 29,
-      "curr_rank": 19,
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 82,
+      "curr_rank": 72,
       "delta": 10
     }
   ],
   "by_country": {
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Zeemo: AI Video&Auto Captions",
-        "developer": "Bluepulse INC.",
-        "prev_rank": 80,
-        "curr_rank": 46,
-        "delta": 34
-      },
-      {
-        "country": "IN",
-        "name": "FaceAlly: AI Baby & Age Editor",
-        "developer": "Chengdu Dance Elephant Technology Co., LTD.",
-        "prev_rank": 29,
-        "curr_rank": 19,
-        "delta": 10
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Airbrush: Face Photo Editor",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 85,
-        "curr_rank": 65,
-        "delta": 20
-      },
-      {
-        "country": "AU",
-        "name": "ReelMe: AI Photo & Video",
-        "developer": "TPC INVEST PTE.LTD",
-        "prev_rank": 80,
-        "curr_rank": 68,
-        "delta": 12
-      },
-      {
-        "country": "AU",
-        "name": "AI Trendy Photo Editor",
-        "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
-        "prev_rank": 61,
-        "curr_rank": 50,
-        "delta": 11
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Runway: AI動画・画像生成",
-        "developer": "runwayml",
-        "prev_rank": 68,
-        "curr_rank": 49,
-        "delta": 19
-      }
-    ],
     "ID": [
       {
         "country": "ID",
-        "name": "AI Teleprompter: PromptOne",
-        "developer": "Hong Kong Muguang Technology Co., Limited",
-        "prev_rank": 87,
-        "curr_rank": 72,
-        "delta": 15
+        "name": "BeautyPlus-Selfie Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 69,
+        "curr_rank": 42,
+        "delta": 27
       },
       {
         "country": "ID",
-        "name": "Tezza: Aesthetic Photo Editor",
-        "developer": "Tezza App LLC",
-        "prev_rank": 88,
-        "curr_rank": 74,
+        "name": "Vids AI - Reels Video Editor",
+        "developer": "Viral Vision Ltd.",
+        "prev_rank": 62,
+        "curr_rank": 48,
         "delta": 14
       }
     ],
     "DE": [
       {
         "country": "DE",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 57,
-        "curr_rank": 46,
+        "name": "WayShot:Aesthetic Photo Editor",
+        "developer": "Romangic Lab LLC",
+        "prev_rank": 54,
+        "curr_rank": 30,
+        "delta": 24
+      },
+      {
+        "country": "DE",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 93,
+        "curr_rank": 74,
+        "delta": 19
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "FaceAlly: AI Baby & Age Editor",
+        "developer": "Chengdu Dance Elephant Technology Co., LTD.",
+        "prev_rank": 71,
+        "curr_rank": 48,
+        "delta": 23
+      }
+    ],
+    "GB": [
+      {
+        "country": "GB",
+        "name": "Blur Photo Editor & Mosaic",
+        "developer": "GIGABUBBLE INC.",
+        "prev_rank": 83,
+        "curr_rank": 60,
+        "delta": 23
+      },
+      {
+        "country": "GB",
+        "name": "FaceApp: Perfect Face Editor",
+        "developer": "FaceApp Technology Limited",
+        "prev_rank": 70,
+        "curr_rank": 54,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "ReelMe: AI Photo & Video",
+        "developer": "TPC INVEST PTE.LTD",
+        "prev_rank": 80,
+        "curr_rank": 64,
+        "delta": 16
+      },
+      {
+        "country": "GB",
+        "name": "Peachy - AI Face & Body Editor",
+        "developer": "SHANTANU PTE. LTD.",
+        "prev_rank": 91,
+        "curr_rank": 78,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Meitu: AI Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 82,
+        "curr_rank": 72,
+        "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "AI Catch: Générateur vidéo IA",
+        "developer": "Prominent Fortune PTE. LTD",
+        "prev_rank": 79,
+        "curr_rank": 68,
         "delta": 11
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "BeautyPlus 뷰티플러스 - AI 포토 에디터",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 32,
+        "curr_rank": 21,
+        "delta": 11
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "AI Trendy Photo Editor",
+        "developer": "MOR TOSBAA MOBIL COZUMLER ANONIM",
+        "prev_rank": 50,
+        "curr_rank": 39,
+        "delta": 11
+      },
+      {
+        "country": "AU",
+        "name": "Instories: AI Photo & Video",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 66,
+        "curr_rank": 55,
+        "delta": 11
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 82,
+        "curr_rank": 72,
+        "delta": 10
       }
     ]
   },
@@ -161,17 +263,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Zeemo: AI Video&Auto Captions leads with +34 jump in IN"
+      "text": "BeautyPlus-Selfie Photo Editor leads with +27 jump in ID"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "AU has 3 rising apps - highest activity today"
+      "text": "GB has 5 rising apps - highest activity today"
     }
   ],
   "meta": {
-    "prev_date": "2026-11-05",
-    "curr_date": "2026-11-06",
+    "prev_date": "2026-11-06",
+    "curr_date": "2026-11-07",
     "days": 1
   }
 }
