@@ -21,8 +21,8 @@
       "name": "Airbrush - Éditeur Photo",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
       "prev_rank": 98,
-      "curr_rank": 82,
-      "delta": 16
+      "curr_rank": 81,
+      "delta": 17
     },
     {
       "country": "AU",
@@ -45,8 +45,8 @@
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
       "prev_rank": 44,
-      "curr_rank": 30,
-      "delta": 14
+      "curr_rank": 31,
+      "delta": 13
     },
     {
       "country": "US",
@@ -103,14 +103,6 @@
       "prev_rank": 95,
       "curr_rank": 85,
       "delta": 10
-    },
-    {
-      "country": "ID",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 66,
-      "curr_rank": 56,
-      "delta": 10
     }
   ],
   "by_country": {
@@ -156,8 +148,8 @@
         "name": "Airbrush - Éditeur Photo",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 98,
-        "curr_rank": 82,
-        "delta": 16
+        "curr_rank": 81,
+        "delta": 17
       }
     ],
     "US": [
@@ -184,8 +176,8 @@
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
         "prev_rank": 44,
-        "curr_rank": 30,
-        "delta": 14
+        "curr_rank": 31,
+        "delta": 13
       }
     ],
     "GB": [
@@ -233,16 +225,6 @@
         "developer": "DeePix AI",
         "prev_rank": 95,
         "curr_rank": 85,
-        "delta": 10
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 66,
-        "curr_rank": 56,
         "delta": 10
       }
     ]
