@@ -1,231 +1,211 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 71,
+      "country": "IN",
+      "name": "Cantina: AI Video & Characters",
+      "developer": "Cantina, Inc",
+      "prev_rank": 95,
+      "curr_rank": 58,
+      "delta": 37
+    },
+    {
+      "country": "BR",
+      "name": "Blow Up AI: Viralize",
+      "developer": "Mountains Studio LLC",
+      "prev_rank": 68,
       "curr_rank": 40,
-      "delta": 31
+      "delta": 28
+    },
+    {
+      "country": "US",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 95,
+      "curr_rank": 70,
+      "delta": 25
     },
     {
       "country": "AU",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 47,
-      "curr_rank": 28,
-      "delta": 19
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 96,
+      "curr_rank": 72,
+      "delta": 24
     },
     {
-      "country": "FR",
-      "name": "Airbrush - Éditeur Photo",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 98,
-      "curr_rank": 81,
+      "country": "GB",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 93,
+      "curr_rank": 75,
+      "delta": 18
+    },
+    {
+      "country": "DE",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 40,
+      "curr_rank": 23,
       "delta": 17
     },
     {
       "country": "AU",
-      "name": "FaceAlly: AI Baby & Age Editor",
-      "developer": "Chengdu Dance Elephant Technology Co., LTD.",
-      "prev_rank": 36,
-      "curr_rank": 20,
-      "delta": 16
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 28,
+      "curr_rank": 11,
+      "delta": 17
     },
     {
-      "country": "US",
+      "country": "AU",
+      "name": "VideoGPT - AI Video Generator",
+      "developer": "ElevenThirteen LLC",
+      "prev_rank": 97,
+      "curr_rank": 82,
+      "delta": 15
+    },
+    {
+      "country": "GB",
       "name": "OpusClip - AI video clipping",
       "developer": "OpusClip",
-      "prev_rank": 89,
-      "curr_rank": 75,
-      "delta": 14
-    },
-    {
-      "country": "IN",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 44,
-      "curr_rank": 31,
+      "prev_rank": 74,
+      "curr_rank": 61,
       "delta": 13
     },
     {
+      "country": "FR",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 89,
+      "curr_rank": 76,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Passport Photo - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 90,
+      "curr_rank": 78,
+      "delta": 12
+    },
+    {
       "country": "US",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 71,
-      "curr_rank": 59,
-      "delta": 12
-    },
-    {
-      "country": "GB",
-      "name": "Muse: Reels Video Editor",
-      "developer": "Bigrowth",
-      "prev_rank": 74,
-      "curr_rank": 62,
-      "delta": 12
-    },
-    {
-      "country": "GB",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 61,
-      "curr_rank": 50,
-      "delta": 11
-    },
-    {
-      "country": "DE",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 61,
-      "curr_rank": 51,
-      "delta": 10
-    },
-    {
-      "country": "BR",
-      "name": "Criador de Video IA - Vimo AI",
-      "developer": "Mobile Ocean",
-      "prev_rank": 64,
-      "curr_rank": 54,
-      "delta": 10
-    },
-    {
-      "country": "JP",
-      "name": "Adobe Premiere - AI動画編集",
-      "developer": "Adobe Inc.",
-      "prev_rank": 72,
-      "curr_rank": 62,
-      "delta": 10
-    },
-    {
-      "country": "KR",
-      "name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 95,
-      "curr_rank": 85,
+      "prev_rank": 51,
+      "curr_rank": 41,
       "delta": 10
     }
   ],
   "by_country": {
-    "DE": [
+    "IN": [
       {
-        "country": "DE",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 71,
+        "country": "IN",
+        "name": "Cantina: AI Video & Characters",
+        "developer": "Cantina, Inc",
+        "prev_rank": 95,
+        "curr_rank": 58,
+        "delta": 37
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Blow Up AI: Viralize",
+        "developer": "Mountains Studio LLC",
+        "prev_rank": 68,
         "curr_rank": 40,
-        "delta": 31
+        "delta": 28
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Fotura: AI PhotoKit",
+        "developer": "Thanh Nguyen Duy",
+        "prev_rank": 95,
+        "curr_rank": 70,
+        "delta": 25
       },
       {
-        "country": "DE",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 61,
-        "curr_rank": 51,
+        "country": "US",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 51,
+        "curr_rank": 41,
         "delta": 10
       }
     ],
     "AU": [
       {
         "country": "AU",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 47,
-        "curr_rank": 28,
-        "delta": 19
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 96,
+        "curr_rank": 72,
+        "delta": 24
       },
       {
         "country": "AU",
-        "name": "FaceAlly: AI Baby & Age Editor",
-        "developer": "Chengdu Dance Elephant Technology Co., LTD.",
-        "prev_rank": 36,
-        "curr_rank": 20,
-        "delta": 16
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Airbrush - Éditeur Photo",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 98,
-        "curr_rank": 81,
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 28,
+        "curr_rank": 11,
         "delta": 17
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "OpusClip - AI video clipping",
-        "developer": "OpusClip",
-        "prev_rank": 89,
-        "curr_rank": 75,
-        "delta": 14
       },
       {
-        "country": "US",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 71,
-        "curr_rank": 59,
-        "delta": 12
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 44,
-        "curr_rank": 31,
-        "delta": 13
+        "country": "AU",
+        "name": "VideoGPT - AI Video Generator",
+        "developer": "ElevenThirteen LLC",
+        "prev_rank": 97,
+        "curr_rank": 82,
+        "delta": 15
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Muse: Reels Video Editor",
-        "developer": "Bigrowth",
-        "prev_rank": 74,
-        "curr_rank": 62,
-        "delta": 12
+        "name": "Fotura: AI PhotoKit",
+        "developer": "Thanh Nguyen Duy",
+        "prev_rank": 93,
+        "curr_rank": 75,
+        "delta": 18
       },
       {
         "country": "GB",
+        "name": "OpusClip - AI video clipping",
+        "developer": "OpusClip",
+        "prev_rank": 74,
+        "curr_rank": 61,
+        "delta": 13
+      },
+      {
+        "country": "GB",
+        "name": "Passport Photo - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 90,
+        "curr_rank": 78,
+        "delta": 12
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 61,
-        "curr_rank": 50,
-        "delta": 11
+        "prev_rank": 40,
+        "curr_rank": 23,
+        "delta": 17
       }
     ],
-    "BR": [
+    "FR": [
       {
-        "country": "BR",
-        "name": "Criador de Video IA - Vimo AI",
-        "developer": "Mobile Ocean",
-        "prev_rank": 64,
-        "curr_rank": 54,
-        "delta": 10
-      }
-    ],
-    "JP": [
-      {
-        "country": "JP",
-        "name": "Adobe Premiere - AI動画編集",
-        "developer": "Adobe Inc.",
-        "prev_rank": 72,
-        "curr_rank": 62,
-        "delta": 10
-      }
-    ],
-    "KR": [
-      {
-        "country": "KR",
-        "name": "Shots: Photo & Video Generator",
-        "developer": "DeePix AI",
-        "prev_rank": 95,
-        "curr_rank": 85,
-        "delta": 10
+        "country": "FR",
+        "name": "Fotura: AI PhotoKit",
+        "developer": "Thanh Nguyen Duy",
+        "prev_rank": 89,
+        "curr_rank": 76,
+        "delta": 13
       }
     ]
   },
@@ -233,22 +213,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "BeautyCam-Digicam&Photo Editor leads with +31 jump in DE"
+      "text": "Cantina: AI Video & Characters leads with +37 jump in IN"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "DE has 2 rising apps - highest activity today"
+      "text": "AU has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "BeautyCam-Digicam&Photo Editor rising in 3 markets: DE, AU, GB"
+      "text": "Fotura: AI PhotoKit rising in 3 markets: US, GB, FR"
     }
   ],
   "meta": {
-    "prev_date": "2026-11-09",
-    "curr_date": "2026-11-10",
+    "prev_date": "2026-11-10",
+    "curr_date": "2026-11-11",
     "days": 1
   }
 }
