@@ -5,8 +5,8 @@
       "name": "Cantina: AI Video & Characters",
       "developer": "Cantina, Inc",
       "prev_rank": 95,
-      "curr_rank": 58,
-      "delta": 37
+      "curr_rank": 61,
+      "delta": 34
     },
     {
       "country": "BR",
@@ -25,27 +25,27 @@
       "delta": 25
     },
     {
+      "country": "DE",
+      "name": "BeautyCam-Digicam&Photo Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 40,
+      "curr_rank": 16,
+      "delta": 24
+    },
+    {
       "country": "AU",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
       "prev_rank": 96,
-      "curr_rank": 72,
-      "delta": 24
+      "curr_rank": 74,
+      "delta": 22
     },
     {
       "country": "GB",
       "name": "Fotura: AI PhotoKit",
       "developer": "Thanh Nguyen Duy",
       "prev_rank": 93,
-      "curr_rank": 75,
-      "delta": 18
-    },
-    {
-      "country": "DE",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 40,
-      "curr_rank": 23,
+      "curr_rank": 76,
       "delta": 17
     },
     {
@@ -55,6 +55,14 @@
       "prev_rank": 28,
       "curr_rank": 11,
       "delta": 17
+    },
+    {
+      "country": "FR",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 89,
+      "curr_rank": 74,
+      "delta": 15
     },
     {
       "country": "AU",
@@ -69,23 +77,7 @@
       "name": "OpusClip - AI video clipping",
       "developer": "OpusClip",
       "prev_rank": 74,
-      "curr_rank": 61,
-      "delta": 13
-    },
-    {
-      "country": "FR",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "prev_rank": 89,
-      "curr_rank": 76,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "Passport Photo - PhotoAiD",
-      "developer": "Photo Aid",
-      "prev_rank": 90,
-      "curr_rank": 78,
+      "curr_rank": 62,
       "delta": 12
     },
     {
@@ -94,6 +86,30 @@
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 51,
       "curr_rank": 41,
+      "delta": 10
+    },
+    {
+      "country": "GB",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 89,
+      "curr_rank": 79,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "EPIK エピック - AI写真＆動画編集",
+      "developer": "SNOW Corporation",
+      "prev_rank": 47,
+      "curr_rank": 37,
+      "delta": 10
+    },
+    {
+      "country": "ID",
+      "name": "SNOW - AI Profile",
+      "developer": "SNOW Corporation",
+      "prev_rank": 63,
+      "curr_rank": 53,
       "delta": 10
     }
   ],
@@ -104,8 +120,8 @@
         "name": "Cantina: AI Video & Characters",
         "developer": "Cantina, Inc",
         "prev_rank": 95,
-        "curr_rank": 58,
-        "delta": 37
+        "curr_rank": 61,
+        "delta": 34
       }
     ],
     "BR": [
@@ -136,14 +152,24 @@
         "delta": 10
       }
     ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "BeautyCam-Digicam&Photo Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 40,
+        "curr_rank": 16,
+        "delta": 24
+      }
+    ],
     "AU": [
       {
         "country": "AU",
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 96,
-        "curr_rank": 72,
-        "delta": 24
+        "curr_rank": 74,
+        "delta": 22
       },
       {
         "country": "AU",
@@ -168,34 +194,24 @@
         "name": "Fotura: AI PhotoKit",
         "developer": "Thanh Nguyen Duy",
         "prev_rank": 93,
-        "curr_rank": 75,
-        "delta": 18
+        "curr_rank": 76,
+        "delta": 17
       },
       {
         "country": "GB",
         "name": "OpusClip - AI video clipping",
         "developer": "OpusClip",
         "prev_rank": 74,
-        "curr_rank": 61,
-        "delta": 13
+        "curr_rank": 62,
+        "delta": 12
       },
       {
         "country": "GB",
-        "name": "Passport Photo - PhotoAiD",
-        "developer": "Photo Aid",
-        "prev_rank": 90,
-        "curr_rank": 78,
-        "delta": 12
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 40,
-        "curr_rank": 23,
-        "delta": 17
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 89,
+        "curr_rank": 79,
+        "delta": 10
       }
     ],
     "FR": [
@@ -204,8 +220,28 @@
         "name": "Fotura: AI PhotoKit",
         "developer": "Thanh Nguyen Duy",
         "prev_rank": 89,
-        "curr_rank": 76,
-        "delta": 13
+        "curr_rank": 74,
+        "delta": 15
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "EPIK エピック - AI写真＆動画編集",
+        "developer": "SNOW Corporation",
+        "prev_rank": 47,
+        "curr_rank": 37,
+        "delta": 10
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "SNOW - AI Profile",
+        "developer": "SNOW Corporation",
+        "prev_rank": 63,
+        "curr_rank": 53,
+        "delta": 10
       }
     ]
   },
@@ -213,7 +249,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Cantina: AI Video & Characters leads with +37 jump in IN"
+      "text": "Cantina: AI Video & Characters leads with +34 jump in IN"
     },
     {
       "type": "market",
