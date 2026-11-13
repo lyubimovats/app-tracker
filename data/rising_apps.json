@@ -1,161 +1,167 @@
 {
   "rising": [
     {
-      "country": "AU",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 74,
-      "curr_rank": 37,
-      "delta": 37
-    },
-    {
-      "country": "KR",
-      "name": "KineMaster - AI 동영상 편집 어플",
-      "developer": "KineMaster Corporation",
-      "prev_rank": 99,
-      "curr_rank": 76,
-      "delta": 23
+      "country": "US",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 97,
+      "curr_rank": 72,
+      "delta": 25
     },
     {
       "country": "FR",
       "name": "AgeEra - Face & Photo AI",
       "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 55,
-      "curr_rank": 35,
+      "prev_rank": 35,
+      "curr_rank": 15,
       "delta": 20
     },
     {
       "country": "ID",
-      "name": "Bazaart AI Photo Editor Design",
-      "developer": "Bazaart Ltd.",
-      "prev_rank": 95,
-      "curr_rank": 75,
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 64,
+      "curr_rank": 44,
       "delta": 20
     },
     {
-      "country": "GB",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "prev_rank": 76,
-      "curr_rank": 57,
+      "country": "US",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 39,
+      "curr_rank": 20,
       "delta": 19
     },
     {
       "country": "US",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "prev_rank": 70,
-      "curr_rank": 52,
+      "name": "DanceHit: AI Dance Generator",
+      "developer": "SCALEUP YAZILIM HIZMETLERI",
+      "prev_rank": 79,
+      "curr_rank": 60,
+      "delta": 19
+    },
+    {
+      "country": "GB",
+      "name": "Zoombo: AI Image&Video Editor",
+      "developer": "CoNext Limited",
+      "prev_rank": 99,
+      "curr_rank": 81,
       "delta": 18
     },
     {
-      "country": "GB",
-      "name": "BeautyCam-Digicam&Photo Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 45,
-      "curr_rank": 29,
-      "delta": 16
-    },
-    {
-      "country": "US",
-      "name": "OpusClip - AI video clipping",
-      "developer": "OpusClip",
-      "prev_rank": 68,
-      "curr_rank": 55,
-      "delta": 13
-    },
-    {
-      "country": "DE",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 37,
-      "curr_rank": 24,
-      "delta": 13
-    },
-    {
-      "country": "GB",
-      "name": "AI Video Generator - HeyGen",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 87,
-      "curr_rank": 76,
-      "delta": 11
-    },
-    {
-      "country": "GB",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 96,
-      "curr_rank": 85,
-      "delta": 11
-    },
-    {
       "country": "IN",
-      "name": "VideoGPT - AI Video Generator",
-      "developer": "ElevenThirteen LLC",
+      "name": "Adobe Photoshop: Photo Editor",
+      "developer": "Adobe Inc.",
       "prev_rank": 78,
-      "curr_rank": 67,
-      "delta": 11
+      "curr_rank": 63,
+      "delta": 15
     },
     {
       "country": "US",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
       "prev_rank": 52,
-      "curr_rank": 42,
-      "delta": 10
+      "curr_rank": 39,
+      "delta": 13
+    },
+    {
+      "country": "GB",
+      "name": "Posi - Aesthetic Photo Poses",
+      "developer": "Charlie Pociecha",
+      "prev_rank": 82,
+      "curr_rank": 69,
+      "delta": 13
     },
     {
       "country": "JP",
-      "name": "Anijam：AI動画メーカー",
-      "developer": "SEEKOO HK LIMITED",
-      "prev_rank": 78,
-      "curr_rank": 68,
-      "delta": 10
+      "name": "Adobe Premiere - AI動画編集",
+      "developer": "Adobe Inc.",
+      "prev_rank": 53,
+      "curr_rank": 40,
+      "delta": 13
     },
     {
-      "country": "IN",
-      "name": "FaceApp: Perfect Face Editor",
-      "developer": "FaceApp Technology Limited",
-      "prev_rank": 87,
-      "curr_rank": 77,
-      "delta": 10
+      "country": "US",
+      "name": "BeautyPlus-Selfie Photo Editor",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 77,
+      "curr_rank": 65,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "Meitu: AI Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 79,
+      "curr_rank": 67,
+      "delta": 12
+    },
+    {
+      "country": "KR",
+      "name": "ElevenLabs: AI Voice Generator",
+      "developer": "ElevenLabs, Inc.",
+      "prev_rank": 74,
+      "curr_rank": 62,
+      "delta": 12
+    },
+    {
+      "country": "FR",
+      "name": "Airbrush - Éditeur Photo",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 89,
+      "curr_rank": 78,
+      "delta": 11
     },
     {
       "country": "AU",
-      "name": "OpusClip - AI video clipping",
-      "developer": "OpusClip",
-      "prev_rank": 89,
-      "curr_rank": 79,
-      "delta": 10
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 29,
+      "curr_rank": 18,
+      "delta": 11
     }
   ],
   "by_country": {
-    "AU": [
+    "US": [
       {
-        "country": "AU",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 74,
-        "curr_rank": 37,
-        "delta": 37
+        "country": "US",
+        "name": "EPIK - AI Photo & Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 97,
+        "curr_rank": 72,
+        "delta": 25
       },
       {
-        "country": "AU",
-        "name": "OpusClip - AI video clipping",
-        "developer": "OpusClip",
-        "prev_rank": 89,
-        "curr_rank": 79,
-        "delta": 10
-      }
-    ],
-    "KR": [
+        "country": "US",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 39,
+        "curr_rank": 20,
+        "delta": 19
+      },
       {
-        "country": "KR",
-        "name": "KineMaster - AI 동영상 편집 어플",
-        "developer": "KineMaster Corporation",
-        "prev_rank": 99,
-        "curr_rank": 76,
-        "delta": 23
+        "country": "US",
+        "name": "DanceHit: AI Dance Generator",
+        "developer": "SCALEUP YAZILIM HIZMETLERI",
+        "prev_rank": 79,
+        "curr_rank": 60,
+        "delta": 19
+      },
+      {
+        "country": "US",
+        "name": "Fotura: AI PhotoKit",
+        "developer": "Thanh Nguyen Duy",
+        "prev_rank": 52,
+        "curr_rank": 39,
+        "delta": 13
+      },
+      {
+        "country": "US",
+        "name": "BeautyPlus-Selfie Photo Editor",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 77,
+        "curr_rank": 65,
+        "delta": 12
       }
     ],
     "FR": [
@@ -163,117 +169,93 @@
         "country": "FR",
         "name": "AgeEra - Face & Photo AI",
         "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 55,
-        "curr_rank": 35,
+        "prev_rank": 35,
+        "curr_rank": 15,
         "delta": 20
+      },
+      {
+        "country": "FR",
+        "name": "Airbrush - Éditeur Photo",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 89,
+        "curr_rank": 78,
+        "delta": 11
       }
     ],
     "ID": [
       {
         "country": "ID",
-        "name": "Bazaart AI Photo Editor Design",
-        "developer": "Bazaart Ltd.",
-        "prev_rank": 95,
-        "curr_rank": 75,
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 64,
+        "curr_rank": 44,
         "delta": 20
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Fotura: AI PhotoKit",
-        "developer": "Thanh Nguyen Duy",
-        "prev_rank": 76,
-        "curr_rank": 57,
-        "delta": 19
-      },
-      {
-        "country": "GB",
-        "name": "BeautyCam-Digicam&Photo Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 45,
-        "curr_rank": 29,
-        "delta": 16
-      },
-      {
-        "country": "GB",
-        "name": "AI Video Generator - HeyGen",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 87,
-        "curr_rank": 76,
-        "delta": 11
-      },
-      {
-        "country": "GB",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 96,
-        "curr_rank": 85,
-        "delta": 11
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Fotura: AI PhotoKit",
-        "developer": "Thanh Nguyen Duy",
-        "prev_rank": 70,
-        "curr_rank": 52,
+        "name": "Zoombo: AI Image&Video Editor",
+        "developer": "CoNext Limited",
+        "prev_rank": 99,
+        "curr_rank": 81,
         "delta": 18
       },
       {
-        "country": "US",
-        "name": "OpusClip - AI video clipping",
-        "developer": "OpusClip",
-        "prev_rank": 68,
-        "curr_rank": 55,
+        "country": "GB",
+        "name": "Posi - Aesthetic Photo Poses",
+        "developer": "Charlie Pociecha",
+        "prev_rank": 82,
+        "curr_rank": 69,
         "delta": 13
       },
       {
-        "country": "US",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 52,
-        "curr_rank": 42,
-        "delta": 10
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 37,
-        "curr_rank": 24,
-        "delta": 13
+        "country": "GB",
+        "name": "Meitu: AI Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 79,
+        "curr_rank": 67,
+        "delta": 12
       }
     ],
     "IN": [
       {
         "country": "IN",
-        "name": "VideoGPT - AI Video Generator",
-        "developer": "ElevenThirteen LLC",
+        "name": "Adobe Photoshop: Photo Editor",
+        "developer": "Adobe Inc.",
         "prev_rank": 78,
-        "curr_rank": 67,
-        "delta": 11
-      },
-      {
-        "country": "IN",
-        "name": "FaceApp: Perfect Face Editor",
-        "developer": "FaceApp Technology Limited",
-        "prev_rank": 87,
-        "curr_rank": 77,
-        "delta": 10
+        "curr_rank": 63,
+        "delta": 15
       }
     ],
     "JP": [
       {
         "country": "JP",
-        "name": "Anijam：AI動画メーカー",
-        "developer": "SEEKOO HK LIMITED",
-        "prev_rank": 78,
-        "curr_rank": 68,
-        "delta": 10
+        "name": "Adobe Premiere - AI動画編集",
+        "developer": "Adobe Inc.",
+        "prev_rank": 53,
+        "curr_rank": 40,
+        "delta": 13
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "ElevenLabs: AI Voice Generator",
+        "developer": "ElevenLabs, Inc.",
+        "prev_rank": 74,
+        "curr_rank": 62,
+        "delta": 12
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Shots: Photo & Video Generator",
+        "developer": "DeePix AI",
+        "prev_rank": 29,
+        "curr_rank": 18,
+        "delta": 11
       }
     ]
   },
@@ -281,22 +263,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Empose: Aesthetic Poses leads with +37 jump in AU"
+      "text": "EPIK - AI Photo & Video Editor leads with +25 jump in US"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 4 rising apps - highest activity today"
+      "text": "US has 5 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Empose: Aesthetic Poses rising in 2 markets: AU, DE"
+      "text": "Shots: Photo & Video Generator rising in 3 markets: ID, US, AU"
     }
   ],
   "meta": {
-    "prev_date": "2026-11-11",
-    "curr_date": "2026-11-12",
+    "prev_date": "2026-11-12",
+    "curr_date": "2026-11-13",
     "days": 1
   }
 }
