@@ -18,11 +18,11 @@
     },
     {
       "country": "BR",
-      "name": "Dance AI - Gerador de Vídeo",
-      "developer": "DeePix AI",
-      "prev_rank": 75,
-      "curr_rank": 49,
-      "delta": 26
+      "name": "OpusClip - AI video clipping",
+      "developer": "OpusClip",
+      "prev_rank": 79,
+      "curr_rank": 52,
+      "delta": 27
     },
     {
       "country": "US",
@@ -30,6 +30,14 @@
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 65,
       "curr_rank": 40,
+      "delta": 25
+    },
+    {
+      "country": "BR",
+      "name": "Dance AI - Gerador de Vídeo",
+      "developer": "DeePix AI",
+      "prev_rank": 75,
+      "curr_rank": 50,
       "delta": 25
     },
     {
@@ -41,12 +49,20 @@
       "delta": 21
     },
     {
-      "country": "BR",
+      "country": "US",
       "name": "OpusClip - AI video clipping",
       "developer": "OpusClip",
-      "prev_rank": 79,
-      "curr_rank": 58,
-      "delta": 21
+      "prev_rank": 56,
+      "curr_rank": 36,
+      "delta": 20
+    },
+    {
+      "country": "BR",
+      "name": "BIGVU Teleprompter Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 87,
+      "curr_rank": 68,
+      "delta": 19
     },
     {
       "country": "KR",
@@ -57,75 +73,67 @@
       "delta": 18
     },
     {
-      "country": "US",
-      "name": "OpusClip - AI video clipping",
-      "developer": "OpusClip",
-      "prev_rank": 56,
-      "curr_rank": 41,
-      "delta": 15
-    },
-    {
-      "country": "JP",
-      "name": "Shots: Photo & Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 82,
-      "curr_rank": 68,
-      "delta": 14
-    },
-    {
-      "country": "FR",
-      "name": "OpusClip - AI video clipping",
-      "developer": "OpusClip",
-      "prev_rank": 52,
-      "curr_rank": 39,
-      "delta": 13
-    },
-    {
       "country": "GB",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
       "prev_rank": 99,
-      "curr_rank": 87,
-      "delta": 12
+      "curr_rank": 83,
+      "delta": 16
     },
     {
       "country": "KR",
       "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
       "developer": "ImgBase, Inc.",
       "prev_rank": 78,
-      "curr_rank": 66,
-      "delta": 12
+      "curr_rank": 63,
+      "delta": 15
     },
     {
-      "country": "US",
-      "name": "EPIK - AI Photo & Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 72,
-      "curr_rank": 61,
-      "delta": 11
+      "country": "FR",
+      "name": "OpusClip - AI video clipping",
+      "developer": "OpusClip",
+      "prev_rank": 52,
+      "curr_rank": 38,
+      "delta": 14
+    },
+    {
+      "country": "JP",
+      "name": "Shots: Photo & Video Generator",
+      "developer": "DeePix AI",
+      "prev_rank": 82,
+      "curr_rank": 69,
+      "delta": 13
     },
     {
       "country": "AU",
       "name": "OpusClip - AI video clipping",
       "developer": "OpusClip",
       "prev_rank": 64,
-      "curr_rank": 53,
+      "curr_rank": 51,
+      "delta": 13
+    },
+    {
+      "country": "US",
+      "name": "EPIK - AI Photo & Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 72,
+      "curr_rank": 60,
+      "delta": 12
+    },
+    {
+      "country": "ID",
+      "name": "Tezza: Aesthetic Photo Editor",
+      "developer": "Tezza App LLC",
+      "prev_rank": 93,
+      "curr_rank": 82,
       "delta": 11
     },
     {
-      "country": "BR",
-      "name": "Photoroom: Foto & Vídeo IA",
-      "developer": "Photoroom",
-      "prev_rank": 39,
-      "curr_rank": 29,
-      "delta": 10
-    },
-    {
-      "country": "BR",
-      "name": "BIGVU Teleprompter Captions AI",
-      "developer": "BIGVU INC",
-      "prev_rank": 87,
-      "curr_rank": 77,
+      "country": "US",
+      "name": "Zoombo: AI Image&Video Editor",
+      "developer": "CoNext Limited",
+      "prev_rank": 59,
+      "curr_rank": 49,
       "delta": 10
     }
   ],
@@ -144,8 +152,8 @@
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 99,
-        "curr_rank": 87,
-        "delta": 12
+        "curr_rank": 83,
+        "delta": 16
       }
     ],
     "DE": [
@@ -161,35 +169,27 @@
     "BR": [
       {
         "country": "BR",
-        "name": "Dance AI - Gerador de Vídeo",
-        "developer": "DeePix AI",
-        "prev_rank": 75,
-        "curr_rank": 49,
-        "delta": 26
-      },
-      {
-        "country": "BR",
         "name": "OpusClip - AI video clipping",
         "developer": "OpusClip",
         "prev_rank": 79,
-        "curr_rank": 58,
-        "delta": 21
+        "curr_rank": 52,
+        "delta": 27
       },
       {
         "country": "BR",
-        "name": "Photoroom: Foto & Vídeo IA",
-        "developer": "Photoroom",
-        "prev_rank": 39,
-        "curr_rank": 29,
-        "delta": 10
+        "name": "Dance AI - Gerador de Vídeo",
+        "developer": "DeePix AI",
+        "prev_rank": 75,
+        "curr_rank": 50,
+        "delta": 25
       },
       {
         "country": "BR",
         "name": "BIGVU Teleprompter Captions AI",
         "developer": "BIGVU INC",
         "prev_rank": 87,
-        "curr_rank": 77,
-        "delta": 10
+        "curr_rank": 68,
+        "delta": 19
       }
     ],
     "US": [
@@ -206,16 +206,24 @@
         "name": "OpusClip - AI video clipping",
         "developer": "OpusClip",
         "prev_rank": 56,
-        "curr_rank": 41,
-        "delta": 15
+        "curr_rank": 36,
+        "delta": 20
       },
       {
         "country": "US",
         "name": "EPIK - AI Photo & Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 72,
-        "curr_rank": 61,
-        "delta": 11
+        "curr_rank": 60,
+        "delta": 12
+      },
+      {
+        "country": "US",
+        "name": "Zoombo: AI Image&Video Editor",
+        "developer": "CoNext Limited",
+        "prev_rank": 59,
+        "curr_rank": 49,
+        "delta": 10
       }
     ],
     "FR": [
@@ -232,8 +240,8 @@
         "name": "OpusClip - AI video clipping",
         "developer": "OpusClip",
         "prev_rank": 52,
-        "curr_rank": 39,
-        "delta": 13
+        "curr_rank": 38,
+        "delta": 14
       }
     ],
     "KR": [
@@ -250,8 +258,8 @@
         "name": "VDIT 브이딧, AI 릴스, 쇼츠 영상 편집",
         "developer": "ImgBase, Inc.",
         "prev_rank": 78,
-        "curr_rank": 66,
-        "delta": 12
+        "curr_rank": 63,
+        "delta": 15
       }
     ],
     "JP": [
@@ -260,8 +268,8 @@
         "name": "Shots: Photo & Video Generator",
         "developer": "DeePix AI",
         "prev_rank": 82,
-        "curr_rank": 68,
-        "delta": 14
+        "curr_rank": 69,
+        "delta": 13
       }
     ],
     "AU": [
@@ -270,7 +278,17 @@
         "name": "OpusClip - AI video clipping",
         "developer": "OpusClip",
         "prev_rank": 64,
-        "curr_rank": 53,
+        "curr_rank": 51,
+        "delta": 13
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Tezza: Aesthetic Photo Editor",
+        "developer": "Tezza App LLC",
+        "prev_rank": 93,
+        "curr_rank": 82,
         "delta": 11
       }
     ]
@@ -284,7 +302,7 @@
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 4 rising apps - highest activity today"
+      "text": "US has 4 rising apps - highest activity today"
     },
     {
       "type": "trending",
