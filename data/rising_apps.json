@@ -13,32 +13,40 @@
       "name": "Meitu: AI Photo & Video Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 92,
-      "curr_rank": 70,
-      "delta": 22
+      "curr_rank": 69,
+      "delta": 23
     },
     {
       "country": "US",
       "name": "Vids AI - Reels Video Editor",
       "developer": "Viral Vision Ltd.",
       "prev_rank": 64,
-      "curr_rank": 46,
-      "delta": 18
-    },
-    {
-      "country": "US",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "prev_rank": 89,
-      "curr_rank": 72,
-      "delta": 17
+      "curr_rank": 44,
+      "delta": 20
     },
     {
       "country": "BR",
       "name": "Instories: AI Fotos & Videos",
       "developer": "Ylee Studio LTD",
       "prev_rank": 89,
-      "curr_rank": 72,
-      "delta": 17
+      "curr_rank": 70,
+      "delta": 19
+    },
+    {
+      "country": "US",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 89,
+      "curr_rank": 74,
+      "delta": 15
+    },
+    {
+      "country": "ID",
+      "name": "SnapEdit: Photo Editor AI",
+      "developer": "SilverAI Joint Stock Company",
+      "prev_rank": 74,
+      "curr_rank": 63,
+      "delta": 11
     },
     {
       "country": "AU",
@@ -49,11 +57,19 @@
       "delta": 11
     },
     {
-      "country": "AU",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 18,
-      "curr_rank": 8,
+      "country": "DE",
+      "name": "Mosaik+ Unschärfe Foto",
+      "developer": "Shiho Sadamizu",
+      "prev_rank": 73,
+      "curr_rank": 63,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 56,
+      "curr_rank": 46,
       "delta": 10
     }
   ],
@@ -72,16 +88,16 @@
         "name": "Vids AI - Reels Video Editor",
         "developer": "Viral Vision Ltd.",
         "prev_rank": 64,
-        "curr_rank": 46,
-        "delta": 18
+        "curr_rank": 44,
+        "delta": 20
       },
       {
         "country": "US",
         "name": "Fotura: AI PhotoKit",
         "developer": "Thanh Nguyen Duy",
         "prev_rank": 89,
-        "curr_rank": 72,
-        "delta": 17
+        "curr_rank": 74,
+        "delta": 15
       }
     ],
     "GB": [
@@ -90,8 +106,8 @@
         "name": "Meitu: AI Photo & Video Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 92,
-        "curr_rank": 70,
-        "delta": 22
+        "curr_rank": 69,
+        "delta": 23
       }
     ],
     "BR": [
@@ -100,8 +116,18 @@
         "name": "Instories: AI Fotos & Videos",
         "developer": "Ylee Studio LTD",
         "prev_rank": 89,
-        "curr_rank": 72,
-        "delta": 17
+        "curr_rank": 70,
+        "delta": 19
+      }
+    ],
+    "ID": [
+      {
+        "country": "ID",
+        "name": "SnapEdit: Photo Editor AI",
+        "developer": "SilverAI Joint Stock Company",
+        "prev_rank": 74,
+        "curr_rank": 63,
+        "delta": 11
       }
     ],
     "AU": [
@@ -112,13 +138,25 @@
         "prev_rank": 61,
         "curr_rank": 50,
         "delta": 11
-      },
+      }
+    ],
+    "DE": [
       {
-        "country": "AU",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 18,
-        "curr_rank": 8,
+        "country": "DE",
+        "name": "Mosaik+ Unschärfe Foto",
+        "developer": "Shiho Sadamizu",
+        "prev_rank": 73,
+        "curr_rank": 63,
+        "delta": 10
+      }
+    ],
+    "KR": [
+      {
+        "country": "KR",
+        "name": "B612 Camera&Photo/Video Editor",
+        "developer": "SNOW Corporation",
+        "prev_rank": 56,
+        "curr_rank": 46,
         "delta": 10
       }
     ]
@@ -133,11 +171,6 @@
       "type": "market",
       "icon": "🌍",
       "text": "US has 3 rising apps - highest activity today"
-    },
-    {
-      "type": "trending",
-      "icon": "🚀",
-      "text": "Empose: Aesthetic Poses rising in 2 markets: US, AU"
     }
   ],
   "meta": {
