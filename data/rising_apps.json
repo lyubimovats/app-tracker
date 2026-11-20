@@ -5,8 +5,24 @@
       "name": "GoPhoto:AI Photo & Video Maker",
       "developer": "AIX Studio",
       "prev_rank": 78,
-      "curr_rank": 41,
-      "delta": 37
+      "curr_rank": 37,
+      "delta": 41
+    },
+    {
+      "country": "FR",
+      "name": "Airbrush - Éditeur Photo",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 75,
+      "curr_rank": 54,
+      "delta": 21
+    },
+    {
+      "country": "DE",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 65,
+      "curr_rank": 45,
+      "delta": 20
     },
     {
       "country": "AU",
@@ -18,26 +34,26 @@
     },
     {
       "country": "BR",
-      "name": "Instories: AI Fotos & Videos",
-      "developer": "Ylee Studio LTD",
-      "prev_rank": 70,
-      "curr_rank": 53,
-      "delta": 17
-    },
-    {
-      "country": "DE",
-      "name": "Empose: Aesthetic Poses",
-      "developer": "Hakan Bayindir",
-      "prev_rank": 65,
-      "curr_rank": 49,
+      "name": "BIGVU Teleprompter Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 68,
+      "curr_rank": 52,
       "delta": 16
     },
     {
-      "country": "DE",
-      "name": "Meitu: Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 99,
-      "curr_rank": 83,
+      "country": "BR",
+      "name": "Instories: AI Fotos & Videos",
+      "developer": "Ylee Studio LTD",
+      "prev_rank": 70,
+      "curr_rank": 54,
+      "delta": 16
+    },
+    {
+      "country": "KR",
+      "name": "B612 Camera&Photo/Video Editor",
+      "developer": "SNOW Corporation",
+      "prev_rank": 46,
+      "curr_rank": 30,
       "delta": 16
     },
     {
@@ -57,20 +73,28 @@
       "delta": 14
     },
     {
-      "country": "BR",
-      "name": "BIGVU Teleprompter Captions AI",
-      "developer": "BIGVU INC",
-      "prev_rank": 68,
-      "curr_rank": 54,
+      "country": "ID",
+      "name": "Bazaart AI Photo Editor Design",
+      "developer": "Bazaart Ltd.",
+      "prev_rank": 98,
+      "curr_rank": 84,
       "delta": 14
     },
     {
-      "country": "KR",
-      "name": "B612 Camera&Photo/Video Editor",
-      "developer": "SNOW Corporation",
-      "prev_rank": 46,
-      "curr_rank": 32,
-      "delta": 14
+      "country": "DE",
+      "name": "Airbrush - Fotobearbeitung",
+      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "prev_rank": 95,
+      "curr_rank": 82,
+      "delta": 13
+    },
+    {
+      "country": "DE",
+      "name": "Meitu: Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 99,
+      "curr_rank": 86,
+      "delta": 13
     },
     {
       "country": "AU",
@@ -81,19 +105,11 @@
       "delta": 13
     },
     {
-      "country": "US",
-      "name": "Fotura: AI PhotoKit",
-      "developer": "Thanh Nguyen Duy",
-      "prev_rank": 74,
-      "curr_rank": 62,
-      "delta": 12
-    },
-    {
-      "country": "US",
-      "name": "BeautyPlus-Selfie Photo Editor",
-      "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 86,
-      "curr_rank": 74,
+      "country": "JP",
+      "name": "Remini - 高画質化するAI写真アプリ",
+      "developer": "BENDING SPOONS OPERATIONS SPA",
+      "prev_rank": 96,
+      "curr_rank": 84,
       "delta": 12
     },
     {
@@ -101,31 +117,47 @@
       "name": "Remini - Améliorer Photos",
       "developer": "BENDING SPOONS OPERATIONS SPA",
       "prev_rank": 73,
-      "curr_rank": 61,
-      "delta": 12
+      "curr_rank": 62,
+      "delta": 11
     },
     {
       "country": "ID",
-      "name": "Bazaart AI Photo Editor Design",
-      "developer": "Bazaart Ltd.",
-      "prev_rank": 98,
-      "curr_rank": 86,
-      "delta": 12
+      "name": "Liit - Photo & Video Editor",
+      "developer": "DAZZ PTE. LTD.",
+      "prev_rank": 88,
+      "curr_rank": 77,
+      "delta": 11
     },
     {
       "country": "AU",
       "name": "BeautyCam-Digicam&Photo Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 31,
-      "curr_rank": 19,
-      "delta": 12
+      "curr_rank": 20,
+      "delta": 11
     },
     {
-      "country": "DE",
-      "name": "Airbrush - Fotobearbeitung",
+      "country": "US",
+      "name": "Fotura: AI PhotoKit",
+      "developer": "Thanh Nguyen Duy",
+      "prev_rank": 74,
+      "curr_rank": 64,
+      "delta": 10
+    },
+    {
+      "country": "US",
+      "name": "BeautyPlus-Selfie Photo Editor",
       "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-      "prev_rank": 95,
-      "curr_rank": 85,
+      "prev_rank": 86,
+      "curr_rank": 76,
+      "delta": 10
+    },
+    {
+      "country": "FR",
+      "name": "Facetune: Éditeur Photo/Vidéo",
+      "developer": "Lightricks Ltd.",
+      "prev_rank": 86,
+      "curr_rank": 76,
       "delta": 10
     }
   ],
@@ -136,8 +168,8 @@
         "name": "GoPhoto:AI Photo & Video Maker",
         "developer": "AIX Studio",
         "prev_rank": 78,
-        "curr_rank": 41,
-        "delta": 37
+        "curr_rank": 37,
+        "delta": 41
       },
       {
         "country": "US",
@@ -152,16 +184,68 @@
         "name": "Fotura: AI PhotoKit",
         "developer": "Thanh Nguyen Duy",
         "prev_rank": 74,
-        "curr_rank": 62,
-        "delta": 12
+        "curr_rank": 64,
+        "delta": 10
       },
       {
         "country": "US",
         "name": "BeautyPlus-Selfie Photo Editor",
         "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
         "prev_rank": 86,
-        "curr_rank": 74,
-        "delta": 12
+        "curr_rank": 76,
+        "delta": 10
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Airbrush - Éditeur Photo",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 75,
+        "curr_rank": 54,
+        "delta": 21
+      },
+      {
+        "country": "FR",
+        "name": "Remini - Améliorer Photos",
+        "developer": "BENDING SPOONS OPERATIONS SPA",
+        "prev_rank": 73,
+        "curr_rank": 62,
+        "delta": 11
+      },
+      {
+        "country": "FR",
+        "name": "Facetune: Éditeur Photo/Vidéo",
+        "developer": "Lightricks Ltd.",
+        "prev_rank": 86,
+        "curr_rank": 76,
+        "delta": 10
+      }
+    ],
+    "DE": [
+      {
+        "country": "DE",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 65,
+        "curr_rank": 45,
+        "delta": 20
+      },
+      {
+        "country": "DE",
+        "name": "Airbrush - Fotobearbeitung",
+        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+        "prev_rank": 95,
+        "curr_rank": 82,
+        "delta": 13
+      },
+      {
+        "country": "DE",
+        "name": "Meitu: Photo & Video Editor",
+        "developer": "Meitu Technology Co., Ltd.",
+        "prev_rank": 99,
+        "curr_rank": 86,
+        "delta": 13
       }
     ],
     "AU": [
@@ -194,52 +278,26 @@
         "name": "BeautyCam-Digicam&Photo Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 31,
-        "curr_rank": 19,
-        "delta": 12
+        "curr_rank": 20,
+        "delta": 11
       }
     ],
     "BR": [
       {
         "country": "BR",
-        "name": "Instories: AI Fotos & Videos",
-        "developer": "Ylee Studio LTD",
-        "prev_rank": 70,
-        "curr_rank": 53,
-        "delta": 17
-      },
-      {
-        "country": "BR",
         "name": "BIGVU Teleprompter Captions AI",
         "developer": "BIGVU INC",
         "prev_rank": 68,
+        "curr_rank": 52,
+        "delta": 16
+      },
+      {
+        "country": "BR",
+        "name": "Instories: AI Fotos & Videos",
+        "developer": "Ylee Studio LTD",
+        "prev_rank": 70,
         "curr_rank": 54,
-        "delta": 14
-      }
-    ],
-    "DE": [
-      {
-        "country": "DE",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 65,
-        "curr_rank": 49,
         "delta": 16
-      },
-      {
-        "country": "DE",
-        "name": "Meitu: Photo & Video Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 99,
-        "curr_rank": 83,
-        "delta": 16
-      },
-      {
-        "country": "DE",
-        "name": "Airbrush - Fotobearbeitung",
-        "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
-        "prev_rank": 95,
-        "curr_rank": 85,
-        "delta": 10
       }
     ],
     "KR": [
@@ -248,18 +306,8 @@
         "name": "B612 Camera&Photo/Video Editor",
         "developer": "SNOW Corporation",
         "prev_rank": 46,
-        "curr_rank": 32,
-        "delta": 14
-      }
-    ],
-    "FR": [
-      {
-        "country": "FR",
-        "name": "Remini - Améliorer Photos",
-        "developer": "BENDING SPOONS OPERATIONS SPA",
-        "prev_rank": 73,
-        "curr_rank": 61,
-        "delta": 12
+        "curr_rank": 30,
+        "delta": 16
       }
     ],
     "ID": [
@@ -268,7 +316,25 @@
         "name": "Bazaart AI Photo Editor Design",
         "developer": "Bazaart Ltd.",
         "prev_rank": 98,
-        "curr_rank": 86,
+        "curr_rank": 84,
+        "delta": 14
+      },
+      {
+        "country": "ID",
+        "name": "Liit - Photo & Video Editor",
+        "developer": "DAZZ PTE. LTD.",
+        "prev_rank": 88,
+        "curr_rank": 77,
+        "delta": 11
+      }
+    ],
+    "JP": [
+      {
+        "country": "JP",
+        "name": "Remini - 高画質化するAI写真アプリ",
+        "developer": "BENDING SPOONS OPERATIONS SPA",
+        "prev_rank": 96,
+        "curr_rank": 84,
         "delta": 12
       }
     ]
@@ -277,7 +343,7 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "GoPhoto:AI Photo & Video Maker leads with +37 jump in US"
+      "text": "GoPhoto:AI Photo & Video Maker leads with +41 jump in US"
     },
     {
       "type": "market",
@@ -287,7 +353,7 @@
     {
       "type": "app-note",
       "icon": "📱",
-      "text": "Airbrush apps trending with 2 variants rising"
+      "text": "Airbrush apps trending with 3 variants rising"
     }
   ],
   "meta": {
