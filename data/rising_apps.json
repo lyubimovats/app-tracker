@@ -5,15 +5,23 @@
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
       "prev_rank": 88,
-      "curr_rank": 11,
-      "delta": 77
+      "curr_rank": 10,
+      "delta": 78
     },
     {
       "country": "GB",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
       "prev_rank": 60,
-      "curr_rank": 25,
+      "curr_rank": 24,
+      "delta": 36
+    },
+    {
+      "country": "GB",
+      "name": "Pozea - Pose Ideas & Coach",
+      "developer": "van hugo LLC",
+      "prev_rank": 95,
+      "curr_rank": 60,
       "delta": 35
     },
     {
@@ -21,32 +29,32 @@
       "name": "Passfoto - PhotoAiD",
       "developer": "Photo Aid",
       "prev_rank": 94,
-      "curr_rank": 64,
-      "delta": 30
-    },
-    {
-      "country": "GB",
-      "name": "Pozea - Pose Ideas & Coach",
-      "developer": "van hugo LLC",
-      "prev_rank": 95,
-      "curr_rank": 66,
-      "delta": 29
+      "curr_rank": 68,
+      "delta": 26
     },
     {
       "country": "FR",
       "name": "Photogenik: Pose & Photo Coach",
       "developer": "Photogenik Inc.",
       "prev_rank": 66,
-      "curr_rank": 46,
-      "delta": 20
+      "curr_rank": 48,
+      "delta": 18
+    },
+    {
+      "country": "IN",
+      "name": "Photoroom: AI Photo & Video",
+      "developer": "Photoroom",
+      "prev_rank": 99,
+      "curr_rank": 85,
+      "delta": 14
     },
     {
       "country": "DE",
       "name": "PosePal: Posen-Guide für Fotos",
       "developer": "Sattvik Tripathy",
       "prev_rank": 80,
-      "curr_rank": 61,
-      "delta": 19
+      "curr_rank": 67,
+      "delta": 13
     },
     {
       "country": "JP",
@@ -54,14 +62,6 @@
       "developer": "Adobe Inc.",
       "prev_rank": 66,
       "curr_rank": 53,
-      "delta": 13
-    },
-    {
-      "country": "IN",
-      "name": "Photoroom: AI Photo & Video",
-      "developer": "Photoroom",
-      "prev_rank": 99,
-      "curr_rank": 86,
       "delta": 13
     },
     {
@@ -73,28 +73,28 @@
       "delta": 12
     },
     {
-      "country": "GB",
-      "name": "Meitu: AI Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 71,
-      "curr_rank": 59,
-      "delta": 12
-    },
-    {
-      "country": "BR",
-      "name": "Pollo AI: Vídeo e Imagem IA",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 81,
-      "curr_rank": 69,
-      "delta": 12
-    },
-    {
       "country": "AU",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
       "prev_rank": 22,
       "curr_rank": 10,
       "delta": 12
+    },
+    {
+      "country": "BR",
+      "name": "Criador de Video IA - Vimo AI",
+      "developer": "Mobile Ocean",
+      "prev_rank": 79,
+      "curr_rank": 68,
+      "delta": 11
+    },
+    {
+      "country": "IN",
+      "name": "invideo: AI Video Editor",
+      "developer": "Invideo Inc",
+      "prev_rank": 80,
+      "curr_rank": 69,
+      "delta": 11
     },
     {
       "country": "AU",
@@ -105,22 +105,6 @@
       "delta": 11
     },
     {
-      "country": "US",
-      "name": "Thermal & Night Vision Camera",
-      "developer": "CAGE HOOPS LLC",
-      "prev_rank": 99,
-      "curr_rank": 89,
-      "delta": 10
-    },
-    {
-      "country": "GB",
-      "name": "Remini - AI Photo Enhancer",
-      "developer": "BENDING SPOONS OPERATIONS SPA",
-      "prev_rank": 64,
-      "curr_rank": 54,
-      "delta": 10
-    },
-    {
       "country": "DE",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
@@ -129,11 +113,11 @@
       "delta": 10
     },
     {
-      "country": "AU",
-      "name": "Evoto: Photo Editor & Retouch",
-      "developer": "TRUESIGHT PTE. LTD.",
-      "prev_rank": 87,
-      "curr_rank": 77,
+      "country": "FR",
+      "name": "Pozea - Pose Ideas & Coach",
+      "developer": "van hugo LLC",
+      "prev_rank": 46,
+      "curr_rank": 36,
       "delta": 10
     }
   ],
@@ -144,16 +128,24 @@
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 88,
-        "curr_rank": 11,
-        "delta": 77
+        "curr_rank": 10,
+        "delta": 78
       },
       {
         "country": "FR",
         "name": "Photogenik: Pose & Photo Coach",
         "developer": "Photogenik Inc.",
         "prev_rank": 66,
-        "curr_rank": 46,
-        "delta": 20
+        "curr_rank": 48,
+        "delta": 18
+      },
+      {
+        "country": "FR",
+        "name": "Pozea - Pose Ideas & Coach",
+        "developer": "van hugo LLC",
+        "prev_rank": 46,
+        "curr_rank": 36,
+        "delta": 10
       }
     ],
     "GB": [
@@ -162,32 +154,16 @@
         "name": "Empose: Aesthetic Poses",
         "developer": "Hakan Bayindir",
         "prev_rank": 60,
-        "curr_rank": 25,
-        "delta": 35
+        "curr_rank": 24,
+        "delta": 36
       },
       {
         "country": "GB",
         "name": "Pozea - Pose Ideas & Coach",
         "developer": "van hugo LLC",
         "prev_rank": 95,
-        "curr_rank": 66,
-        "delta": 29
-      },
-      {
-        "country": "GB",
-        "name": "Meitu: AI Photo & Video Editor",
-        "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 71,
-        "curr_rank": 59,
-        "delta": 12
-      },
-      {
-        "country": "GB",
-        "name": "Remini - AI Photo Enhancer",
-        "developer": "BENDING SPOONS OPERATIONS SPA",
-        "prev_rank": 64,
-        "curr_rank": 54,
-        "delta": 10
+        "curr_rank": 60,
+        "delta": 35
       }
     ],
     "DE": [
@@ -196,16 +172,16 @@
         "name": "Passfoto - PhotoAiD",
         "developer": "Photo Aid",
         "prev_rank": 94,
-        "curr_rank": 64,
-        "delta": 30
+        "curr_rank": 68,
+        "delta": 26
       },
       {
         "country": "DE",
         "name": "PosePal: Posen-Guide für Fotos",
         "developer": "Sattvik Tripathy",
         "prev_rank": 80,
-        "curr_rank": 61,
-        "delta": 19
+        "curr_rank": 67,
+        "delta": 13
       },
       {
         "country": "DE",
@@ -214,6 +190,24 @@
         "prev_rank": 22,
         "curr_rank": 12,
         "delta": 10
+      }
+    ],
+    "IN": [
+      {
+        "country": "IN",
+        "name": "Photoroom: AI Photo & Video",
+        "developer": "Photoroom",
+        "prev_rank": 99,
+        "curr_rank": 85,
+        "delta": 14
+      },
+      {
+        "country": "IN",
+        "name": "invideo: AI Video Editor",
+        "developer": "Invideo Inc",
+        "prev_rank": 80,
+        "curr_rank": 69,
+        "delta": 11
       }
     ],
     "JP": [
@@ -226,16 +220,6 @@
         "delta": 13
       }
     ],
-    "IN": [
-      {
-        "country": "IN",
-        "name": "Photoroom: AI Photo & Video",
-        "developer": "Photoroom",
-        "prev_rank": 99,
-        "curr_rank": 86,
-        "delta": 13
-      }
-    ],
     "US": [
       {
         "country": "US",
@@ -243,24 +227,6 @@
         "developer": "VIDEO EDITOR PTE. LTD.",
         "prev_rank": 98,
         "curr_rank": 86,
-        "delta": 12
-      },
-      {
-        "country": "US",
-        "name": "Thermal & Night Vision Camera",
-        "developer": "CAGE HOOPS LLC",
-        "prev_rank": 99,
-        "curr_rank": 89,
-        "delta": 10
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Pollo AI: Vídeo e Imagem IA",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 81,
-        "curr_rank": 69,
         "delta": 12
       }
     ],
@@ -280,14 +246,16 @@
         "prev_rank": 80,
         "curr_rank": 69,
         "delta": 11
-      },
+      }
+    ],
+    "BR": [
       {
-        "country": "AU",
-        "name": "Evoto: Photo Editor & Retouch",
-        "developer": "TRUESIGHT PTE. LTD.",
-        "prev_rank": 87,
-        "curr_rank": 77,
-        "delta": 10
+        "country": "BR",
+        "name": "Criador de Video IA - Vimo AI",
+        "developer": "Mobile Ocean",
+        "prev_rank": 79,
+        "curr_rank": 68,
+        "delta": 11
       }
     ]
   },
@@ -295,12 +263,12 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Empose: Aesthetic Poses leads with +77 jump in FR"
+      "text": "Empose: Aesthetic Poses leads with +78 jump in FR"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "GB has 4 rising apps - highest activity today"
+      "text": "FR has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
