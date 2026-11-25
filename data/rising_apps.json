@@ -5,72 +5,56 @@
       "name": "Pozea: Pose Camera",
       "developer": "Lightwell Games",
       "prev_rank": 90,
-      "curr_rank": 20,
-      "delta": 70
-    },
-    {
-      "country": "AU",
-      "name": "Pozea - Pose Ideas & Coach",
-      "developer": "van hugo LLC",
-      "prev_rank": 68,
-      "curr_rank": 14,
-      "delta": 54
+      "curr_rank": 24,
+      "delta": 66
     },
     {
       "country": "BR",
       "name": "Pozea - Pose Ideas & Coach",
       "developer": "van hugo LLC",
       "prev_rank": 94,
-      "curr_rank": 48,
-      "delta": 46
+      "curr_rank": 37,
+      "delta": 57
+    },
+    {
+      "country": "AU",
+      "name": "Pozea - Pose Ideas & Coach",
+      "developer": "van hugo LLC",
+      "prev_rank": 68,
+      "curr_rank": 15,
+      "delta": 53
     },
     {
       "country": "US",
       "name": "AgeMe – AI Face & Photo",
       "developer": "Chengdu Yishunliu Trading Co.,Ltd.",
       "prev_rank": 99,
-      "curr_rank": 59,
-      "delta": 40
+      "curr_rank": 57,
+      "delta": 42
     },
     {
       "country": "DE",
       "name": "Meitu: Photo & Video Editor",
       "developer": "Meitu Technology Co., Ltd.",
       "prev_rank": 67,
-      "curr_rank": 39,
-      "delta": 28
+      "curr_rank": 41,
+      "delta": 26
     },
     {
       "country": "KR",
       "name": "Posera: 사진 포즈 가이드 카메라",
       "developer": "Homer Street Labs Inc.",
       "prev_rank": 55,
-      "curr_rank": 32,
-      "delta": 23
-    },
-    {
-      "country": "BR",
-      "name": "AgeMe – AI Face & Photo",
-      "developer": "Chengdu Yishunliu Trading Co.,Ltd.",
-      "prev_rank": 96,
-      "curr_rank": 81,
-      "delta": 15
+      "curr_rank": 30,
+      "delta": 25
     },
     {
       "country": "US",
       "name": "Runway: AI Image & Video",
       "developer": "runwayml",
       "prev_rank": 43,
-      "curr_rank": 32,
-      "delta": 11
-    },
-    {
-      "country": "KR",
-      "name": "타입캐스트 - AI 음성 제작",
-      "developer": "Neosapience, Inc.",
-      "prev_rank": 75,
-      "curr_rank": 64,
-      "delta": 11
+      "curr_rank": 31,
+      "delta": 12
     },
     {
       "country": "DE",
@@ -82,10 +66,26 @@
     },
     {
       "country": "BR",
-      "name": "ARTA: IA Art & Avatar de Fotos",
-      "developer": "AIBY",
-      "prev_rank": 90,
-      "curr_rank": 80,
+      "name": "AgeMe – AI Face & Photo",
+      "developer": "Chengdu Yishunliu Trading Co.,Ltd.",
+      "prev_rank": 96,
+      "curr_rank": 86,
+      "delta": 10
+    },
+    {
+      "country": "KR",
+      "name": "타입캐스트 - AI 음성 제작",
+      "developer": "Neosapience, Inc.",
+      "prev_rank": 75,
+      "curr_rank": 65,
+      "delta": 10
+    },
+    {
+      "country": "AU",
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 94,
+      "curr_rank": 84,
       "delta": 10
     }
   ],
@@ -96,16 +96,24 @@
         "name": "Pozea: Pose Camera",
         "developer": "Lightwell Games",
         "prev_rank": 90,
-        "curr_rank": 20,
-        "delta": 70
+        "curr_rank": 24,
+        "delta": 66
       },
       {
         "country": "AU",
         "name": "Pozea - Pose Ideas & Coach",
         "developer": "van hugo LLC",
         "prev_rank": 68,
-        "curr_rank": 14,
-        "delta": 54
+        "curr_rank": 15,
+        "delta": 53
+      },
+      {
+        "country": "AU",
+        "name": "AI Video Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 94,
+        "curr_rank": 84,
+        "delta": 10
       }
     ],
     "BR": [
@@ -114,23 +122,15 @@
         "name": "Pozea - Pose Ideas & Coach",
         "developer": "van hugo LLC",
         "prev_rank": 94,
-        "curr_rank": 48,
-        "delta": 46
+        "curr_rank": 37,
+        "delta": 57
       },
       {
         "country": "BR",
         "name": "AgeMe – AI Face & Photo",
         "developer": "Chengdu Yishunliu Trading Co.,Ltd.",
         "prev_rank": 96,
-        "curr_rank": 81,
-        "delta": 15
-      },
-      {
-        "country": "BR",
-        "name": "ARTA: IA Art & Avatar de Fotos",
-        "developer": "AIBY",
-        "prev_rank": 90,
-        "curr_rank": 80,
+        "curr_rank": 86,
         "delta": 10
       }
     ],
@@ -140,16 +140,16 @@
         "name": "AgeMe – AI Face & Photo",
         "developer": "Chengdu Yishunliu Trading Co.,Ltd.",
         "prev_rank": 99,
-        "curr_rank": 59,
-        "delta": 40
+        "curr_rank": 57,
+        "delta": 42
       },
       {
         "country": "US",
         "name": "Runway: AI Image & Video",
         "developer": "runwayml",
         "prev_rank": 43,
-        "curr_rank": 32,
-        "delta": 11
+        "curr_rank": 31,
+        "delta": 12
       }
     ],
     "DE": [
@@ -158,8 +158,8 @@
         "name": "Meitu: Photo & Video Editor",
         "developer": "Meitu Technology Co., Ltd.",
         "prev_rank": 67,
-        "curr_rank": 39,
-        "delta": 28
+        "curr_rank": 41,
+        "delta": 26
       },
       {
         "country": "DE",
@@ -176,16 +176,16 @@
         "name": "Posera: 사진 포즈 가이드 카메라",
         "developer": "Homer Street Labs Inc.",
         "prev_rank": 55,
-        "curr_rank": 32,
-        "delta": 23
+        "curr_rank": 30,
+        "delta": 25
       },
       {
         "country": "KR",
         "name": "타입캐스트 - AI 음성 제작",
         "developer": "Neosapience, Inc.",
         "prev_rank": 75,
-        "curr_rank": 64,
-        "delta": 11
+        "curr_rank": 65,
+        "delta": 10
       }
     ]
   },
@@ -193,17 +193,17 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Pozea: Pose Camera leads with +70 jump in AU"
+      "text": "Pozea: Pose Camera leads with +66 jump in AU"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "BR has 3 rising apps - highest activity today"
+      "text": "AU has 3 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "Pozea - Pose Ideas & Coach rising in 2 markets: AU, BR"
+      "text": "Pozea - Pose Ideas & Coach rising in 2 markets: BR, AU"
     }
   ],
   "meta": {
