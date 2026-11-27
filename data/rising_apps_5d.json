@@ -1,278 +1,348 @@
 {
   "rising": [
     {
-      "country": "DE",
-      "name": "Meitu: Photo & Video Editor",
-      "developer": "Meitu Technology Co., Ltd.",
-      "prev_rank": 88,
-      "curr_rank": 48,
-      "delta": 40
-    },
-    {
-      "country": "JP",
-      "name": "Adobe Premiere - AI動画編集",
-      "developer": "Adobe Inc.",
-      "prev_rank": 76,
-      "curr_rank": 41,
-      "delta": 35
-    },
-    {
-      "country": "BR",
-      "name": "Pollo AI: Vídeo e Imagem IA",
-      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-      "prev_rank": 83,
-      "curr_rank": 59,
-      "delta": 24
-    },
-    {
-      "country": "US",
-      "name": "Aura Frames",
-      "developer": "Aura Home, Inc.",
-      "prev_rank": 41,
-      "curr_rank": 18,
-      "delta": 23
-    },
-    {
-      "country": "BR",
+      "country": "ID",
       "name": "Empose: Aesthetic Poses",
       "developer": "Hakan Bayindir",
-      "prev_rank": 71,
-      "curr_rank": 48,
-      "delta": 23
+      "prev_rank": 86,
+      "curr_rank": 16,
+      "delta": 70
+    },
+    {
+      "country": "FR",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 88,
+      "curr_rank": 32,
+      "delta": 56
     },
     {
       "country": "US",
       "name": "Collage Maker - LiveCollage AI",
       "developer": "VIDEO EDITOR PTE. LTD.",
       "prev_rank": 98,
-      "curr_rank": 78,
-      "delta": 20
+      "curr_rank": 68,
+      "delta": 30
     },
     {
-      "country": "GB",
-      "name": "Adobe Premiere AI Video Editor",
+      "country": "US",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 47,
+      "curr_rank": 22,
+      "delta": 25
+    },
+    {
+      "country": "DE",
+      "name": "Passfoto - PhotoAiD",
+      "developer": "Photo Aid",
+      "prev_rank": 94,
+      "curr_rank": 69,
+      "delta": 25
+    },
+    {
+      "country": "JP",
+      "name": "Adobe Premiere - AI動画編集",
       "developer": "Adobe Inc.",
-      "prev_rank": 99,
-      "curr_rank": 79,
-      "delta": 20
-    },
-    {
-      "country": "IN",
-      "name": "AI Video Generator - HeyGen",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 99,
-      "curr_rank": 80,
-      "delta": 19
-    },
-    {
-      "country": "BR",
-      "name": "Retake AI: Editor de Fotos",
-      "developer": "DEEP FLOW SOFTWARE SERVICES",
-      "prev_rank": 74,
-      "curr_rank": 57,
-      "delta": 17
-    },
-    {
-      "country": "ID",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 51,
-      "curr_rank": 34,
-      "delta": 17
-    },
-    {
-      "country": "ID",
-      "name": "Collage Maker - Photo Editor",
-      "developer": "Shamble, Inc.",
-      "prev_rank": 97,
-      "curr_rank": 81,
-      "delta": 16
+      "prev_rank": 66,
+      "curr_rank": 41,
+      "delta": 25
     },
     {
       "country": "US",
       "name": "PicCollage: Magic Photo Editor",
       "developer": "Cardinal Blue",
-      "prev_rank": 63,
-      "curr_rank": 48,
-      "delta": 15
+      "prev_rank": 66,
+      "curr_rank": 42,
+      "delta": 24
+    },
+    {
+      "country": "DE",
+      "name": "Meitu: Photo & Video Editor",
+      "developer": "Meitu Technology Co., Ltd.",
+      "prev_rank": 69,
+      "curr_rank": 45,
+      "delta": 24
     },
     {
       "country": "GB",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
-      "prev_rank": 37,
-      "curr_rank": 22,
-      "delta": 15
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 60,
+      "curr_rank": 38,
+      "delta": 22
     },
     {
-      "country": "DE",
-      "name": "Cantina: AI Video & Characters",
-      "developer": "Cantina, Inc",
-      "prev_rank": 62,
-      "curr_rank": 47,
-      "delta": 15
+      "country": "BR",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 66,
+      "curr_rank": 44,
+      "delta": 22
     },
     {
-      "country": "DE",
-      "name": "AgeEra - Face & Photo AI",
-      "developer": "Yuenhe Innovations Co., Ltd.",
+      "country": "BR",
+      "name": "Pollo AI: Vídeo e Imagem IA",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
       "prev_rank": 81,
-      "curr_rank": 66,
-      "delta": 15
-    },
-    {
-      "country": "IN",
-      "name": "TrimCut - Video Editor",
-      "developer": "CLIPCUT TECHNOLOGY LIMITED",
-      "prev_rank": 79,
-      "curr_rank": 64,
-      "delta": 15
-    },
-    {
-      "country": "IN",
-      "name": "Adobe Photoshop: Photo Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 95,
-      "curr_rank": 81,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "Adobe Premiere AI Video Editor",
-      "developer": "Adobe Inc.",
-      "prev_rank": 51,
-      "curr_rank": 37,
-      "delta": 14
-    },
-    {
-      "country": "AU",
-      "name": "Splice - Video Editor & Maker",
-      "developer": "BENDING SPOONS OPERATIONS SPA",
-      "prev_rank": 71,
-      "curr_rank": 57,
-      "delta": 14
-    },
-    {
-      "country": "US",
-      "name": "Esti: Aesthetic Photo Editor",
-      "developer": "Prequel Inc.",
-      "prev_rank": 97,
-      "curr_rank": 84,
-      "delta": 13
-    },
-    {
-      "country": "JP",
-      "name": "Filmora：AI動画作成・動画編集",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 86,
-      "curr_rank": 73,
-      "delta": 13
+      "curr_rank": 63,
+      "delta": 18
     },
     {
       "country": "KR",
       "name": "Shots: Photo & Video Generator",
       "developer": "DeePix AI",
       "prev_rank": 73,
-      "curr_rank": 60,
-      "delta": 13
-    },
-    {
-      "country": "IN",
-      "name": "Dance AI - Video Generator",
-      "developer": "DeePix AI",
-      "prev_rank": 69,
-      "curr_rank": 56,
-      "delta": 13
-    },
-    {
-      "country": "BR",
-      "name": "Criador de Video IA - Vimo AI",
-      "developer": "Mobile Ocean",
-      "prev_rank": 73,
-      "curr_rank": 61,
-      "delta": 12
-    },
-    {
-      "country": "KR",
-      "name": "Filmora: AI 영상 제작 & 동영상 편집",
-      "developer": "Shenzhen Wondershare Software Co., Ltd",
-      "prev_rank": 99,
-      "curr_rank": 87,
-      "delta": 12
-    },
-    {
-      "country": "FR",
-      "name": "Collage Maker - LiveCollage AI",
-      "developer": "VIDEO EDITOR PTE. LTD.",
-      "prev_rank": 96,
-      "curr_rank": 85,
-      "delta": 11
+      "curr_rank": 55,
+      "delta": 18
     },
     {
       "country": "AU",
-      "name": "VN: Photo & Video Editor",
-      "developer": "Ubiquiti Labs, LLC",
-      "prev_rank": 30,
-      "curr_rank": 19,
-      "delta": 11
+      "name": "Adobe Premiere AI Video Editor",
+      "developer": "Adobe Inc.",
+      "prev_rank": 53,
+      "curr_rank": 36,
+      "delta": 17
     },
     {
       "country": "US",
       "name": "Runway: AI Image & Video",
       "developer": "runwayml",
-      "prev_rank": 39,
-      "curr_rank": 29,
-      "delta": 10
+      "prev_rank": 44,
+      "curr_rank": 28,
+      "delta": 16
     },
     {
       "country": "US",
-      "name": "Photoroom: AI Photo & Video",
-      "developer": "Photoroom",
+      "name": "Thermal & Night Vision Camera",
+      "developer": "CAGE HOOPS LLC",
+      "prev_rank": 99,
+      "curr_rank": 83,
+      "delta": 16
+    },
+    {
+      "country": "IN",
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 96,
+      "curr_rank": 80,
+      "delta": 16
+    },
+    {
+      "country": "US",
+      "name": "Aura Frames",
+      "developer": "Aura Home, Inc.",
+      "prev_rank": 30,
+      "curr_rank": 15,
+      "delta": 15
+    },
+    {
+      "country": "BR",
+      "name": "BIGVU Teleprompter Captions AI",
+      "developer": "BIGVU INC",
+      "prev_rank": 74,
+      "curr_rank": 60,
+      "delta": 14
+    },
+    {
+      "country": "BR",
+      "name": "Criador de Video IA - Vimo AI",
+      "developer": "Mobile Ocean",
       "prev_rank": 79,
-      "curr_rank": 69,
+      "curr_rank": 66,
+      "delta": 13
+    },
+    {
+      "country": "FR",
+      "name": "HeyGen: AI Video Generator",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 69,
+      "curr_rank": 57,
+      "delta": 12
+    },
+    {
+      "country": "ID",
+      "name": "Collage Maker - Photo Editor",
+      "developer": "Shamble, Inc.",
+      "prev_rank": 87,
+      "curr_rank": 75,
+      "delta": 12
+    },
+    {
+      "country": "AU",
+      "name": "Empose: Aesthetic Poses",
+      "developer": "Hakan Bayindir",
+      "prev_rank": 22,
+      "curr_rank": 10,
+      "delta": 12
+    },
+    {
+      "country": "GB",
+      "name": "AI Video Generator - HeyGen",
+      "developer": "HeyGen Technology Inc",
+      "prev_rank": 84,
+      "curr_rank": 73,
+      "delta": 11
+    },
+    {
+      "country": "ID",
+      "name": "PixelLab: Text Photo Editor",
+      "developer": "App Holdings",
+      "prev_rank": 49,
+      "curr_rank": 38,
+      "delta": 11
+    },
+    {
+      "country": "US",
+      "name": "AirPlay Cast",
+      "developer": "Taro Aso",
+      "prev_rank": 100,
+      "curr_rank": 90,
       "delta": 10
     },
     {
       "country": "DE",
-      "name": "HeyGen: AI Video Generator",
-      "developer": "HeyGen Technology Inc",
-      "prev_rank": 67,
-      "curr_rank": 57,
+      "name": "Pollo AI: KI-Video & KI-Bilder",
+      "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+      "prev_rank": 97,
+      "curr_rank": 87,
+      "delta": 10
+    },
+    {
+      "country": "JP",
+      "name": "Filmora：AI動画作成・動画編集",
+      "developer": "Shenzhen Wondershare Software Co., Ltd",
+      "prev_rank": 85,
+      "curr_rank": 75,
       "delta": 10
     }
   ],
   "by_country": {
+    "ID": [
+      {
+        "country": "ID",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 86,
+        "curr_rank": 16,
+        "delta": 70
+      },
+      {
+        "country": "ID",
+        "name": "Collage Maker - Photo Editor",
+        "developer": "Shamble, Inc.",
+        "prev_rank": 87,
+        "curr_rank": 75,
+        "delta": 12
+      },
+      {
+        "country": "ID",
+        "name": "PixelLab: Text Photo Editor",
+        "developer": "App Holdings",
+        "prev_rank": 49,
+        "curr_rank": 38,
+        "delta": 11
+      }
+    ],
+    "FR": [
+      {
+        "country": "FR",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 88,
+        "curr_rank": 32,
+        "delta": 56
+      },
+      {
+        "country": "FR",
+        "name": "HeyGen: AI Video Generator",
+        "developer": "HeyGen Technology Inc",
+        "prev_rank": 69,
+        "curr_rank": 57,
+        "delta": 12
+      }
+    ],
+    "US": [
+      {
+        "country": "US",
+        "name": "Collage Maker - LiveCollage AI",
+        "developer": "VIDEO EDITOR PTE. LTD.",
+        "prev_rank": 98,
+        "curr_rank": 68,
+        "delta": 30
+      },
+      {
+        "country": "US",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 47,
+        "curr_rank": 22,
+        "delta": 25
+      },
+      {
+        "country": "US",
+        "name": "PicCollage: Magic Photo Editor",
+        "developer": "Cardinal Blue",
+        "prev_rank": 66,
+        "curr_rank": 42,
+        "delta": 24
+      },
+      {
+        "country": "US",
+        "name": "Runway: AI Image & Video",
+        "developer": "runwayml",
+        "prev_rank": 44,
+        "curr_rank": 28,
+        "delta": 16
+      },
+      {
+        "country": "US",
+        "name": "Thermal & Night Vision Camera",
+        "developer": "CAGE HOOPS LLC",
+        "prev_rank": 99,
+        "curr_rank": 83,
+        "delta": 16
+      },
+      {
+        "country": "US",
+        "name": "Aura Frames",
+        "developer": "Aura Home, Inc.",
+        "prev_rank": 30,
+        "curr_rank": 15,
+        "delta": 15
+      },
+      {
+        "country": "US",
+        "name": "AirPlay Cast",
+        "developer": "Taro Aso",
+        "prev_rank": 100,
+        "curr_rank": 90,
+        "delta": 10
+      }
+    ],
     "DE": [
+      {
+        "country": "DE",
+        "name": "Passfoto - PhotoAiD",
+        "developer": "Photo Aid",
+        "prev_rank": 94,
+        "curr_rank": 69,
+        "delta": 25
+      },
       {
         "country": "DE",
         "name": "Meitu: Photo & Video Editor",
         "developer": "Meitu Technology Co., Ltd.",
-        "prev_rank": 88,
-        "curr_rank": 48,
-        "delta": 40
+        "prev_rank": 69,
+        "curr_rank": 45,
+        "delta": 24
       },
       {
         "country": "DE",
-        "name": "Cantina: AI Video & Characters",
-        "developer": "Cantina, Inc",
-        "prev_rank": 62,
-        "curr_rank": 47,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 81,
-        "curr_rank": 66,
-        "delta": 15
-      },
-      {
-        "country": "DE",
-        "name": "HeyGen: AI Video Generator",
-        "developer": "HeyGen Technology Inc",
-        "prev_rank": 67,
-        "curr_rank": 57,
+        "name": "Pollo AI: KI-Video & KI-Bilder",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 97,
+        "curr_rank": 87,
         "delta": 10
       }
     ],
@@ -281,197 +351,69 @@
         "country": "JP",
         "name": "Adobe Premiere - AI動画編集",
         "developer": "Adobe Inc.",
-        "prev_rank": 76,
+        "prev_rank": 66,
         "curr_rank": 41,
-        "delta": 35
+        "delta": 25
       },
       {
         "country": "JP",
         "name": "Filmora：AI動画作成・動画編集",
         "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 86,
-        "curr_rank": 73,
-        "delta": 13
-      }
-    ],
-    "BR": [
-      {
-        "country": "BR",
-        "name": "Pollo AI: Vídeo e Imagem IA",
-        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
-        "prev_rank": 83,
-        "curr_rank": 59,
-        "delta": 24
-      },
-      {
-        "country": "BR",
-        "name": "Empose: Aesthetic Poses",
-        "developer": "Hakan Bayindir",
-        "prev_rank": 71,
-        "curr_rank": 48,
-        "delta": 23
-      },
-      {
-        "country": "BR",
-        "name": "Retake AI: Editor de Fotos",
-        "developer": "DEEP FLOW SOFTWARE SERVICES",
-        "prev_rank": 74,
-        "curr_rank": 57,
-        "delta": 17
-      },
-      {
-        "country": "BR",
-        "name": "Criador de Video IA - Vimo AI",
-        "developer": "Mobile Ocean",
-        "prev_rank": 73,
-        "curr_rank": 61,
-        "delta": 12
-      }
-    ],
-    "US": [
-      {
-        "country": "US",
-        "name": "Aura Frames",
-        "developer": "Aura Home, Inc.",
-        "prev_rank": 41,
-        "curr_rank": 18,
-        "delta": 23
-      },
-      {
-        "country": "US",
-        "name": "Collage Maker - LiveCollage AI",
-        "developer": "VIDEO EDITOR PTE. LTD.",
-        "prev_rank": 98,
-        "curr_rank": 78,
-        "delta": 20
-      },
-      {
-        "country": "US",
-        "name": "PicCollage: Magic Photo Editor",
-        "developer": "Cardinal Blue",
-        "prev_rank": 63,
-        "curr_rank": 48,
-        "delta": 15
-      },
-      {
-        "country": "US",
-        "name": "Esti: Aesthetic Photo Editor",
-        "developer": "Prequel Inc.",
-        "prev_rank": 97,
-        "curr_rank": 84,
-        "delta": 13
-      },
-      {
-        "country": "US",
-        "name": "Runway: AI Image & Video",
-        "developer": "runwayml",
-        "prev_rank": 39,
-        "curr_rank": 29,
-        "delta": 10
-      },
-      {
-        "country": "US",
-        "name": "Photoroom: AI Photo & Video",
-        "developer": "Photoroom",
-        "prev_rank": 79,
-        "curr_rank": 69,
+        "prev_rank": 85,
+        "curr_rank": 75,
         "delta": 10
       }
     ],
     "GB": [
       {
         "country": "GB",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 99,
-        "curr_rank": 79,
-        "delta": 20
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 60,
+        "curr_rank": 38,
+        "delta": 22
       },
       {
         "country": "GB",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 37,
-        "curr_rank": 22,
-        "delta": 15
-      }
-    ],
-    "IN": [
-      {
-        "country": "IN",
         "name": "AI Video Generator - HeyGen",
         "developer": "HeyGen Technology Inc",
-        "prev_rank": 99,
-        "curr_rank": 80,
-        "delta": 19
-      },
-      {
-        "country": "IN",
-        "name": "TrimCut - Video Editor",
-        "developer": "CLIPCUT TECHNOLOGY LIMITED",
-        "prev_rank": 79,
-        "curr_rank": 64,
-        "delta": 15
-      },
-      {
-        "country": "IN",
-        "name": "Adobe Photoshop: Photo Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 95,
-        "curr_rank": 81,
-        "delta": 14
-      },
-      {
-        "country": "IN",
-        "name": "Dance AI - Video Generator",
-        "developer": "DeePix AI",
-        "prev_rank": 69,
-        "curr_rank": 56,
-        "delta": 13
-      }
-    ],
-    "ID": [
-      {
-        "country": "ID",
-        "name": "AgeEra - Face & Photo AI",
-        "developer": "Yuenhe Innovations Co., Ltd.",
-        "prev_rank": 51,
-        "curr_rank": 34,
-        "delta": 17
-      },
-      {
-        "country": "ID",
-        "name": "Collage Maker - Photo Editor",
-        "developer": "Shamble, Inc.",
-        "prev_rank": 97,
-        "curr_rank": 81,
-        "delta": 16
-      }
-    ],
-    "AU": [
-      {
-        "country": "AU",
-        "name": "Adobe Premiere AI Video Editor",
-        "developer": "Adobe Inc.",
-        "prev_rank": 51,
-        "curr_rank": 37,
-        "delta": 14
-      },
-      {
-        "country": "AU",
-        "name": "Splice - Video Editor & Maker",
-        "developer": "BENDING SPOONS OPERATIONS SPA",
-        "prev_rank": 71,
-        "curr_rank": 57,
-        "delta": 14
-      },
-      {
-        "country": "AU",
-        "name": "VN: Photo & Video Editor",
-        "developer": "Ubiquiti Labs, LLC",
-        "prev_rank": 30,
-        "curr_rank": 19,
+        "prev_rank": 84,
+        "curr_rank": 73,
         "delta": 11
+      }
+    ],
+    "BR": [
+      {
+        "country": "BR",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 66,
+        "curr_rank": 44,
+        "delta": 22
+      },
+      {
+        "country": "BR",
+        "name": "Pollo AI: Vídeo e Imagem IA",
+        "developer": "COCOSOFT TECHNOLOGY PTE. LTD.",
+        "prev_rank": 81,
+        "curr_rank": 63,
+        "delta": 18
+      },
+      {
+        "country": "BR",
+        "name": "BIGVU Teleprompter Captions AI",
+        "developer": "BIGVU INC",
+        "prev_rank": 74,
+        "curr_rank": 60,
+        "delta": 14
+      },
+      {
+        "country": "BR",
+        "name": "Criador de Video IA - Vimo AI",
+        "developer": "Mobile Ocean",
+        "prev_rank": 79,
+        "curr_rank": 66,
+        "delta": 13
       }
     ],
     "KR": [
@@ -480,26 +422,36 @@
         "name": "Shots: Photo & Video Generator",
         "developer": "DeePix AI",
         "prev_rank": 73,
-        "curr_rank": 60,
-        "delta": 13
+        "curr_rank": 55,
+        "delta": 18
+      }
+    ],
+    "AU": [
+      {
+        "country": "AU",
+        "name": "Adobe Premiere AI Video Editor",
+        "developer": "Adobe Inc.",
+        "prev_rank": 53,
+        "curr_rank": 36,
+        "delta": 17
       },
       {
-        "country": "KR",
-        "name": "Filmora: AI 영상 제작 & 동영상 편집",
-        "developer": "Shenzhen Wondershare Software Co., Ltd",
-        "prev_rank": 99,
-        "curr_rank": 87,
+        "country": "AU",
+        "name": "Empose: Aesthetic Poses",
+        "developer": "Hakan Bayindir",
+        "prev_rank": 22,
+        "curr_rank": 10,
         "delta": 12
       }
     ],
-    "FR": [
+    "IN": [
       {
-        "country": "FR",
-        "name": "Collage Maker - LiveCollage AI",
-        "developer": "VIDEO EDITOR PTE. LTD.",
+        "country": "IN",
+        "name": "AI Video Generator - HeyGen",
+        "developer": "HeyGen Technology Inc",
         "prev_rank": 96,
-        "curr_rank": 85,
-        "delta": 11
+        "curr_rank": 80,
+        "delta": 16
       }
     ]
   },
@@ -507,22 +459,22 @@
     {
       "type": "trending",
       "icon": "🔥",
-      "text": "Meitu: Photo & Video Editor leads with +40 jump in DE"
+      "text": "Empose: Aesthetic Poses leads with +70 jump in ID"
     },
     {
       "type": "market",
       "icon": "🌍",
-      "text": "US has 6 rising apps - highest activity today"
+      "text": "US has 7 rising apps - highest activity today"
     },
     {
       "type": "trending",
       "icon": "🚀",
-      "text": "AgeEra - Face & Photo AI rising in 3 markets: ID, GB, DE"
+      "text": "Empose: Aesthetic Poses rising in 6 markets: ID, FR, US, GB, BR, AU"
     }
   ],
   "meta": {
-    "prev_date": "2026-11-21",
-    "curr_date": "2026-11-26",
+    "prev_date": "2026-11-22",
+    "curr_date": "2026-11-27",
     "days": 5
   }
 }
